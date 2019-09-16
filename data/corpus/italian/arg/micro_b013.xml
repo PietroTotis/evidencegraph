@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_b013" topic_id="health_insurance_cover_complementary_medicine" stance="pro">
+  <edu id="e1"><![CDATA[Le compagnie di assicurazione sanitaria dovrebbero naturalmente sostenere i trattamenti di medicina alternativa.]]></edu>
+  <edu id="e2"><![CDATA[Non tutte le pratiche e gli approcci raggruppati sotto questo nome possono essere stati supportati da studi clinici,]]></edu>
+  <edu id="e3"><![CDATA[ma i loro effetti positivi nell'accompagnamento delle terapie mediche "occidentali" convenzionali possono essere dimostrati.]]></edu>
+  <edu id="e4"><![CDATA[Inoltre, molti medici generici offrono comunque parallelamente tali consulenze e servizi -]]></edu>
+  <edu id="e5"><![CDATA[e chi metterebbe mai in discussione le loro ampie competenze?]]></edu>
+  <adu id="a1" type="pro"/>
+  <adu id="a2" type="opp"/>
+  <adu id="a3" type="pro"/>
+  <adu id="a4" type="pro"/>
+  <adu id="a5" type="pro"/>
+  <edge id="c6" src="e1" trg="a1" type="seg"/>
+  <edge id="c7" src="e2" trg="a2" type="seg"/>
+  <edge id="c8" src="e3" trg="a3" type="seg"/>
+  <edge id="c9" src="e4" trg="a4" type="seg"/>
+  <edge id="c10" src="e5" trg="a5" type="seg"/>
+  <edge id="c2" src="a2" trg="a1" type="reb"/>
+  <edge id="c3" src="a3" trg="c2" type="und"/>
+  <edge id="c4" src="a4" trg="a1" type="sup"/>
+  <edge id="c5" src="a5" trg="c4" type="add"/>
+</arggraph>

@@ -1,0 +1,92 @@
+
+(TOP
+  (S-TOP
+    (PTKANT-DM Nein)
+    (\$, ,)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Neut das)
+      (NN-HD-Nom.Sg.Neut Rentenalter))
+    (VMFIN-HD-Sg sollte)
+    (AVP-MO\/V
+      (ADV-HD\/V wieder)
+      (PP-MO\/0
+        (APPR-AC\/Acc\/auf auf)
+        (CARD-HD 65)
+        (NN-HD-Acc.Pl.Neut Jahre)))
+    (VP-OC\/inf
+      (NP-PD
+        (NN-HD-Nom.Sg.Fem erhöht))
+      (VAINF-HD werden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl.Masc Die)
+      (NN-HD-Nom.Pl.Masc Menschen))
+    (VAFIN-HD-Pl werden)
+    (PP-MO\/V
+      (APPRART-AC-Dat.Sg.Masc\/in im)
+      (NN-HD-Dat.Sg.Masc Durchschnitt))
+    (NP-PD
+      (NN-HD-Nom.Sg.Masc älter)
+      (\$, ,)
+      (CS-OC
+        (S-OC
+          (NP-SB\/Pl
+            (PPER-HD-Nom.Pl sie))
+          (VAFIN-HD-Pl sind)
+          (PROAV-MO damit)
+          (ADV-MO\/V aber)
+          (PP-MO\/V
+            (APPRART-AC-Dat.Sg.Masc\/in im)
+            (NN-HD-Dat.Sg.Masc Durchschnitt))
+          (PTKNEG-NG nicht)
+          (NP-PD
+            (NN-HD-Nom.Sg.Fem kränker)))
+        (KON-CD und)
+        (S-OC\/nohead\/nosubj
+          (PTKNEG-NG nicht)
+          (VP-OC\/nohead
+            (PN-DA-Dat.Sg
+              (NE-HD-Dat.Sg dümmer)))))))
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (PP-MO\/V
+      (APPR-AC\/Acc Ohne)
+      (ADJA-HD-Pos.Acc.Sg.Fem sie)
+      (NN-HD-Acc.Sg.Fem würden))
+    (NP-SB\/Pl
+      (PPER-HD-Nom.Pl wir))
+    (VP-OC\/inf
+      (PP-MO\/V
+        (APPR-AC\/Dat\/auf auf)
+        (NP-AG
+          (ART-HD ein)
+          (NN-HD großes))
+        (NN-HD-Dat.Sg.Fem Maß))
+      (PP-MO\/V
+        (APPR-AC\/Dat an)
+        (ADJA-HD-Pos.Dat.Pl.Fem gesammelten)
+        (NN-HD-Dat.Pl.Fem Erfahrungen))
+      (VVINF-HD verzichten)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-MO
+      (NE-HD Außerdem)
+      (NN-HD-Acc.Sg.Fem müssten))
+    (VVFIN-HD-Sg mehr)
+    (NP-SB\/Sg
+      (NN-HD-Nom.Sg.Neut Beschäftigungsangebote)
+      (XY-HD für))
+    (NP-OA
+      (ART-HD-Acc.Pl.Masc die)
+      (NN-HD-Acc.Pl.Masc Senioren))
+    (VP-OC\/inf
+      (VVPP-OC bereitgestellt)
+      (VAINF-HD werden)))
+  (\$. .))

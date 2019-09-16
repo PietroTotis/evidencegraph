@@ -1,0 +1,116 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Die)
+      (NN-HD-Nom.Sg.Fem Todesstrafe))
+    (VMFIN-HD-Sg sollte)
+    (ADJD-MO-Pos\/V weltweit)
+    (VP-OC\/inf
+      (VVPP-OC abgeschafft)
+      (VAINF-HD werden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PP-MO\/V
+      (APPR-AC\/Dat Aus)
+      (CAP-HD-Pos.Dat.Sg.Fem
+        (ADJA-HD-Pos.Dat.Sg.Fem christlicher)
+        (KON-CD und)
+        (ADJA-HD-Pos.Dat.Sg.Fem humanistischer))
+      (NN-HD-Dat.Sg.Fem Sicht))
+    (VAFIN-HD-Sg ist)
+    (NP-EP
+      (PPER-HD-Nom.Sg.Neut\/ep es))
+    (PTKNEG-NG nicht)
+    (VVPP-PD erlaubt)
+    (\$, ,)
+    (VP-OC\/zu
+      (NP-OA
+        (PIS-HD-Acc.Sg.Masc jemanden))
+      (VZ-HD
+        (PTKZU-PM zu)
+        (ADJA-HD-Pos.Dat.Sg.Fem töten))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl Befürworter)
+      (NP-AG
+        (ART-HD-Gen.Sg.Fem der)
+        (NN-HD-Gen.Sg.Fem Todesstrafe)))
+    (VVFIN-HD-Pl setzen)
+    (PP-OP\/V
+      (APPR-AC\/Acc\/auf auf)
+      (ART-HD-Acc.Sg.Fem die)
+      (ADJA-HD-Pos.Acc.Sg.Fem abschreckende)
+      (CNP-HD\/Acc
+        (NN-HD-Acc.Sg.Fem Wirkung)
+        (KON-CD sowie)
+        (NP-HD
+          (ART-HD-Nom.Sg.Fem die)
+          (NE-HD-Nom.Sg endgültige)
+          (NN-HD-Nom.Sg.Fem Eliminierung)))
+      (NP-AG
+        (ART-HD-Gen.Sg.Fem einer)
+        (ADJA-HD-Pos.Gen.Sg.Fem potentiellen)
+        (NN-HD-Gen.Sg.Fem Gefahr))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADJD-MO-Pos\/V Offensichtlich)
+    (VMFIN-HD-Sg kann)
+    (NP-SB\/Sg
+      (ADV-MO\/N aber)
+      (ADV-MO\/N auch)
+      (ART-HD-Nom.Sg.Fem die)
+      (ADJA-HD-Pos.Nom.Sg.Fem drohende)
+      (NN-HD-Nom.Sg.Fem Todesstrafe)
+      (PP-MNR\/N
+        (APPR-AC\/Dat\/in in)
+        (ADJA-HD-Pos.Dat.Sg.Fem entsprechenden)
+        (NN-HD-Dat.Sg.Fem Ländern)))
+    (PTKNEG-NG nicht)
+    (VP-OC\/inf
+      (VVINF-HD verhindern)
+      (\$, ,)
+      (S-OC
+        (KOUS-CP\/oc dass)
+        (NP-SB\/Sg
+          (PPER-HD-Nom.Sg.Neut es))
+        (CNP-OA
+          (NP-OA\/chain
+            (NN-HD-Acc.Sg.Masc Mord))
+          (KON-CD und)
+          (NP-OA\/chain
+            (NN-HD-Acc.Pl.Neut Gewaltverbrechen)))
+        (VVFIN-HD-Sg gibt))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PROAV-MO Zudem)
+    (VVFIN-HD-Sg stellt)
+    (PRF-OA-Acc.Sg sich)
+    (AVP-MO\/V
+      (ADV-MO\/V immer)
+      (ADV-HD\/V wieder))
+    (PTKVZ-SVP heraus)
+    (\$, ,)
+    (S-OC
+      (KOUS-CP\/oc dass)
+      (NP-SB\/Pl
+        (ADV-MO\/N auch)
+        (NN-HD-Nom.Pl.Masc Menschen))
+      (CVP-OC\/pp
+        (VP-OC\/pp
+          (ADJD-MO-Pos\/V unschuldig)
+          (VVPP-HD verurteilt))
+        (KON-CD oder)
+        (VP-OC\/pp
+          (VVPP-HD hingerichtet)))
+      (VAFIN-HD-Pl wurden)))
+  (\$. .))

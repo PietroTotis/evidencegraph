@@ -1,0 +1,9 @@
+Deutsch: Zunächst wurden keine Fehler entdeckt. Nach der Verschlimmbesserung änderte sich dies:
+"Universitaet" statt "Universität" wird nicht akzeptiert (rot), "ue" statt "ü" auch nicht.
+Fehler bei Satzzeichen werden teilweise erkannt: *"Ich würde diese Mensa auf jeden Fall empfehlen?" wird akzeptiert, unnötige Kommata ebenfalls. Fehlende Kommata werden allerdings bemerkt (gelb).
+Falscher Satzbau wird akzeptiert: (*"Die Preise sind sehr vernünftig, auch und man muss bei starkem Andrang nicht zu lange warten.", *"..ist immer wert einen Besuch.")
+
+Englisch: auch hier zunächst keine Fehler entdeckt, egal ob AE oder BE. Erkenntnisse: 
+Die falsche Verwendung von Pluralformen wird teilweise bemerkt: *”I especially like the facts that every menus contains a tasty desserts.” Das Tool erkennt hier "menus" als falsch (gelb) und schlägt vor, den Singular zu verwenden, ebenso bei *"desserts". *"Facts" wird nicht erkannt.
+Rechtschreibfehler (rot) werden erwartungsgemäß als solche erkannt.
+Ob ich "Vegetarians/Vegans" oder "vegetarian/vegans" schreibe, ist dem Tool egal. Sensibel ist es für Kleinschreibung am Satzanfang (gelb) und "potsdam" (rot) statt "Potsdam". Andere Fehler bzgl. Groß-/Kleinschreibung im Satz werden nicht erkannt (*Hours[N], *Recommend[V]).   

@@ -1,0 +1,130 @@
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Also)
+    (\$, ,)
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg ich))
+    (VP-OC\/zu
+      (PP-MO\/V
+        (APPR-AC\/Nom als)
+        (NN-HD-Nom.Sg.Masc Arbeitnehmer)
+        (NE-HD-Nom.Sg fände))
+      (VP-OC\/inf
+        (NP-OA
+          (PPER-HD-Acc.Sg.Neut es))
+        (AP-MO\/pred
+          (ADV-MO\/0 sehr)
+          (ADJD-HD-Pos\/0 praktisch))
+        (\$, ,)
+        (PP-MO\/V
+          (ADV-MO\/N zumindest)
+          (APPR-AC\/Dat an)
+          (NN-HD-Dat.Pl.Neut Wochenenden))
+        (VVINF-HD einkaufen))
+      (VZ-HD
+        (PTKZU-PM zu)
+        (ADJA-HD-Pos.Dat.Sg.Fem können))))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP\/nohead
+      (ADJD-MO-Pos\/V Klar)
+      (NP-SB\/Pl
+        (NN-HD-Nom.Pl müssen))
+      (VP-OC\/inf
+        (ADV-MO\/V dann)
+        (NP-OA
+          (ADV-MO\/N auch)
+          (NN-HD-Acc.Pl Leute)
+          (PP-MNR\/N
+            (PP-MO\/N
+              (APPRART-AC-Dat.Sg.Neut am)
+              (NN-HD-Dat.Sg.Neut Wochenende))
+            (APPR-AC\/Dat\/in in)
+            (ART-HD-Dat.Pl den)
+            (NN-HD-Dat.Pl Läden)))
+        (VVINF-HD arbeiten)))
+    (\$, ,)
+    (KON-CD aber)
+    (CS-TOP
+      (S-TOP
+        (NP-SB\/Pl
+          (PDS-HD-Nom.Pl die))
+        (VAFIN-HD-Pl haben)
+        (ADV-MO\/V dann)
+        (ADV-MO\/V eben)
+        (PP-MO\/V
+          (APPR-AC\/Gen innerhalb)
+          (ART-HD-Gen.Sg.Fem der)
+          (NN-HD-Gen.Sg.Fem Woche))
+        (ADJD-PD-Pos\/V frei))
+      (KON-CD und)
+      (S-TOP\/nohead
+        (NP-SB\/Pl
+          (NN-HD-Nom.Pl können)
+          (PP-MNR\/N
+            (APPR-AC\/Dat\/in in)
+            (NN-HD-Dat.Sg.Fem Ruhe)))
+        (VP-OC\/inf
+          (NP-OA
+            (NN-HD-Acc.Pl.Masc Termine))
+          (VVINF-HD wahrnehmen)
+          (\$, ,)
+          (S-CC
+            (NP-OA
+              (NN-HD-Acc.Sg.Fem während))
+            (NP-SB\/Sg
+              (PPER-HD-Nom.Sg ich))
+            (PP-MO\/V
+              (APPRART-AC-Dat.Sg.Neut\/in im)
+              (NN-HD-Dat.Sg.Neut Büro))
+            (VVFIN-HD-Sg sitze))))))
+  (\$. .))
+
+(TOP
+  (S-TOP\/quest
+    (ADV-MO\/V Ausserdem)
+    (VMFIN-HD-Sg will)
+    (ADV-MO\/V doch)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc der)
+      (NN-HD-Nom.Sg.Masc Staat)
+      (\$, ,)
+      (CS-OC
+        (S-OC
+          (KOUS-CP\/oc dass)
+          (NP-SB\/Sg
+            (PPER-HD-Nom.Sg ich))
+          (NP-OA
+            (PPOSAT-HD-Acc.Sg.Neut mein)
+            (NN-HD-Acc.Sg.Neut Geld))
+          (VVFIN-HD-Sg ausgebe))
+        (\$, ,)
+        (KON-CD und)
+        (S-OC
+          (PWAV-MO wie)
+          (VMFIN-HD-Sg soll)
+          (NP-SB\/Sg
+            (PPER-HD-Nom.Sg ich))
+          (VP-OC\/inf
+            (ADV-MO\/V dass)
+            (VVINF-HD machen))
+          (\$, ,)
+          (S-MO
+            (KOUS-CP\/mo wenn)
+            (NP-SB\/Pl
+              (ART-HD-Nom.Pl die)
+              (NN-HD-Nom.Pl Geschäfte))
+            (PTKNEG-NG nicht)
+            (ADJD-PD-Pos\/V offen)
+            (VAFIN-HD-Pl sind)))))
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo wenn)
+      (NP-SB\/Sg
+        (PPER-HD-Nom.Sg ich))
+      (ADJD-PD-Pos\/V frei)
+      (VAFIN-HD-Sg habe)))
+  (\$.\/quest ?))

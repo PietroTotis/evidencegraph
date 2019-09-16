@@ -1,0 +1,95 @@
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Morgen)
+    (VAFIN-HD-Sg werde)
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg ich))
+    (PP-MO\/V
+      (APPRART-AC-Dat.Sg.Neut zum)
+      (ADJA-HD-Pos.Dat.Sg.Neut ersten)
+      (NN-HD-Dat.Sg.Neut Mal)
+      (PP-MNR\/N
+        (APPRART-AC-Dat.Sg.Neut\/in im)
+        (ADJA-HD-Pos.Dat.Sg.Neut meinem)
+        (NN-HD-Dat.Sg.Neut Leben)
+        (NE-HD-Nom.Sg.Neut Fallschirmspringen))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PTKANT-DM Ja)
+    (\$, ,)
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg.Neut es))
+    (VVFIN-HD-Sg besteht)
+    (NP-OA
+      (ART-HD-Acc.Sg.Fem eine)
+      (ADJA-HD-Pos.Acc.Sg.Fem gewisse)
+      (NN-HD-Acc.Sg.Fem Lebensgefahr))
+    (PTKVZ-SVP dabei))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KON-JU Aber)
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg ich))
+    (VMFIN-HD-Sg will)
+    (VP-OC\/inf
+      (NP-OA
+        (PDAT-HD-Acc.Sg.Masc diesen)
+        (ADJA-HD-Pos.Acc.Sg.Masc unglaublichen)
+        (NN-HD-Acc.Sg.Masc Moment)
+        (NP-AG
+          (ART-HD-Gen.Sg.Fem der)
+          (NN-HD-Gen.Sg.Fem Freiheit)
+          (NE-HD spüren)))
+      (\$, ,)
+      (PP-MO\/V
+        (APPR-AC\/Dat\/von von)
+        (ART-HD-Dat.Sg.Masc dem)
+        (NN-HD-Dat.Sg.Masc Springer))
+      (AVP-MO\/V
+        (ADV-MO\/V immer)
+        (ADV-HD\/V wieder))
+      (VVINF-HD berichten)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (PN-SB-Nom.Sg
+        (NE-HD-Nom.Sg Außerdem))
+      (VAFIN-HD-Sg hat)
+      (VP-OC\/inf
+        (VP-OC\/pp
+          (NP-DA
+            (NN-HD-Dat.Pl.Masc Jochen))
+          (ADV-MO\/V letztens)
+          (NP-OA
+            (ART-HD-Acc.Sg.Masc einen)
+            (NN-HD-Acc.Sg.Masc Fallschirmsprung))
+          (VVPP-HD geschenkt))
+        (VVINF-HD bekommen)))
+    (\$, ,)
+    (KON-CD und)
+    (S-TOP
+      (NP-SB\/Sg
+        (PPER-HD-Nom.Sg.Neut es))
+      (VMFIN-HD-Sg darf)
+      (PTKNEG-NG nicht)
+      (VAINF-OC sein)
+      (\$, ,)
+      (S-SB
+        (KOUS-CP\/sb dass)
+        (NP-SB\/Sg
+          (PDAT-HD-Nom.Sg.Masc dieser)
+          (NN-HD-Nom.Sg.Masc Möchtegern-Abenteurer))
+        (AP-PD\/pred
+          (NP-DA
+            (PPER-HD-Dat.Sg mir))
+          (PIS-OA-Neut etwas)
+          (ADJD-HD-Pos\/0 voraus))
+        (VAFIN-HD-Sg hat))))
+  (\$. .))

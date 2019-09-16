@@ -1,0 +1,106 @@
+
+(TOP
+  (S-TOP
+    (CNP-SB
+      (NP-SB\/chain\/Pl
+        (NN-HD-Nom.Pl Supermärkten))
+      (KON-CD und)
+      (NP-SB\/chain\/Pl
+        (NN-HD-Nom.Pl.Neut Einkaufszentren)))
+    (VMFIN-HD-Sg sollte)
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (NP-OA
+          (PPER-HD-Acc.Sg.Neut es))
+        (VVPP-HD erlaubt))
+      (VAINF-HD werden))
+    (\$, ,)
+    (PP-MO\/V
+      (APPR-AC\/Dat an)
+      (ADJA-HD-Pos.Dat.Pl.Neut beliebigen)
+      (CNP-HD\/Dat
+        (TRUNCCap-HD Sonn-)
+        (KON-CD und)
+        (NN-HD-Dat.Pl.Masc Feiertagen))
+      (PP-MNR\/N
+        (APPR-AC\/Dat zu)
+        (NE-HD-Dat.Sg öffnen))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KON-JU Denn)
+    (AP-MO\/pred
+      (AVP-MO\/0
+        (ADV-HD\/0 so)
+        (NP-MO
+          (CARD-HD wären)
+          (ADJA-HD-Pos.Acc.Pl.Neut verkaufsoffene)
+          (NN-HD-Acc.Pl.Neut Sonntage)))
+      (ADJD-HD-Comp\/0 besser))
+    (AP-MO\/pred
+      (NP-AMS
+        (CARD-HD übers)
+        (NN-HD-Acc.Sg.Neut Jahr))
+      (ADJD-HD-Pos\/0 verteilt)))
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (NP-MO
+      (NE-HD Außerdem)
+      (NN-HD-Acc.Sg.Fem würden))
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl.Masc die)
+      (CNP-HD
+        (NE-HD Straßen)
+        (KON-CD und)
+        (NE-HD Geschäfte)))
+    (VP-OC\/inf
+      (AP-PD\/pred
+        (ADV-MO\/0 vermutlich)
+        (ADJD-HD-Comp\/0 leerer))
+      (VAINF-HD sein)
+      (\$, ,)
+      (S-MO
+        (KOUS-CP\/mo da)
+        (NP-SB\/Pl
+          (PTKNEG-NG nicht)
+          (PIS-HD-Nom.Pl alle))
+        (ADV-MO\/V mehr)
+        (PP-MO\/V
+          (APPRART-AC-Dat.Sg.Masc am)
+          (ADJA-HD-Pos.Dat.Sg.Masc gleichen)
+          (NN-HD-Dat.Sg.Masc Tag)
+          (CARD-HD geöffnet))
+        (VAFIN-HD-Pl haben))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Allerdings)
+    (VAFIN-HD-Sg wird)
+    (NP-SB\/Sg
+      (PIS-HD-Nom.Sg man))
+    (VP-OC\/inf
+      (ADV-MO\/V dann)
+      (NP-OA
+        (ART-HD-Acc.Sg.Masc einen)
+        (ADJA-HD-Pos.Acc.Sg.Masc schlechteren)
+        (PN-HD
+          (NE-PNC Überblick)
+          (NE-PNC darüber)))
+      (VAINF-HD haben)
+      (\$, ,)
+      (S-RC
+        (PWS-SB-Nom.Sg.Neut\/rel was)
+        (ADV-MO\/V denn)
+        (PP-MO\/V
+          (APPRART-AC-Dat.Sg.Masc am)
+          (ADJA-HD-Pos.Dat.Sg.Masc jeweiligen)
+          (NN-HD-Dat.Sg.Masc Tag))
+        (AP-PD
+          (ADV-MO\/card nun)
+          (CARD-HD geöffnet))
+        (VAFIN-HD-Sg ist))))
+  (\$. .))

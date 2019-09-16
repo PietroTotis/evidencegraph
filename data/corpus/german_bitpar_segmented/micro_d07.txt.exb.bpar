@@ -1,0 +1,79 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Die)
+      (ADJA-HD-Pos.Nom.Sg.Fem neue)
+      (NN-HD-Nom.Sg.Fem Tournée)
+      (PP-PG\/N
+        (APPR-AC\/von von)
+        (PN-HD-Dat.Sg.Neut
+          (NE-PNC Tokio)
+          (NE-PNC-Dat.Sg.Neut Hotel))))
+    (VVFIN-HD-Sg bricht)
+    (NP-OA
+      (PIAT-HD-Acc.Pl.Masc alle)
+      (NN-HD-Acc.Pl.Masc Rekorde)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (AVP-MO\/V
+      (ADV-MO\/V Noch)
+      (ADV-HD\/V nie))
+    (VVFIN-HD-Sg gab)
+    (NP-EP
+      (PPER-HD-Nom.Sg.Neut\/ep es))
+    (NP-DA
+      (CARD-HD längere)
+      (NN-HD-Dat.Pl.Fem Schlangen))
+    (PP-MNR\/V
+      (APPR-AC\/Dat an)
+      (ART-HD-Dat.Pl.Neut den)
+      (NN-HD-Dat.Pl.Neut Vorverkaufsschaltern)
+      (CNP-HD
+        (NP-HD
+          (NN-HD-Nom.Sg.Masc --in)
+          (NE-HD-Nom.Sg.Neut Japan))))
+    (VVFIN-HD-Sg bildete)
+    (PRF-OA-Acc.Sg sich)
+    (NP-SB\/Sg
+      (PIS-HD-Nom.Sg.Fem eine))
+    (PP-MO\/V
+      (APPR-AC\/Dat mit)
+      (ART-HD-Dat.Sg.Fem der)
+      (NN-HD-Dat.Sg.Fem Länge)
+      (PP-MNR\/N
+        (APPR-AC\/von von)
+        (CARD-HD 3,2km--)
+        (NN-HD-Neut außer)))
+    (PP-MO\/V
+      (ADV-MO\/N vielleicht)
+      (APPR-AC\/Dat\/in in)
+      (ART-HD-Dat.Pl.Fem den)
+      (NN-HD-Dat.Pl.Fem Hochzeiten)
+      (PP-PG\/N
+        (APPR-AC\/von von)
+        (PN-HD-Dat.Sg
+          (NE-PNC Take)
+          (NE-PNC-Dat.Sg That)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KON-JU Aber)
+    (NP-SB\/Pl
+      (ADV-MO\/N auch)
+      (ART-HD-Nom.Pl die)
+      (NN-HD-Nom.Pl Onlinehändler))
+    (VAFIN-HD-Pl sind)
+    (VP-OC\/pp
+      (VP-OC\/pp
+        (NP-DA
+          (ART-HD-Dat.Sg.Masc dem)
+          (NN-HD-Dat.Sg.Masc Ansturm))
+        (ADJD-MO-Pos\/V zwischenzeitlich)
+        (PTKNEG-NG nicht)
+        (VVPP-HD gewachsen))
+      (VAPP-HD gewesen)))
+  (\$. .))

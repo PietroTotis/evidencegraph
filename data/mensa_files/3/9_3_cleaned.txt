@@ -1,0 +1,13 @@
+Bei der Prüfung des deutschen Textes hat das LanguageTool das Wort „Golmer“ in meinem Text als Fehler anerkannt.
+Als ich in meinem Text absichtlich mehr Fehler gemacht habe, hat das Tool nicht alle Fehler gefunden:
+Der Golmer Mensa bieten eine groß Auswahl an Speisen, die immer sehr lecker sind.
+Zu jeder Speise bekommt man gratis eine Dessert.
+Die Preise für Studeten sind günstig, gutes Preis-Qualität-Verhältnis.
+Die Mitarbeiter der Mensa sind imer nett und freundlich.
+Aber lieder gibt es zu viel Menschen in die Mittagszeit und es ist oft schwierig, einen freie Platz zu finden.
+Ansonsten kann ich diese Mensa nur weiterempfehlenn.
+Obwohl die Firma schreibt, dass das Tool in der Lage ist, den falschen Artikel zu finden, hat das Tool das in meinem Text nicht gefunden (Der Mensa, in die Mittagszeit).
+Außerdem hat es die fehlende Kongruenz nicht erkannt (Mensa bieten).
+Abgesehen davon findet das LanguageTool die fehlende Übereinstimmung zwischen Artikel, Adjektiv und Nomen bezüglich Kasus, Person und Numerus (eine groß Auswahl, eine Dessert, einen freie Platz) und die Rechtschreibfehler (Studeten, imer, lieder, weiterempfehlenn).
+Bei der Prüfung des englischen Textes hat das LanguageTool meinen Fehler gefunden, der ich nicht gesehen habe.
+Nach "otherwise" soll ein Komma stehen.

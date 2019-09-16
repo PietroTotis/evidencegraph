@@ -1,0 +1,91 @@
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Fem Die)
+        (ADJA-HD-Pos.Nom.Sg.Fem alternde)
+        (ADJA-HD-Pos.Nom.Sg.Fem deutsche)
+        (NN-HD-Nom.Sg.Fem Gesellschaft))
+      (VVFIN-HD-Sg unterliegt)
+      (NP-DA
+        (ART-HD-Dat.Sg.Masc einem)
+        (ADJA-HD-Pos.Dat.Sg.Masc demographischen)
+        (NN-HD-Dat.Sg.Masc Wandel)))
+    (KON-CD und)
+    (S-TOP
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Neut das)
+        (NN-HD-Nom.Sg.Neut Alter)
+        (CNP-HD
+          (NP-HD
+            (ART-HD-Dat.Sg.Fem der)
+            (NN-HD-Dat.Sg.Fem körperlichen))
+          (KON-CD und)
+          (NP-HD
+            (ADJA-HD-Pos.Acc.Pl.Fem geistigen)
+            (NN-HD-Acc.Pl.Fem Gesunden))))
+      (VVFIN-HD-Sg nimmt)
+      (ADJD-MO-Pos\/V nachhaltig)
+      (PTKVZ-SVP zu)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PROAV-MO Daher)
+    (VVFIN-HD-Pl nehmen)
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl die)
+      (NN-HD-Nom.Pl Kosten))
+    (NP-DA
+      (NN-HD-Dat.Pl für))
+    (CNP-OA
+      (NP-OA
+        (ART-HD-Acc.Pl.Neut die)
+        (NN-HD-Acc.Pl.Neut Sozialsysteme))
+      (KON-CD und)
+      (NP-OA
+        (ART-HD-Acc.Sg.Fem die)
+        (NN-HD-Acc.Sg.Fem Rente)))
+    (PTKVZ-SVP zu))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Jedoch)
+    (VMFIN-HD-Sg sollte)
+    (NP-SB\/Sg
+      (PIS-HD-Nom.Sg.Masc niemand))
+    (VP-OC\/inf
+      (NP-OA
+        (AP-HD
+          (PIAT-HD mehr)
+          (AP-CC
+            (KOKOM-CM als)
+            (CARD-HD 40)))
+        (NN-HD-Acc.Pl.Neut Jahre))
+      (VVINF-HD arbeiten)))
+  (XY-TOP müssen)
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Eine)
+      (NN-HD-Nom.Sg.Fem Anhebung)
+      (NP-AG
+        (ART-HD-Gen.Sg.Masc des)
+        (ADJA-HD-Pos.Gen.Sg.Masc relativen)
+        (NN-HD-Gen.Sg.Masc Rentenalters))
+      (PP-MNR\/N
+        (APPR-AC\/Dat anhand)
+        (ART-HD-Dat.Sg.Fem der)
+        (ADJA-HD-Pos.Dat.Sg.Fem körperlichen)
+        (NN-HD-Dat.Sg.Fem Gesundheit)
+        (NP-AG
+          (ART-HD-Gen.Sg.Masc des)
+          (NN-HD-Gen.Sg.Masc Durchschnittsbürgers))))
+    (VAFIN-HD-Sg ist)
+    (VP-OC\/pp
+      (VVPP-HD angemessen)))
+  (\$. .))

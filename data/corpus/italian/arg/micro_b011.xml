@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_b011" topic_id="higher_dog_poo_fines" stance="pro">
+  <edu id="e1"><![CDATA[Per le cacche di cane lasciate sul marciapiede si dovrebbe chiedere tranquillamente ai padroni di pagare un po' di più.]]></edu>
+  <edu id="e2"><![CDATA[E' vero che gli animali non possono evitarlo,]]></edu>
+  <edu id="e3"><![CDATA[ma una volta calpestati, i loro escrementi sembrano attaccarsi molto ostinatamente alle tue suole.]]></edu>
+  <adu id="a1" type="pro"/>
+  <adu id="a2" type="opp"/>
+  <adu id="a3" type="pro"/>
+  <edge id="c4" src="e1" trg="a1" type="seg"/>
+  <edge id="c5" src="e2" trg="a2" type="seg"/>
+  <edge id="c6" src="e3" trg="a3" type="seg"/>
+  <edge id="c2" src="a2" trg="a1" type="reb"/>
+  <edge id="c3" src="a3" trg="c2" type="und"/>
+</arggraph>

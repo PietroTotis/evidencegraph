@@ -1,0 +1,103 @@
+
+(TOP
+  (DL-TOP
+    (\$Par \")
+    (S-TOP\/nohead
+      (NP-SB\/Sg
+        (NN-HD-Nom.Sg.Neut Eigentum))
+      (VP-OC\/pp
+        (VVPP-HD verpflichtet)))
+    (\$Par \")
+    (S-DH
+      (VVFIN-HD-Sg lautet)
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Masc ein)
+        (NN-HD-Nom.Sg.Masc Grundsatz)
+        (NP-AG
+          (PPOSAT-HD-Gen.Sg.Fem unserer)
+          (NN-HD-Gen.Sg.Fem Gesellschaftsordung)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Zwar)
+    (VMFIN-HD-Sg soll)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc ein)
+      (PIS-HD-Nom.Sg.Masc Jeder))
+    (VP-OC\/inf
+      (PP-MO\/V
+        (APPR-AC\/Dat aus)
+        (PPOSAT-HD-Dat.Sg.Neut seinem)
+        (NN-HD-Dat.Sg.Neut Eigentum))
+      (NP-OA
+        (ADJA-HD-Pos.Acc.Sg.Masc maximalen)
+        (NN-HD-Acc.Sg.Masc Profit))
+      (VVINF-HD schlagen)))
+  (XY-TOP können)
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Eine)
+      (ADJA-HD-Pos.Nom.Sg.Fem alleinige)
+      (NN-HD-Nom.Sg.Fem Bestimmung)
+      (NP-AG
+        (ART-HD-Gen.Sg.Masc des)
+        (NN-HD-Gen.Sg.Masc Mietpreises))
+      (PP-MNR\/N
+        (APPR-AC\/Gen anhand)
+        (ART-HD-Gen.Sg.Masc des)
+        (NN-HD-Gen.Sg.Masc Marktes)))
+    (VAFIN-HD-Sg wird)
+    (ADV-MO\/V jedoch)
+    (PP-MO\/V
+      (APPR-AC\/Dat zu)
+      (ART-HD-Dat.Sg.Fem einer)
+      (ADJA-HD-Comp.Dat.Sg.Fem weiteren)
+      (NN-HD-Dat.Sg.Fem Separierung)
+      (NP-AG
+        (ART-HD-Gen.Sg.Fem der)
+        (NN-HD-Gen.Sg.Fem Gesellschaft)
+        (NE-HD führen))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (CNP-SB
+      (NP-SB\/chain\/Pl
+        (NN-HD-Nom.Pl.Masc Reiche))
+      (KON-CD und)
+      (NP-SB\/chain\/Pl
+        (NN-HD-Nom.Pl.Masc Arme)))
+    (VVFIN-HD-Pl wohnen)
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in in)
+      (ADJA-HD-Pos.Dat.Pl.Neut getrennten)
+      (NN-HD-Dat.Pl.Neut Vierteln)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Eine)
+      (ADJA-HD-Pos.Nom.Sg.Fem permanente)
+      (NN-HD-Nom.Sg.Fem Erhöhung)
+      (NP-AG
+        (ART-HD-Gen.Sg.Fem der)
+        (NN-HD-Gen.Sg.Fem Miete))
+      (PP-MNR\/N
+        (APPR-AC\/Dat bei)
+        (NN-HD-Dat.Sg.Masc Mieterwechsel)))
+    (VMFIN-HD-Sg kann)
+    (ADV-MO\/V also)
+    (PP-MO\/V
+      (APPR-AC\/Dat\/von von)
+      (ART-HD-Dat.Sg.Fem der)
+      (NN-HD-Dat.Sg.Fem Gesellschaft))
+    (PTKNEG-NG nicht)
+    (VP-OC\/inf
+      (VMPP-PD gewollt)
+      (VAINF-HD sein)))
+  (\$. .))

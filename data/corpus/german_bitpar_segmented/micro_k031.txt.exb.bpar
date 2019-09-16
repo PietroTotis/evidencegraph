@@ -1,0 +1,114 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl.Fem Hundehaufen)
+      (PP-MNR\/N
+        (APPR-AC\/Dat\/auf auf)
+        (NN-HD-Dat.Pl.Masc Gehwegen)))
+    (VAFIN-HD-Pl sind)
+    (NP-PD
+      (ART-HD-Nom.Sg.Fem eine)
+      (ADJA-HD-Pos.Nom.Sg.Fem echte)
+      (NN-HD-Nom.Sg.Fem Gefahr)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (AVP-MO\/V
+      (ADV-MO\/V Immer)
+      (ADV-HD\/V wieder))
+    (VVFIN-HD-Pl rutschen)
+    (CNP-SB
+      (NP-SB\/chain\/Pl
+        (NN-HD-Nom.Pl.Neut Kinder))
+      (KON-CD oder)
+      (NP-SB\/chain\/Pl
+        (NN-HD-Nom.Pl ältere)))
+    (NP-OA
+      (NN-HD-Acc.Pl Leute))
+    (PP-OP\/V
+      (PROAV-PH darauf))
+    (PTKVZ-SVP aus))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Fem Eine)
+        (NN-HD-Nom.Sg.Fem Geldstrafe)
+        (NE-HD für)
+        (NN-HD-Nom.Sg.Fem Haufenhinterlassung))
+      (VVFIN-HD-Sg mutet)
+      (AP-MO\/pred
+        (ADJD-MO-Pos\/0 zugegeben)
+        (ADJD-MO-Pos\/0 ziemlich)
+        (ADJD-HD-Pos\/0 obrigkeitsstaatlich))
+      (PTKVZ-SVP an))
+    (\$, ,)
+    (KON-CD aber)
+    (S-TOP
+      (NP-OA
+        (CARD-HD ähnliche)
+        (NN-HD-Acc.Pl.Fem Regelungen))
+      (VVFIN-HD-Sg gibt)
+      (NP-EP
+        (PPER-HD-Nom.Sg.Neut\/ep es))
+      (PN-DA-Dat.Sg
+        (NE-HD-Dat.Sg schließlich))
+      (ADV-MO\/V oft)
+      (NP-SB\/Sg
+        (ADV-MO\/N auch)
+        (NN-HD-Nom.Sg.Fem für)
+        (NE-HD Fahrräder))
+      (PP-OP\/V
+        (APPR-AC\/Acc\/auf auf)
+        (NN-HD-Acc.Pl.Fem Parkwegen))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-PD
+      (ART-HD-Nom.Pl.Fem Die)
+      (NN-HD-Nom.Pl.Fem Geldstrafen)
+      (PP-MNR\/N
+        (APPR-AC\/Dat zu)
+        (NE-HD-Dat.Sg erhöhen)))
+    (VAFIN-HD-Sg ist)
+    (ADV-MO\/V also)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc der)
+      (ADJA-HD-Pos.Nom.Sg.Masc richtige)
+      (NN-HD-Nom.Sg.Masc Weg)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-PD
+      (ART-HD-Nom.Sg.Fem Eine)
+      (ADJA-HD-Pos.Nom.Sg.Fem hundehaufenfreie)
+      (NN-HD-Nom.Sg.Fem Stadt))
+    (VAFIN-HD-Sg wird)
+    (NP-SB
+      (AP-HD
+        (AVP-MO\/0
+          (PTKNEG-NG nicht)
+          (ADV-HD\/0 nur))
+        (CARD-HD für))
+      (CNP-HD
+        (NP-HD
+          (ART-HD-Acc.Pl.Masc die)
+          (NN-HD-Acc.Pl.Masc Bewohner))
+        (\$, ,)
+        (KON-CD sondern)
+        (NP-HD
+          (NP-MO
+            (ADV-MO\/N auch)
+            (CARD-HD für)
+            (NN-HD-Acc.Pl.Masc Touristen))
+          (PIAT-HD viel))))
+    (VP-OC\/inf
+      (ADJD-PD-Comp\/V attraktiver)
+      (VAINF-HD sein)))
+  (\$. !))

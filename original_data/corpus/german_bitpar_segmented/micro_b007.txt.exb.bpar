@@ -1,0 +1,118 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl.Fem Hundehaufen)
+      (PP-MNR\/N
+        (APPR-AC\/Dat\/auf auf)
+        (NN-HD-Dat.Pl.Masc Gehwegen)))
+    (VVFIN-HD-Pl erfordern)
+    (NP-OA
+      (PPOSAT-HD-Acc.Sg.Fem meine)
+      (ADJA-HD-Pos.Acc.Sg.Fem komplette))
+    (\$, ,)
+    (VP-MO
+      (PP-MO\/V
+        (APPR-AC\/Acc\/auf auf)
+        (ART-HD-Acc.Sg.Masc den)
+        (NN-HD-Acc.Sg.Masc Boden))
+      (VVPP-HD gerichtete))
+    (\$, ,)
+    (NP-OA
+      (NN-HD-Acc.Sg.Fem Aufmerksamkeit)
+      (PP-MNR\/N
+        (APPR-AC\/Dat\/auf auf)
+        (ART-HD-Dat.Sg.Masc dem)
+        (NN-HD-Dat.Sg.Masc Weg)
+        (PP-MNR\/N
+          (APPRART-AC-Dat.Sg.Fem zur)
+          (NN-HD-Dat.Sg.Fem Arbeit)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PROAV-MO Dadurch)
+    (VVFIN-HD-Sg entsteht)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem eine)
+      (NN-HD-Nom.Sg.Fem Unachtsamkeit))
+    (PP-MO\/V
+      (APPRART-AC-Dat.Sg.Neut\/in im)
+      (NN-HD-Dat.Sg.Neut Straßenverkehr))
+    (\$, ,)
+    (S-RC
+      (NP-SB\/Sg\/rel
+        (PRELS-HD-Nom.Sg.Fem die))
+      (AP-PD\/pred
+        (ADJD-HD-Pos\/0 vergleichbar)
+        (PP-MO\/0
+          (APPR-AC\/Dat mit)
+          (ART-HD-Dat.Sg.Masc einem)
+          (NN-HD-Dat.Sg.Masc Delikt)
+          (NP-AG
+            (ART-HD-Gen.Sg.Fem der)
+            (NE-HD-Gen.Sg.Fem StVo))))
+      (VAFIN-HD-Sg ist)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PROAV-MO Deshalb)
+    (VMFIN-HD-Sg sollte)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem die)
+      (NN-HD-Nom.Sg.Fem Verursachung)
+      (NP-AG
+        (ART-HD-Gen.Sg.Masc eines)
+        (PIAT-HD-Gen.Sg.Masc solchen)
+        (NN-HD-Gen.Sg.Masc Hindernisses)))
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (PN-OA-Acc.Sg
+          (NE-HD-Acc.Sg stärker))
+        (VVPP-HD geahndet))
+      (VAINF-HD werden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (ADJA-HD-Pos Hundehalter)
+      (NN-HD-Nom.Pl.Neut mögen))
+    (VVFIN-HD-Pl denken)
+    (\$, ,)
+    (S-OC
+      (KOUS-CP\/oc dass)
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Neut ein)
+        (NN-HD-Nom.Sg.Neut Hundehaufen))
+      (NP-PD
+        (ADV-MO\/N nur)
+        (ART-HD-Nom.Sg.Neut ein)
+        (ADJA-HD-Pos.Nom.Sg.Neut harmlose)
+        (NN-HD-Nom.Sg.Neut Sekret)
+        (NP-AG
+          (ART-HD-Gen.Sg.Neut eines)
+          (NN-HD-Gen.Sg.Neut Tieres))
+        (NP-CC
+          (KOKOM-CM wie)
+          (PIAT-HD-Nom.Sg.Neut jedes)
+          (ADJA-HD-Pos.Nom.Sg.Neut andere)))
+      (VAFIN-HD-Sg ist)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KON-JU Doch)
+    (ADV-MO\/V dann)
+    (VVFIN-HD-Pl verkennen)
+    (NP-SB\/Pl
+      (PPER-HD-Nom.Pl sie))
+    (NP-OA
+      (ART-HD-Acc.Pl.Fem die)
+      (NN-HD-Acc.Pl.Fem Auswirkungen)
+      (PP-MNR\/N
+        (APPR-AC\/Dat\/auf auf)
+        (ART-HD-Dat.Sg.Masc den)
+        (NN-HD-Dat.Sg.Masc Straßenverkehr))))
+  (\$. .))

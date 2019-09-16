@@ -1,0 +1,81 @@
+
+(TOP
+  (CS-TOP
+    (S-TOP\/nohead
+      (FM-SB Freddy))
+    (KON-CD und)
+    (S-TOP\/nohead
+      (NP-SB\/Sg
+        (PPER-HD-Nom.Sg ich))
+      (VP-OC\/inf
+        (NP-OA
+          (CARD-HD müssen)
+          (NN-HD-Acc.Pl Geschwister))
+        (VAINF-HD sein))))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-SB\/Pl
+        (PPER-HD-Nom.Pl Wir))
+      (VAFIN-HD-Pl haben)
+      (ADV-MO\/V beide)
+      (ADJD-MO-Pos\/V genau)
+      (NP-SB\/Pl
+        (ART-HD-Nom.Pl.Masc die)
+        (ADJA-HD-Pos.Nom.Pl.Masc gleichen)
+        (CARD-HD zwei)
+        (NN-HD-Nom.Pl.Masc Leberflecke)
+        (PP-MNR\/N
+          (APPR-AC\/Dat\/auf auf)
+          (ART-HD-Dat.Sg.Masc dem)
+          (ADJA-HD-Pos.Dat.Sg.Masc linken)
+          (NN-HD-Dat.Sg.Masc Arm))))
+    (KON-CD und)
+    (S-TOP
+      (NP-OA
+        (ADV-MO\/N so)
+        (PIS-HD-Neut etwas))
+      (VVFIN-HD-Sg gibt)
+      (NP-EP
+        (PPER-HD-Nom.Sg.Neut\/ep es))
+      (PP-MO\/V
+        (ADV-MO\/N nur)
+        (APPR-AC\/Dat bei)
+        (NN-HD-Dat.Pl.Masc Geschwistern))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (PPOSAT-HD-Nom.Pl Meine)
+      (NN-HD-Nom.Pl Eltern))
+    (VVFIN-HD-Pl sagen)
+    (\$, ,)
+    (S-OC
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Neut das)
+        (NN-HD-Nom.Sg.Neut könnte))
+      (ADV-MO\/V auch)
+      (VP-OC\/inf
+        (NP-PD
+          (ADJA-HD-Pos.Nom.Sg.Masc reiner)
+          (NN-HD-Nom.Sg.Masc Zufall))
+        (VAINF-HD sein))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KON-JU Aber)
+    (NP-SB\/Sg
+      (AP-HD-Nom.Sg.Masc
+        (ADV-MO\/0 so)
+        (PIAT-HD-Nom.Sg.Masc viel))
+      (NN-HD-Nom.Sg.Masc Zufall))
+    (VVFIN-HD-Sg gibt\'s)
+    (AVP-NG\/V
+      (ADV-MO\/V doch)
+      (ADV-MO\/V gar)
+      (PTKNEG-HD nicht)))
+  (\$. .))

@@ -1,0 +1,9 @@
+Nachdem ich beide Texte in das Tool eingefügt habe, wurden mir direkt einige Rechtschreibfehler angezeigt, die ich während des Tippen übersehen habe.
+Im Englischem Text unterstreicht das Tool nicht Fehler wie „dishes is“.
+Im Deutschen Text wird mir der Fehler „das wenigen Gerichte“ markiert.
+Das selbe auch bei „einen freie Sitzplatz“.
+Die grammatische Übereinstimmung/Kongruenz wird beim Deutschen kontrolliert.
+Fehler wie „sind“ statt „ist“ werden nicht markiert.
+Ich würde sagen für ein Premium Account erfüllt das Tool nicht wirklich meine Anforderungen, da auf einfache Fehler zwar hingewiesen wird, diese jedoch auch mit kostenlosen Online-Tools zu finden sind.
+Die Fehler, die man unbewusst macht und die auch öfter im Text auftauchen, werden einfach übersehen.
+Anmerken würde ich aber, dass bei diesem Tool auch noch begründet wird, warum z.B. „einen freie Sitzplatz“ falsch ist.

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_b049" topic_id="increase_weight_of_BA_thesis_in_final_grade" stance="con">
+  <edu id="e1"><![CDATA[La tesi di laurea riflette il contenuto e la metodologia del corso di studi.]]></edu>
+  <edu id="e2"><![CDATA[Ma si possono commettere alcuni errori occasionali nella propria tesi.]]></edu>
+  <edu id="e3"><![CDATA[Se a questa venisse dato più peso, potrebbe mettere in ombra molti dei buoni risultati individuali ottenuti durante il proprio ciclo di studi.]]></edu>
+  <edu id="e4"><![CDATA[Un buon risultato per la tesi dipende significativamente anche dalla supervisione di un docente dedicato.]]></edu>
+  <edu id="e5"><![CDATA[A causa di troppi parametri casuali, la tesi di laurea non dovrebbe avere un ruolo importante.]]></edu>
+  <adu id="a1" type="opp"/>
+  <adu id="a2" type="pro"/>
+  <adu id="a3" type="pro"/>
+  <adu id="a4" type="pro"/>
+  <adu id="a5" type="pro"/>
+  <edge id="c6" src="e1" trg="a1" type="seg"/>
+  <edge id="c7" src="e2" trg="a2" type="seg"/>
+  <edge id="c8" src="e3" trg="a3" type="seg"/>
+  <edge id="c9" src="e4" trg="a4" type="seg"/>
+  <edge id="c10" src="e5" trg="a5" type="seg"/>
+  <edge id="c1" src="a1" trg="a5" type="reb"/>
+  <edge id="c2" src="a2" trg="a3" type="sup"/>
+  <edge id="c3" src="a3" trg="a5" type="sup"/>
+  <edge id="c4" src="a4" trg="a5" type="sup"/>
+</arggraph>
+    

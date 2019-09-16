@@ -1,0 +1,128 @@
+
+(TOP
+  (S-TOP\/nohead
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl.Masc Geheimdienste))
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (NP-OA
+          (CARD-HD müssen)
+          (NN-HD-Neut stärker))
+        (VVPP-HD kontrolliert))
+      (VAINF-HD werden)
+      (\$, ,)
+      (VP-MO
+        (KOUI-CP um)
+        (NP-PD
+          (ART-HD-Nom.Sg.Neut ein)
+          (AP-HD-Pos.Nom.Sg.Neut
+            (PTKA-MO zu)
+            (ADJA-HD-Pos.Nom.Sg.Neut ausuferndes))
+          (NN-HD-Nom.Sg.Neut Überwachen))
+        (VZ-HD
+          (PTKZU-PM zu)
+          (VVINF-HD verhindern)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl.Masc Geheimdienste))
+    (VVFIN-HD-Pl neigen)
+    (NP-OA
+      (S-RE\/nohead
+        (PN-SB-Nom.Sg
+          (NE-HD-Nom.Sg nämlich))
+        (PP-MO\/V
+          (APPR-AC\/Dat zu)
+          (ART-HD-Dat.Sg.Masc einem)
+          (ADJA-HD-Pos.Dat.Sg.Masc Eigenleben)
+          (\$Par \()
+          (NN-HD-Dat.Sg.Masc Staat)
+          (PP-MNR\/N
+            (APPRART-AC-Dat.Sg.Masc\/in im)
+            (NN-HD-Dat.Sg.Masc Staate))
+          (\$Par \))))
+      (\$, ,)
+      (PDS-PH-Acc.Sg.Neut das)))
+  (XY-TOP für)
+  (S-PAR
+    (NP-SB\/Pl
+      (ADJA-HD-Pos.Nom.Pl.Masc demokratische)
+      (NN-HD-Nom.Pl.Masc Staaten))
+    (ADJD-PD-Pos\/V unverantwortbar))
+  (XY-TOP wäre)
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (PROAV-MO Zudem)
+      (VVFIN-HD-Pl greifen)
+      (NP-SB\/Pl
+        (NN-HD-Nom.Pl.Masc Geheimdienste))
+      (PP-MO\/V
+        (APPR-AC\/Acc\/in in)
+        (ART-HD-Acc.Sg.Fem die)
+        (NN-HD-Acc.Sg.Fem Privatsphäre)
+        (NP-AG
+          (ART-HD der)
+          (NN-HD Bürger)))
+      (ADJD-MO-Pos\/V massiv)
+      (PTKVZ-SVP ein))
+    (KON-CD und)
+    (S-TOP\/nohead
+      (PN-SB-Nom.Sg
+        (NE-HD-Nom.Sg müssen))
+      (ADV-MO\/V schon)
+      (VP-OC\/inf
+        (VP-OC\/pp
+          (PROAV-MO deshalb)
+          (ADJD-MO-Pos\/V stark)
+          (VVPP-HD kontrolliert))
+        (VAINF-HD werden)
+        (\$, ,)
+        (VP-MO
+          (KOUI-CP um)
+          (NP-OA
+            (NN-HD-Acc.Sg.Masc Missbrauch))
+          (VZ-HD
+            (PTKZU-PM zu)
+            (VVINF-HD verhindern))))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-MO
+      (ADJA-HD-Pos.Acc.Sg.Fem Parlamentarische)
+      (NN-HD-Acc.Sg.Fem Kontrolle))
+    (VVFIN-HD-Sg macht)
+    (NP-SB\/Sg
+      (ADV-MO\/N aber)
+      (ART-HD-Nom.Sg.Fem die)
+      (NN-HD-Nom.Sg.Fem Arbeit)
+      (PP-PG\/N
+        (APPR-AC\/Dat\/von von)
+        (NN-HD-Dat.Pl.Masc Geheimdiensten))
+      (AP-HD
+        (AP-MO\/pred
+          (ADJD-HD-Comp\/0 schwieriger)
+          (NP-CC
+            (KOKOM-CM denn)
+            (PPER-HD-Nom.Sg.Fem sie)))
+        (CARD-HD gefährdet)))
+    (NP-OA
+      (ART-HD-Acc.Pl die)
+      (CNP-HD
+        (NN-HD-Acc.Sg.Fem Verschwiegenheit)
+        (KON-CD und)
+        (NN-HD-Acc.Sg.Fem Sicherheit))
+      (PP-PG\/N
+        (APPR-AC\/Dat\/von von)
+        (CNP-HD\/Dat
+          (NP-HD
+            (ADJA-HD-Pos.Dat.Pl.Neut geheimen)
+            (NN-HD-Dat.Pl.Neut Daten))
+          (KON-CD und)
+          (NE-HD-Dat.Sg V-Männern)))))
+  (\$. .))

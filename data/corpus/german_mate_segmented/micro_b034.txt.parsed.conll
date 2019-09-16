@@ -1,0 +1,62 @@
+1	Studiengebühren	_	Studiengebühr	_	NN	_	nom|pl|fem	-1	2	_	SB	_	_
+2	dürften	_	dürfen	_	VMFIN	_	pl|3|past|subj	-1	0	_	--	_	_
+3	nicht	_	nicht	_	PTKNEG	_	_	-1	2	_	NG	_	_
+4	generell	_	generell	_	ADJD	_	pos	-1	7	_	MO	_	_
+5	an	_	an	_	APPR	_	_	-1	7	_	MO	_	_
+6	Universitäten	_	Universität	_	NN	_	dat|pl|fem	-1	5	_	NK	_	_
+7	erhoben	_	erheben	_	VVPP	_	_	-1	8	_	OC	_	_
+8	werden	_	werden	_	VAINF	_	_	-1	2	_	OC	_	_
+9	.	_	--	_	$.	_	_	-1	8	_	--	_	_
+
+1	Universitäten	_	Universität	_	NN	_	nom|pl|fem	-1	2	_	SB	_	_
+2	sind	_	sein	_	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	für	_	für	_	APPR	_	_	-1	2	_	MO	_	_
+4	alle	_	aller	_	PIAT	_	acc|pl|masc	-1	5	_	NK	_	_
+5	Bürger	_	Bürger	_	NN	_	acc|pl|masc	-1	3	_	NK	_	_
+6	da	_	da	_	ADV	_	_	-1	2	_	MO	_	_
+7	,	_	--	_	$,	_	_	-1	6	_	--	_	_
+8	unabhängig	_	unabhängig	_	ADJD	_	pos	-1	2	_	PD	_	_
+9	vom	_	von	_	APPRART	_	dat|sg|neut	-1	8	_	MO	_	_
+10	Geldbeutel	_	Geldbeutel	_	NN	_	dat|sg|neut	-1	9	_	NK	_	_
+11	.	_	--	_	$.	_	_	-1	10	_	--	_	_
+
+1	Bildung	_	Bildung	_	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+2	und	_	und	_	KON	_	_	-1	1	_	CD	_	_
+3	Ausbildung	_	Ausbildung	_	NN	_	nom|sg|fem	-1	2	_	CJ	_	_
+4	sind	_	sein	_	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+5	Grundrechte	_	Grundrecht	_	NN	_	nom|pl|neut	-1	4	_	PD	_	_
+6	,	_	--	_	$,	_	_	-1	5	_	--	_	_
+7	die	_	der	_	PRELS	_	nom|pl|neut	-1	14	_	SB	_	_
+8	der	_	der	_	ART	_	nom|sg|masc	-1	9	_	NK	_	_
+9	Staat	_	Staat	_	NN	_	nom|sg|masc	-1	14	_	CP	_	_
+10	,	_	--	_	$,	_	_	-1	9	_	--	_	_
+11	die	_	der	_	ART	_	acc|sg|fem	-1	12	_	NK	_	_
+12	Gesellschaft	_	Gesellschaft	_	NN	_	acc|sg|fem	-1	13	_	OA	_	_
+13	leisten	_	leisten	_	VVINF	_	_	-1	14	_	OC	_	_
+14	müssen	_	müssen	_	VMFIN	_	pl|3|pres|ind	-1	5	_	RC	_	_
+15	.	_	--	_	$.	_	_	-1	14	_	--	_	_
+
+1	Fehlt	_	Fehlen	_	VVFIN	_	sg|3|pres|ind	-1	6	_	MO	_	_
+2	den	_	der	_	ART	_	acc|sg|masc	-1	3	_	NK	_	_
+3	Universitäten	_	Universität	_	NN	_	dat|pl|fem	-1	1	_	DA	_	_
+4	Geld	_	Geld	_	NN	_	nom|sg|neut	-1	1	_	OA	_	_
+5	,	_	--	_	$,	_	_	-1	4	_	--	_	_
+6	muss	_	muss	_	VMFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+7	nach	_	nach	_	APPR	_	_	-1	6	_	MO	_	_
+8	Sponsoren	_	Sponsor	_	NN	_	dat|pl|masc	-1	7	_	NK	_	_
+9	gesucht	_	suchen	_	VVPP	_	_	-1	10	_	OC	_	_
+10	werden	_	werden	_	VAINF	_	_	-1	6	_	OC	_	_
+11	.	_	--	_	$.	_	_	-1	10	_	--	_	_
+
+1	Leider	_	leider	_	ADV	_	_	-1	2	_	MO	_	_
+2	kann	_	können	_	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	dies	_	dieser	_	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+4	in	_	in	_	APPR	_	_	-1	10	_	MO	_	_
+5	manchen	_	mancher	_	PIAT	_	dat|pl|masc	-1	6	_	NK	_	_
+6	Fällen	_	Fall	_	NN	_	dat|pl|masc	-1	4	_	NK	_	_
+7	zu	_	zu	_	APPR	_	_	-1	10	_	MO	_	_
+8	unliebsamen	_	unliebsam	_	ADJA	_	dat|pl|fem|pos	-1	9	_	NK	_	_
+9	Abhängigkeiten	_	Abhängigkeit	_	NN	_	dat|pl|fem	-1	7	_	NK	_	_
+10	führen	_	führen	_	VVINF	_	_	-1	2	_	OC	_	_
+11	.	_	--	_	$.	_	_	-1	10	_	--	_	_
+

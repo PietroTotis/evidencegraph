@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_b059" topic_id="cap_rent_increases" stance="con">
+  <edu id="e1"><![CDATA[I prezzi degli affitti sono già oggi pesantemente regolamentati in favore degli inquilini a causa delle leggi esistenti e dell'indice degli affitti.]]></edu>
+  <edu id="e2"><![CDATA[In considerazione degli elevati prezzi di acquisto degli appartamenti con i contratti di locazione esistenti, si tratta di un investimento poco interessante.]]></edu>
+  <edu id="e3"><![CDATA[Anche pensando che sia necessario un maggiore controllo sugli affitti oltre alla protezione degli inquilini,]]></edu>
+  <edu id="e4"><![CDATA[non si dovrebbe negare nel lungo periodo al proprietario la possibilità di adeguare il suo ritorno a livello di mercato.]]></edu>
+  <edu id="e5"><![CDATA[Non è quindi opportuno limitare l'aumento dell'affitto con il cambio di inquilino.]]></edu>
+  <adu id="a1" type="pro"/>
+  <adu id="a2" type="pro"/>
+  <adu id="a3" type="opp"/>
+  <adu id="a4" type="pro"/>
+  <adu id="a5" type="pro"/>
+  <edge id="c6" src="e1" trg="a1" type="seg"/>
+  <edge id="c7" src="e2" trg="a2" type="seg"/>
+  <edge id="c8" src="e3" trg="a3" type="seg"/>
+  <edge id="c9" src="e4" trg="a4" type="seg"/>
+  <edge id="c10" src="e5" trg="a5" type="seg"/>
+  <edge id="c1" src="a1" trg="a5" type="sup"/>
+  <edge id="c2" src="a2" trg="a5" type="sup"/>
+  <edge id="c3" src="a3" trg="a5" type="reb"/>
+  <edge id="c4" src="a4" trg="c3" type="und"/>
+</arggraph>
+   

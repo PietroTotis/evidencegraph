@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_b031" topic_id="introduce_capital_punishment" stance="con">
+  <edu id="e1"><![CDATA[In Germania la pena di morte non dovrebbe essere reintrodotta,]]></edu>
+  <edu id="e2"><![CDATA[poiché nessuno può rivendicare il diritto di decidere della vita o della morte di un'altra persona.]]></edu>
+  <edu id="e3"><![CDATA[La pena di morte non impedirà a nessun altro di commettere un'atrocità.]]></edu>
+  <edu id="e4"><![CDATA[Ognuno deve avere la possibilità di affinare la propria coscienza e di fare ammenda per il proprio operato.]]></edu>
+  <adu id="a1" type="pro"/>
+  <adu id="a2" type="pro"/>
+  <adu id="a3" type="pro"/>
+  <adu id="a4" type="pro"/>
+  <edge id="c5" src="e1" trg="a1" type="seg"/>
+  <edge id="c6" src="e2" trg="a2" type="seg"/>
+  <edge id="c7" src="e3" trg="a3" type="seg"/>
+  <edge id="c8" src="e4" trg="a4" type="seg"/>
+  <edge id="c2" src="a2" trg="a1" type="sup"/>
+  <edge id="c3" src="a3" trg="a1" type="sup"/>
+  <edge id="c4" src="a4" trg="a1" type="sup"/>
+</arggraph>   

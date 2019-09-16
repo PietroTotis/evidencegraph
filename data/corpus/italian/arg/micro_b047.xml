@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_b047" topic_id="over_the_counter_morning_after_pill" stance="con">
+  <edu id="e1"><![CDATA[La pillola del giorno dopo ha molti effetti collaterali.]]></edu>
+  <edu id="e2"><![CDATA[Un esame differenziato degli effetti collaterali non può essere effettuato da parte dei non addetti ai lavori senza il parere di un medico.]]></edu>
+  <edu id="e3"><![CDATA[Tuttavia, questi possono essere facilmente letti sul foglietto illustrativo]]></edu>
+  <edu id="e4"><![CDATA[e il desiderio di aborto precoce è un diritto di ogni donna.]]></edu>
+  <edu id="e5"><![CDATA[La "pillola del giorno dopo" deve essere prescritta solo dopo aver consultato un medico o un farmacista.]]></edu>
+  <adu id="a1" type="pro"/>
+  <adu id="a2" type="pro"/>
+  <adu id="a3" type="opp"/>
+  <adu id="a4" type="opp"/>
+  <adu id="a5" type="pro"/>
+  <edge id="c6" src="e1" trg="a1" type="seg"/>
+  <edge id="c7" src="e2" trg="a2" type="seg"/>
+  <edge id="c8" src="e3" trg="a3" type="seg"/>
+  <edge id="c9" src="e4" trg="a4" type="seg"/>
+  <edge id="c10" src="e5" trg="a5" type="seg"/>
+  <edge id="c1" src="a1" trg="a5" type="sup"/>
+  <edge id="c2" src="a2" trg="c1" type="add"/>
+  <edge id="c3" src="a3" trg="c1" type="und"/>
+  <edge id="c4" src="a4" trg="a5" type="reb"/>
+</arggraph>
+  

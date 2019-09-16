@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_k024" topic_id="higher_dog_poo_fines" stance="pro">
+  <edu id="e1"><![CDATA[I proprietari di cani dovrebbero pagare multe più salate per le cacche di cane lasciate sui marciapiedi,]]></edu>
+  <edu id="e2"><![CDATA[anche se ci sono troppo pochi bidoni dell'immonidizia e distributori di sacchetti per cani.]]></edu>
+  <edu id="e3"><![CDATA[Uno dei motivi è che difficilmente hanno delle conseguenze se non raccolgono i rifiuti del proprio cane nonostante l'obbligo di disfarsene.]]></edu>
+  <edu id="e4"><![CDATA[Una sanzione più elevata, cosicché i padroni debbano scavare più a fondo nelle loro tasche avrebbe certamente un effetto deterrente.]]></edu>
+  <edu id="e5"><![CDATA[La città, soprattutto le aree verdi, dovrebbe essere mantenuta pulita,]]></edu>
+  <edu id="e6"><![CDATA[perché viene frequentata per il tempo libero.]]></edu>
+  <edu id="e7"><![CDATA[Inoltre, nessuno è libero di abbandonare altri tipi di rifiuti senza una punizione.]]></edu>
+  <adu id="a1" type="pro"/>
+  <adu id="a2" type="opp"/>
+  <adu id="a3" type="pro"/>
+  <adu id="a4" type="pro"/>
+  <adu id="a5" type="pro"/>
+  <adu id="a6" type="pro"/>
+  <adu id="a7" type="pro"/>
+  <edge id="c8" src="e1" trg="a1" type="seg"/>
+  <edge id="c9" src="e2" trg="a2" type="seg"/>
+  <edge id="c10" src="e3" trg="a3" type="seg"/>
+  <edge id="c11" src="e4" trg="a4" type="seg"/>
+  <edge id="c12" src="e5" trg="a5" type="seg"/>
+  <edge id="c13" src="e6" trg="a6" type="seg"/>
+  <edge id="c14" src="e7" trg="a7" type="seg"/>
+  <edge id="c2" src="a2" trg="a1" type="reb"/>
+  <edge id="c3" src="a3" trg="a1" type="sup"/>
+  <edge id="c4" src="a4" trg="a1" type="sup"/>
+  <edge id="c5" src="a5" trg="a1" type="sup"/>
+  <edge id="c6" src="a6" trg="a5" type="sup"/>
+  <edge id="c7" src="a7" trg="a1" type="sup"/>
+</arggraph>

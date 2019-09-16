@@ -1,0 +1,77 @@
+1	Eine	_	ein	_	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Bankenrettung	_	Bankenrettung	_	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	kostet	_	kosten	_	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	sehr	_	sehr	_	ADV	_	_	-1	3	_	MO	_	_
+5	,	_	--	_	$,	_	_	-1	4	_	--	_	_
+6	sehr	_	sehr	_	ADV	_	_	-1	7	_	MO	_	_
+7	viel	_	viel	_	PIAT	_	*|*|*	-1	8	_	NK	_	_
+8	Geld	_	Geld	_	NN	_	acc|sg|neut	-1	3	_	OA	_	_
+9	.	_	--	_	$.	_	_	-1	8	_	--	_	_
+
+1	Für	_	für	_	APPR	_	_	-1	8	_	MO	_	_
+2	die	_	der	_	ART	_	acc|sg|fem	-1	3	_	NK	_	_
+3	Pleitebank	_	Pleitebank	_	NN	_	acc|sg|fem	-1	1	_	NK	_	_
+4	'Hypo	_	'Hypo	_	NE	_	*|*|*	-1	6	_	PNC	_	_
+5	Real	_	Real	_	NE	_	*|*|*	-1	6	_	PNC	_	_
+6	Estate	_	Estate	_	NE	_	nom|sg|*	-1	3	_	NK	_	_
+7	'	_	--	_	$(	_	_	-1	6	_	--	_	_
+8	stand	_	stehen	_	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+9	der	_	der	_	ART	_	nom|sg|masc	-1	10	_	NK	_	_
+10	Steuerzahler	_	Steuerzahler	_	NN	_	nom|sg|masc	-1	8	_	SB	_	_
+11	z.B	_	z.b	_	NE	_	nom|sg|masc	-1	10	_	NK	_	_
+12	.	_	--	_	$.	_	_	-1	11	_	--	_	_
+
+1	mit	_	mit	_	APPR	_	_	-1	0	_	--	_	_
+2	einem	_	ein	_	ART	_	dat|sg|masc	-1	4	_	NK	_	_
+3	dreistelligen	_	dreistellig	_	ADJA	_	dat|sg|masc|pos	-1	4	_	NK	_	_
+4	Milliardenbetrag	_	Milliardenbetrag	_	NN	_	dat|sg|masc	-1	1	_	NK	_	_
+5	ein	_	ein	_	PTKVZ	_	_	-1	1	_	SVP	_	_
+6	.	_	--	_	$.	_	_	-1	5	_	--	_	_
+
+1	Deswegen	_	deswegen	_	PROAV	_	_	-1	2	_	MO	_	_
+2	sollten	_	sollen	_	VMFIN	_	pl|1|past|ind	-1	0	_	--	_	_
+3	wir	_	wir	_	PPER	_	nom|pl|*|1	-1	2	_	SB	_	_
+4	uns	_	uns	_	PRF	_	acc|pl|1	-1	8	_	DA	_	_
+5	weitere	_	weit	_	ADJA	_	acc|pl|fem|comp	-1	6	_	NK	_	_
+6	Bankenrettungen	_	Bankenrettung	_	NN	_	acc|pl|fem	-1	8	_	OA	_	_
+7	nicht	_	nicht	_	PTKNEG	_	_	-1	2	_	NG	_	_
+8	erlauben	_	erlauben	_	VVINF	_	_	-1	2	_	OC	_	_
+9	.	_	--	_	$.	_	_	-1	8	_	--	_	_
+
+1	Die	_	der	_	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Politik	_	Politik	_	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	versucht	_	versuchen	_	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	uns	_	uns	_	PPER	_	acc|pl|*|1	-1	7	_	OA	_	_
+5	damit	_	damit	_	PROAV	_	_	-1	7	_	MO	_	_
+6	zu	_	zu	_	PTKZU	_	_	-1	7	_	PM	_	_
+7	beruhigen	_	beruhigen	_	VVINF	_	_	-1	3	_	OC	_	_
+8	,	_	--	_	$,	_	_	-1	7	_	--	_	_
+9	dass	_	daß	_	KOUS	_	_	-1	20	_	CP	_	_
+10	man	_	man	_	PIS	_	nom|sg|*	-1	20	_	SB	_	_
+11	eigentlich	_	eigentlich	_	ADV	_	_	-1	20	_	MO	_	_
+12	nur	_	nur	_	ADV	_	_	-1	15	_	MO	_	_
+13	einen	_	ein	_	ART	_	acc|sg|masc	-1	15	_	NK	_	_
+14	kleinen	_	klein	_	ADJA	_	acc|sg|masc|pos	-1	15	_	NK	_	_
+15	Teil	_	Teil	_	NN	_	acc|sg|masc	-1	20	_	OA	_	_
+16	des	_	der	_	ART	_	gen|sg|masc	-1	18	_	NK	_	_
+17	vielen	_	vieler	_	PIAT	_	gen|sg|neut	-1	18	_	NK	_	_
+18	Geldes	_	Geld	_	NN	_	gen|sg|neut	-1	15	_	AG	_	_
+19	wirklich	_	wirklich	_	ADJD	_	pos	-1	20	_	MO	_	_
+20	ausgäbe	_	ausgeben	_	VVFIN	_	sg|3|pres|subj	-1	5	_	RE	_	_
+21	.	_	--	_	$.	_	_	-1	20	_	--	_	_
+
+1	Auch	_	auch	_	ADV	_	_	-1	2	_	MO	_	_
+2	mit	_	mit	_	APPR	_	_	-1	13	_	MO	_	_
+3	diesem	_	dieser	_	PDAT	_	dat|sg|masc	-1	5	_	NK	_	_
+4	kleinen	_	klein	_	ADJA	_	dat|sg|masc|pos	-1	5	_	NK	_	_
+5	Teil	_	Teil	_	NN	_	dat|sg|masc	-1	2	_	NK	_	_
+6	könnte	_	können	_	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+7	man	_	man	_	PIS	_	nom|sg|*	-1	6	_	SB	_	_
+8	an	_	an	_	APPR	_	_	-1	6	_	MO	_	_
+9	anderer	_	anderer	_	ADJA	_	dat|sg|fem|pos	-1	10	_	NK	_	_
+10	Stelle	_	Stelle	_	NN	_	dat|sg|fem	-1	8	_	NK	_	_
+11	viel	_	viel	_	PIAT	_	*|*|*	-1	12	_	NK	_	_
+12	Gutes	_	gute	_	NN	_	acc|sg|neut	-1	13	_	OA	_	_
+13	tun	_	tun	_	VVINF	_	_	-1	6	_	OC	_	_
+14	.	_	--	_	$.	_	_	-1	13	_	--	_	_
+

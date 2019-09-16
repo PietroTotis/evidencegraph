@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_b057" topic_id="keep_retirement_at_63" stance="con">
+  <edu id="e1"><![CDATA[Chiunque abbia lavorato (ininterrottamente) fino a 63 anni merita di andare in pensione una volta raggiunta questa età.]]></edu>
+  <edu id="e2"><![CDATA[L'unica domanda che rimane è se il primo "tempo libero" sarà più piacevole, non sapendo cosa fare tutto il giorno e avendo statisticamente ancora circa 20 (!!!) anni da vivere.]]></edu>
+  <edu id="e3"><![CDATA[Inoltre, uno non si assume alcuna responsabilità per la società se rinuncia prima del dovuto alle proprie capacità esperte, salutari e qualificate.]]></edu>
+  <edu id="e4"><![CDATA[Soprattutto ora, quando c'è carenza di lavoratori qualificati, è irresponsabile per l'economia e la prosperità andare in pensione a 63 anni.]]></edu>
+  <adu id="a1" type="opp"/>
+  <adu id="a2" type="pro"/>
+  <adu id="a3" type="pro"/>
+  <adu id="a4" type="pro"/>
+  <edge id="c5" src="e1" trg="a1" type="seg"/>
+  <edge id="c6" src="e2" trg="a2" type="seg"/>
+  <edge id="c7" src="e3" trg="a3" type="seg"/>
+  <edge id="c8" src="e4" trg="a4" type="seg"/>
+  <edge id="c1" src="a1" trg="a4" type="reb"/>
+  <edge id="c2" src="a2" trg="a4" type="sup"/>
+  <edge id="c3" src="a3" trg="a4" type="sup"/>
+</arggraph>
+  

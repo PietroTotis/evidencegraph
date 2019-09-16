@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_b012" topic_id="school_uniforms" stance="pro">
+  <edu id="e1"><![CDATA[Alcuni possono trovare il concetto di uniforme scolasticha anacronistico,]]></edu>
+  <edu id="e2"><![CDATA[o possono vederlo come un intervento troppo forte nel margine decisionale di alunni e genitori.]]></edu>
+  <edu id="e3"><![CDATA[In realtà, tuttavia, si da il caso che già oggi gli alunni delle scuole apparentemente "uniform-free" indossino di fatto un'uniforme composta da alcuni capi di abbigliamento di marca.]]></edu>
+  <edu id="e4"><![CDATA[Un abito semplice e pratico calma l'immagine visiva complessiva della scuola e concentrerebbe l'attenzione sul carattere e sulle prestazioni degli studenti, non sul loro potere d'acquisto.]]></edu>
+  <adu id="a1" type="opp"/>
+  <adu id="a2" type="opp"/>
+  <adu id="a3" type="pro"/>
+  <adu id="a4" type="pro"/>
+  <edge id="c5" src="e1" trg="a1" type="seg"/>
+  <edge id="c6" src="e2" trg="a2" type="seg"/>
+  <edge id="c7" src="e3" trg="a3" type="seg"/>
+  <edge id="c8" src="e4" trg="a4" type="seg"/>
+  <edge id="c1" src="a1" trg="a4" type="reb"/>
+  <edge id="c2" src="a2" trg="a4" type="reb"/>
+  <edge id="c3" src="a3" trg="c2" type="und"/>
+</arggraph>

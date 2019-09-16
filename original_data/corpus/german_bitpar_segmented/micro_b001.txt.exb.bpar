@@ -1,0 +1,120 @@
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (S-SB
+        (ADV-MO\/V Ja)
+        (\$, ,)
+        (VP-RE
+          (NP-DA
+            (PPOSAT-HD-Dat.Pl seinen)
+            (NN-HD-Dat.Pl Müll))
+          (AP-MO\/pred
+            (ADV-MO\/0 immer)
+            (ADJD-HD-Pos\/0 ordentlich))
+          (VZ-HD
+            (PTKZU-PM zu)
+            (VVINF-HD trennen))))
+      (VAFIN-HD-Sg ist)
+      (ADJD-PD-Pos\/V nervig))
+    (KON-CD und)
+    (S-TOP\/nosubj
+      (NP-PD
+        (NN-HD-Nom.Sg.Fem mühselig))))
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (NP-SB\/Pl
+      (CARD-HD Drei)
+      (ADJA-HD-Pos.Nom.Pl.Neut verschiedene)
+      (NN-HD-Nom.Pl.Neut Müllbeutel)
+      (NE-HD-Nom.Sg müffeln))
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (PP-MO\/V
+          (APPR-AC\/Dat\/in in)
+          (ART-HD-Dat.Sg.Fem der)
+          (PN-HD
+            (CNP-PNC
+              (XY-PNC Küche)
+              (KON-CD und)
+              (XY-PNC müssen))))
+        (PP-MO\/V
+          (APPR-AC\/Acc\/in in)
+          (CARD-HD drei)
+          (ADJA-HD-Pos.Acc.Pl.Fem unterschiedliche)
+          (NN-HD-Acc.Pl.Fem Tonnen))
+        (VVPP-HD einsortiert))
+      (VAINF-HD werden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (AVP-MO\/V
+      (ADV-MO\/V Aber)
+      (ADV-MO\/V immer)
+      (ADV-HD\/V noch))
+    (VAFIN-HD-Sg wird)
+    (VP-OC\/inf
+      (CVP-OC\/pp
+        (VP-OC\/pp
+          (PP-MO\/V
+            (APPR-AC\/Dat\/in in)
+            (NE-HD-Dat.Sg.Neut Deutschland))
+          (NP-OA
+            (AP-HD
+              (ADV-MO\/0 viel)
+              (PTKA-MO zu)
+              (PIAT-HD viel))
+            (NN-HD-Fem Müll))
+          (VVPP-HD produziert))
+        (KON-CD und)
+        (VP-OC\/pp
+          (VP-OC\/inf
+            (NP-OA
+              (AP-HD-Acc.Pl.Fem
+                (PTKA-MO zu)
+                (PIAT-HD-Acc.Pl.Fem viele))
+              (NN-HD-Acc.Pl.Fem Ressourcen))
+            (VVINF-HD gehen))
+          (VVPP-HD verloren)
+          (\$, ,)
+          (S-MO
+            (KOUS-CP\/mo wenn)
+            (VP-OC\/pp
+              (ADV-MO\/V zusammen)
+              (VVPP-HD verbrannt))
+            (VAFIN-HD-Sg wird)
+            (\$, ,)
+            (S-SB
+              (PWS-SB-Nom.Sg.Neut was)
+              (AP-MO\/pred
+                (ADJD-MO-Pos\/0 getrennt)
+                (ADJD-HD-Pos\/0 eigentlich))
+              (VVFIN-HD-Sg verwertet)))))
+      (VAINF-HD werden)))
+  (XY-TOP könnte)
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (PPER-HD-Nom.Pl.Masc Wir)
+      (NN-HD-Nom.Pl.Masc Berliner))
+    (VMFIN-HD-Pl sollten)
+    (CVP-OC\/inf
+      (VP-OC\/inf
+        (NP-OA
+          (ART-HD-Acc.Sg.Fem die)
+          (NN-HD-Acc.Sg.Fem Chance))
+        (VVINF-HD nutzen))
+      (KON-CD und)
+      (VP-OC\/inf
+        (NP-PD
+          (NN-HD-Nom.Sg.Masc Vorreiter)
+          (PP-MNR\/N
+            (APPRART-AC-Dat.Sg.Neut\/in im)
+            (NN-HD-Dat.Sg.Neut Mülltrennen)))
+        (VAINF-HD werden))))
+  (\$. !))

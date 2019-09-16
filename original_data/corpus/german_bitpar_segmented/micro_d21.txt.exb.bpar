@@ -1,0 +1,79 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl.Fem Energiesparlampen))
+    (VVFIN-HD-Pl enthalten)
+    (NP-OA
+      (ART-HD-Acc.Sg.Fem eine)
+      (NN-HD-Acc.Sg.Fem beträchtliche))
+    (NP-MO
+      (NN-HD-Nom.Sg.Fem\/seq Menge)
+      (NN-HD-Nom.Sg.Neut Giftstoff)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Eine)
+      (NE-HD handelsübliche)
+      (NN-HD-Nom.Sg.Fem Lampe))
+    (VMFIN-HD-Sg kann)
+    (PP-MO\/V
+      (APPRART-AC-Dat.Sg.Neut z.)
+      (NN-HD-Dat.Sg.Neut B)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (AP-HD
+        (ADV-MO\/card bis)
+        (ADV-MO\/card zu)
+        (CARD-HD fünf))
+      (NN-HD-Neut\/seq Milligramm)
+      (NN-HD-Nom.Sg.Neut Quecksilber))
+    (ADJD-PD-Pos\/V enthalten))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PROAV-MO Deswegen)
+    (VMFIN-HD-Pl sollten)
+    (NP-SB\/Pl
+      (PPER-HD-Nom.Pl sie))
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (PP-SBP\/V
+          (APPRART-AC-Dat.Sg.Masc\/von vom)
+          (NN-HD-Dat.Sg.Masc Markt))
+        (VVPP-HD genommen))
+      (VAINF-HD werden)
+      (\$, ,)
+      (S-OC
+        (NP-SB\/Sg
+          (PPER-HD-Nom.Sg.Neut es))
+        (VAFIN-HD-Sg sei)
+        (AP-PD\/pred
+          (AP-MO
+            (ADV-MO\/0 denn)
+            (CH-HD
+              (FM-UC sie)
+              (FM-UC wären)))
+          (ADJD-HD-Pos\/0 unzerbrechlich)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KON-JU Aber)
+    (NP-SB\/Sg
+      (ADJD-MO-Pos\/N genau)
+      (PDS-HD-Nom.Sg.Neut das))
+    (VAFIN-HD-Sg ist)
+    (AVP-NG\/V
+      (ADV-MO\/V leider)
+      (PTKNEG-HD nicht))
+    (NP-PD
+      (ART-HD-Nom.Sg.Masc der)
+      (NN-HD-Nom.Sg.Masc Fall)))
+  (\$. .))

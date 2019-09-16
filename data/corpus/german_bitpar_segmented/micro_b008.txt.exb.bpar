@@ -1,0 +1,109 @@
+
+(TOP
+  (XY-TOP Natürlich)
+  (XY-TOP wäre)
+  (NP-TOP
+    (PPER-HD-Nom.Sg.Neut es))
+  (XY-TOP schön)
+  (S-TOP
+    (ADJD-PD-Pos\/V einfach)
+    (\$, ,)
+    (CS-MO
+      (S-MO
+        (KOUS-CP\/mo wenn)
+        (NP-SB\/Sg
+          (PPER-HD-Nom.Sg ich))
+        (PP-MO\/V
+          (APPR-AC\/Dat nach)
+          (ART-HD-Dat.Sg.Fem einer)
+          (ADJA-HD-Pos.Dat.Sg.Fem feuchtfröhlichen)
+          (NN-HD-Dat.Sg.Fem Nacht)
+          (PP-MNR\/N
+            (APPR-AC\/Dat mit)
+            (ART-HD-Dat.Sg.Fem der)
+            (NN-HD-Dat.Sg.Fem Disko-Bekanntschaft)
+            (PP-MNR\/N
+              (APPRART-AC-Dat.Sg.Masc am)
+              (ADJA-HD-Pos.Dat.Sg.Masc nächsten)
+              (NN-HD-Dat.Sg.Masc Morgen))))
+        (VP-OC\/inf
+          (AVP-MO\/V
+            (ADV-MO\/V nur)
+            (ADV-HD\/V noch))
+          (\$Par \")
+          (NP-OA
+            (ART-HD-Acc.Sg.Fem die)
+            (NN-HD-Acc.Sg.Fem Pille)
+            (PROAV-MNR danach))
+          (\$Par \")
+          (VVINF-HD nehmen))
+        (VVFIN-HD-Sg muss))
+      (KON-CD und)
+      (S-MO\/nosubj
+        (VP-OC\/inf
+          (VP-OC\/pp
+            (ADV-MO\/V dann)
+            (VVPP-HD beruhigt))
+          (VAINF-HD sein))
+        (VMFIN-HD-Sg kann))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KON-JU Doch)
+    (AVP-MO\/V
+      (ADV-MO\/V so)
+      (ADV-HD\/V einfach))
+    (VAFIN-HD-Sg ist)
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg.Neut es))
+    (PTKNEG-NG nicht))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Vielleicht)
+    (VAFIN-HD-Sg ist)
+    (VP-OC\/pp
+      (PP-MO\/V
+        (APPR-AC\/Dat\/in in)
+        (PDAT-HD-Dat.Sg.Fem dieser)
+        (NN-HD-Dat.Sg.Fem Nacht))
+      (ADV-MO\/V schon)
+      (NP-OA
+        (ART-HD-Acc.Sg.Neut ein)
+        (ADJA-HD-Pos.Acc.Sg.Neut neues)
+        (NN-HD-Acc.Sg.Neut Leben))
+      (VVPP-HD entstanden)))
+  (\$. .))
+
+(TOP
+  (CH-TOP
+    (FM-UC Ich)
+    (FM-UC würde)
+    (FM-UC es)
+    (FM-UC ohne)
+    (FM-UC Nachzudenken)
+    (FM-UC töten))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PROAV-MO Deshalb)
+    (VMFIN-HD-Sg sollte)
+    (CNP-SB
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Masc ein)
+        (NN-HD-Nom.Sg.Masc Besuch)
+        (PP-MNR\/N
+          (APPRART-AC-Dat.Sg.Masc beim)
+          (NN-HD-Dat.Sg.Masc Arzt)))
+      (KON-CD und)
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Fem die)
+        (NE-HD ärztliche)
+        (NN-HD-Nom.Sg.Fem Beratung)))
+    (VP-OC\/inf
+      (ADJD-MO-Pos\/V verpflichtend)
+      (VVINF-HD bleiben)))
+  (\$. .))

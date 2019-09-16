@@ -1,0 +1,8 @@
+LanguageTool scheint weiterentwickelter zu sein als andere ähnliche Korrekturprogramme (z.B. eingebaute Autokorrektur in Microsoft Office). 
+Soweit ich sehen kann (weder Englisch noch Deutsch ist meine Muttersprache), geht das Programm sehr gut mit Fehlern in Interpunktion und Grammatik um. 
+Allerdings ist das Ergebnis nicht so genau, wenn es um Dinge geht, die schwieriger zu formalisieren sind, wie Semantik oder lexikalische Kompatibilität. 
+So bestand das Programm beispielsweise darauf, die Komposita „Campusessen“ zu teilen.
+Ich glaube, sie hat es als „Campus Essen" interpretiert, ähnlich zu „Campus Golm “. 
+Es versuchte auch, „unterkochtes“ durch „untersuchtes“ zu ersetzen, was offensichtlich nicht viel Sinn macht.
+Aus Neugierde habe ich das Programm auch mit einigen russischen Texten ausgeführt. 
+Wie erwartet, funktioniert es aufgrund der strukturellen Komplexität des Russischen viel schlechter als mit Englisch oder Deutsch: Es erkennt nicht einmal offensichtliche Grammatikfehler (z. B. Deklination von Substantiven) und markiert einige der Neologismen (Wörter, die in der Sprache existieren, aber noch nicht in „kanonischen“ Wörterbüchern enthalten sind, zum Beispiel „vegan“) als orthografisch falsch.

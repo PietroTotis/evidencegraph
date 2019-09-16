@@ -1,0 +1,98 @@
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (PP-MO\/V
+        (APPR-AC Seit)
+        (VP-HD
+          (NP-OA
+            (NN-HD-Acc.Pl.Masc Menschen))
+          (VVINF-HD gedenken)))
+      (VVFIN-HD-Sg gibt)
+      (NP-EP
+        (PPER-HD-Nom.Sg.Neut\/ep es))
+      (NP-OA
+        (NN-HD-Acc.Pl.Fem Naturheilpraktiken)))
+    (\$, ,)
+    (S-TOP
+      (NP-SB\/Pl
+        (PPER-HD-Nom.Pl sie))
+      (VAFIN-HD-Pl waren)
+      (PTKNEG-NG nicht)
+      (AP-PD\/pred
+        (ADJD-MO-Pos\/0 generell)
+        (ADJD-HD-Pos\/0 wirkungslos))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Die)
+      (NN-HD-Nom.Sg.Fem Verringerung)
+      (PP-PG\/N
+        (APPR-AC\/Dat\/von von)
+        (AP-HD-Pos.Dat.Pl.Neut
+          (ADJD-MO-Pos\/0 chemisch)
+          (ADJA-HD-Pos.Dat.Pl.Neut hergestellten))
+        (NN-HD-Dat.Pl.Neut Medikamenten))
+      (PP-MNR\/N
+        (APPR-AC\/Acc pro)
+        (NN-HD-Acc.Sg.Fem Person)))
+    (VAFIN-HD-Sg ist)
+    (PP-MO\/V
+      (APPR-AC\/Acc\/auf auf)
+      (PIAT-HD-Acc.Sg.Masc jeden)
+      (NN-HD-Acc.Sg.Masc Fall))
+    (NP-PD
+      (NN-HD-Nom.Sg.Fem wünschenswert)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-DA
+      (ART-HD-Dat.Sg.Fem Der)
+      (NN-HD-Dat.Sg.Fem Pharmaindustrie))
+    (VMFIN-HD-Sg kann)
+    (NP-SB\/Sg
+      (PDS-HD-Nom.Sg.Neut dies))
+    (ADV-MO\/V nur)
+    (VP-OC\/inf
+      (NP-OA
+        (PIAT-HD wenig)
+        (NN-HD-Acc.Sg.Masc Schaden))
+      (VVINF-HD bringen)
+      (\$, ,)
+      (S-OC
+        (NP-SB\/Sg
+          (ADV-MO\/N auch)
+          (ART-HD-Nom.Sg.Fem die)
+          (NN-HD-Nom.Sg.Fem Schulmedizin))
+        (VAFIN-HD-Sg wird)
+        (VP-OC\/inf
+          (ADV-MO\/V kaum)
+          (PROAV-OP darunter)
+          (VVINF-HD leiden)))))
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc Der)
+      (NN-HD-Nom.Sg.Masc Patient)
+      (NE-HD könnte))
+    (VP-OC\/inf
+      (PROAV-OP daraus)
+      (VVINF-HD lernen)
+      (\$, ,)
+      (VP-OC\/zu
+        (NP-OA
+          (CNP-HD
+            (NE-HD-Nom.Sg.Fem gesünder)
+            (KON-CD und)
+            (NE-HD-Nom.Sg.Masc bewusster))
+          (PP-MNR\/N
+            (APPR-AC\/Dat mit)
+            (PPOSAT-HD-Dat.Sg.Neut seinem)
+            (NN-HD-Dat.Sg.Neut Körper)))
+        (VVIZU-HD umzugehen))))
+  (\$. .))

@@ -1,0 +1,66 @@
+1	Wann	_	wann	_	PWAV	_	_	-1	9	_	MO	_	_
+2	immer	_	immer	_	ADV	_	_	-1	3	_	MO	_	_
+3	Peter	_	Peter	_	NE	_	nom|sg|masc	-1	9	_	SB	_	_
+4	auf	_	auf	_	APPR	_	_	-1	9	_	MO	_	_
+5	einer	_	ein	_	ART	_	dat|sg|fem	-1	6	_	NK	_	_
+6	Party	_	Party	_	NN	_	dat|sg|fem	-1	4	_	NK	_	_
+7	eine	_	ein	_	ART	_	acc|sg|fem	-1	8	_	NK	_	_
+8	Exfreundin	_	Exfreundin	_	NN	_	acc|sg|fem	-1	9	_	OA	_	_
+9	trifft	_	treffen	_	VVFIN	_	sg|3|pres|ind	-1	11	_	MO	_	_
+10	,	_	--	_	$,	_	_	-1	9	_	--	_	_
+11	verzichtet	_	verzichten	_	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+12	er	_	er	_	PPER	_	nom|sg|masc|3	-1	11	_	SB	_	_
+13	vorsichtshalber	_	vorsichtshalber	_	ADV	_	_	-1	11	_	MO	_	_
+14	auf	_	auf	_	APPR	_	_	-1	11	_	OP	_	_
+15	weiteren	_	weit	_	ADJA	_	acc|sg|masc|comp	-1	16	_	NK	_	_
+16	Alkoholkonsum	_	Alkoholkonsum	_	NN	_	acc|sg|masc	-1	14	_	NK	_	_
+17	.	_	--	_	$.	_	_	-1	16	_	--	_	_
+
+1	Als	_	als	_	KOUS	_	_	-1	7	_	CP	_	_
+2	er	_	er	_	PPER	_	nom|sg|masc|3	-1	7	_	SB	_	_
+3	gestern	_	gestern	_	ADV	_	_	-1	7	_	MO	_	_
+4	von	_	von	_	APPR	_	_	-1	7	_	MO	_	_
+5	Ralfs	_	Ralf	_	NE	_	*|*|*	-1	6	_	PNC	_	_
+6	Party	_	Party	_	NE	_	dat|sg|fem	-1	4	_	NK	_	_
+7	heimkam	_	heimkommen	_	VVFIN	_	sg|3|past|ind	-1	9	_	MO	_	_
+8	,	_	--	_	$,	_	_	-1	7	_	--	_	_
+9	war	_	sein	_	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+10	er	_	er	_	PPER	_	nom|sg|masc|3	-1	9	_	SB	_	_
+11	immer	_	immer	_	ADV	_	_	-1	12	_	MO	_	_
+12	noch	_	noch	_	ADV	_	_	-1	9	_	MO	_	_
+13	stocknüchtern	_	stocknüchtern	_	ADJD	_	pos	-1	9	_	PD	_	_
+14	.	_	--	_	$.	_	_	-1	13	_	--	_	_
+
+1	Folglich	_	folglich	_	ADV	_	_	-1	2	_	MO	_	_
+2	muss	_	muss	_	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	eine	_	ein	_	PIS	_	nom|sg|fem	-1	2	_	SB	_	_
+4	seiner	_	sein	_	PPOSAT	_	gen|pl|fem	-1	5	_	NK	_	_
+5	Exfreundinnen	_	Exfreundin	_	NN	_	gen|pl|fem	-1	3	_	AG	_	_
+6	dort	_	dort	_	ADV	_	_	-1	7	_	PD	_	_
+7	gewesen	_	sein	_	VAPP	_	_	-1	8	_	OC	_	_
+8	sein	_	sein	_	VAINF	_	_	-1	2	_	OC	_	_
+9	.	_	--	_	$.	_	_	-1	8	_	--	_	_
+
+1	Zwar	_	zwar	_	ADV	_	_	-1	2	_	MO	_	_
+2	behauptet	_	behaupten	_	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	Ralf	_	Ralf	_	NE	_	nom|sg|*	-1	2	_	SB	_	_
+4	,	_	--	_	$,	_	_	-1	3	_	--	_	_
+5	dass	_	dass	_	KOUS	_	_	-1	10	_	CP	_	_
+6	sie	_	sie	_	PPER	_	nom|sg|fem|3	-1	10	_	SB	_	_
+7	gemeinsam	_	gemeinsam	_	ADJD	_	pos	-1	9	_	MO	_	_
+8	Eierlikör	_	Eierlikör	_	NN	_	acc|sg|neut	-1	9	_	OA	_	_
+9	getrunken	_	trinken	_	VVPP	_	_	-1	10	_	OC	_	_
+10	hätten	_	haben	_	VAFIN	_	pl|3|past|subj	-1	2	_	OC	_	_
+11	.	_	--	_	$.	_	_	-1	10	_	--	_	_
+
+1	Aber	_	aber	_	KON	_	_	-1	3	_	JU	_	_
+2	den	_	der	_	PDS	_	acc|sg|masc	-1	3	_	SB	_	_
+3	würde	_	werden	_	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+4	Peter	_	Peter	_	NE	_	nom|sg|masc	-1	9	_	OA	_	_
+5	auch	_	auch	_	ADV	_	_	-1	6	_	MO	_	_
+6	ohne	_	ohne	_	APPR	_	_	-1	9	_	MO	_	_
+7	Exfreundin	_	Exfreundin	_	NN	_	acc|sg|neut	-1	6	_	NK	_	_
+8	niemals	_	niemals	_	ADV	_	_	-1	9	_	MO	_	_
+9	anrühren	_	anrühren	_	VVINF	_	_	-1	3	_	OC	_	_
+10	.	_	--	_	$.	_	_	-1	9	_	--	_	_
+

@@ -1,0 +1,116 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Eine)
+      (NN-HD-Nom.Sg.Fem Bankenrettung))
+    (VVFIN-HD-Sg kostet)
+    (CAVP-MO
+      (ADV-MO\/0 sehr)
+      (\$, ,)
+      (ADV-MO\/0 sehr))
+    (NP-OA
+      (PIAT-HD viel)
+      (NN-HD-Acc.Sg.Neut Geld)))
+  (\$. .))
+
+(TOP
+  (XY-TOP Für)
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem die)
+      (NN-HD-Nom.Sg.Fem Pleitebank)
+      (PN-HD-Nom.Sg
+        (NE-PNC \'Hypo)
+        (NE-PNC Real)
+        (NE-PNC-Nom.Sg Estate)))
+    (\$Par \')
+    (VVFIN-HD-Sg stand)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc der)
+      (NN-HD-Nom.Sg.Masc Steuerzahler))
+    (PP-MO\/V
+      (APPRART-AC-Dat.Sg.Neut z.)
+      (NN-HD-Dat.Sg.Neut B)))
+  (\$. .))
+
+(TOP
+  (AP-TOP\/pred
+    (PP-MO\/0
+      (APPR-AC\/Dat mit)
+      (ART-HD-Dat.Sg.Masc einem)
+      (ADJA-HD-Pos.Dat.Sg.Masc dreistelligen)
+      (NN-HD-Dat.Sg.Masc Milliardenbetrag))
+    (ADJD-HD-Pos\/0 ein))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PROAV-MO Deswegen)
+    (VMFIN-HD-Pl sollten)
+    (NP-SB\/Pl
+      (PPER-HD-Nom.Pl wir))
+    (PRF-DA-Dat.Pl uns)
+    (NP-OA
+      (ADJA-HD-Comp.Acc.Pl.Fem weitere)
+      (NN-HD-Acc.Pl.Fem Bankenrettungen))
+    (PTKNEG-NG nicht)
+    (VP-OC\/inf
+      (VVINF-HD erlauben)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Die)
+      (NN-HD-Nom.Sg.Fem Politik))
+    (VVFIN-HD-Sg versucht)
+    (NP-DA
+      (PPER-HD-Dat.Pl uns))
+    (VP-OC\/zu
+      (PROAV-MO damit)
+      (VZ-HD
+        (PTKZU-PM zu)
+        (VVINF-HD beruhigen)))
+    (\$, ,)
+    (S-SB
+      (KOUS-CP\/sb dass)
+      (NP-SB\/Sg
+        (PIS-HD-Nom.Sg man))
+      (AVP-MO\/V
+        (ADV-MO\/V eigentlich)
+        (ADV-HD\/V nur))
+      (NP-OA
+        (ART-HD-Acc.Sg.Masc einen)
+        (ADJA-HD-Pos.Acc.Sg.Masc kleinen)
+        (NN-HD-Acc.Sg.Masc Teil)
+        (NP-AG
+          (ART-HD-Gen.Sg.Masc des)
+          (ADJA-HD-Pos.Gen.Sg.Masc vielen)
+          (NN-HD-Gen.Sg.Masc Geldes)))
+      (ADJD-MO-Pos\/V wirklich)
+      (NP-OA
+        (NN-HD-Acc.Sg.Fem ausgäbe))))
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (PP-MO\/V
+      (ADV-MO\/N Auch)
+      (APPR-AC\/Dat mit)
+      (PDAT-HD-Dat.Sg.Masc diesem)
+      (ADJA-HD-Pos.Dat.Sg.Masc kleinen)
+      (NN-HD-Dat.Sg.Masc Teil)
+      (CARD-HD könnte))
+    (NP-SB\/Sg
+      (PIS-HD-Nom.Sg man))
+    (VP-OC\/inf
+      (PP-MO\/V
+        (APPR-AC\/Dat an)
+        (ADJA-HD-Pos.Dat.Sg.Fem anderer)
+        (NN-HD-Dat.Sg.Fem Stelle))
+      (NP-OA
+        (PIAT-HD viel)
+        (NN-HD-Acc.Sg.Neut Gutes))
+      (VVINF-HD tun)))
+  (\$. .))

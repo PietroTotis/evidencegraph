@@ -1,0 +1,92 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (S-RE
+        (NP-SB\/Pl
+          (ART-HD-Nom.Pl.Neut Die)
+          (NN-HD-Nom.Pl.Neut Geheimdienste)
+          (NP-MNR
+            (NN-HD-Nom.Sg.Masc müssen)
+            (CARD-HD dringend)
+            (XY-MNR stärker)))
+        (VP-OC\/pp
+          (PP-SBP\/V
+            (APPRART-AC-Dat.Sg.Neut\/von vom)
+            (NN-HD-Dat.Sg.Neut Parlament))
+          (VVPP-HD kontrolliert))
+        (VAFIN-HD-Pl werden))
+      (\$, ,)
+      (PDS-PH-Nom.Sg.Neut das))
+    (VMFIN-HD-Sg sollte)
+    (VP-OC\/inf
+      (NP-DA
+        (PIS-HD-Dat.Sg.Masc jedem)
+        (PP-MNR\/N
+          (APPR-AC\/Dat nach)
+          (ART-HD-Dat.Pl den)
+          (NN-HD-Dat.Pl Enthüllungen)))
+      (PP-MO\/V
+        (APPR-AC\/von von)
+        (PN-HD-Dat.Sg.Masc
+          (NE-PNC-Nom.Sg.Masc Edward)
+          (NE-PNC-Dat.Sg.Masc Snowden)))
+      (ADJD-PD-Pos\/V klar)
+      (VAINF-HD sein)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (PDS-HD-Nom.Pl Die))
+    (VVFIN-HD-Pl betreffen)
+    (ADV-MO\/V zwar)
+    (NP-SB\/Pl
+      (PP-MO\/N
+        (APPR-AC\/Dat vor)
+        (PIS-HD-Dat.Sg.Neut allem))
+      (ART-HD-Nom.Pl.Masc die)
+      (CAP-HD-Pos.Nom.Pl.Masc
+        (ADJA-HD-Pos.Nom.Pl.Masc britischen)
+        (KON-CD und)
+        (ADJA-HD-Pos.Nom.Pl.Masc amerikanischen))
+      (NN-HD-Nom.Pl.Masc Geheimdienste))
+    (\$, ,)
+    (PP-MO\/V
+      (ADV-MO\/N aber)
+      (APPR-AC\/Dat mit)
+      (PDS-HD-Dat.Pl denen))
+    (VVFIN-HD-Pl arbeiten)
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl die)
+      (NN-HD-Nom.Pl Deutschen))
+    (NP-MO
+      (NN-HD-Nom.Sg.Fem Dienste)
+      (CARD-HD bekanntermaßen))
+    (ADJD-MO-Pos\/V eng)
+    (PTKVZ-SVP zusammen))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (PDS-AG-Gen.Sg.Fem Deren)
+      (NN-HD-Nom.Sg.Fem Werkzeuge)
+      (\$, ,)
+      (CNP-PAR
+        (NP-PAR\/chain
+          (NN-HD-Nom.Pl.Neut Daten))
+        (KON-CD und)
+        (PN-PAR\/chain-Nom.Sg.Neut
+          (NE-HD-Nom.Sg.Neut Knowhow))))
+    (VAFIN-HD-Sg wird)
+    (VP-OC\/pp
+      (AVP-MO\/V
+        (ADV-MO\/V schon)
+        (ADV-HD\/V lange))
+      (PP-MO\/V
+        (APPR-AC\/Dat zu)
+        (PPOSAT-HD-Dat.Sg.Fem unserer)
+        (NN-HD-Dat.Sg.Fem Überwachung))
+      (VVPP-HD genutzt)))
+  (\$. .))

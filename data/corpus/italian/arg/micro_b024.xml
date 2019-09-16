@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_b024" topic_id="cap_rent_increases" stance="pro">
+  <edu id="e1"><![CDATA[Va messa fine agli affitti esorbitanti, imponendo un limite all'aumento del canone d'affitto al cambio degli inquilini.]]></edu>
+  <edu id="e2"><![CDATA[Trovare uno spazio per vivere a prezzi accessibili è ormai raro.]]></edu>
+  <edu id="e3"><![CDATA[Per di più un alto grado di lusso (appartamenti costosi) non è necessario per la maggior parte delle persone, che invece avrebbero bisogno semplicemente di una casa.]]></edu>
+  <edu id="e4"><![CDATA[Inoltre ognuno durante la propria vita deve traslocare circa 3-10 volte,]]></edu>
+  <edu id="e5"><![CDATA[perché la dimensione dell'abitazione desiderata cambia nel corso della vita.]]></edu>
+  <adu id="a1" type="pro"/>
+  <adu id="a2" type="pro"/>
+  <adu id="a3" type="pro"/>
+  <adu id="a4" type="pro"/>
+  <adu id="a5" type="pro"/>
+  <edge id="c6" src="e1" trg="a1" type="seg"/>
+  <edge id="c7" src="e2" trg="a2" type="seg"/>
+  <edge id="c8" src="e3" trg="a3" type="seg"/>
+  <edge id="c9" src="e4" trg="a4" type="seg"/>
+  <edge id="c10" src="e5" trg="a5" type="seg"/>
+  <edge id="c2" src="a2" trg="a1" type="sup"/>
+  <edge id="c3" src="a3" trg="a1" type="sup"/>
+  <edge id="c4" src="a4" trg="a1" type="sup"/>
+  <edge id="c5" src="a5" trg="a4" type="sup"/>
+</arggraph>    

@@ -1,0 +1,114 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg Ich))
+    (VVFIN-HD-Sg glaube)
+    (\$, ,)
+    (S-OC
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Masc der)
+        (NE-HD-Nom.Sg.Masc Fritz))
+      (VAFIN-HD-Sg hat)
+      (ADJD-MO-Pos\/V sich)
+      (PP-MO\/V
+        (APPR-AC\/Dat\/in in)
+        (PPOSAT-HD-Dat.Sg.Neut seinem)
+        (NN-HD-Dat.Sg.Neut Leben))
+      (AVP-MO\/V
+        (ADV-MO\/V noch)
+        (ADV-HD\/V nie))
+      (NP-PD
+        (NN-HD-Nom.Sg.Fem geprügelt))))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-SB\/Sg
+        (PPER-HD-Nom.Sg.Masc Er))
+      (VMFIN-HD-Sg soll)
+      (PRF-OA-Acc.Sg sich)
+      (ADV-MO\/V ja)
+      (VP-OC\/inf
+        (VP-OC\/pp
+          (PP-MO\/V
+            (APPR-AC\/Nom als)
+            (NN-HD-Nom.Sg.Masc Junge))
+          (CAVP-MO
+            (ADV-MO\/0 hin)
+            (KON-CD und)
+            (ADV-MO\/0 wieder))
+          (PP-MO\/V
+            (APPR-AC\/Dat mit)
+            (ADJA-HD-Pos.Dat.Pl.Fem anderen)
+            (NN-HD-Dat.Pl.Fem Chorknaben))
+          (VVPP-HD gebalgt))
+        (VAINF-HD haben)))
+    (\$, ,)
+    (KON-CD aber)
+    (S-TOP
+      (NP-OA
+        (PDS-HD-Acc.Sg.Neut das))
+      (VAFIN-HD-Sg wird)
+      (NP-SB\/Sg
+        (PIS-HD-Nom.Sg man))
+      (VP-OC\/inf
+        (VP-OC\/inf
+          (ADV-MO\/V ja)
+          (ADV-MO\/V wohl)
+          (ADV-MO\/V kaum)
+          (PP-MO\/V
+            (APPR-AC\/Nom als)
+            (ADJA-HD-Pos.Nom.Sg.Fem richtige)
+            (NN-HD-Nom.Sg.Fem Schlägerei))
+          (VVINF-HD durchgehen))
+        (VVINF-HD lassen))))
+  (\$. .))
+
+(TOP
+  (XY-TOP Außerdem)
+  (XY-TOP verdrückt)
+  (S-TOP
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg.Masc er))
+    (VVFIN-HD-Sg sich)
+    (AP-MO\/pred
+      (AP-MO
+        (ADV-MO\/0 meistens)
+        (CH-HD
+          (FM-UC gleich)
+          (FM-UC wenn\'s)))
+      (ADJD-HD-Pos\/0 brenzlig)
+      (S-CC
+        (VAFIN-HD-Sg wird))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (S-MO
+      (ADV-MO\/V Gestern)
+      (\$, ,)
+      (S-MO
+        (KOUS-CP\/mo als)
+        (PRF-DA-Dat.Pl uns)
+        (NP-OA
+          (ART-HD-Acc.Sg.Fem die)
+          (NN-HD-Acc.Sg.Fem Türsteher))
+        (AVP-NG\/V
+          (ADV-MO\/V erst)
+          (PTKNEG-HD nicht))
+        (VP-OC\/inf
+          (VVINF-HD reinlassen))
+        (VMFIN-HD-Pl wollten)))
+    (\$, ,)
+    (ADV-MO\/V da)
+    (VAFIN-HD-Sg war)
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg.Masc er))
+    (ADV-MO\/V auch)
+    (ADV-MO\/V ganz)
+    (NP-SB
+      (NN-HD plötzlich))
+    (PTKVZ-SVP weg))
+  (\$. .))

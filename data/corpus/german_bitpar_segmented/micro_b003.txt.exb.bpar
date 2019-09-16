@@ -1,0 +1,122 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl.Fem Die)
+      (NN-HD-Nom.Pl.Fem Krankenkassen))
+    (VMFIN-HD-Pl sollten)
+    (NP-OA
+      (NN-HD-Acc.Pl.Fem Behandlungen)
+      (PP-MNR\/N
+        (APPRART-AC-Dat.Sg.Neut beim)
+        (CNP-HD
+          (TRUNCCap-HD Natur-)
+          (KON-CD oder)
+          (NN-HD-Nom.Sg.Masc Heilpraktiker))))
+    (PTKNEG-NG nicht)
+    (VP-OC\/inf
+      (VVINF-HD zahlen)
+      (\$, ,)
+      (CS-OC
+        (S-OC
+          (NP-PH
+            (PPER-HD-Nom.Sg.Neut es))
+          (VAFIN-HD-Sg sei)
+          (ADV-MO\/V denn)
+          (NP-PD
+            (ART-HD-Nom.Sg.Masc der)
+            (ADJA-HD-Pos.Nom.Sg.Masc versprochene)
+            (NN-HD-Nom.Sg.Masc Effekt)))
+        (KON-CD und)
+        (S-OC
+          (NP-SB\/Sg
+            (AP-HD-Pos.Nom.Sg.Masc
+              (NP-OG
+                (PDS-HD-Gen.Sg dessen))
+              (ADJA-HD-Pos.Nom.Sg.Masc medizinischer))
+            (NN-HD-Nom.Sg.Masc Nutzen))
+          (VAFIN-HD-Pl sind)
+          (VP-OC\/pp
+            (ADJD-MO-Pos\/V handfest)
+            (VVPP-HD nachgewiesen))))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ADV-MO\/N Genau)
+      (PDAT-HD-Nom.Sg.Masc dieser)
+      (NN-HD-Nom.Sg.Masc Nachweis))
+    (VVFIN-HD-Sg fehlt)
+    (ADV-MO\/V jedoch)
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in in)
+      (ART-HD den)
+      (PIAT-HD meisten)
+      (NN-HD-Dat.Sg.Fem Fällen)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Zwar)
+    (VVFIN-HD-Pl verweisen)
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl.Masc die)
+      (NN-HD-Nom.Pl.Masc Patienten))
+    (ADV-MO\/V oft)
+    (PP-OP\/V
+      (APPR-AC\/Acc\/auf auf)
+      (ART-HD-Acc.Sg.Fem eine)
+      (NN-HD-Acc.Sg.Fem Linderung)
+      (NP-AG
+        (PPOSAT-HD-Gen.Pl.Fem ihrer)
+        (NN-HD-Gen.Pl.Fem Beschwerden)))
+    (PP-MO\/V
+      (APPR-AC\/Dat nach)
+      (ADJA-HD-Pos.Dat.Pl.Fem derartigen)
+      (NN-HD-Dat.Pl.Fem Behandlungen)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (S-MO
+      (KOUS-CP\/mo Solange)
+      (ADV-MO\/V aber)
+      (PTKNEG-NG nicht)
+      (ADJD-PD-Pos\/V klar)
+      (VAFIN-HD-Sg ist)
+      (\$, ,)
+      (S-SB
+        (PWAV-MO wieso)
+        (NP-EP
+          (PPER-HD-Nom.Sg.Neut\/ep es))
+        (PROAV-MO dazu)
+        (VVFIN-HD-Sg kommt)))
+    (\$, ,)
+    (VMFIN-HD-Sg sollte)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Neut das)
+      (NN-HD-Nom.Sg.Neut Geld))
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (AP-MO\/pred
+          (ADJD-HD-Comp\/0 besser))
+        (NP-OA
+          (CARD-HD für)
+          (NN-HD-Acc.Pl.Fem Behandlungen))
+        (VVPP-HD ausgegeben))
+      (VAINF-HD werden)
+      (\$, ,)
+      (S-RC
+        (PP-MO\/V\/rel
+          (APPR-AC\/Dat bei)
+          (PRELS-HD-Dat.Pl.Fem denen))
+        (NP-SB\/Sg
+          (PIS-HD-Nom.Sg man))
+        (NP-OA
+          (PPER-HD-Acc.Sg.Neut es))
+        (PP-MO\/V
+          (APPR-AC\/Dat mit)
+          (NN-HD-Dat.Sg.Fem Sicherheit))
+        (VVFIN-HD-Sg weiss))))
+  (\$. .))

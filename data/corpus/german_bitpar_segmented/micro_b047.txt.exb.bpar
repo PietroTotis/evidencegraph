@@ -1,0 +1,108 @@
+
+(TOP
+  (S-TOP
+    (NP-PD
+      (ART-HD-Nom.Sg.Fem Die)
+      (\$Par \")
+      (CH-HD
+        (FM-UC Pille)
+        (FM-UC danach))
+      (\$Par \"))
+    (VAFIN-HD-Sg hat)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem eine)
+      (NN-HD-Nom.Sg.Fem Vielzahl)
+      (PP-PG\/N
+        (APPR-AC\/Dat\/von von)
+        (NN-HD-Dat.Pl.Fem Nebenwirkungen))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Eine)
+      (ADJA-HD-Pos.Nom.Sg.Fem differenzierte)
+      (NN-HD-Nom.Sg.Fem Auseinandersetzung)
+      (PP-MNR\/N
+        (APPR-AC\/Dat mit)
+        (NN-HD-Dat.Pl.Fem Nebenwirkungen)))
+    (VAFIN-HD-Sg ist)
+    (VP-OC\/zu
+      (PP-MO\/V
+        (APPRART-AC-Dat.Sg.Masc\/von vom)
+        (NN-HD-Dat.Sg.Masc Laien))
+      (PP-MO\/V
+        (APPR-AC\/Acc ohne)
+        (CARD-HD ärztliche)
+        (NN-HD-Acc.Sg.Fem Beratung))
+      (PTKNEG-NG nicht)
+      (VZ-HD
+        (PTKZU-PM zu)
+        (VVINF-HD leisten))))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (ADV-MO\/V Jedoch)
+      (VAFIN-HD-Pl sind)
+      (NP-SB\/Pl
+        (PDS-HD-Nom.Pl diese))
+      (VP-OC\/zu
+        (PP-MO\/V
+          (APPR-AC\/Dat\/auf auf)
+          (ART-HD-Dat.Sg.Fem der)
+          (NN-HD-Dat.Sg.Fem Verpackungsbeilage))
+        (PP-OP\/V
+          (APPR-AC\/Acc ohne)
+          (PIS-HD-Acc.Sg.Neut weiteres))
+        (VVIZU-HD nachzulesen)))
+    (KON-CD und)
+    (S-TOP\/nohead
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Masc der)
+        (NN-HD-Nom.Sg.Masc Wunsch)
+        (NP-AG
+          (ART-HD-Gen.Sg.Neut des)
+          (ADJA-HD-Pos.Gen.Sg.Neut frühen)
+          (NN-HD-Gen.Sg.Neut Schwangerschaftsabbruchs)))
+      (NP-OA
+        (ART-HD-Acc.Sg.Neut ein)
+        (NN-HD-Acc.Sg.Neut Recht)
+        (NP-AG
+          (ART-HD-Gen.Sg.Fem einer)
+          (CNP-HD
+            (NP-HD
+              (PIAT-HD-Acc.Sg.Masc jeden)
+              (NN-HD-Acc.Sg.Masc Frau)))))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Die)
+      (CH-HD
+        (FM-UC \")
+        (FM-UC Pille)
+        (FM-UC danach)
+        (FM-UC \")))
+    (VMFIN-HD-Sg sollte)
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (PP-MO\/V
+          (ADV-MO\/N nur)
+          (APPR-AC\/Dat nach)
+          (NN-HD-Dat.Sg.Fem Beratung))
+        (PP-MO\/V
+          (APPR-AC\/durch durch)
+          (CNP-HD
+            (NP-HD
+              (ART-HD-Acc.Sg.Masc einen)
+              (NN-HD-Acc.Sg.Masc Arzt))
+            (KON-CD oder)
+            (NP-HD
+              (ART-HD-Acc.Sg.Masc einen)
+              (NN-HD-Acc.Sg.Masc Apotheker))))
+        (VVPP-HD verschrieben))
+      (VAINF-HD werden)))
+  (\$. .))

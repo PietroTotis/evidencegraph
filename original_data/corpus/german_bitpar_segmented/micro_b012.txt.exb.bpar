@@ -1,0 +1,132 @@
+
+(TOP
+  (CS-TOP
+    (S-TOP\/nohead
+      (NP-SB\/Pl
+        (PIAT-HD-Nom.Pl Manche)
+        (NN-HD-Nom.Pl mögen))
+      (VP-OC\/inf
+        (NP-OA
+          (ART-HD-Acc.Sg.Neut das)
+          (NN-HD-Acc.Sg.Neut Konzept)
+          (NP-AG
+            (ART-HD-Gen.Sg.Fem der)
+            (NN-HD-Gen.Sg.Fem Schul-Uniform)))
+        (ADJD-MO-Pos\/V anachronistisch)
+        (VVINF-HD finden)))
+    (\$, ,)
+    (KON-CD oder)
+    (S-TOP\/nohead\/nosubj
+      (PP-MO\/V
+        (APPR-AC\/Acc als)
+        (ART-HD-Acc.Sg.Masc einen)
+        (AP-HD-Pos.Acc.Sg.Masc
+          (PTKA-PM zu)
+          (ADJA-HD-Pos.Acc.Sg.Masc starken))
+        (NN-HD-Acc.Sg.Masc Eingriff))
+      (VP-OC\/inf
+        (PP-MO\/V
+          (APPR-AC\/Acc\/in in)
+          (ART-HD-Acc.Sg.Masc den)
+          (NN-HD-Acc.Sg.Masc Entscheidungsspielraum)
+          (PP-PG\/N
+            (APPR-AC\/Dat\/von von)
+            (CNP-HD\/Dat
+              (NN-HD-Dat.Pl Schülern)
+              (KON-CD und)
+              (NN-HD-Dat.Pl Eltern))))
+        (VVINF-HD begreifen))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in In)
+      (ART-HD-Dat.Sg.Fem der)
+      (NN-HD-Dat.Sg.Fem Tat))
+    (VAFIN-HD-Sg ist)
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg.Neut es))
+    (AVP-MO\/V
+      (ADV-MO\/V jedoch)
+      (ADV-HD\/V heute))
+    (ADV-MO\/V schon)
+    (ADV-MO\/V so)
+    (\$, ,)
+    (S-OC
+      (KOUS-CP\/oc dass)
+      (NP-SB\/Pl
+        (ART-HD-Nom.Pl die)
+        (NN-HD-Nom.Pl Schüler))
+      (AP-MO\/pred
+        (ADV-MO\/0 auch)
+        (ADJD-MO-Pos\/0 vermeintlich)
+        (\$Par \")
+        (ADJD-HD-Comp\/0 Uniform-freier))
+      (\$Par \")
+      (VVFIN-HD-Pl Schulen)
+      (PP-MO\/V
+        (APPRART-AC-Dat.Sg.Neut\/in im)
+        (NN-HD-Dat.Sg.Neut Prinzip))
+      (NP-OA
+        (ART-HD-Acc.Sg.Fem eine)
+        (NN-HD-Acc.Sg.Fem Uniform))
+      (VVFIN-HD-Pl tragen)
+      (\$, ,)
+      (S-RC
+        (NP-SB\/Sg\/rel
+          (PRELS-HD-Nom.Sg.Fem die))
+        (PP-MO\/V
+          (APPR-AC\/Dat aus)
+          (ADJA-HD-Pos.Dat.Pl.Fem bestimmten)
+          (NN-HD-Dat.Pl.Fem Markenklamotten))
+        (VVFIN-HD-Sg besteht))))
+  (\$. .))
+
+(TOP
+  (CVP-TOP
+    (VP-TOP
+      (NP-DA
+        (NP-HD
+          (ART-HD-Acc.Sg.Neut Ein)
+          (AP-HD-Pos.Acc.Sg.Neut
+            (ADV-MO\/0 einfach)
+            (CAP-HD-Pos.Acc.Sg.Neut
+              (ADJA-HD-Pos.Acc.Sg.Neut gestaltetes)
+              (\$, ,)
+              (ADJA-HD-Pos.Acc.Sg.Neut praktisches)))
+          (NN-HD-Acc.Sg.Neut Outfit))
+        (NN-HD-Dat.Pl würde))
+      (NP-OA
+        (ART-HD-Acc.Sg.Neut das)
+        (ADJA-HD-Pos.Acc.Sg.Neut visuelle)
+        (NN-HD-Acc.Sg.Neut Gesamtbild)
+        (NP-AG
+          (ART-HD-Gen.Sg.Fem der)
+          (NN-HD-Gen.Sg.Fem Schule)))
+      (VVINF-HD beruhigen))
+    (\$, ,)
+    (KON-CD und)
+    (VP-TOP
+      (NP-OA
+        (ART-HD-Acc.Sg.Masc den)
+        (NN-HD-Acc.Sg.Masc Fokus)
+        (PP-MNR\/N
+          (APPR-AC\/Acc\/auf auf)
+          (CNP-HD\/Acc
+            (NN-HD-Acc.Sg.Masc Charakter)
+            (KON-CD und)
+            (NN-HD-Acc.Pl.Fem Leistungen))
+          (NP-AG
+            (ART-HD-Gen.Pl.Masc der)
+            (CARD-HD Schüler)
+            (\$Par -)
+            (CNP-APP
+              (KON-CD und)
+              (NP-APP
+                (PTKNEG-NG nicht)
+                (PPOSAT-HD-Nom.Sg.Fem ihre)
+                (NN-HD-Nom.Sg.Fem Kaufkraft)))
+            (\$Par -))))
+      (VVINF-HD lenken)))
+  (\$. .))

@@ -1,0 +1,117 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Die)
+      (NN-HD-Nom.Sg.Fem Todestrafe))
+    (VAFIN-HD-Sg ist)
+    (NP-PD
+      (PIAT-HD-Nom.Sg.Fem keine)
+      (NN-HD-Nom.Sg.Fem Lösung))
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo weil)
+      (NP-SB\/Sg
+        (PPER-HD-Nom.Sg.Neut es))
+      (VP-OC\/zu
+        (PTKNEG-NG nicht)
+        (VVIZU-HD auszuschliessen))
+      (VAFIN-HD-Sg ist)
+      (\$, ,)
+      (S-OC
+        (KOUS-CP\/oc dass)
+        (NP-SB\/Sg
+          (ART-HD-Nom.Sg.Fem die)
+          (NN-HD-Nom.Sg.Fem Justiz))
+        (VP-OC\/inf
+          (PRF-OA-Acc.Sg sich)
+          (PTKNEG-NG nicht)
+          (VVINF-HD irren))
+        (VMFIN-HD-Sg kann))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl Die)
+      (NN-HD-Nom.Pl Straftäter))
+    (VMFIN-HD-Pl sollten)
+    (VP-OC\/inf
+      (ADV-MO\/V jedoch)
+      (PTKNEG-NG nicht)
+      (PP-CVC\/V
+        (APPR-AC\/Acc\/in in)
+        (NN-HD-Acc.Sg.Fem Luxus-Gefängnissen))
+      (VVINF-HD sitzen)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-EP
+      (PPER-HD-Nom.Sg.Neut\/ep Es))
+    (VVFIN-HD-Sg gibt)
+    (NP-OA
+      (CARD-HD nämlich)
+      (NN-HD-Fem Straftäter)
+      (\$, ,)
+      (S-RC
+        (NP-SB\/Pl\/rel
+          (PRELS-HD-Nom.Pl.Masc die))
+        (PP-MO\/V
+          (APPR-AC\/Acc gegen)
+          (ADJA-HD-Pos.Acc.Sg.Fem gute)
+          (NN-HD-Acc.Sg.Fem Verpflegung)
+          (\$, ,)
+          (S-PAR\/nohead
+            (NP-SB\/Pl
+              (PIAT-HD-Nom.Pl.Fem keine)
+              (NN-HD-Nom.Pl.Fem Steuern)
+              (\$, ,)
+              (S-RC
+                (NP-SB\/Pl\/rel
+                  (PRELS-HD-Nom.Pl.Masc die))
+                (VP-OC\/pp
+                  (VVPP-HD bezahlt))
+                (VAFIN-HD-Pl werden)))
+            (PN-MO-Nom.Sg.Fem
+              (NE-HD-Nom.Sg.Fem müssen))))
+        (\$, ,)
+        (AP-MO\/nohead
+          (NP-OA
+            (PIAT-HD-Acc.Sg.Neut kein)
+            (NN-HD-Acc.Sg.Neut Stress))
+          (PP-MO\/0
+            (APPR-AC\/Acc\/um um)
+            (ART-HD-Acc.Sg.Fem die)
+            (NN-HD-Acc.Sg.Fem Arbeit)))
+        (\$, ,)
+        (ADV-MO\/V gerne)
+        (PP-MO\/V
+          (APPR-AC\/Dat\/in in)
+          (ART-HD-Dat.Pl den)
+          (NN-HD-Dat.Pl Gefängnissen))
+        (\$Par \")
+        (VVFIN-HD-Pl leben)
+        (\$Par \"))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (S-OC
+      (PROAV-MO Trotzdem)
+      (VVFIN-HD-Sg braucht)
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Masc der)
+        (NN-HD-Nom.Sg.Masc Staat)))
+    (VVFIN-HD-Sg braucht)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem die)
+      (NN-HD-Nom.Sg.Fem Todesstrafe))
+    (PP-MO\/V
+      (APPR-AC\/Nom als)
+      (NN-HD-Dat.Sg.Fem Abschreckung)
+      (NE-HD-Nom.Sg für))
+    (NP-OA
+      (ADJA-HD-Pos.Acc.Pl.Fem abscheuliche)
+      (NN-HD-Acc.Pl.Fem Straftaten)))
+  (\$. .))

@@ -80,7 +80,7 @@ class MstTest(unittest.TestCase):
 
         cycle = greedy.find_cycle()
         if not cycles_and_edges:
-            self.assert_(cycle is None)
+            self.assertTrue(cycle is None)
             return greedy
 
         cycle_length, num_compact_edges = cycles_and_edges.pop(0)
@@ -99,13 +99,13 @@ class MstTest(unittest.TestCase):
                                           num_compact_edges,
                                           cycles_and_edges)
         logging.info(again.dot('again'))
-        self.assert_(again.find_cycle() is None)
+        self.assertTrue(again.find_cycle() is None)
         self.assertEqual(num_nodes - cycle_length + 1, len(again.successors))
         self.assertEqual(num_nodes - cycle_length, len(tuple(again.iteredges())))
 
         merged = graph.merge(again, new_id, old_edges, cycle)
         logging.info(merged.dot('merged'))
-        self.assert_(merged.find_cycle() is None)
+        self.assertTrue(merged.find_cycle() is None)
         self.assertEqual(num_nodes, len(merged.successors))
         self.assertEqual(num_nodes - 1, len(tuple(merged.iteredges())))
 

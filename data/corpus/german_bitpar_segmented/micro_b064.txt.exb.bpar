@@ -1,0 +1,144 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg Ich))
+    (VVFIN-HD-Sg glaube)
+    (\$, ,)
+    (S-OC
+      (PN-SB-Nom.Sg.Neut
+        (NE-HD-Nom.Sg.Neut Berlin))
+      (VAFIN-HD-Sg hatte)
+      (NP-PD
+        (PP-MNR\/N
+          (APPR-AC mit)
+          (CARD-HD zwei)
+          (NN-HD-Neut innerstädtisch))
+        (CARD-HD Flughäfen)
+        (NN-HD-Neut Glück))
+      (VP-RE
+        (PP-MO\/V
+          (APPR-AC\/Dat\/in in)
+          (NN-HD-Dat.Pl.Neut Jahrzehnten))
+        (VP-OC\/inf
+          (NP-OA
+            (PIAT-HD-Acc.Sg.Fem keine)
+            (NN-HD-Acc.Sg.Fem Flugzeugkatastrophe))
+          (VVINF-HD erleben))
+        (VZ-HD
+          (PTKZU-PM zu)
+          (ADJA-HD-Pos.Dat.Sg.Fem müssen)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PP-MO\/V
+      (ADV-MO\/N Schon)
+      (APPR-AC\/Dat aus)
+      (NE-HD-Dat.Sg Sicherheitgründen))
+    (VVFIN-HD-Sg halte)
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg ich))
+    (NP-OA
+      (ART-HD-Acc.Sg.Masc den)
+      (NN-HD-Acc.Sg.Masc Weiterbetrieb)
+      (XY-HD für))
+    (ADJD-MO-Pos\/V falsch))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ADV-MO\/N Auch)
+      (PN-HD-Nom.Sg.Neut
+        (NE-PNC benötigt)
+        (NE-PNC-Nom.Sg.Neut Berlin)))
+    (ADJD-MO-Pos\/V dringend)
+    (NP-PD
+      (NP-HD
+        (NP-HD
+          (NN-HD-Fem innerstädtische)
+          (XY-HD Flächen)
+          (CARD-HD für))
+        (CNP-HD
+          (NP-HD
+            (ADJA-HD-Pos.Nom.Sg.Neut produzierendes)
+            (NN-HD-Nom.Sg.Neut Gewerbe))
+          (KON-CD und)
+          (CNP-HD
+            (NN-HD-Nom.Sg.Fem Industrie)
+            (KON-CD und)
+            (NN-HD-Nom.Sg.Fem für))))
+      (NN-HD-Nom.Pl.Fem Wohnungen)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Die)
+      (NN-HD-Nom.Sg.Fem Schließung)
+      (PP-PG\/N
+        (APPR-AC\/Dat\/von von)
+        (NE-HD-Dat.Sg.Neut Tegel)))
+    (VAFIN-HD-Sg wird)
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (NP-OA
+          (ADJA-HD-Pos.Acc.Pl.Masc gesundheitliche)
+          (NN-HD-Acc.Pl.Masc Vorteile))
+        (NP-MO
+          (CARD-HD für)
+          (NN-HD-Acc.Pl.Neut Hunderttausende))
+        (PP-MO\/V
+          (APPR-AC\/Dat\/in in)
+          (ART-HD-Dat.Sg.Fem der)
+          (NN-HD-Dat.Sg.Fem Einflugschneise)))
+      (VAINF-HD haben)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (PDAT-HD-Nom.Pl.Neut Diese)
+      (NN-HD-Nom.Pl.Neut Gebiete))
+    (VAFIN-HD-Pl werden)
+    (VP-OC\/pp
+      (PP-MO\/V
+        (APPR-AC\/Acc\/durch durch)
+        (ADJA-HD-Pos.Acc.Pl.Masc diese)
+        (NN-HD-Acc.Pl.Masc Faktoren)
+        (CNP-HD
+          (\$Par \()
+          (NN-HD-Nom.Sg.Fem Wohngesundheit)
+          (KON-CD und)
+          (NN-HD Arbeitsplätze)))
+      (\$Par \))
+      (ADV-MO\/V auch)
+      (ADJD-MO-Pos\/V wirtschaftlich)
+      (VVPP-HD aufgewertet)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PP-MO\/V
+      (APPR-AC\/Dat Nach)
+      (ART-HD-Dat.Sg.Fem der)
+      (NN-HD-Dat.Sg.Fem Eröffnung)
+      (PP-MNR\/N
+        (APPRART-AC-Dat.Sg.Masc\/von vom)
+        (ADJA-HD-Pos.Dat.Sg.Masc neuen)
+        (NN-HD-Dat.Sg.Masc Flughafen)
+        (NE-HD-Nom.Sg BER)))
+    (VMFIN-HD-Sg sollte)
+    (PN-SB-Nom.Sg
+      (NE-HD-Nom.Sg Tegel))
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (ADV-MO\/V also)
+        (PP-MO\/V
+          (APPR-AC\/Acc\/auf auf)
+          (PIAT-HD-Acc.Sg.Masc jeden)
+          (NN-HD-Acc.Sg.Masc Fall))
+        (VVPP-HD geschlossen))
+      (VAINF-HD werden)))
+  (\$. .))

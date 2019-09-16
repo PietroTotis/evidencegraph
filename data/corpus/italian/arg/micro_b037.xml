@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_b037" topic_id="over_the_counter_morning_after_pill" stance="pro">
+  <edu id="e1"><![CDATA[La "pillola del giorno dopo" dovrebbe essere disponibile in farmacia senza prescrizione medica.]]></edu>
+  <edu id="e2"><![CDATA[Anche con i metodi contraccettivi più moderni, possono verificarsi errori e problemi]]></edu>
+  <edu id="e3"><![CDATA[e una gravidanza indesiderata può essere un pesante fardello sia per i genitori che per il bambino per il resto della loro vita.]]></edu>
+  <edu id="e4"><![CDATA[Alcuni temono una utilizzo troppo imprudente di tali mezzi,]]></edu>
+  <edu id="e5"><![CDATA[ma questo problema dovrebbe essere affrontato con una dettagliata e precedente educazione.]]></edu>
+  <adu id="a1" type="pro"/>
+  <adu id="a2" type="pro"/>
+  <adu id="a3" type="pro"/>
+  <adu id="a4" type="opp"/>
+  <adu id="a5" type="pro"/>
+  <edge id="c6" src="e1" trg="a1" type="seg"/>
+  <edge id="c7" src="e2" trg="a2" type="seg"/>
+  <edge id="c8" src="e3" trg="a3" type="seg"/>
+  <edge id="c9" src="e4" trg="a4" type="seg"/>
+  <edge id="c10" src="e5" trg="a5" type="seg"/>
+  <edge id="c2" src="a2" trg="a1" type="sup"/>
+  <edge id="c3" src="a3" trg="a1" type="sup"/>
+  <edge id="c4" src="a4" trg="a1" type="reb"/>
+  <edge id="c5" src="a5" trg="c4" type="und"/>
+</arggraph>    

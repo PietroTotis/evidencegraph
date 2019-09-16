@@ -1,0 +1,90 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (NN-HD-Nom.Sg.Masc Schweinsteiger))
+    (VAFIN-HD-Sg ist)
+    (VP-OC\/pp
+      (ADV-MO\/V jetzt)
+      (PP-MO\/V
+        (ADV-MO\/N schon)
+        (APPR-AC\/Dat seit)
+        (CARD-HD drei)
+        (NN-HD-Dat.Pl.Neut Spieltagen))
+      (VVPP-HD verletzt)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (PPER-HD-Nom.Pl Wir))
+    (VVFIN-HD-Pl brauchen)
+    (ADJD-MO-Pos\/V dringend)
+    (NP-OA
+      (ART-HD-Acc.Sg.Masc einen)
+      (NN-HD-Acc.Sg.Masc Ersatz))
+    (PP-MO\/V
+      (APPRART-AC-Dat.Sg.Neut\/in im)
+      (NN-HD-Dat.Sg.Neut Mittelfeld)
+      (XY-MNR für))
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Neut das)
+      (ADJA-HD-Pos.Nom.Sg.Neut kommende)
+      (NN-HD-Nom.Sg.Neut Match)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP\/nohead
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Masc Der)
+        (NN-HD-Nom.Sg.Masc Arzt)
+        (NE-HD könnte))
+      (VP-OC\/inf
+        (NP-OA
+          (PPER-HD-Acc.Sg.Masc ihn))
+        (PP-MO\/V
+          (ADV-MO\/N zwar)
+          (APPR-AC\/Dat mit)
+          (PIAT-HD genug)
+          (NN-HD-Dat.Pl.Masc Schmerzmitteln))
+        (ADJD-MO-Pos\/V spieltauglich)
+        (VVINF-HD schreiben)))
+    (\$, ,)
+    (KON-CD aber)
+    (S-TOP\/nohead
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Neut das)
+        (NN-HD-Nom.Sg.Neut würde))
+      (VP-OC\/inf
+        (NP-OA
+          (ART-HD-Acc.Sg.Fem die)
+          (NN-HD-Acc.Sg.Fem Verletzung))
+        (AP-MO\/pred
+          (AVP-MO\/0
+            (AVP-MO\/0
+              (ADJD-MO-Pos\/0 langfristig)
+              (ADV-HD\/0 nur))
+            (ADV-HD\/0 noch))
+          (ADJD-HD-Comp\/0 schlimmer))
+        (VVINF-HD machen))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PN-DA-Dat.Sg
+      (NE-HD-Dat.Sg Außerdem))
+    (VVFIN-HD-Sg bringt)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc ein)
+      (ADJA-HD-Pos.Nom.Sg.Masc junger)
+      (NN-HD-Nom.Sg.Masc Ersatzspieler))
+    (ADV-MO\/V immer)
+    (ADV-MO\/V auch)
+    (NP-OA
+      (ADJA-HD-Pos.Acc.Sg.Masc neuen)
+      (NN-HD-Acc.Sg.Masc Schwung))
+    (PP-CVC\/V
+      (APPRART-AC-Acc.Sg.Neut\/in ins)
+      (NN-HD-Acc.Sg.Neut Team)))
+  (\$. .))

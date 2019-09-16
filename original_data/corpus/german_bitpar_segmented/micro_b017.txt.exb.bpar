@@ -1,0 +1,106 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl.Masc Die)
+      (NN-HD-Nom.Pl.Masc Mietpreise))
+    (VMFIN-HD-Pl sollten)
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (PP-MO\/V
+          (APPR-AC\/Dat bei)
+          (ART-HD-Dat.Sg.Neut einem)
+          (NN-HD-Dat.Sg.Neut Mieterwechsel))
+        (PP-MO\/V
+          (APPR-AC\/Acc\/durch durch)
+          (ART-HD-Acc.Sg.Fem eine)
+          (NN-HD-Acc.Sg.Fem Höchstgrenze))
+        (VVPP-HD limitiert))
+      (VAINF-HD sein)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (ADV-MO\/V Zwar)
+      (VMFIN-HD-Pl wollen)
+      (NP-SB\/Pl
+        (ART-HD-Nom.Pl.Masc die)
+        (NN-HD-Nom.Pl.Masc Vermieter))
+      (VP-OC\/inf
+        (CH-MO
+          (FM-UC möglichst)
+          (FM-UC viel))
+        (VVINF-HD verdienen))
+      (KON-CD und)
+      (S-CJ
+        (NP-SB\/Pl
+          (PIS-HD-Nom.Pl viele))
+        (VAFIN-HD-Pl sind)
+        (AP-PD\/pred
+          (NP-DA
+            (ART-HD-Dat.Sg.Neut dem)
+            (NN-HD-Dat.Sg.Neut Marktprinzip))
+          (ADJD-HD-Pos\/0 entsprechend)
+          (VP-OC\/zu
+            (AP-MO\/pred
+              (ADV-MO\/0 auch)
+              (ADJD-HD-Pos\/0 bereit))
+            (NP-OA
+              (PRELS-HD-Acc.Pl.Fem die)
+              (CARD-HD höheren)
+              (NN-HD-Acc.Pl.Fem Mieten))
+            (VZ-HD
+              (PTKZU-PM zu)
+              (VVINF-HD zahlen))))))
+    (\$, ,)
+    (KON-CD aber)
+    (S-TOP
+      (CS-OC
+        (S-OC
+          (KOUS-CP\/oc dass)
+          (NP-SB\/Pl
+            (NN-HD-Nom.Pl.Masc Menschen)
+            (PP-MNR\/N
+              (APPR-AC\/Dat mit)
+              (ADJA-HD-Pos.Dat.Sg.Neut gleichem)
+              (NN-HD-Dat.Sg.Neut Einkommen)))
+          (VP-OC\/inf
+            (CH-MO
+              (FM-UC plötzlich)
+              (FM-UC mehr))
+            (VVINF-HD zahlen))
+          (VMFIN-HD-Pl sollen))
+        (KON-CD und)
+        (S-OC
+          (PP-MNR\/V
+            (AVP-MO\/N
+              (PTKNEG-NG nicht)
+              (ADV-HD\/N mehr))
+            (APPR-AC\/Dat\/in in)
+            (ART-HD-Dat.Sg.Fem der)
+            (ADJA-HD-Pos.Dat.Sg.Fem selben)
+            (NN-HD-Dat.Sg.Fem Wohnung))
+          (VVFIN-HD-Pl leben)
+          (NP-SB\/Pl
+            (NN-HD-Nom.Pl dürfen))))
+      (\$, ,)
+      (VVFIN-HD-Sg scheint)
+      (ADJD-PD-Pos\/V unplausibel)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Die)
+      (NN-HD-Nom.Sg.Fem Gentrifizierung)
+      (NE-HD zerstört))
+    (VVFIN-HD-Sg ganze)
+    (CNP-OA
+      (NP-OA\/chain
+        (NN-HD-Acc.Pl.Masc Stadtteile))
+      (KON-CD und)
+      (NP-OA
+        (PDS-AG-Gen.Sg.Fem deren)
+        (NN-HD-Acc.Sg.Fem Kultur))))
+  (\$. .))

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_k010" topic_id="public_broadcasting_fees_on_demand" stance="pro">
+  <edu id="e1"><![CDATA[Con quello che c'è in televisione di questi tempi, è opportuno far pagare solo coloro che vogliono guardare i programmi.]]></edu>
+  <edu id="e2"><![CDATA[A volte solo i programmi per il pubblico anziano vengono trasmessi in prima serata, quindi perché tutti dovrebbero pagarli?]]></edu>
+  <edu id="e3"><![CDATA[La pubblicità ora esiste su tutti i canali,]]></edu>
+  <edu id="e4"><![CDATA[per cui non vi è alcun vantaggio per gli attuali spettatori paganti delle emittenti pubbliche.]]></edu>
+  <edu id="e5"><![CDATA[Tuttavia, si deve dire che probabilmente ci saranno molti meno canali così se l'intera Germania non dovrà più pagare.]]></edu>
+  <edu id="e6"><![CDATA[Questo, tuttavia, considerando i canali che trasmettono sempre le stesse trasmissioni, non dovrebbe essere un problema.]]></edu>
+  <adu id="a1" type="pro"/>
+  <adu id="a2" type="pro"/>
+  <adu id="a3" type="pro"/>
+  <adu id="a4" type="pro"/>
+  <adu id="a5" type="opp"/>
+  <adu id="a6" type="pro"/>
+  <edge id="c7" src="e1" trg="a1" type="seg"/>
+  <edge id="c8" src="e2" trg="a2" type="seg"/>
+  <edge id="c9" src="e3" trg="a3" type="seg"/>
+  <edge id="c10" src="e4" trg="a4" type="seg"/>
+  <edge id="c11" src="e5" trg="a5" type="seg"/>
+  <edge id="c12" src="e6" trg="a6" type="seg"/>
+  <edge id="c2" src="a2" trg="a1" type="sup"/>
+  <edge id="c3" src="a3" trg="a4" type="sup"/>
+  <edge id="c4" src="a4" trg="a1" type="sup"/>
+  <edge id="c5" src="a5" trg="a1" type="reb"/>
+  <edge id="c6" src="a6" trg="c5" type="und"/>
+</arggraph>
+    

@@ -1,0 +1,122 @@
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-OA
+        (NN-HD-Acc.Sg.Fem Natürlich))
+      (VVFIN-HD-Sg gibt)
+      (NP-EP
+        (PPER-HD-Nom.Sg.Neut\/ep es))
+      (PP-MO\/V
+        (ADV-MO\/N auch)
+        (APPRART-AC-Dat.Sg.Neut\/in im)
+        (NN-HD-Dat.Sg.Neut Öffentlich-Rechtlichen))
+      (NP-OA
+        (PIAT-HD-Acc.Pl.Fem einige)
+        (NN-HD-Acc.Pl.Fem Sendungen)
+        (\$, ,)
+        (S-RC
+          (NP-SB\/Pl\/rel
+            (PRELS-HD-Nom.Pl.Masc die))
+          (AP-PD\/pred
+            (NP-OA
+              (ART-HD-Acc.Sg.Masc den)
+              (NN-HD-Acc.Sg.Masc Rundfunkbeitrag))
+            (PTKNEG-NG nicht)
+            (ADJD-HD-Pos\/0 wert))
+          (VAFIN-HD-Pl sind))))
+    (\$, ,)
+    (KON-CD und)
+    (S-TOP
+      (CNP-SB
+        (NP-SB\/Pl
+          (PIS-HD-Nom.Pl andere)
+          (\$, ,)
+          (NP-CC
+            (KOKOM-CM wie)
+            (ART-HD-Nom.Sg.Masc der)
+            (NN-HD-Nom.Sg.Masc Musikantenstadl)))
+        (KON-CD oder)
+        (NP-SB\/Pl
+          (ART-HD-Nom.Pl.Masc die)
+          (PIAT-HD-Nom.Pl.Masc vielen)
+          (NN-HD-Nom.Pl.Masc Telenovelas)))
+      (\$, ,)
+      (VAFIN-HD-Pl sind)
+      (NP-SB\/Pl
+        (AP-HD
+          (ADV-MO\/card nur)
+          (CARD-HD für))
+        (ADJA-HD-Pos.Nom.Pl.Fem bestimmte)
+        (NN-HD-Nom.Pl.Fem Zuschauergruppen))
+      (ADJD-PD-Pos\/V interessant)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (PROAV-MO Trotzdem)
+      (VMFIN-HD-Pl sollten)
+      (NP-SB\/Pl
+        (PIAT-HD-Nom.Pl alle)
+        (CARD-HD gleichermaßen)
+        (NN-HD-Nom.Pl für))
+      (VP-OC\/inf
+        (NP-OA
+          (ART-HD-Acc.Sg.Fem die)
+          (NN-HD-Acc.Sg.Fem Finanzierung)
+          (NP-AG
+            (ART-HD-Gen.Pl.Masc der)
+            (CARD-HD öffentlich)
+            (ADJA-HD-Pos.Gen.Pl.Masc rechtlichen)
+            (NN-HD-Gen.Pl.Masc Sender)))
+        (VVINF-HD aufkommen)))
+    (\$, ,)
+    (KON-CD denn)
+    (S-TOP
+      (NP-SB\/Pl
+        (PPER-HD-Nom.Pl wir))
+      (VVFIN-HD-Pl brauchen)
+      (NP-OA
+        (CNP-HD
+          (FM-HD allgemeine)
+          (KON-CD und)
+          (FM-HD unabhängige))
+        (NN-HD-Acc.Pl.Neut Medien))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PN-OA-Acc.Sg
+      (NE-HD-Acc.Sg Schließlich))
+    (VVFIN-HD-Pl wollen)
+    (NP-SB\/Pl
+      (PPER-HD-Nom.Pl wir))
+    (NP-OA
+      (ADJA-HD-Comp.Acc.Sg.Masc unsereren)
+      (NN-HD-Acc.Sg.Masc Blick))
+    (PP-OP\/V
+      (APPR-AC\/Acc\/auf auf)
+      (ART-HD-Acc.Sg.Fem die)
+      (NN-HD-Acc.Sg.Fem Welt)
+      (CPP-MNR\/N
+        (KON-CD\/weder weder)
+        (PP-MNR\/N
+          (APPR-AC\/Acc\/durch durch)
+          (ART-HD-Acc.Sg.Fem die)
+          (NN-HD-Acc.Sg.Fem Brille)
+          (NP-AG
+            (ART-HD-Gen.Sg.Fem der)
+            (NN-HD-Gen.Sg.Fem Regierung)))
+        (KON-CD\/noch noch)
+        (PP-MNR\/N
+          (APPR-AC\/Acc\/durch durch)
+          (ART-HD-Acc.Sg.Fem die)
+          (PN-HD
+            (VP-PNC
+              (PP-MO\/V
+                (APPR-AC\/Dat\/von von)
+                (ADJA-HD-Pos.Dat.Pl.Masc reichen)
+                (NN-HD-Dat.Pl.Masc Medienunternehmern))
+              (VVPP-HD bekommen)))))))
+  (\$. .))

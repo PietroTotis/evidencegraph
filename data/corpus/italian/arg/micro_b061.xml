@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_b061" topic_id="higher_dog_poo_fines" stance="con">
+  <edu id="e1"><![CDATA[Multe più elevate per la cacca di cane sono inutili fintanto che non c'è abbastanza personale per farle rispettare.]]></edu>
+  <edu id="e2"><![CDATA[In alcuni casi possono essere un deterrente,]]></edu>
+  <edu id="e3"><![CDATA[ma in generale un ambiente molto pulito e l'esempio dato dagli altri incoraggia il proprietario del cane a raccogliere i cumuli maggiormente che una potenziale punizione.]]></edu>
+  <adu id="a1" type="pro"/>
+  <adu id="a2" type="opp"/>
+  <adu id="a3" type="pro"/>
+  <edge id="c4" src="e1" trg="a1" type="seg"/>
+  <edge id="c5" src="e2" trg="a2" type="seg"/>
+  <edge id="c6" src="e3" trg="a3" type="seg"/>
+  <edge id="c2" src="a2" trg="a1" type="reb"/>
+  <edge id="c3" src="a3" trg="a1" type="sup"/>
+</arggraph>

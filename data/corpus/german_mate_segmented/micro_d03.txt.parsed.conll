@@ -1,0 +1,57 @@
+1	Tom	_	Tom	_	NE	_	nom|sg|masc	-1	6	_	SB	_	_
+2	in	_	in	_	APPR	_	_	-1	5	_	MO	_	_
+3	unsere	_	unser	_	PPOSAT	_	acc|sg|fem	-1	4	_	NK	_	_
+4	Fußballmannschaft	_	Fußballmannschaft	_	NN	_	acc|sg|fem	-1	2	_	NK	_	_
+5	aufzunehmen	_	aufnehmen	_	VVIZU	_	_	-1	1	_	OC	_	_
+6	war	_	sein	_	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+7	ganz	_	ganz	_	ADV	_	_	-1	8	_	MO	_	_
+8	klar	_	klar	_	ADJD	_	pos	-1	6	_	MO	_	_
+9	ein	_	ein	_	ART	_	nom|sg|masc	-1	10	_	NK	_	_
+10	Fehler	_	Fehler	_	NN	_	nom|sg|masc	-1	6	_	PD	_	_
+11	.	_	--	_	$.	_	_	-1	10	_	--	_	_
+
+1	Er	_	er	_	PPER	_	nom|sg|masc|3	-1	2	_	SB	_	_
+2	ist	_	sein	_	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	einfach	_	einfach	_	ADV	_	_	-1	2	_	MO	_	_
+4	kein	_	kein	_	PIAT	_	nom|sg|masc	-1	5	_	NK	_	_
+5	Teamspieler	_	Teamspieler	_	NN	_	nom|sg|masc	-1	2	_	PD	_	_
+6	,	_	--	_	$,	_	_	-1	5	_	--	_	_
+7	macht	_	machen	_	VVFIN	_	sg|3|pres|ind	-1	2	_	CJ	_	_
+8	häufig	_	häufig	_	ADJD	_	pos	-1	7	_	MO	_	_
+9	Alleingänge	_	Alleingang	_	NN	_	acc|pl|masc	-1	7	_	OA	_	_
+10	.	_	--	_	$.	_	_	-1	9	_	--	_	_
+
+1	Außerdem	_	außerdem	_	PROAV	_	_	-1	2	_	MO	_	_
+2	kommt	_	kommen	_	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	er	_	er	_	PPER	_	nom|sg|masc|3	-1	2	_	SB	_	_
+4	viel	_	viel	_	ADV	_	_	-1	6	_	MO	_	_
+5	zu	_	zu	_	PTKA	_	_	-1	6	_	MO	_	_
+6	selten	_	selten	_	ADJD	_	pos	-1	2	_	MO	_	_
+7	zum	_	zu	_	APPRART	_	dat|sg|neut	-1	2	_	CVC	_	_
+8	Training	_	Training	_	NN	_	dat|sg|neut	-1	7	_	NK	_	_
+9	,	_	--	_	$,	_	_	-1	8	_	--	_	_
+10	wenngleich	_	wenngleich	_	KOUS	_	_	-1	18	_	CP	_	_
+11	er	_	er	_	PPER	_	nom|sg|masc|3	-1	18	_	SB	_	_
+12	auch	_	auch	_	ADV	_	_	-1	13	_	MO	_	_
+13	ohne	_	ohne	_	APPR	_	_	-1	18	_	MO	_	_
+14	Training	_	Training	_	NN	_	acc|sg|fem	-1	13	_	NK	_	_
+15	sehr	_	sehr	_	ADV	_	_	-1	16	_	MO	_	_
+16	gut	_	gut	_	ADJD	_	pos	-1	17	_	MO	_	_
+17	spielen	_	spielen	_	VVINF	_	_	-1	18	_	OC	_	_
+18	kann	_	können	_	VMFIN	_	sg|3|pres|ind	-1	2	_	MO	_	_
+19	.	_	--	_	$.	_	_	-1	18	_	--	_	_
+
+1	Am	_	an	_	PTKA	_	_	-1	2	_	PM	_	_
+2	schlimmsten	_	schlimm	_	ADJD	_	sup	-1	4	_	PD	_	_
+3	aber	_	aber	_	ADV	_	_	-1	4	_	MO	_	_
+4	ist	_	sein	_	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	seine	_	sein	_	PPOSAT	_	nom|sg|fem	-1	6	_	NK	_	_
+6	Angewohnheit	_	Angewohnheit	_	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+7	,	_	--	_	$,	_	_	-1	6	_	--	_	_
+8	grundsätzlich	_	grundsätzlich	_	ADJD	_	pos	-1	12	_	MO	_	_
+9	beim	_	bei	_	APPRART	_	dat|sg|masc	-1	12	_	MO	_	_
+10	Schiedsrichter	_	Schiedsrichter	_	NN	_	dat|sg|masc	-1	9	_	NK	_	_
+11	zu	_	zu	_	PTKZU	_	_	-1	12	_	PM	_	_
+12	reklamieren	_	reklamieren	_	VVINF	_	_	-1	6	_	OC	_	_
+13	.	_	--	_	$.	_	_	-1	12	_	--	_	_
+

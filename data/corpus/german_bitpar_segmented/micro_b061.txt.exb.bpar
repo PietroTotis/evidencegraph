@@ -1,0 +1,85 @@
+
+(TOP
+  (XY-TOP Höhere)
+  (NP-TOP
+    (NN-HD-Nom.Pl.Fem Geldstrafen))
+  (XY-TOP für)
+  (S-TOP
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl.Fem Hundehaufen))
+    (VAFIN-HD-Pl sind)
+    (ADJD-PD-Pos\/V sinnlos)
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo solange)
+      (NP-EP
+        (PPER-HD-Nom.Sg.Neut\/ep es))
+      (PTKNEG-NG nicht)
+      (NP-SB
+        (PN-HD
+          (NE-PNC genügend)
+          (NE-PNC Personal)))
+      (VVFIN-HD-Sg gibt))
+    (\$, ,)
+    (VP-MO
+      (KOUI-CP um)
+      (NP-OA
+        (PPER-HD-Acc.Sg.Fem sie))
+      (VVIZU-HD durchzusetzen)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (PP-MO\/V
+        (APPRART-AC-Dat.Sg.Masc\/in Im)
+        (NN-HD-Dat.Sg.Masc Einzelfall)
+        (NE-HD-Nom.Sg mögen))
+      (VVFIN-HD-Sg sie)
+      (PN-SB-Nom.Sg
+        (NE-HD-Nom.Sg tatsächlich))
+      (AP-MO\/pred
+        (ADV-MO\/0 auch)
+        (ADJD-HD-Pos\/0 abschreckend))
+      (VVINF-OC wirken))
+    (\$, ,)
+    (S-TOP
+      (PP-MO\/V
+        (APPRART-AC-Dat.Sg.Neut\/in im)
+        (NN-HD-Dat.Sg.Neut Allgemeinen))
+      (VAFIN-HD-Sg wird)
+      (NP-SB
+        (ADV-MO\/N aber)
+        (CNP-HD
+          (NP-HD
+            (ART-HD-Acc.Sg.Fem eine)
+            (AP-HD-Pos.Acc.Sg.Fem
+              (ADV-MO\/0 sehr)
+              (ADJA-HD-Pos.Acc.Sg.Fem saubere))
+            (NN-HD-Acc.Sg.Fem Umgebung))
+          (KON-CD und)
+          (NP-HD
+            (ART-HD-Acc.Sg.Fem die)
+            (NN-HD-Acc.Sg.Fem Vorbildwirkung)
+            (PP-PG\/N
+              (APPR-AC\/Dat\/von von)
+              (PIS-HD-Dat.Pl.Masc anderen)))))
+      (VP-OC\/inf
+        (NP-OA
+          (ART-HD-Acc.Sg.Masc den)
+          (NN-HD-Acc.Sg.Masc Hundehalter))
+        (PP-MO\/V
+          (ADV-MO\/N eher)
+          (APPRART-AC-Dat.Sg.Neut zum)
+          (NN-HD-Dat.Sg.Neut Einsammeln))
+        (NP-DA
+          (ART-HD-Dat.Sg.Fem der)
+          (NN-HD-Dat.Sg.Fem Häufchen))
+        (VVINF-HD veranlassen)
+        (\$, ,)
+        (NP-CC
+          (KOKOM-CM als)
+          (ART-HD-Acc.Sg.Fem eine)
+          (ADJA-HD-Pos.Acc.Sg.Fem potentielle)
+          (NN-HD-Acc.Sg.Fem Strafe)))))
+  (\$. .))

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_b042" topic_id="over_the_counter_morning_after_pill" stance="con">
+  <edu id="e1"><![CDATA[Lo Stato non deve limitare un prodotto medico o un trattamento medico per motivi morali finché non arrecano danno a qualcuno.]]></edu>
+  <edu id="e2"><![CDATA[Ma senza prescrizione nemmeno il consulto medico prima di prendere il prodotto è più necessario.]]></edu>
+  <edu id="e3"><![CDATA[Poiché gli effetti della pillola contraccettiva d'emergenza sono così massicci, proprio a causa del suo effetto prevalentemente abortivo,]]></edu>
+  <edu id="e4"><![CDATA[dispensarla senza il parere del medico sarebbe inappropriato.]]></edu>
+  <edu id="e5"><![CDATA[Un accesso più facile alla pillola del giorno dopo potrebbe anche renderla più conveniente rispetto ad altri metodi contraccettivi, che hanno meno conseguenze per la salute.]]></edu>
+  <edu id="e6"><![CDATA[Ad esempio, la pillola del giorno dopo potrebbe ridurre l'uso del preservativo e quindi aumentare l'incidenza di nuove infezioni da AIDS.]]></edu>
+  <adu id="a1" type="opp"/>
+  <adu id="a2" type="pro"/>
+  <adu id="a3" type="pro"/>
+  <adu id="a4" type="pro"/>
+  <adu id="a5" type="pro"/>
+  <adu id="a6" type="pro"/>
+  <edge id="c7" src="e1" trg="a1" type="seg"/>
+  <edge id="c8" src="e2" trg="a2" type="seg"/>
+  <edge id="c9" src="e3" trg="a3" type="seg"/>
+  <edge id="c10" src="e4" trg="a4" type="seg"/>
+  <edge id="c11" src="e5" trg="a5" type="seg"/>
+  <edge id="c12" src="e6" trg="a6" type="seg"/>
+  <edge id="c1" src="a1" trg="a4" type="reb"/>
+  <edge id="c2" src="a2" trg="c1" type="und"/>
+  <edge id="c3" src="a3" trg="a4" type="sup"/>
+  <edge id="c5" src="a5" trg="a4" type="sup"/>
+  <edge id="c6" src="a6" trg="a5" type="exa"/>
+</arggraph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_d16">
+  <edu id="e1"><![CDATA[Presto si terranno le elezioni del parlamento]]></edu>
+  <edu id="e2"><![CDATA[e tradizionalmente il partito al governo è generoso di promesse popolari in vista delle politiche.]]></edu>
+  <edu id="e3"><![CDATA[Tuttavia, il capo del governo Merkel dovrebbe trattenersi di più quest'anno nell'annunciare le proprie promesse elettorali.]]></edu>
+  <edu id="e4"><![CDATA[L'elettore è diventato più scettico.]]></edu>
+  <edu id="e5"><![CDATA[Troppe promesse non sono state mantenute.]]></edu>
+  <adu id="a1" type="opp"/>
+  <adu id="a2" type="opp"/>
+  <adu id="a3" type="pro"/>
+  <adu id="a4" type="pro"/>
+  <adu id="a5" type="pro"/>
+  <edge id="c6" src="e1" trg="a1" type="seg"/>
+  <edge id="c7" src="e2" trg="a2" type="seg"/>
+  <edge id="c8" src="e3" trg="a3" type="seg"/>
+  <edge id="c9" src="e4" trg="a4" type="seg"/>
+  <edge id="c10" src="e5" trg="a5" type="seg"/>
+  <edge id="c1" src="a1" trg="a3" type="reb"/>
+  <edge id="c2" src="a2" trg="c1" type="add"/>
+  <edge id="c4" src="a4" trg="a3" type="sup"/>
+  <edge id="c5" src="a5" trg="a4" type="sup"/>
+</arggraph>
+    

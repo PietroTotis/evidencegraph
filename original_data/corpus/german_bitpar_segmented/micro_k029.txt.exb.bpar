@@ -1,0 +1,116 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (PIS-HD-Nom.Sg.Masc Niemand))
+    (VMFIN-HD-Sg sollte)
+    (VP-OC\/inf
+      (NP-PD
+        (ART-HD-Nom.Sg.Fem die)
+        (NN-HD-Nom.Sg.Fem Möglichkeit))
+      (VAINF-HD haben)
+      (\$, ,)
+      (VP-OC\/zu
+        (PRF-DA-Dat.Pl sich)
+        (NP-OA
+          (ART-HD-Acc.Sg.Fem die)
+          (\$Par \")
+          (NN-HD-Acc.Sg.Fem Pille)
+          (PROAV-MNR danach))
+        (\$Par \")
+        (ADJD-MO-Pos\/V rezeptfrei)
+        (PP-CVC\/V
+          (APPR-AC\/Dat\/in in)
+          (ART-HD-Dat.Sg.Fem der)
+          (NN-HD-Dat.Sg.Fem Apotheke))
+        (VZ-HD
+          (PTKZU-PM zu)
+          (VVINF-HD holen)))))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (KOUS-CP Zwar)
+      (NP-SB\/Pl
+        (NN-HD-Nom.Pl gäbe))
+      (NP-OA
+        (PPER-HD-Acc.Sg.Neut es))
+      (VP-OC\/zu
+        (NP-OA
+          (ART-HD-Acc.Sg.Masc den)
+          (NN-HD-Acc.Sg.Masc Vorteil)
+          (\$, ,)
+          (VP-OC\/zu
+            (PRF-DA-Dat.Pl sich)
+            (NP-OA
+              (ART-HD-Acc.Sg.Fem die)
+              (NN-HD-Acc.Sg.Fem Peinlichkeit)
+              (CNP-AG
+                (NP-AG
+                  (ART-HD-Gen.Sg.Masc eines)
+                  (NN-HD-Gen.Sg.Masc Arztbesuches))
+                (KON-CD oder)
+                (NP-AG
+                  (ART-HD das)
+                  (NN-HD nächtliche))))
+            (VVIZU-HD in-die-Ambulanz-fahren)))
+        (VZ-HD
+          (PTKZU-PM zu)
+          (VVINF-HD sparen))))
+    (\$, ,)
+    (S-TOP
+      (ADV-MO\/V dennoch)
+      (VMFIN-HD-Pl sollten)
+      (NP-SB\/Pl
+        (NN-HD-Nom.Pl.Fem Frauen)
+        (PP-MNR\/N
+          (APPR-AC\/Dat vor)
+          (ART-HD-Dat.Sg.Fem der)
+          (NN-HD-Dat.Sg.Fem Einnahme)))
+      (NP-OA
+        (NN-HD-Acc.Sg.Fem über))
+      (NP-SB\/Pl
+        (ART-HD-Nom.Pl.Neut die)
+        (NN-HD-Nom.Pl.Neut Risiken))
+      (CVP-OC\/inf
+        (VP-OC\/inf
+          (NP-PD
+            (NN-HD-Nom.Sg.Fem aufgeklärt))
+          (VAINF-HD werden))
+        (KON-CD und)
+        (VP-OC\/inf
+          (VP-OC\/pp
+            (PN-OA-Acc.Sg
+              (NE-HD-Acc.Sg gynäkologisch))
+            (VVPP-HD untersucht))
+          (VAINF-HD werden)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PN-SB-Nom.Sg
+      (NE-HD-Nom.Sg Außerdem))
+    (VVFIN-HD-Sg besteht)
+    (NP-OA
+      (ART-HD-Acc.Sg.Neut das)
+      (NN-HD-Acc.Sg.Neut Risiko)
+      (\$, ,)
+      (S-OC
+        (KOUS-CP\/oc dass)
+        (NP-SB\/Pl
+          (NN-HD-Nom.Pl.Fem Frauen))
+        (NP-OA
+          (ART-HD-Acc.Sg.Fem die)
+          (ADJA-HD-Pos.Acc.Sg.Fem rezeptfreie)
+          (\$Par \")
+          (NN-HD-Acc.Sg.Fem Pille)
+          (PROAV-MNR danach))
+        (\$Par \")))
+    (PP-MO\/V
+      (APPR-AC\/Nom als)
+      (NN-HD-Nom.Sg.Masc Verhütungsersatz)
+      (NP-AG
+        (ADJA-HD-Pos.Gen.Sg.Masc verwenden)
+        (NN-HD-Gen.Sg.Masc könnten))))
+  (\$. .))

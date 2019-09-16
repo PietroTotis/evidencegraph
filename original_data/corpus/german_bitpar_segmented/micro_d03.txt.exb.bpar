@@ -1,0 +1,89 @@
+
+(TOP
+  (S-TOP
+    (VP-OC\/zu
+      (NP-OA
+        (NN-HD-Acc.Sg.Masc Tom))
+      (PP-MO\/V
+        (APPR-AC\/in in)
+        (PPOSAT-HD unsere)
+        (NN-HD Fußballmannschaft))
+      (VVIZU-HD aufzunehmen))
+    (VAFIN-HD-Sg war)
+    (AP-MO\/pred
+      (ADV-MO\/0 ganz)
+      (ADJD-HD-Pos\/0 klar))
+    (NP-PD
+      (ART-HD-Nom.Sg.Masc ein)
+      (NN-HD-Nom.Sg.Masc Fehler)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (S-OC
+      (NP-SB\/Sg
+        (PPER-HD-Nom.Sg.Masc Er))
+      (VAFIN-HD-Sg ist)
+      (ADV-MO\/V einfach)
+      (NP-PD
+        (PIAT-HD-Nom.Sg.Masc kein)
+        (NN-HD-Nom.Sg.Masc Teamspieler)))
+    (\$, ,)
+    (VVFIN-HD-Sg macht)
+    (NP-SB\/Sg
+      (NN-HD-Nom.Sg.Neut häufig)
+      (XY-HD Alleingänge)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PN-DA-Dat.Sg
+      (NE-HD-Dat.Sg Außerdem))
+    (VVFIN-HD-Sg kommt)
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg.Masc er))
+    (AP-MO\/pred
+      (ADV-MO\/0 viel)
+      (PTKA-MO zu)
+      (ADJD-HD-Pos\/0 selten))
+    (PP-CVC\/V
+      (APPRART-AC-Dat.Sg.Neut zum)
+      (NN-HD-Dat.Sg.Neut Training))
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo wenngleich)
+      (NP-SB\/Sg
+        (PPER-HD-Nom.Sg.Masc er))
+      (PP-MO\/V
+        (ADV-MO\/N auch)
+        (APPR-AC\/Acc ohne)
+        (NN-HD-Acc.Sg.Neut Training))
+      (VP-OC\/inf
+        (AP-MO\/pred
+          (ADV-MO\/0 sehr)
+          (ADJD-HD-Pos\/0 gut))
+        (VVINF-HD spielen))
+      (VMFIN-HD-Sg kann)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (AA-PD
+      (PTKA-PM Am)
+      (ADJD-HD-Sup\/0 schlimmsten))
+    (ADV-MO\/V aber)
+    (VAFIN-HD-Sg ist)
+    (NP-PD
+      (PPOSAT-HD-Nom.Sg.Fem seine)
+      (NN-HD-Nom.Sg.Fem Angewohnheit))
+    (\$, ,)
+    (VP-RE
+      (PN-OA-Acc.Sg
+        (NE-HD-Acc.Sg grundsätzlich))
+      (PP-MO\/V
+        (APPRART-AC-Dat.Sg.Masc beim)
+        (NN-HD-Dat.Sg.Masc Schiedsrichter))
+      (VZ-HD
+        (PTKZU-PM zu)
+        (VVINF-HD reklamieren))))
+  (\$. .))

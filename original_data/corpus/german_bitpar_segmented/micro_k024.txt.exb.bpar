@@ -1,0 +1,144 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl.Masc Hundebesitzer))
+    (VMFIN-HD-Pl sollen)
+    (NP-MO
+      (CARD-HD höhere)
+      (NN-HD-Acc.Pl.Fem Geldstrafen))
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl für))
+    (VP-OC\/inf
+      (PP-MO\/V
+        (APPR-AC\/Dat\/auf auf)
+        (NN-HD-Dat.Pl.Masc Gehwegen))
+      (NP-OA
+        (ADJA-HD-Pos.Acc.Sg.Neut hinterlassene)
+        (NN-HD-Acc.Sg.Neut Hundehaufen))
+      (VVINF-HD bezahlen))
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo obwohl)
+      (NP-EP
+        (PPER-HD-Nom.Sg.Neut\/ep es))
+      (NP-OA
+        (CNP-HD
+          (NP-HD
+            (AP-HD
+              (PTKA-MO zu)
+              (PIS-HD wenig))
+            (NN-HD Mülleimer))
+          (KON-CD und)
+          (NP-HD
+            (NN-HD-Dat.Sg.Neut Beutelspender)
+            (XY-HD für)))
+        (NN-HD-Acc.Pl.Neut Hundehaufen))
+      (VVFIN-HD-Sg gibt)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc Ein)
+      (NN-HD-Nom.Sg.Masc Grund)
+      (NE-HD dafür))
+    (VAFIN-HD-Sg ist)
+    (\$, ,)
+    (S-SB
+      (KOUS-CP\/sb dass)
+      (NP-SB\/Pl
+        (PPER-HD-Nom.Pl sie))
+      (VP-OC\/inf
+        (PP-MO\/V
+          (APPR-AC\/Gen trotz)
+          (ART-HD-Gen.Sg.Fem der)
+          (NN-HD-Gen.Sg.Fem Beseitigungspflicht))
+        (ADV-MO\/V bisher)
+        (PP-MO\/V
+          (ADV-MO\/N kaum)
+          (APPR-AC\/Dat mit)
+          (NN-HD-Dat.Pl.Fem Konsequenzen))
+        (VVINF-HD rechnen))
+      (VVFIN-HD-Pl mussten)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-DA
+      (NP-HD
+        (ART-HD-Dat.Sg.Fem Eine)
+        (ADJA-HD-Pos.Dat.Sg.Fem höhere)
+        (NN-HD-Dat.Sg.Fem Strafe)
+        (\$, ,)
+        (S-OC
+          (KOUS-CP\/oc dass)
+          (NP-SB\/Pl
+            (ART-HD-Nom.Pl.Masc die)
+            (NN-HD-Nom.Pl.Masc Hundebesitzer))
+          (ADJD-MO-Comp\/V tiefer)
+          (VP-OC\/inf
+            (PP-MO\/V
+              (APPR-AC\/Acc\/in in)
+              (ART-HD-Acc.Sg.Fem die)
+              (NN-HD-Acc.Sg.Fem Tasche))
+            (VVINF-HD greifen))))
+      (NN-HD-Dat.Pl müssten))
+    (\$, ,)
+    (VMFIN-HD-Sg soll)
+    (PN-SB-Nom.Sg
+      (NE-HD-Nom.Sg nämlich))
+    (VP-OC\/inf
+      (ADJD-MO-Pos\/V abschreckend)
+      (VVINF-HD wirken)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (CNP-SB
+        (NP-SB\/Sg
+          (ART-HD-Nom.Sg.Fem Die)
+          (NN-HD-Nom.Sg.Fem Stadt))
+        (\$, ,)
+        (NP-SB\/Sg
+          (PP-MO\/N
+            (APPR-AC\/Dat vor)
+            (PIS-HD-Dat.Sg.Neut allem))
+          (ART-HD-Nom.Sg.Fem die)
+          (NN-HD-Nom.Sg.Fem Grünflächen)))
+      (\$, ,)
+      (VMFIN-HD-Pl sollen)
+      (PN-OA-1-Acc.Sg
+        (NE-HD-Acc.Sg schließlich))
+      (ADJD-MO-Pos\/V sauber)
+      (VP-OC\/inf
+        (VVPP-OC gehalten)
+        (VAINF-HD werden)))
+    (\$, ,)
+    (KON-CD denn)
+    (S-TOP
+      (NP-SB\/Pl
+        (PPER-HD-Nom.Pl sie))
+      (VVFIN-HD-Pl dienen)
+      (NP-DA
+        (ART-HD-Dat.Sg.Fem der)
+        (NN-HD-Dat.Sg.Fem Erholung))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PN-DA-1-Dat.Sg
+      (NE-HD-Dat.Sg Außerdem))
+    (VMFIN-HD-Sg darf)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc der)
+      (NN-HD-Nom.Sg.Masc Müll))
+    (ADV-MO\/V auch)
+    (PTKNEG-NG nicht)
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (ADJD-MO-Pos\/V straffrei)
+        (VVPP-HD liegengelassen))
+      (VAINF-HD werden)))
+  (\$. .))

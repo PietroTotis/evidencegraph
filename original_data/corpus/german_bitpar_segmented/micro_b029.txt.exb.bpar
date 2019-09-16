@@ -1,0 +1,159 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc Der)
+      (NN-HD-Nom.Sg.Masc Rundfunkbeitrag))
+    (VMFIN-HD-Sg kann)
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (ADV-MO\/V nur)
+        (PP-MO\/V
+          (APPR-AC\/Dat\/von von)
+          (PIS-HD-Dat.Pl allen))
+        (CH-MO
+          (FM-UC Bürgern\/Haushalten)
+          (FM-UC gleichermaßen))
+        (VVPP-HD eingefordert))
+      (VAINF-HD werden)))
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (NP-SB\/Sg
+      (NN-HD-Nom.Sg.Neut Kritiker)
+      (XY-HD führen))
+    (PP-MO\/V
+      (APPR-AC\/Acc an)
+      (\$, ,)
+      (S-OC
+        (KOUS-CP\/oc dass)
+        (NP-SB\/Pl
+          (PPER-HD-Nom.Pl sie))
+        (NP-OA
+          (ART-HD-Acc.Sg.Neut das)
+          (NN-HD-Acc.Sg.Neut Angebot))
+        (NP-DA
+          (ART-HD-Dat.Sg.Fem der)
+          (ADJA-HD-Pos.Dat.Sg.Fem Öffentlich)
+          (PN-HD
+            (NP-PNC
+              (ADJA-HD-Pos.Dat.Sg.Masc\/name Rechtlichen)
+              (NN-HD-Dat.Sg.Masc\/name Sender))))
+        (AVP-NG\/V
+          (ADV-MO\/V gar)
+          (PTKNEG-HD nicht))
+        (VVFIN-HD-Pl nutzen)))
+    (XY-MO würden))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg Ich))
+    (VVFIN-HD-Sg bezweifle)
+    (ADV-MO\/V zwar)
+    (\$, ,)
+    (S-OC
+      (KOUS-CP\/oc dass)
+      (NP-SB\/Sg
+        (PPER-HD-Nom.Sg.Neut es))
+      (NP-DA
+        (NN-HD-Dat.Pl überhaupt))
+      (NP-OA
+        (PIS-HD-Acc.Sg.Masc jemanden))
+      (VVFIN-HD-Sg gibt)
+      (\$, ,)
+      (S-RC
+        (NP-SB\/Sg\/rel
+          (PRELS-HD-Nom.Sg.Masc der))
+        (ADV-MO\/V niemals)
+        (NP-OA
+          (ART-HD-Acc.Sg.Neut ein)
+          (NN-HD-Acc.Sg.Neut Angebot)
+          (NP-AG
+            (ART-HD-Gen.Pl.Masc der)
+            (CARD-HD Öffentlich)
+            (ADJA-HD-Pos.Gen.Pl.Masc Rechtlichen)
+            (NN-HD-Gen.Pl.Masc Sender)))
+        (AP-MO\/pred
+          (ADV-MO\/0 zumindest)
+          (ADJD-HD-Pos\/0 indirekt))
+        (VVFIN-HD-Sg nutzt))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-EP
+      (PPER-HD-Nom.Sg.Neut\/ep Es))
+    (VAFIN-HD-Sg ist)
+    (ADV-MO\/V jedoch)
+    (PTKNEG-NG nicht)
+    (NP-PD
+      (NN-HD-Nom.Sg.Fem möglich))
+    (\$, ,)
+    (VP-RE
+      (NP-OA
+        (PDS-HD-Acc.Sg.Neut dies))
+      (VZ-HD
+        (PTKZU-PM zu)
+        (VVINF-HD kontrollieren))
+      (\$, ,)
+      (VP-MO
+        (KOUI-CP um)
+        (NP-OA
+          (ADJA-HD-Pos.Acc.Sg.Fem differenzierte)
+          (NN-HD-Acc.Sg.Fem Gebühren))
+        (VZ-HD
+          (PTKZU-PM zu)
+          (VVINF-HD erheben)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (AVP-MO\/V
+      (ADV-HD\/V Ebenso)
+      (\$, ,)
+      (NP-CC
+        (KOKOM-CM wie)
+        (CNP-HD
+          (NP-HD
+            (ADJA-HD-Pos.Acc.Pl.Neut andere)
+            (NN-HD-Acc.Pl.Neut Angebote)
+            (NP-AG
+              (ART-HD-Gen.Sg.Fem der)
+              (NN-HD-Gen.Sg.Fem Kultur)))
+          (KON-CD oder)
+          (NN-HD-Nom.Sg.Fem Infrastruktur))))
+    (\$, ,)
+    (VAFIN-HD-Pl sind)
+    (NP-SB\/Pl
+      (ADV-MO\/N auch)
+      (ART-HD-Nom.Pl die)
+      (NN-HD-Nom.Pl Öffentlich)
+      (NP-AG
+        (ADJA-HD-Pos.Gen.Pl.Masc Rechtlichen)
+        (NN-HD-Gen.Pl.Masc Sender)))
+    (VP-OC\/zu
+      (PN-OA-Acc.Sg
+        (NE-HD-Acc.Sg unabhängig))
+      (PP-OP\/V
+        (PROAV-PH davon))
+      (VZ-HD
+        (PTKZU-PM zu)
+        (VVINF-HD finanzieren)))
+    (\$, ,)
+    (CS-RE
+      (S-RE
+        (KOUS-CP\/re ob)
+        (NP-SB\/Sg
+          (ART-HD-Nom.Sg.Masc der)
+          (NN-HD-Nom.Sg.Masc Einzelne))
+        (NP-OA
+          (PDAT-HD-Acc.Sg.Neut dieses)
+          (NN-HD-Acc.Sg.Neut Angebot))
+        (VVFIN-HD-Sg nutzt))
+      (KON-CD oder)
+      (S-RE\/nohead\/nosubj
+        (PTKNEG-NG nicht))))
+  (\$. .))

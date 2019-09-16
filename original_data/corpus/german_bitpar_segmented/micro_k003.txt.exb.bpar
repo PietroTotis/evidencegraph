@@ -1,0 +1,147 @@
+
+(TOP
+  (XY-TOP Für)
+  (S-TOP
+    (NP-OA
+      (ART-HD-Acc.Sg.Fem die)
+      (NN-HD-Acc.Sg.Fem Bachelorarbeit))
+    (VAFIN-HD-Sg hat)
+    (NP-SB\/Sg
+      (PIS-HD-Nom.Sg man))
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in in)
+      (ADJA-HD-Pos.Dat.Sg.Fem linguistischen)
+      (NN-HD-Dat.Sg.Fem Studiengängen))
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in in)
+      (ART-HD-Dat.Sg.Fem der)
+      (NN-HD-Dat.Sg.Fem Regel))
+    (NP-OA
+      (ADV-MO\/N nur)
+      (CARD-HD acht)
+      (NN-HD-Acc.Pl.Fem\/seq Wochen)
+      (NN-HD-Nom.Sg.Fem Zeit)))
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (NP-SB\/Sg
+      (ART-HD-Acc.Sg.Masc Den)
+      (NN-HD-Acc.Sg.Masc Anteil))
+    (VP-OC
+      (PP-MO\/V
+        (APPR-AC\/Dat an)
+        (ART-HD-Dat.Sg.Fem der)
+        (NN-HD-Dat.Sg.Fem Gesamtnote))
+      (VP-HD
+        (PROAV-MO trotzdem)
+        (PP-MO\/V
+          (APPR-AC nach)
+          (ADV-HD\/N oben))
+        (VZ-HD
+          (PTKZU-PM zu)
+          (VVINF-HD korrigieren)))
+      (\$, ,)
+      (S-MO
+        (NP-SB\/Pl
+          (NN-HD-Nom.Pl würde))
+        (NP-DA
+          (ART-HD-Dat.Sg.Neut dem)
+          (NN-HD-Dat.Sg.Neut Verhältnis)
+          (PP-MNR\/N
+            (APPR-AC\/Dat zu)
+            (PIS-HD-Dat.Pl anderen)
+            (NP-AG
+              (ADJA-HD-Pos.Gen.Pl erbrachten)
+              (CNP-HD
+                (TRUNCCap-HD Studien-)
+                (KON-CD und)
+                (NN-HD Prüfungsleistungen)))))
+        (PTKNEG-NG nicht)
+        (VVFIN-HD-Pl entsprechen))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Die)
+      (ADJA-HD-Pos.Nom.Sg.Fem aktuelle)
+      (NN-HD-Nom.Sg.Fem Regelung)
+      (PP-MNR\/N
+        (APPRART-AC-Dat.Sg.Fem zur)
+        (NN-HD-Dat.Sg.Fem Berechnung)
+        (NP-AG
+          (ART-HD-Gen.Sg.Fem der)
+          (NN-HD-Gen.Sg.Fem Gesamtnote))))
+    (VMFIN-HD-Sg sollte)
+    (PROAV-MO daher)
+    (VP-OC\/inf
+      (VVPP-OC beibehalten)
+      (VAINF-HD werden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Zwar)
+    (VAFIN-HD-Sg ist)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Neut das)
+      (NN-HD-Nom.Sg.Neut Erstellen)
+      (NP-AG
+        (ART-HD-Gen.Sg.Fem einer)
+        (ADJA-HD-Pos.Gen.Sg.Fem solchen)
+        (ADJA-HD-Pos.Gen.Sg.Fem wissenschaftlichen)
+        (NN-HD-Gen.Sg.Fem Arbeit)))
+    (NP-PD
+      (PIS-HD-Nom.Sg.Fem eine)
+      (NP-AG
+        (ART-HD-Gen.Pl.Fem der)
+        (ADJA-HD-Sup.Gen.Pl.Fem grundlegendsten)
+        (NN-HD-Gen.Pl.Fem Kompetenzen)
+        (\$, ,)
+        (S-RC
+          (NP-SB\/Sg\/rel
+            (PRELS-HD-Nom.Sg.Fem die))
+          (VP-OC\/inf
+            (VP-OC\/pp
+              (PP-MO\/V
+                (APPR-AC\/Dat\/in in)
+                (ADJA-HD-Pos.Dat.Sg.Fem sprachwissenschaftlichen)
+                (NN-HD-Dat.Sg.Fem Studiengängen))
+              (VVPP-HD erworben))
+            (VAINF-HD werden))
+          (VVFIN-HD-Sg muss)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Dennoch)
+    (VAFIN-HD-Pl werden)
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in in)
+      (ART-HD-Dat.Pl.Neut den)
+      (CNP-HD
+        (CARD-HD sechs)
+        (KON-CD oder)
+        (NP-HD
+          (CARD-HD sieben)
+          (NN-HD-Dat.Pl.Neut Semestern))))
+    (NP-SB\/Sg
+      (NN-HD-Nom.Sg.Neut Studium))
+    (VP-OC\/pp
+      (NP-OA
+        (NN-HD-Acc.Pl.Masc Inhalte))
+      (VVPP-HD vermittelt)
+      (\$, ,)
+      (S-RC
+        (NP-SB\/Pl\/rel
+          (PRELS-HD-Nom.Pl.Masc die))
+        (AP-MO\/pred
+          (ADV-MO\/0 ebenfalls)
+          (ADJD-HD-Pos\/0 entsprechend))
+        (PP-CVC\/V
+          (APPRART-AC-Acc.Sg.Neut\/in ins)
+          (NN-HD-Acc.Sg.Neut Gewicht))
+        (VVFIN-HD-Pl fallen))))
+  (XY-TOP müssen)
+  (\$. .))

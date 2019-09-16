@@ -1,0 +1,50 @@
+1	Übermäßiger	_	übermäßiger	_	ADJA	_	nom|sg|masc|pos	-1	2	_	NK	_	_
+2	Fleischkonsum	_	Fleischkonsum	_	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+3	ist	_	sein	_	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	ungesund	_	ungesund	_	ADJD	_	pos	-1	3	_	PD	_	_
+5	.	_	--	_	$.	_	_	-1	4	_	--	_	_
+
+1	Zudem	_	zudem	_	PROAV	_	_	-1	2	_	MO	_	_
+2	ist	_	sein	_	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	die	_	der	_	ART	_	nom|sg|fem	-1	4	_	NK	_	_
+4	Fleischproduktion	_	Fleischproduktion	_	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+5	vergleichsweise	_	vergleichsweise	_	ADV	_	_	-1	2	_	MO	_	_
+6	Ressourcen-intensiv	_	Ressourcen-intensiv	_	NN	_	acc|sg|fem	-1	2	_	PD	_	_
+7	.	_	--	_	$.	_	_	-1	6	_	--	_	_
+
+1	Wir	_	wir	_	PPER	_	nom|pl|*|1	-1	2	_	SB	_	_
+2	sollten	_	sollen	_	VMFIN	_	pl|1|past|subj	-1	0	_	--	_	_
+3	daher	_	daher	_	PROAV	_	_	-1	2	_	MO	_	_
+4	alle	_	aller	_	PIS	_	acc|pl|neut	-1	6	_	NK	_	_
+5	unseren	_	unser	_	ADJA	_	acc|sg|masc|comp	-1	6	_	NK	_	_
+6	Fleischkonsum	_	Fleischkonsum	_	NN	_	acc|sg|neut	-1	8	_	OA	_	_
+7	rigoros	_	rigoros	_	ADJD	_	pos	-1	8	_	MO	_	_
+8	einschränken	_	einschränken	_	VVINF	_	_	-1	2	_	OC	_	_
+9	.	_	--	_	$.	_	_	-1	8	_	--	_	_
+
+1	Man	_	man	_	PIS	_	nom|sg|*	-1	2	_	SB	_	_
+2	könnte	_	können	_	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+3	befürchten	_	befürchten	_	VVINF	_	_	-1	2	_	OC	_	_
+4	,	_	--	_	$,	_	_	-1	3	_	--	_	_
+5	dass	_	dass	_	KOUS	_	_	-1	13	_	CP	_	_
+6	unsere	_	unser	_	PPOSAT	_	nom|pl|masc	-1	7	_	NK	_	_
+7	Bauern	_	Bauer	_	NN	_	nom|pl|masc	-1	13	_	SB	_	_
+8	dadurch	_	dadurch	_	PROAV	_	_	-1	12	_	MO	_	_
+9	in	_	in	_	APPR	_	_	-1	12	_	MO	_	_
+10	wirtschaftliche	_	wirtschaftlich	_	ADJA	_	acc|pl|fem|pos	-1	11	_	NK	_	_
+11	Schwierigkeiten	_	Schwierigkeit	_	NN	_	acc|pl|fem	-1	9	_	NK	_	_
+12	kommen	_	kommen	_	VVINF	_	_	-1	13	_	OC	_	_
+13	würden	_	werden	_	VAFIN	_	pl|3|past|subj	-1	2	_	MO	_	_
+14	.	_	--	_	$.	_	_	-1	13	_	--	_	_
+
+1	Aber	_	aber	_	KON	_	_	-1	5	_	JU	_	_
+2	kein	_	kein	_	PIAT	_	nom|sg|masc	-1	4	_	NK	_	_
+3	ernstzunehmender	_	ernstzunehmend	_	ADJA	_	nom|sg|masc|pos	-1	4	_	NK	_	_
+4	Ökonom	_	Ökonom	_	NN	_	nom|sg|masc	-1	5	_	SB	_	_
+5	wollte	_	wollen	_	VMFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+6	diese	_	dieser	_	PDAT	_	acc|sg|fem	-1	7	_	NK	_	_
+7	Vorhersage	_	Vorhersage	_	NN	_	acc|sg|fem	-1	9	_	OA	_	_
+8	bisher	_	bisher	_	ADV	_	_	-1	9	_	MO	_	_
+9	bestätigen	_	bestätigen	_	VVINF	_	_	-1	5	_	OC	_	_
+10	.	_	--	_	$.	_	_	-1	9	_	--	_	_
+

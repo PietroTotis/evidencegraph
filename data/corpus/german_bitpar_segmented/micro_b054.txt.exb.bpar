@@ -1,0 +1,170 @@
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (PP-MO\/V
+        (APPR-AC\/Dat\/in In)
+        (NE-HD-Dat.Sg.Neut Berlin))
+      (VVFIN-HD-Sg herrscht)
+      (PP-MO\/V
+        (APPR-AC\/Dat seit)
+        (NN-HD-Dat.Pl.Neut Jahren))
+      (NP-SB\/Sg
+        (NN-HD-Nom.Sg.Neut Wohnungsmangel)))
+    (\$, ,)
+    (S-TOP\/nosubj
+      (VVFIN-HD-Sg sodass)
+      (NP-OA
+        (ART-HD-Acc.Sg.Fem eine)
+        (NN-HD-Acc.Sg.Fem Nutzung)
+        (NP-AG
+          (ART-HD-Gen.Sg.Masc des)
+          (ADJA-HD-Pos Tempelhofer)
+          (NN-HD-Gen.Sg.Masc Feldes)
+          (\$, ,)
+          (CS-RC
+            (S-RC
+              (NP-SB\/Sg\/rel
+                (PRELS-HD-Nom.Sg.Neut das))
+              (NP-OA
+                (PIAT-HD viel)
+                (NN-HD-Acc.Sg.Masc Freiraum))
+              (VVFIN-HD-Sg bietet))
+            (KON-CD und)
+            (S-RC\/norel\/nosubj
+              (VP-PD
+                (ADJD-MO-Pos\/V zurzeit)
+                (ADV-MO\/V kaum)
+                (VVPP-HD bebaut))
+              (VAFIN-HD-Sg ist)
+              (\$, ,)
+              (S-CC
+                (KOKOM-CM als)
+                (PN-SB-Nom.Sg
+                  (NE-HD-Nom.Sg Wohnraum))
+                (NP-PD
+                  (ART-HD-Nom.Sg.Fem eine)
+                  (ADJA-HD-Pos.Nom.Sg.Fem sinnvolle)
+                  (NN-HD-Nom.Sg.Fem Idee))
+                (VAFIN-HD-Sg ist))))))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KOUS-CP Da)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem die)
+      (NN-HD-Nom.Sg.Fem Fläche))
+    (NP-DA
+      (ART-HD-Dat.Sg.Neut dem)
+      (NN-HD-Dat.Sg.Neut Land)
+      (NE-HD-Nom.Sg bzw)))
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (NP-DA
+      (ART-HD-Dat.Sg.Masc dem)
+      (NN-HD-Dat.Sg.Masc Bund))
+    (NP-SB
+      (CNP-HD
+        (NE-HD-Acc.Sg gehört)
+        (\$, ,)
+        (NE-HD-Acc.Sg könnte)))
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (NP-OA
+          (PPER-PH-Acc.Sg.Neut es)
+          (ADV-MO\/N sogar))
+        (PN-DA-Dat.Sg
+          (NE-HD-Dat.Sg für))
+        (NP-OA
+          (ADJA-HD-Pos.Acc.Sg.Masc sozialen)
+          (NN-HD-Acc.Sg.Masc Wohnungsbau)
+          (PP-MNR\/N
+            (APPR-AC\/Dat mit)
+            (ADJA-HD-Pos.Dat.Pl.Masc bezahlbaren)
+            (NN-HD-Dat.Pl.Masc Mietpreisen)))
+        (VVPP-HD genutzt))
+      (VAINF-HD werden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Allerdings)
+    (VAFIN-HD-Sg ist)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Neut das)
+      (NN-HD-Nom.Sg.Neut Feld)
+      (PN-HD
+        (NE-PNC momentan)
+        (NE-PNC für)))
+    (VP-OC\/pp
+      (VP-OC\/pp
+        (NP-OA
+          (PIAT-HD-Acc.Pl viele)
+          (CNP-HD
+            (NN-HD-Nom.Pl.Masc Besucher)
+            (KON-CD und)
+            (NN-HD-Nom.Pl.Masc Berliner)))
+        (\$, ,)
+        (PP-MO\/V
+          (ADV-MO\/N gerade)
+          (APPRART-AC-Dat.Sg.Masc\/in im)
+          (CNP-HD
+            (NN-HD-Dat.Sg.Masc Frühling)
+            (KON-CD und)
+            (NN-HD-Dat.Sg.Masc Sommer)))
+        (\$, ,)
+        (PP-MO\/V
+          (APPR-AC\/Dat zu)
+          (ART-HD-Dat.Sg.Masc einem)
+          (ADJA-HD-Pos.Dat.Sg.Masc attraktiven)
+          (NN-HD-Dat.Sg.Masc Freizeitpark)
+          (PP-MNR\/N
+            (APPR-AC\/Dat mit)
+            (NE-HD-Dat.Sg Sportmöglichkeiten))))
+      (VAPP-HD geworden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (S-MO
+      (KOUS-CP\/mo Wenn)
+      (NP-SB\/Sg
+        (PIS-HD-Nom.Sg man))
+      (NP-OA
+        (ART-HD-Acc.Sg.Masc einen)
+        (NN-HD-Acc.Sg.Masc Kompromiss)
+        (PP-MNR\/N
+          (APPR-AC\/Dat aus)
+          (CNP-HD\/Dat
+            (NE-HD-Dat.Sg Grünfläche)
+            (KON-CD und)
+            (NP-HD
+              (ADJA-HD-Pos.Dat.Sg.Neut sozialem)
+              (NN-HD-Dat.Sg.Neut Wohnungsgebiet)))))
+      (VVFIN-HD-Pl finden)
+      (NP-SB\/Pl
+        (NN-HD-Nom.Pl würde)))
+    (\$, ,)
+    (VMFIN-HD-Sg sollte)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Neut das)
+      (ADJA-HD-Pos Tempelhofer)
+      (NN-HD-Nom.Sg.Neut Feld))
+    (VP-OC\/inf
+      (NP-DA
+        (PP-MO\/N
+          (APPR-AC\/Acc\/auf auf)
+          (PIAT-HD-Acc.Sg.Masc jeden)
+          (NN-HD-Acc.Sg.Masc Fall))
+        (NE-HD-Dat.Sg für))
+      (NP-OA
+        (ART-HD-Acc.Sg.Masc den)
+        (NN-HD-Acc.Sg.Masc Wohnungsbau)
+        (PP-MNR\/N
+          (APPRART-AC-Dat.Sg.Fem zur)
+          (NN-HD-Dat.Sg.Fem Verfügung)))
+      (VVINF-HD stehen)))
+  (\$. .))

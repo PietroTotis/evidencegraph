@@ -1,0 +1,32 @@
+.boxed {
+  border: 1px solid red ;
+} 
+
+.boxed2 {
+  border: 1px solid yellow ;
+} 
+
+body {
+	background-color: lightblue;
+}
+
+.mytext {
+    width: 1000px;
+    height: 500px;
+  font-size:18pt;
+}
+
+
+
+div.justified {
+        display: flex;
+        justify-content: center;
+    }
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

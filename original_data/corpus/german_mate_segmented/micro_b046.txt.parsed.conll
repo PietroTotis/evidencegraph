@@ -1,0 +1,56 @@
+1	Geheimdienste	_	Geheimdienst	_	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+2	genießen	_	genießen	_	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	scheinbar	_	scheinbar	_	ADJD	_	pos	-1	4	_	MO	_	_
+4	willkürliche	_	willkürlich	_	ADJA	_	acc|pl|fem|pos	-1	5	_	NK	_	_
+5	Freiheiten	_	Freiheit	_	NN	_	acc|pl|fem	-1	2	_	OA	_	_
+6	.	_	--	_	$.	_	_	-1	5	_	--	_	_
+
+1	Niemand	_	niemand	_	PIS	_	nom|sg|masc	-1	2	_	SB	_	_
+2	kann	_	können	_	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	ihre	_	ihr	_	PPOSAT	_	acc|pl|fem	-1	4	_	NK	_	_
+4	Tätigkeiten	_	Tätigkeit	_	NN	_	acc|pl|fem	-1	7	_	OA	_	_
+5	im	_	in	_	APPRART	_	dat|sg|neut	-1	7	_	MO	_	_
+6	Detail	_	Detail	_	NN	_	dat|sg|neut	-1	5	_	NK	_	_
+7	nachvollziehen	_	nachvollziehen	_	VVINF	_	_	-1	2	_	OC	_	_
+8	.	_	--	_	$.	_	_	-1	7	_	--	_	_
+
+1	Zwar	_	zwar	_	ADV	_	_	-1	2	_	MO	_	_
+2	ist	_	sein	_	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	eine	_	ein	_	ART	_	nom|sg|fem	-1	5	_	NK	_	_
+4	gewisse	_	gewiß	_	ADJA	_	nom|sg|fem|pos	-1	5	_	NK	_	_
+5	Geheimhaltung	_	Geheimhaltung	_	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+6	Basis	_	Basis	_	NN	_	nom|sg|fem	-1	2	_	PD	_	_
+7	für	_	für	_	APPR	_	_	-1	6	_	MNR	_	_
+8	die	_	der	_	ART	_	acc|sg|fem	-1	9	_	NK	_	_
+9	Arbeit	_	Arbeit	_	NN	_	acc|sg|fem	-1	7	_	NK	_	_
+10	der	_	der	_	ART	_	gen|pl|masc	-1	11	_	NK	_	_
+11	Geheimdienste	_	Geheimdienst	_	NN	_	gen|pl|masc	-1	9	_	AG	_	_
+12	.	_	--	_	$.	_	_	-1	11	_	--	_	_
+
+1	Eine	_	ein	_	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+2	unkontrollierte	_	unkontrolliert	_	ADJA	_	nom|sg|fem|pos	-1	3	_	NK	_	_
+3	Arbeit	_	Arbeit	_	NN	_	nom|sg|fem	-1	6	_	SB	_	_
+4	der	_	der	_	ART	_	gen|pl|masc	-1	5	_	NK	_	_
+5	Geheimdienste	_	Geheimdienst	_	NN	_	gen|pl|masc	-1	3	_	AG	_	_
+6	birgt	_	bergen	_	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	aber	_	aber	_	ADV	_	_	-1	6	_	MO	_	_
+8	die	_	der	_	ART	_	acc|sg|fem	-1	9	_	NK	_	_
+9	Gefahr	_	Gefahr	_	NN	_	acc|sg|fem	-1	6	_	OA	_	_
+10	des	_	der	_	ART	_	gen|sg|masc	-1	11	_	NK	_	_
+11	Missbrauchs	_	Missbrauch	_	NN	_	gen|sg|masc	-1	9	_	AG	_	_
+12	ihrer	_	ihr	_	PPOSAT	_	gen|pl|fem	-1	13	_	NK	_	_
+13	Kompetenzen	_	Kompetenz	_	NN	_	gen|pl|fem	-1	11	_	AG	_	_
+14	.	_	--	_	$.	_	_	-1	13	_	--	_	_
+
+1	Daher	_	daher	_	PROAV	_	_	-1	2	_	MO	_	_
+2	müssen	_	müssen	_	VMFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	Geheimdienste	_	Geheimdienst	_	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+4	im	_	in	_	APPRART	_	dat|sg|masc	-1	3	_	MNR	_	_
+5	Rahmen	_	Rahmen	_	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+6	von	_	von	_	APPR	_	_	-1	5	_	PG	_	_
+7	parlamentarischen	_	parlamentarisch	_	ADJA	_	dat|pl|masc|pos	-1	8	_	NK	_	_
+8	Kontrollausschüssen	_	Kontrollausschuß	_	NN	_	dat|pl|masc	-1	6	_	NK	_	_
+9	kontrolliert	_	kontrollieren	_	VVPP	_	_	-1	10	_	OC	_	_
+10	werden	_	werden	_	VAINF	_	_	-1	2	_	OC	_	_
+11	.	_	--	_	$.	_	_	-1	10	_	--	_	_
+

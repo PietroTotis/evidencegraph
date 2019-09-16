@@ -1,0 +1,169 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc Der)
+      (NN-HD-Nom.Sg.Masc Staat))
+    (VMFIN-HD-Sg darf)
+    (VP-OC\/inf
+      (NP-OA
+        (ART-HD-Acc.Sg.Neut ein)
+        (ADJA-HD-Pos.Acc.Sg.Neut medizinisches)
+        (NN-HD-Acc.Sg.Neut Produkt))
+      (VVINF-HD bzw)))
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (VP-OC\/nohead
+      (NP-OA
+        (ART-HD-Acc.Sg.Fem eine)
+        (ADJA-HD-Pos.Acc.Sg.Fem medizinische)
+        (NN-HD-Acc.Sg.Fem Behandlung))
+      (PTKNEG-NG nicht)
+      (PP-MO\/V
+        (APPR-AC\/Dat aus)
+        (ADJA-HD-Pos.Dat.Sg.Fem moralischen)
+        (ADJA-HD-Pos.Dat.Sg.Fem Gründen)
+        (NN-HD-Dat.Sg.Fem einschränken)
+        (\$, ,)
+        (S-MO
+          (KOUS-CP\/mo solange)
+          (NP-SB\/Sg
+            (PPER-HD-Nom.Sg.Fem sie))
+          (VVFIN-HD-Sg niemand))))
+    (NP-SB\/Pl
+      (ADJA-HD-Pos.Nom.Pl anderen)
+      (NN-HD-Nom.Pl schädigt)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Aber)
+    (VVFIN-HD-Sg ohne)
+    (NP-PAR
+      (NN-HD-Nom.Sg.Fem Rezeptpflicht)
+      (XY-HD fällt))
+    (ADV-MO\/V auch)
+    (NP-OA
+      (ART-HD-Acc.Sg.Fem die)
+      (PN-HD
+        (NP-PNC
+          (NE-HD ärztliche)
+          (NN-HD-Dat.Sg.Fem\/name Beratung))))
+    (PP-MO\/V
+      (APPR-AC\/Dat vor)
+      (ART-HD-Dat.Sg.Fem der)
+      (NN-HD-Dat.Sg.Fem Einnahme))
+    (PTKVZ-SVP weg))
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (ADV-MO\/V Da)
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl.Fem die)
+      (NN-HD-Nom.Pl.Fem Auswirkungen)
+      (NP-AG
+        (ART-HD-Dat.Sg.Fem der)
+        (NN-HD-Dat.Sg.Fem Pille)
+        (PP-MNR\/N
+          (PROAV-PH danach)
+          (\$, ,)
+          (S-RE
+            (PP-MO\/V
+              (ADV-MO\/N gerade)
+              (APPR-AC\/Dat wegen)
+              (PPOSAT-HD-Dat.Sg.Fem ihrer)
+              (ADJA-HD-Pos.Dat.Sg.Fem überwiegend)
+              (ADJA-HD-Pos.Dat.Sg.Fem abtreibenden)
+              (NN-HD-Dat.Sg.Fem Wirkung))
+            (\$, ,)
+            (S-MO
+              (ADV-MO\/V so)
+              (AP-PD\/pred
+                (ADJD-HD-Pos\/0 massiv))
+              (VAFIN-HD-Pl sind))))
+        (\$, ,)
+        (PN-APP-Nom.Sg.Fem
+          (NE-HD-Nom.Sg.Fem wäre))))
+    (NP-OA
+      (ART-HD-Acc.Sg.Fem eine)
+      (NN-HD-Acc.Sg.Fem Abgabe))
+    (PP-MO\/V
+      (APPR-AC\/Acc ohne)
+      (CARD-HD ärztliche)
+      (NN-HD-Acc.Sg.Fem Beratung))
+    (XY-MO unverhältnismäßig))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-PD
+      (ART-HD-Nom.Sg.Masc Ein)
+      (ADJA-HD-Comp.Nom.Sg.Masc leichterer)
+      (NN-HD-Nom.Sg.Masc Zugang)
+      (PP-MNR\/N
+        (APPRART-AC-Dat.Sg.Fem zur)
+        (CH-HD
+          (FM-UC Pille)
+          (FM-UC danach)
+          (FM-UC könnte)
+          (FM-UC außerdem)
+          (FM-UC dazu)
+          (FM-UC führen))))
+    (\$, ,)
+    (S-SB
+      (KOUS-CP\/sb dass)
+      (NP-SB\/Sg
+        (PPER-HD-Nom.Sg.Fem sie))
+      (PP-MO\/V
+        (APPR-AC\/Nom als)
+        (ADJA-HD-Pos.Nom.Sg.Masc bequemerer)
+        (NN-HD-Nom.Sg.Masc Weg)
+        (CARD-HD gegenüber)
+        (NP-AG
+          (ADJA-HD-Pos.Gen.Pl anderen)
+          (FM-HD Verhütungsmethoden)))
+      (VVFIN-HD-Sg erscheint)
+      (\$, ,)
+      (S-RC
+        (NP-SB\/Pl\/rel
+          (PRELS-HD-Nom.Pl.Masc die))
+        (ADJD-MO-Pos\/V gesundheitlich)
+        (ADV-MO\/V aber)
+        (NP-OA
+          (PIAT-HD-Acc.Pl.Fem weniger)
+          (NN-HD-Acc.Pl.Fem Folgewirkungen))
+        (VAFIN-HD-Pl haben))))
+  (\$. .))
+
+(TOP
+  (ADV-MO\/0 Beispielsweise)
+  (XY-TOP könnte)
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem die)
+      (NN-HD-Nom.Sg.Fem Pille))
+    (VVFIN-HD-Sg danach)
+    (VP-OC\/inf
+      (CVP-OC\/inf
+        (VP-OC\/inf
+          (NP-OA
+            (ART-HD-Acc.Sg.Masc den)
+            (NN-HD-Acc.Sg.Masc Einsatz)
+            (PP-PG\/N
+              (APPR-AC\/von von)
+              (PN-HD-Dat.Sg.Masc
+                (NE-PNC-Dat.Sg.Masc Kondomen)
+                (ADJA-PNC-Pos.Dat.Sg.Masc zurückgehen))))
+          (VVINF-HD lassen))
+        (KON-CD und)
+        (VP-OC\/inf
+          (ADV-MO\/V so)
+          (NP-OA
+            (ART-HD-Acc.Pl.Fem die)
+            (NN-HD-Acc.Pl.Fem Aidsneuansteckungen))
+          (VVINF-HD steigen)))
+      (VVINF-HD lassen)))
+  (\$. .))

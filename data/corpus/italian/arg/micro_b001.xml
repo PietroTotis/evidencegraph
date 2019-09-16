@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_b001" topic_id="waste_separation" stance="pro">
+  <edu id="e1"><![CDATA[Sì, separare sempre correttamente la propria spazzatura è fastidioso e laborioso.]]></edu>
+  <edu id="e2"><![CDATA[Tre diversi sacchi della spazzatura puzzano in cucina e devono essere riposti in tre diversi contenitori.]]></edu>
+  <edu id="e3"><![CDATA[Ma in Germania si producono ancora troppi rifiuti]]></edu>
+  <edu id="e4"><![CDATA[e si perdono troppe risorse se quello che in realtà dovrebbe essere separato e riciclato viene incenerito.]]></edu>
+  <edu id="e5"><![CDATA[Noi berlinesi dovremmo cogliere l'occasione e diventare pionieri nella raccolta differenziata dei rifiuti!]]></edu>
+  <adu id="a1" type="opp"/>
+  <adu id="a2" type="opp"/>
+  <adu id="a3" type="pro"/>
+  <adu id="a4" type="pro"/>
+  <adu id="a5" type="pro"/>
+  <edge id="c6" src="e1" trg="a1" type="seg"/>
+  <edge id="c7" src="e2" trg="a2" type="seg"/>
+  <edge id="c8" src="e3" trg="a3" type="seg"/>
+  <edge id="c9" src="e4" trg="a4" type="seg"/>
+  <edge id="c10" src="e5" trg="a5" type="seg"/>
+  <edge id="c1" src="a1" trg="a5" type="reb"/>
+  <edge id="c2" src="a2" trg="a1" type="sup"/>
+  <edge id="c3" src="a3" trg="c1" type="und"/>
+  <edge id="c4" src="a4" trg="c3" type="add"/>
+</arggraph>

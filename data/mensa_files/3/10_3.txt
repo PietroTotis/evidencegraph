@@ -1,0 +1,6 @@
+Meiner Meinung nach eignet sich LanguageTool Plus besonders für längere Texte, da es statistisch betrachtet wahrscheinlicher ist, dass sich Fehler eingeschlichen haben. 
+Das Programm besitzt dennoch intelligente Funktionen, die vielen anderen Programmen fehlen. 
+Nichtsdestotrotz sind einige Funktionen (beispielsweise die Zeitformfunktion) obsolet, wenn man der Sprache, die man für seinen Text genutzt hat, mächtig ist. 
+Ich würde behaupten, dass das Programm gerade für lange Texte wie z. B. Haus- oder Bachelorarbeiten, die einige Unsicherheiten oder Flüchtigkeitsfehler enthalten nützlich sein könnte. 
+Falls man tatsächlich viel am PC arbeitet, wäre das Programm sogar eine große Hilfe. Nicht nur die reine Prüfung auf Fehler orthographischer Natur, sondern auch auf Doppelungen, Leerzeichen und einige stilistische Verbesserungsvorschläge machen meiner Ansicht nach ein gutes Tool aus.
+Viele Programme, wie auch LanguageTool Plus, sind noch nicht sprachspezifisch genug und erkennen noch keine Idiomatik oder Eigennamen aber soweit ist noch nicht mal die maschinelle Übersetzung.

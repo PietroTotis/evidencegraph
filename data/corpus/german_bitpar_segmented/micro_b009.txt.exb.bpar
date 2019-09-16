@@ -1,0 +1,108 @@
+
+(TOP
+  (S-TOP
+    (S-SB
+      (KOUS-CP\/sb Dass)
+      (NP-SB\/Pl
+        (NN-HD-Nom.Pl.Masc Mieter))
+      (ADV-MO\/V heutzutage)
+      (PP-MO\/V
+        (APPR-AC\/Dat bei)
+        (ART-HD-Dat.Sg.Masc einem)
+        (NN-HD-Dat.Sg.Masc Neueinzug))
+      (VVFIN-HD-Pl einen)
+      (NP-SB\/Pl
+        (PIAT-HD viel)
+        (NN-HD-Nom.Pl höheren))
+      (NP-OA
+        (NN-HD-Acc.Sg.Masc Preis))
+      (PP-MO\/V
+        (APPR-AC\/Nom als)
+        (ART-HD-Nom.Sg.Masc der)
+        (NN-HD-Nom.Sg.Masc Vormieter))
+      (VVFIN-HD-Pl zahlen)
+      (NP-SB
+        (NN-HD müssen)))
+    (\$, ,)
+    (VAFIN-HD-Sg ist)
+    (VP-OC\/zu
+      (CAVP-MO
+        (ADJD-MO-Pos\/0 ungerecht)
+        (KON-CD und)
+        (AVP-MO\/0
+          (PTKNEG-NG nicht)
+          (ADV-HD\/0 mehr)))
+      (VZ-HD
+        (PTKZU-PM zu)
+        (VVINF-HD rechtfertigen))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Sicherlich)
+    (VVFIN-HD-Sg muss)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc der)
+      (NN-HD-Nom.Sg.Masc Vermieter))
+    (VP-OC\/inf
+      (NP-OA
+        (PIAT-HD-Acc.Sg.Fem einige)
+        (NN-HD-Acc.Sg.Fem Instandsetzungs-Maßnahmen)
+        (PP-MNR\/N
+          (APPR-AC\/Dat vor)
+          (NN-HD-Dat.Sg.Masc Neueinzug)))
+      (VVINF-HD zahlen)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KON-JU Doch)
+    (NP-OA
+      (PDAT-HD-Acc.Pl.Fem diese)
+      (NN-HD-Acc.Pl.Fem Ausgaben))
+    (NP-SB\/Sg
+      (NE-HD-Nom.Sg müssten)
+      (ADV-MO\/N auch))
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (PP-MO\/V
+          (APPR-AC\/Acc\/durch durch)
+          (ADJA-HD-Pos.Acc.Sg.Fem minimale)
+          (NN-HD-Acc.Sg.Fem Mieterhöhungen))
+        (PN-DA-Dat.Sg
+          (NE-HD-Dat.Sg über))
+        (NP-OA
+          (ART-HD-Acc.Sg.Masc den)
+          (ADJA-HD-Pos.Acc.Sg.Masc gesamten)
+          (NN-HD-Acc.Sg.Masc Mietzeitraum))
+        (VVPP-HD getilgt))
+      (VAINF-HD werden)))
+  (XY-TOP können)
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (VP-OC\/pp
+      (S-MO
+        (KOUS-CP\/mo Zumal)
+        (NP-SB\/Sg
+          (ART-HD-Nom.Sg.Masc der)
+          (NN-HD-Nom.Sg.Masc Mietpreis)
+          (NE-HD gegenüber))
+        (NP-DA
+          (ART-HD-Dat.Sg.Neut dem)
+          (NN-HD-Dat.Sg.Neut Grundmietpreis)
+          (NE-HD-Nom.Sg für))
+        (NP-OA
+          (ART-HD-Acc.Sg.Masc einen)
+          (ADJA-HD-Pos.Acc.Sg.Masc ausreichenden)
+          (NN-HD-Acc.Sg.Masc Gewinn)))
+      (PP-MO\/V
+        (PTKNEG-NG nicht)
+        (APPR-AC\/Dat bei)
+        (PIAT-HD-Dat.Sg.Fem jeder)
+        (NN-HD-Dat.Sg.Fem Neuvermietung))
+      (VVPP-HD angehoben))
+    (VAFIN-HD-Pl werden)
+    (ADV-PD\/V muss))
+  (\$. .))

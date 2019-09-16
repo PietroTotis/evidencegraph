@@ -1,0 +1,142 @@
+
+(TOP
+  (S-TOP
+    (NP-EP
+      (PPER-HD-Nom.Sg.Neut\/ep Es))
+    (VAFIN-HD-Sg ist)
+    (ADV-MO\/V ganz)
+    (ADJD-PD-Pos\/V klar)
+    (\$, ,)
+    (S-SB
+      (KOUS-CP\/sb dass)
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Masc der)
+        (NN-HD-Nom.Sg.Masc Sonntag))
+      (VP-OC\/inf
+        (NP-PD
+          (ART-HD-Nom.Sg.Masc ein)
+          (NN-HD-Nom.Sg.Masc Ruhetag))
+        (VVINF-HD bleiben))
+      (VMFIN-HD-Sg soll)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KON-JU Denn)
+    (NP-SB\/Sg
+      (PIS-HD-Nom.Sg man))
+    (VMFIN-HD-Sg kann)
+    (VP-OC\/inf
+      (ADV-MO\/V ja)
+      (PP-MO\/V
+        (APPR-AC\/Dat an)
+        (CARD-HD 6)
+        (NN-HD-Dat.Pl.Masc Tagen))
+      (NP-OA
+        (ART-HD-Acc.Sg.Fem die)
+        (NN-HD-Acc.Sg.Fem Woche))
+      (VVINF-HD einkaufen))
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo da)
+      (NP-SB\/Pl
+        (ART-HD-Nom.Pl die)
+        (NN-HD-Nom.Pl Geschäfte))
+      (PP-MO\/V
+        (APPR-AC\/Dat an)
+        (PIAT-HD-Dat.Pl.Masc manchen)
+        (NN-HD-Dat.Pl.Masc Tagen))
+      (NP-OA
+        (AP-HD
+          (ADV-MO\/card bis)
+          (CARD-HD 22))
+        (NN-HD-Fem\/seq Uhr)
+        (NN-HD-Nom.Sg.Neut geöffnet))
+      (VAFIN-HD-Pl haben)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (ADV-MO\/V Somit)
+      (VMFIN-HD-Sg sollte)
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Masc der)
+        (NN-HD-Nom.Sg.Masc Sonntag))
+      (VP-OC\/inf
+        (NP-PD
+          (ART-HD-Nom.Sg.Masc ein)
+          (NN-HD-Nom.Sg.Masc Tag)
+          (NP-AG
+            (ART-HD-Gen.Sg.Masc des)
+            (NN-HD-Gen.Sg.Masc Beisammenseins)
+            (NP-AG
+              (ART-HD-Gen.Sg.Fem der)
+              (NN-HD-Gen.Sg.Fem Familie))))
+        (VAINF-HD sein)))
+    (\$, ,)
+    (S-TOP
+      (ADV-MO\/V sonst)
+      (VAFIN-HD-Sg wird)
+      (PRF-OA-Acc.Sg sich)
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Fem eine)
+        (ADJA-HD-Pos.Nom.Sg.Fem neue)
+        (NN-HD-Nom.Sg.Fem Freizeitart))
+      (VP-OC\/inf
+        (VVINF-HD bilden))
+      (\$, ,)
+      (S-RC
+        (PP-MO\/V\/rel
+          (APPR-AC\/Dat\/in in)
+          (PRELS-HD-Dat.Sg.Fem der))
+        (NP-TOP
+          (ART-HD-Nom.Pl.Masc die)
+          (NN-HD-Nom.Pl.Masc Menschen))
+        (NP-OA
+          (ART-HD-Acc.Sg.Fem die)
+          (NN-HD-Acc.Sg.Fem Zeit)
+          (PP-MNR\/N
+            (APPR-AC\/Acc\/in in)
+            (NN-HD-Acc.Sg.Fem Supermärkten)
+            (CPP-MNR\/N
+              (PP-MNR\/N
+                (APPR-AC anstatt)
+                (NN-HD draußen))
+              (KON-CD oder)
+              (PP-MNR\/N
+                (APPRART-AC-Dat.Sg.Neut beim)
+                (ADJA-HD-Pos.Dat.Sg.Neut gemeinsamen)
+                (NN-HD-Dat.Sg.Neut Gesprächen)))))
+        (VVFIN-HD-Sg usw))))
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (VP-OC\/inf
+      (VVINF-HD verbringen)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PN-SB-Nom.Sg
+      (NE-HD-Nom.Sg Außerdem))
+    (VVFIN-HD-Sg gibt)
+    (NP-OA
+      (PPER-HD-Acc.Sg.Neut es))
+    (NP-SB\/Sg
+      (PIAT-HD-Nom.Sg.Masc kein)
+      (NN-HD-Nom.Sg.Masc Bedarf))
+    (PN-DA-Dat.Sg
+      (NE-HD-Dat.Sg für))
+    (NP-OA
+      (ART-HD-Acc.Sg.Neut das)
+      (NN-HD-Acc.Sg.Neut Offenhalten)
+      (NP-AG
+        (ART-HD der)
+        (NN-HD Geschäfte)))
+    (PP-MO\/V
+      (APPR-AC\/Dat an)
+      (ART-HD-Dat.Pl.Masc den)
+      (NN-HD-Dat.Pl.Masc Sonntagen)))
+  (\$. .))

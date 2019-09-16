@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_b062" topic_id="keep_retirement_at_63" stance="con">
+  <edu id="e1"><![CDATA[Non credo che l'età pensionabile debba essere di 63 anni.]]></edu>
+  <edu id="e2"><![CDATA[Ciò significherebbe in futuro una carenza di molti lavoratori nelle aziende.]]></edu>
+  <edu id="e3"><![CDATA[Un altro problema particolare sarebbe il periodo introduttivo della pensione a 63 anni,]]></edu>
+  <edu id="e4"><![CDATA[in quanto molti lavoratori in età avanzata avrebbero diritto a una pensione immediatamente dopo la sua introduzione.]]></edu>
+  <edu id="e5"><![CDATA[Questo renderebbe la Germania meno appetibile come zona dove aprire attività e lascerebbe i datori di lavoro senza un periodo di transizione.]]></edu>
+  <edu id="e6"><![CDATA[In questo caso esiste il pericolo che non siano disponibili forze lavoratrici giovani con sufficiente esperienza.]]></edu>
+  <adu id="a1" type="pro"/>
+  <adu id="a2" type="pro"/>
+  <adu id="a3" type="pro"/>
+  <adu id="a4" type="pro"/>
+  <adu id="a5" type="pro"/>
+  <adu id="a6" type="pro"/>
+  <edge id="c7" src="e1" trg="a1" type="seg"/>
+  <edge id="c8" src="e2" trg="a2" type="seg"/>
+  <edge id="c9" src="e3" trg="a3" type="seg"/>
+  <edge id="c10" src="e4" trg="a4" type="seg"/>
+  <edge id="c11" src="e5" trg="a5" type="seg"/>
+  <edge id="c12" src="e6" trg="a6" type="seg"/>
+  <edge id="c2" src="a2" trg="a1" type="sup"/>
+  <edge id="c3" src="a3" trg="a1" type="sup"/>
+  <edge id="c4" src="a4" trg="a3" type="sup"/>
+  <edge id="c5" src="a5" trg="c4" type="add"/>
+  <edge id="c6" src="a6" trg="c4" type="add"/>
+</arggraph>
+     

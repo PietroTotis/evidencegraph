@@ -1,0 +1,99 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Neut Das)
+      (ADJA-HD-Pos Berliner)
+      (NN-HD-Nom.Sg.Neut Basketballteam))
+    (VAFIN-HD-Sg hat)
+    (NP-PD
+      (ART-HD-Nom.Sg.Fem eine)
+      (NN-HD-Nom.Sg.Fem ernüchternde)
+      (PP-MNR\/N
+        (ADV-MO\/N Saison)
+        (APPR-AC\/Acc hinter)
+        (PRF-HD-Acc.Pl sich))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PP-MO\/V
+      (ADV-MO\/N Gerade)
+      (APPR-AC\/Dat\/in in)
+      (ART-HD-Dat.Pl.Neut den)
+      (NN-HD-Dat.Pl.Neut Heimspielen))
+    (VVFIN-HD-Sg blieb)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem die)
+      (NN-HD-Nom.Sg.Fem Mannschaft))
+    (ADV-MO\/V oft)
+    (PP-MO\/V
+      (APPR-AC\/Dat hinter)
+      (ART-HD-Dat.Pl.Fem den)
+      (NN-HD-Dat.Pl.Fem Erwartungen))
+    (PN-DA-Dat.Sg
+      (NE-HD-Dat.Sg zurück)))
+  (\$. .))
+
+(TOP
+  (DL-TOP\/nohead
+    (NP-TOP
+      (ADJA-HD-Pos.Nom.Sg.Masc Trauriger)
+      (NN-HD-Nom.Sg.Masc Höhepunkt))
+    (\$. :)
+    (S-TOP
+      (NP-SB\/Pl
+        (AP-HD
+          (PP-MO\/0
+            (APPRART-AC-Dat.Sg.Neut\/in Im)
+            (ADJA-HD-Pos.Dat.Sg.Neut ausverkauften)
+            (NN-HD-Dat.Sg.Neut Stadion))
+          (CAP-HD
+            (CARD-HD 60:87)
+            (APPR-CD gegen)
+            (CARD-HD schwächelnde)))
+        (NN-HD-Nom.Pl.Masc Mannheimer))
+      (VVFIN-HD-Pl verlieren)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Zwar)
+    (VVFIN-HD-Sg landete)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem die)
+      (NN-HD-Nom.Sg.Fem Mannschaft)
+      (PP-MNR\/N
+        (APPR-AC\/Dat\/in in)
+        (ART-HD-Dat.Sg.Fem der)
+        (NN-HD-Dat.Sg.Fem Liga)))
+    (PP-MO\/V
+      (APPRART-AC-Dat.Sg.Neut am)
+      (NN-HD-Dat.Sg.Neut Ende))
+    (AVP-MO\/V
+      (ADV-MO\/V doch)
+      (ADV-HD\/V noch))
+    (PP-MO\/V
+      (APPR-AC\/Dat\/auf auf)
+      (NN-HD-Dat.Sg.Masc Platz)
+      (CARD-HD drei))
+    (\$, ,)
+    (S-MO
+      (ADV-MO\/V aber)
+      (PP-MO\/V
+        (APPR-AC\/Dat bei)
+        (ART-HD-Dat.Pl.Fem den)
+        (ADJA-HD-Pos.Dat.Pl.Fem hohen)
+        (NN-HD-Dat.Pl.Fem Ausgaben))
+      (NP-SB\/Pl
+        (NN-HD-Nom.Pl für))
+      (NP-OA
+        (ART-HD-Acc.Sg.Fem die)
+        (CH-HD
+          (FM-UC Star-Spieler)
+          (FM-UC hätte)
+          (FM-UC man)))
+      (ADV-MO\/V mehr)
+      (VVFIN-HD-Pl erwarten)))
+  (XY-TOP können)
+  (\$. .))

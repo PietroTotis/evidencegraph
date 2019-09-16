@@ -1,0 +1,94 @@
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-SB\/Pl
+        (CARD-HD Eigentümergeführte)
+        (NN-HD-Nom.Pl Geschäfte))
+      (VAFIN-HD-Pl werden)
+      (NP-OA
+        (CARD-HD möglicherweise)
+        (PP-MNR\/N
+          (APPR-AC\/Dat\/von von)
+          (ART-HD-Dat.Sg.Fem der)
+          (ADJA-HD-Pos.Dat.Sg.Fem zusätzlichen)
+          (NN-HD-Dat.Sg.Fem Arbeitszeit)
+          (PP-MNR\/N
+            (APPR-AC\/Dat an)
+            (CNP-HD\/Dat
+              (TRUNCCap-HD Sonn-)
+              (KON-CD und)
+              (NN-HD-Dat.Pl.Masc Feiertagen))))
+        (NN-HD-Fem überfordert)))
+    (\$, ,)
+    (S-TOP
+      (ADV-MO\/V allerdings)
+      (VVFIN-HD-Pl dominieren)
+      (NP-SB\/Pl
+        (ADV-MO\/N bereits)
+        (AP-HD
+          (ADV-MO\/0 heute)
+          (CAP-HD
+            (CARD-HD Supermärkte)
+            (KON-CD und)
+            (CARD-HD große)))
+        (NN-HD-Nom.Pl.Neut Einkaufszentren))
+      (NP-OA
+        (ART-HD-Acc.Sg.Masc den)
+        (NN-HD-Acc.Sg.Masc Markt))))
+  (\$. .))
+
+(TOP
+  (ADV-MO\/0 So)
+  (XY-TOP können)
+  (S-TOP
+    (NP-SB\/Pl
+      (ADV-MO\/N auch)
+      (ADJA-HD-Pos.Nom.Pl kleinere)
+      (NN-HD-Nom.Pl Geschäfte)
+      (PP-MNR\/N
+        (APPR-AC\/Dat\/von von)
+        (ART-HD-Dat.Sg.Fem der)
+        (ADJA-HD-Pos.Dat.Sg.Fem zusätzlichen)
+        (NN-HD-Dat.Sg.Fem Freiheit)))
+    (VVFIN-HD-Pl profitieren)
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo da)
+      (NP-SB\/Pl
+        (ART-HD-Nom.Pl.Masc die)
+        (NN-HD-Nom.Pl.Masc Kunden))
+      (PP-MO\/V
+        (APPRART-AC-Dat.Sg.Masc am)
+        (NN-HD-Dat.Sg.Masc Sonntag))
+      (AP-MO\/pred
+        (PP-MO\/0
+          (APPRART-AC-Dat.Sg.Masc\/in im)
+          (NN-HD-Dat.Sg.Masc Durchschnitt))
+        (ADJD-HD-Comp\/0 entspannter))
+      (VVFIN-HD-Pl einkaufen)))
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Eine)
+      (NN-HD-Nom.Sg.Fem Öffnung)
+      (PP-MNR\/N
+        (APPR-AC\/Dat an)
+        (CNP-HD\/Dat
+          (TRUNCCap-HD Sonn-)
+          (KON-CD und)
+          (NN-HD-Dat.Pl.Masc Feiertagen))))
+    (VP-OC\/inf
+      (NP-OA
+        (FM-HD würde)
+        (FM-HD daher))
+      (CNP-DA
+        (NP-DA\/chain
+          (NN-HD-Dat.Pl.Masc Kunden))
+        (KON-CD und)
+        (NP-DA\/chain
+          (NN-HD-Dat.Pl Geschäften)))
+      (VVINF-HD helfen)))
+  (\$. .))

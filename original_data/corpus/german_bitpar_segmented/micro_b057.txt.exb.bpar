@@ -1,0 +1,188 @@
+
+(TOP
+  (CS-TOP
+    (S-TOP\/nohead\/nosubj
+      (PP-MO\/V
+        (APPR-AC Mit)
+        (CARD-HD 63))
+      (PP-MO\/V
+        (APPR-AC\/Acc\/in in)
+        (NN-HD-Acc.Sg.Fem Rente)))
+    (\$, ,)
+    (S-TOP
+      (NP-SB\/Sg
+        (PDS-HD-Nom.Sg.Neut das))
+      (VAFIN-HD-Sg hat)
+      (VP-OC\/pp
+        (PRF-OA-Acc.Sg sich)
+        (AP-MO\/pred
+          (ADV-MO\/0 wohl)
+          (ADJD-HD-Comp\/0 jeder))
+        (VVPP-HD verdient)
+        (\$, ,)
+        (S-RC
+          (NP-SB\/Sg\/rel
+            (PRELS-HD-Nom.Sg.Masc der))
+          (VP-OC\/pp
+            (PP-MO\/V
+              (APPR-AC bis)
+              (AP-HD-pred
+                (ADV-MO\/0 hierhin)
+                (CAP-HD\/pred
+                  (\$Par \()
+                  (ADJD-HD-Pos\/0 ununterbrochen)
+                  (\$Par \)))))
+            (VVPP-HD geschuftet))
+          (VAFIN-HD-Sg hat)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Nur)
+    (VVFIN-HD-Sg bleibt)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem die)
+      (NN-HD-Nom.Sg.Fem Frage))
+    (\$, ,)
+    (S-OC
+      (KOUS-CP\/oc ob)
+      (NP-SB\/Sg
+        (PPER-HD-Nom.Sg.Neut es))
+      (PP-MO\/V
+        (APPR-AC\/Dat mit)
+        (ART-HD-Dat.Sg.Fem der)
+        (ADJA-HD-Pos.Dat.Sg.Fem frühen)
+        (\$Par \")
+        (NN-HD-Dat.Sg.Fem Freizeit)
+        (\$Par \"))
+      (NP-PD
+        (NN-HD-Nom.Sg.Fem schöner))
+      (VAFIN-HD-Sg wird)
+      (\$, ,)
+      (S-MO
+        (KOUS-CP\/mo wenn)
+        (NP-SB\/Sg
+          (PIS-HD-Nom.Sg man))
+        (PTKNEG-NG nicht)
+        (CNP-OA
+          (NP-OA
+            (NN-HD-Acc.Sg.Fem weiß)
+            (\$, ,)
+            (S-RC
+              (NP-OA\/rel
+                (PRELS-HD-Acc.Sg.Neut was))
+              (NP-SB\/Sg
+                (PIS-HD-Nom.Sg man))
+              (VP-OC\/inf
+                (NP-OA
+                  (ART-HD-Acc.Sg.Masc den)
+                  (ADJA-HD-Pos.Acc.Sg.Masc ganzen)
+                  (NN-HD-Acc.Sg.Masc Tag))
+                (VVINF-HD machen))
+              (VMFIN-HD-Sg soll)))
+          (KON-CD und)
+          (NP-OA
+            (AP-HD
+              (AVP-MO\/0
+                (ADJD-MO-Pos\/0 statistisch)
+                (ADV-HD\/0 noch))
+              (ADJD-MO-Pos\/card knapp)
+              (CARD-HD 20)))))
+      (\$Par \()))
+  (\$. !))
+
+(TOP
+  (XY-TOP !))
+
+(TOP
+  (XY-TOP !))
+
+(TOP
+  (S-TOP
+    (\$Par \))
+    (NP-PD
+      (NN-HD-Nom.Pl.Neut Jahre))
+    (S-MO
+      (VP-OC\/zu
+        (VZ-HD
+          (PTKZU-PM zu)
+          (VVINF-HD leben)))
+      (VAFIN-HD-Sg hat)))
+  (\$. ?))
+
+(TOP
+  (ADV-MO\/0 Auch)
+  (XY-TOP übernimmt)
+  (NP-TOP
+    (PIS-HD-Nom.Sg man))
+  (XY-TOP so)
+  (NP-TOP
+    (PIAT-HD-Nom.Sg.Fem keine)
+    (NN-HD-Nom.Sg.Fem Verantwortung))
+  (XY-TOP für)
+  (NP-TOP
+    (ART-HD-Nom.Sg.Fem die)
+    (NN-HD-Nom.Sg.Fem Gesellschaft)
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo wenn)
+      (NP-SB\/Sg
+        (PIS-HD-Nom.Sg man))
+      (PP-MO\/V
+        (APPR-AC\/Dat aus)
+        (ADJA-HD-Pos.Dat.Sg.Fem persönlichen\/privaten)
+        (NN-HD-Dat.Sg.Fem Gründen))
+      (NP-OA
+        (PPOSAT-HD-Acc.Sg.Fem seine)
+        (CAP-HD-Pos.Acc.Sg.Fem
+          (ADJA-HD-Pos.Acc.Sg.Fem erfahrene)
+          (\$, ,)
+          (ADJA-HD-Pos.Acc.Sg.Fem gesunde)
+          (KON-CD und)
+          (AP-HD-Pos.Acc.Sg.Fem
+            (ADJD-MO-Pos\/0 qualitativ)
+            (ADJA-HD-Pos.Acc.Sg.Fem hochwertige)))
+        (NN-HD-Acc.Sg.Fem Arbeitsfähigkeit))))
+  (XY-TOP früher)
+  (XY-TOP als)
+  (XY-TOP nötig)
+  (XY-TOP aufgibt)
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (S-MO
+      (AVP-MO\/V
+        (ADV-MO\/V Gerade)
+        (ADV-HD\/V jetzt))
+      (\$, ,)
+      (KOUS-CP\/mo da)
+      (NP-SB\/Pl
+        (NN-HD-Nom.Pl Fachkräftemängel))
+      (VVFIN-HD-Pl auftreten))
+    (\$, ,)
+    (VAFIN-HD-Sg ist)
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg.Neut es))
+    (ADJD-PD-Pos\/V unverantwortlich)
+    (VP-RE
+      (NP-OA
+        (CARD-HD für)
+        (CNP-HD
+          (NP-HD
+            (ART-HD-Acc.Sg.Fem die)
+            (NN-HD-Acc.Sg.Fem Wirtschaft))
+          (KON-CD und)
+          (NP-HD
+            (ART-HD-Acc.Sg.Masc den)
+            (NN-HD-Acc.Sg.Masc Wohlstand)
+            (PP-MNR\/N
+              (APPR-AC mit)
+              (CARD-HD 63)))))
+      (PP-CVC\/V
+        (APPR-AC\/Acc\/in in)
+        (NN-HD-Acc.Sg.Fem Rente))
+      (VZ-HD
+        (PTKZU-PM zu)
+        (VVINF-HD gehen))))
+  (\$. .))

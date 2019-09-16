@@ -1,0 +1,136 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg Ich))
+    (VAFIN-HD-Sg bin)
+    (PTKNEG-NG nicht)
+    (NP-PD
+      (ART-HD-Gen.Sg.Fem der)
+      (NN-HD-Gen.Sg.Fem Auffassung)
+      (\$, ,)
+      (S-OC
+        (KOUS-CP\/oc dass)
+        (NP-SB\/Sg
+          (ART-HD-Nom.Sg.Neut das)
+          (NN-HD-Nom.Sg.Neut Rentenalter))
+        (VP-OC\/inf
+          (PP-MO\/V
+            (APPR-AC\/Dat bei)
+            (CARD-HD 63)
+            (NN-HD-Dat.Pl.Neut Jahren))
+          (VVINF-HD liegen))
+        (VMFIN-HD-Sg sollte))))
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (NP-SB\/Sg
+      (PDS-HD-Nom.Sg.Neut Dies))
+    (VP-OC\/inf
+      (PN-OA-Acc.Sg
+        (NE-HD-Acc.Sg würde))
+      (VVINF-HD bedeuten)
+      (\$, ,)
+      (S-OC
+        (KOUS-CP\/oc dass)
+        (PP-MO\/V
+          (APPR-AC\/Dat\/in in)
+          (NN-HD-Dat.Sg.Fem Zukunft))
+        (NP-SB\/Pl
+          (PIAT-HD-Nom.Pl viele)
+          (NN-HD-Nom.Pl Arbeitskräfte))
+        (VP-OC\/pp
+          (PP-MO\/V
+            (APPR-AC\/Dat\/in in)
+            (ART-HD-Dat.Pl.Neut den)
+            (NN-HD-Dat.Pl.Neut Unternehmen))
+          (VVPP-HD fehlen))
+        (VAFIN-HD-Pl werden))))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Neut Ein)
+        (ADJA-HD-Pos.Nom.Sg.Neut besonderes)
+        (NN-HD-Nom.Sg.Neut Problem)
+        (NE-HD-Nom.Sg wäre))
+      (NP-PD
+        (ADV-MO\/N auch)
+        (ART-HD-Nom.Sg.Fem die)
+        (NN-HD-Nom.Sg.Fem Einführungsphase)
+        (NP-AG
+          (ART-HD-Gen.Sg.Fem der)
+          (NN-HD-Gen.Sg.Fem Rente))
+        (PP-MNR\/N
+          (APPR-AC mit)
+          (CARD-HD 63))))
+    (\$, ,)
+    (S-TOP\/nohead
+      (AVP-MO\/V
+        (ADV-MO\/V da)
+        (ADV-HD\/V sofort))
+      (NP-SB\/Pl
+        (PP-MNR\/N
+          (APPR-AC\/Dat bei)
+          (NE-HD-Dat.Sg Einführung))
+        (PIAT-HD-Nom.Pl.Masc viele)
+        (ADJA-HD-Pos.Nom.Pl.Masc aktuelle)
+        (NN-HD-Nom.Pl.Masc Arbeitnehmer)
+        (NP-AG
+          (ADJA-HD-Pos.Gen.Sg.Neut gehobenen)
+          (NN-HD-Gen.Sg.Neut Alters)))
+      (NP-OA
+        (NN-HD-Acc.Sg.Masc Anspruch))
+      (PP-MO\/V
+        (APPR-AC\/Acc\/auf auf)
+        (ART-HD-Acc.Sg.Masc den)
+        (NN-HD-Acc.Sg.Masc Renteneintritt))
+      (XY-MO hätten)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-PD
+      (ART-HD-Nom.Sg.Neut Das)
+      (NN-HD-Nom.Sg.Neut schädigt)
+      (NP-AG
+        (ART-HD-Dat.Pl.Masc den)
+        (CNP-HD
+          (PN-HD
+            (NP-PNC
+              (NN-HD-Acc.Sg.Masc\/name Standort)
+              (NE-HD-Nom.Sg.Neut Deutschland)))
+          (KON-CD und)
+          (NE-HD hinterlässt))))
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl.Masc die)
+      (NN-HD-Nom.Pl.Masc Arbeitgeber)
+      (PP-MNR\/N
+        (APPR-AC\/Acc ohne)
+        (NE-HD-Acc.Sg Übergangsfrist))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Hier)
+    (VVFIN-HD-Sg besteht)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem die)
+      (NN-HD-Nom.Sg.Fem Gefahr))
+    (\$, ,)
+    (S-OC
+      (KOUS-CP\/oc dass)
+      (AP-MO\/pred
+        (PTKNEG-NG nicht)
+        (ADJD-HD-Pos\/0 ausreichend))
+      (NP-OA
+        (ADJA-HD-Pos.Acc.Sg.Fem erfahrene)
+        (NN-HD-Acc.Sg.Fem Nachwuchskräfte)
+        (PP-MNR\/N
+          (APPRART-AC-Dat.Sg.Fem zur)
+          (NN-HD-Dat.Sg.Fem Verfügung)))
+      (VVFIN-HD-Pl stehen)))
+  (\$. .))

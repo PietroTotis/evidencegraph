@@ -1,0 +1,118 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl.Masc Mietpreise))
+    (VAFIN-HD-Pl sind)
+    (VP-OC\/pp
+      (ADV-MO\/V bereits)
+      (ADV-MO\/V heute)
+      (CO-MO
+        (PP-MO\/0
+          (APPR-AC\/Gen aufgrund)
+          (ADJA-HD-Pos.Gen.Pl.Neut bestehender)
+          (NN-HD-Gen.Pl.Neut Gesetze))
+        (KON-CD und)
+        (AP-MO\/pred
+          (NP-OG
+            (ART-HD-Gen.Sg.Masc des)
+            (NN-HD-Gen.Sg.Masc Mietspiegels)
+            (PP-MNR\/N
+              (APPR-AC\/Gen zugunsten)
+              (ART-HD-Gen.Pl.Masc der)
+              (NN-HD-Gen.Pl.Masc Mieter)))
+          (ADJD-HD-Pos\/0 stark)))
+      (VVPP-HD reguliert)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PP-MO\/V
+      (APPR-AC\/Gen Angesichts)
+      (ART-HD-Gen.Sg.Fem der)
+      (ADJA-HD-Pos.Gen.Sg.Fem hohen)
+      (NN-HD-Gen.Sg.Fem Kaufpreise))
+    (NP-MO
+      (CARD-HD für)
+      (NN-HD-Acc.Pl.Fem Wohnungen)
+      (PP-MNR\/N
+        (APPR-AC\/Dat mit)
+        (ADJA-HD-Pos.Dat.Sg.Fem bestehenden)
+        (NN-HD-Dat.Sg.Fem Mietverträgen)))
+    (VAFIN-HD-Pl sind)
+    (NP-SB\/Pl
+      (PDS-HD-Nom.Pl diese))
+    (NP-OA
+      (ART-HD-Acc.Sg.Neut ein)
+      (ADJA-HD-Pos.Acc.Sg.Neut unattraktives)
+      (NN-HD-Acc.Sg.Neut Investment)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (S-SB
+      (S-MO
+        (ADV-MO\/V Auch)
+        (KOUS-CP\/mo wenn)
+        (NP-SB\/Sg
+          (PIS-HD-Nom.Sg man))
+        (NP-DA
+          (PPOSAT-HD-Dat.Pl meinen)
+          (NN-HD-Dat.Pl könnte)))
+      (\$, ,)
+      (S-OC
+        (KOUS-CP\/oc dass)
+        (NP-SB\/Sg
+          (PIS-HD-Nom.Sg man))
+        (PP-MO\/V
+          (APPR-AC\/Dat neben)
+          (ART-HD-Dat.Sg.Masc dem)
+          (NN-HD-Dat.Sg.Masc Mieterschutz))
+        (NP-OA
+          (ART-HD-Acc.Sg.Masc einen)
+          (NE-HD zusätzlichen)
+          (NN-HD-Acc.Sg.Masc Neumieterschutz)
+          (XY-HD benötigt))))
+    (\$, ,)
+    (VMFIN-HD-Sg sollte)
+    (NP-SB\/Sg
+      (PIS-HD-Nom.Sg man))
+    (NP-DA
+      (ART-HD-Dat.Sg.Masc einem)
+      (ADJA-HD-Pos.Dat.Sg.Masc langjährigen)
+      (NN-HD-Dat.Sg.Masc Eigentümer))
+    (PTKNEG-NG nicht)
+    (VP-OC\/inf
+      (NP-OA
+        (ART-HD-Acc.Sg.Fem die)
+        (NN-HD-Acc.Sg.Fem Chance)
+        (PP-MNR\/N
+          (APPR-AC\/Acc\/auf auf)
+          (NN-HD-Acc.Sg.Fem Angleichung)
+          (NP-AG
+            (PPOSAT-HD-Gen.Sg.Fem seiner)
+            (NN-HD-Gen.Sg.Fem Rendite))
+          (PP-MNR\/N
+            (APPR-AC\/Acc\/auf auf)
+            (NN-HD-Acc.Sg.Neut Marktniveau))))
+      (VVINF-HD verwehren)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Eine)
+      (NN-HD-Nom.Sg.Fem Begrenzung)
+      (NP-AG
+        (ART-HD der)
+        (NN-HD Mietpreiserhöhung))
+      (PP-MNR\/N
+        (APPR-AC\/Dat bei)
+        (NN-HD-Dat.Sg.Masc Mieterwechsel)))
+    (VAFIN-HD-Sg ist)
+    (PROAV-MO daher)
+    (PTKNEG-NG nicht)
+    (PP-MO\/V
+      (APPR-AC\/Dat zu)
+      (NE-HD-Dat.Sg befürworten)))
+  (\$. .))

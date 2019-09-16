@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_k014" topic_id="stricter_regulation_of_intelligence_services" stance="pro">
+  <edu id="e1"><![CDATA[I servizi segreti dovrebbero essere controllati maggiormente dal Parlamento,]]></edu>
+  <edu id="e2"><![CDATA[perché, come ha dimostrato il recente scandalo delle intercettazioni dell'NSA, il governo dello Stato non sempre sembra conoscere le attività dei suoi servizi segreti.]]></edu>
+  <edu id="e3"><![CDATA[I controlli potrebbero contribuire a limitare i singoli servizi segreti nel loro campo d'azione finora molto opaco.]]></edu>
+  <edu id="e4"><![CDATA[Rimane tuttavia discutibile se l'effettiva attuazione di tali controlli comporterà nel contempo un maggiore rispetto della legge,]]></edu>
+  <edu id="e5"><![CDATA[in quanto tale decisione è ora nelle mani dell'attuale capo di governo.]]></edu>
+  <adu id="a1" type="pro"/>
+  <adu id="a2" type="pro"/>
+  <adu id="a3" type="pro"/>
+  <adu id="a4" type="opp"/>
+  <adu id="a5" type="opp"/>
+  <edge id="c6" src="e1" trg="a1" type="seg"/>
+  <edge id="c7" src="e2" trg="a2" type="seg"/>
+  <edge id="c8" src="e3" trg="a3" type="seg"/>
+  <edge id="c9" src="e4" trg="a4" type="seg"/>
+  <edge id="c10" src="e5" trg="a5" type="seg"/>
+  <edge id="c2" src="a2" trg="a1" type="sup"/>
+  <edge id="c3" src="a3" trg="a1" type="sup"/>
+  <edge id="c4" src="a4" trg="a1" type="reb"/>
+  <edge id="c5" src="a5" trg="a4" type="sup"/>
+</arggraph>
+   

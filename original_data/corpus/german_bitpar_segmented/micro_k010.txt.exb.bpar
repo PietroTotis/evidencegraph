@@ -1,0 +1,184 @@
+
+(TOP
+  (S-TOP
+    (PP-OP\/V
+      (APPR-AC\/Dat Bei)
+      (PDS-HD-Dat.Sg.Neut dem)
+      (\$, ,)
+      (S-RC
+        (NP-SB\/Sg\/rel
+          (PRELS-HD-Nom.Sg.Neut was))
+        (ADV-MO\/V heutzutage)
+        (PP-MO\/V
+          (APPRART-AC-Dat.Sg.Neut\/in im)
+          (NN-HD-Dat.Sg.Neut Fernsehen)
+          (XY-MNR läuft))))
+    (\$, ,)
+    (VAFIN-HD-Sg ist)
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg.Neut es))
+    (ADJD-PD-Pos\/V angemessen)
+    (\$, ,)
+    (VP-RE
+      (VP-OC\/inf
+        (NP-OA
+          (ADV-MO\/N nur)
+          (ART-HD-Acc.Pl die)
+          (NN-HD-Acc.Pl Leute))
+        (VVINF-HD zahlen))
+      (VZ-HD
+        (PTKZU-PM zu)
+        (VVINF-HD lassen))
+      (\$, ,)
+      (S-RC
+        (NP-SB\/Pl\/rel
+          (PRELS-HD-Nom.Pl.Masc die))
+        (VP-OC\/inf
+          (NP-OA
+            (ART-HD-Acc.Sg.Fem die)
+            (NN-HD-Acc.Sg.Fem Beiträge))
+          (ADV-MO\/V auch)
+          (ADJD-MO-Pos\/V wirklich)
+          (VVINF-HD verfolgen)
+          (\$Par \())
+        (VMFIN-HD-Pl wollen)))
+    (\$Par \)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (ADV-MO\/V Teilweise)
+      (VVFIN-HD-Pl laufen)
+      (NP-SB\/Pl
+        (ADV-MO\/N nur)
+        (NN-HD-Nom.Pl.Fem Sendungen))
+      (VP-OC\/zu
+        (NP-DA
+          (NN-HD-Dat.Pl für))
+        (NP-OA
+          (ART-HD-Acc.Sg.Fem die)
+          (NN-HD-Acc.Sg.Fem ältere)
+          (NP-AG
+            (NN-HD-Gen.Sg.Fem Generation)))
+        (VZ-HD
+          (PTKZU-PM zu)
+          (VVINF-HD Spielfilmzeiten))))
+    (\$, ,)
+    (S-TOP
+      (PWAV-MO wieso)
+      (VMFIN-HD-Pl sollten)
+      (NP-SB\/Pl
+        (AP-HD-Nom.Pl
+          (ADV-MO\/0 also)
+          (PIAT-HD-Nom.Pl alle))
+        (NN-HD-Nom.Pl dafür))
+      (VVINF-OC zahlen)))
+  (\$. ?))
+
+(TOP
+  (S-TOP
+    (NP-OA
+      (NN-HD-Acc.Sg.Fem Werbung))
+    (VVFIN-HD-Sg gibt)
+    (NP-EP
+      (PPER-HD-Nom.Sg.Neut\/ep es))
+    (ADV-MO\/V inzwischen)
+    (PP-MO\/V
+      (APPR-AC\/Dat\/auf auf)
+      (ADJA-HD-Pos.Dat.Sg.Fem allen)
+      (NN-HD-Dat.Sg.Fem Kanälen))
+    (\$, ,)
+    (ADV-MO\/V also)
+    (VVFIN-HD-Sg ergibt)
+    (PRF-OA-Acc.Sg sich)
+    (ADV-MO\/V auch)
+    (ADJD-MO-Pos\/V hierdurch)
+    (NP-SB\/Sg
+      (PIAT-HD-Nom.Sg.Masc kein)
+      (NN-HD-Nom.Sg.Masc Vorteil))
+    (PN-DA-Dat.Sg
+      (NE-HD-Dat.Sg für))
+    (NP-OA
+      (ART-HD-Acc.Pl.Masc die)
+      (AP-HD-Pos.Acc.Pl.Masc
+        (PP-MO\/0
+          (APPRART-AC-Dat.Sg.Masc\/in im)
+          (NN-HD-Dat.Sg.Masc Moment))
+        (ADJA-HD-Pos.Acc.Pl.Masc zahlenden))
+      (NN-HD-Acc.Pl.Masc Zuschauer)
+      (NP-AG
+        (ART-HD-Gen.Pl.Masc der)
+        (CARD-HD Öffentlich)
+        (ADJA-HD-Pos.Gen.Pl.Masc Rechtlichen)
+        (NN-HD-Gen.Pl.Masc Sender))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PROAV-MO Trotzdem)
+    (VVFIN-HD-Sg muss)
+    (NP-SB\/Sg
+      (PIS-HD-Nom.Sg man))
+    (VP-OC\/inf
+      (VVINF-HD sagen))
+    (\$, ,)
+    (S-SB
+      (KOUS-CP\/sb dass)
+      (NP-EP
+        (PPER-HD-Nom.Sg.Neut\/ep es))
+      (ADV-MO\/V dann)
+      (NP-OA
+        (ADJD-MO-Pos\/N wahrscheinlich)
+        (PIS-HD viel))
+      (ADV-MO\/V weniger)
+      (NP-SB\/Sg
+        (PDAT-HD-Nom.Sg.Masc dieser)
+        (NN-HD-Nom.Sg.Masc Sender))
+      (VVFIN-HD-Sg gibt)
+      (\$, ,)
+      (S-MO
+        (KOUS-CP\/mo wenn)
+        (NP-SB\/Sg
+          (AVP-MO\/N
+            (PTKNEG-NG nicht)
+            (ADV-MO\/N mehr)
+            (ADV-HD\/N ganz))
+          (NE-HD-Nom.Sg.Neut Deutschland))
+        (VVINF-OC zahlen)
+        (VVFIN-HD-Sg muss))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (PDS-HD-Nom.Sg.Neut Das))
+    (VMFIN-HD-Sg sollte)
+    (ADV-MO\/V allerdings)
+    (VP-OC\/inf
+      (PP-MO\/V
+        (APPR-AC\/Dat bei)
+        (ART-HD-Dat.Sg.Fem der)
+        (NN-HD-Dat.Sg.Fem Masse)
+        (PP-MNR\/N
+          (APPR-AC\/Dat an)
+          (CNP-HD\/Dat
+            (NN-HD-Dat.Pl.Fem Sendungen)
+            (KON-CD und)
+            (NN-HD-Dat.Pl.Masc Sendern))
+          (\$, ,)
+          (S-RC
+            (NP-SB\/Pl\/rel
+              (PRELS-HD-Nom.Pl.Masc die))
+            (ADV-MO\/V sowieso)
+            (ADV-MO\/V meistens)
+            (NP-OA
+              (ART-HD-Acc.Sg.Neut das)
+              (NN-HD-Acc.Sg.Neut Gleiche))
+            (VVFIN-HD-Pl zeigen))))
+      (\$, ,)
+      (NP-PD
+        (PIAT-HD-Nom.Sg.Neut kein)
+        (NN-HD-Nom.Sg.Neut Problem))
+      (VAINF-HD sein)))
+  (\$. .))

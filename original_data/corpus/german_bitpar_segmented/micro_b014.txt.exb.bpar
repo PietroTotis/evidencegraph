@@ -1,0 +1,128 @@
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Eigentlich)
+    (VMFIN-HD-Pl sollten)
+    (NP-SB\/Pl
+      (ADV-MO\/N nur)
+      (PDS-HD-Nom.Pl die))
+    (VP-OC\/inf
+      (NP-OA
+        (ART-HD-Acc.Sg.Masc einen)
+        (NN-HD-Acc.Sg.Masc Rundfunkbeitrag))
+      (VVINF-HD zahlen)
+      (\$, ,)
+      (S-RC
+        (NP-SB\/Sg\/rel
+          (PRELS-HD-Nom.Sg.Fem die))
+        (ADV-MO\/V auch)
+        (ADJD-MO-Pos\/V wirklich)
+        (NP-OA
+          (CNP-HD
+            (NE-HD-Dat.Sg.Fem ARD)
+            (\$, ,)
+            (NE-HD-Dat.Sg ZDF)
+            (\$, ,)
+            (NE-HD-Dat.Sg Arte)))
+        (VVFIN-HD-Sg usw))))
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (VP-OC\/inf
+      (VVINF-HD gucken)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-EP
+      (PPER-HD-Nom.Sg.Neut\/ep Es))
+    (VAFIN-HD-Sg ist)
+    (ADV-MO\/V ja)
+    (PP-MO\/V
+      (CAC-AC
+        (APPR-AC an)
+        (KON-CD und))
+      (NN-HD-Neut für))
+    (AP-PD\/pred
+      (PRF-DA-Dat.Pl sich)
+      (ADJD-HD-Pos\/0 gut))
+    (\$, ,)
+    (VP-RE
+      (NP-OA
+        (ART-HD-Acc.Sg.Neut ein)
+        (ADJA-HD-Comp.Acc.Sg.Neut anspruchsvolleres)
+        (NN-HD-Acc.Sg.Neut Programm))
+      (PP-MO\/V
+        (APPR-AC\/durch durch)
+        (NN-HD Gebühren))
+      (VZ-HD
+        (PTKZU-PM zu)
+        (ADJA-HD-Pos.Dat.Sg.Fem unterstützen))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Kurioserweise)
+    (VVFIN-HD-Sg gibt)
+    (NP-EP
+      (PPER-HD-Nom.Sg.Neut\/ep es))
+    (AP-MO\/pred
+      (ADJD-HD-Pos\/0 jedoch)
+      (PROAV-MO trotzdem))
+    (NP-OA
+      (CNP-HD
+        (NN-HD-Nom.Sg.Fem Werbung)
+        (KON-CD und)
+        (NN-HD-Nom.Sg.Fem Produktplatzierung))
+      (PP-MNR\/N
+        (APPR-AC\/Dat\/auf auf)
+        (ART-HD-Dat.Sg.Masc den)
+        (NN-HD-Dat.Sg.Masc Öffentlichen))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PN-DA-Dat.Sg
+      (NE-HD-Dat.Sg Wofür))
+    (VVFIN-HD-Sg zahlt)
+    (NP-SB\/Sg
+      (PIS-HD-Nom.Sg man))
+    (AVP-MO\/V
+      (ADV-MO\/V dann)
+      (ADV-HD\/V noch)))
+  (\$. ?))
+
+(TOP
+  (S-TOP\/nohead
+    (AVP-MO\/V
+      (ADV-MO\/V Dass)
+      (ADV-HD\/V immer))
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl.Fem die)
+      (ADJA-HD-Pos.Nom.Pl.Fem gleichen)
+      (NN-HD-Nom.Pl.Fem Schauspieltruppen))
+    (VP-OC\/inf
+      (PRF-DA-Dat.Sg sich)
+      (NP-OA
+        (ART-HD-Acc.Sg.Masc einen)
+        (NN-HD-Acc.Sg.Masc Lenz)
+        (PP-MNR\/N
+          (APPR-AC\/Dat an)
+          (ADJA-HD-Pos.Dat.Pl.Neut exotischen)
+          (NN-HD-Dat.Pl.Neut Drehorten)))
+      (VVINF-HD machen)))
+  (\$. ?))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (ADV-MO\/N Auch)
+      (ART-HD-Nom.Pl die)
+      (NN-HD-Nom.Pl Drehbücher))
+    (VAFIN-HD-Pl sind)
+    (VP-PD
+      (ADV-MO\/V oft)
+      (ADV-OP\/V voneinander)
+      (VVPP-HD abgekupfert)))
+  (\$. .))

@@ -1,0 +1,80 @@
+
+(TOP
+  (S-TOP
+    (NP-MO
+      (CARD-HD Für)
+      (NN-HD-Acc.Pl.Fem Hundehaufen)
+      (PP-MNR\/N
+        (APPR-AC\/Dat\/auf auf)
+        (NN-HD-Dat.Pl.Masc Gehwegen)))
+    (VMFIN-HD-Sg sollte)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem die)
+      (CH-HD
+        (FM-UC Geldbuße)
+        (FM-UC erhöht)))
+    (VP-OC\/inf
+      (VAINF-HD werden)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-SB\/Pl
+        (NN-HD-Nom.Pl.Fem Hundehaufen))
+      (VAFIN-HD-Pl sind)
+      (ADJD-PD-Pos\/V eklig))
+    (KON-CD und)
+    (S-TOP\/nosubj
+      (NP-PD
+        (ART-HD-Nom.Sg.Neut ein)
+        (ADJA-HD-Pos.Nom.Sg.Neut hygienisches)
+        (NN-HD-Nom.Sg.Neut Problem))))
+  (\$. .))
+
+(TOP
+  (CNP-SB
+    (NP-SB\/Pl
+      (ADV-MO\/N Auch)
+      (NN-HD-Nom.Pl.Neut Kinder))
+    (\$, ,)
+    (NP-SB\/chain\/Pl
+      (NN-HD-Nom.Pl Erwachsene))
+    (KON-CD und)
+    (NP-SB\/Pl
+      (ADJA-HD-Pos.Nom.Pl.Neut andere)
+      (NN-HD-Nom.Pl.Neut Tiere)))
+  (XY-TOP dürfen)
+  (S-TOP
+    (NP-SB\/Pl
+      (PIAT-HD-Nom.Pl.Fem keine)
+      (NN-HD-Nom.Pl.Fem Haufen)
+      (PP-MNR\/N
+        (APPR-AC\/Acc\/auf auf)
+        (ART-HD-Acc.Pl.Masc die)
+        (NN-HD-Acc.Pl.Masc Gehwege)))
+    (VVFIN-HD-Pl setzen))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (CS-MO
+      (S-MO
+        (VVFIN-HD-Sg Entsorgt)
+        (NP-SB\/Sg
+          (PIS-HD-Nom.Sg man))
+        (NP-OA
+          (ART-HD-Acc.Pl.Fem die)
+          (NN-HD-Acc.Pl.Fem Haufen))
+        (ADV-MO\/V selbst))
+      (KON-CD und)
+      (S-MO\/nosubj
+        (VVFIN-HD-Sg sofort)))
+    (\$, ,)
+    (VAFIN-HD-Sg ist)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem eine)
+      (NN-HD-Nom.Sg.Fem Geldbuße))
+    (PTKNEG-NG nicht)
+    (ADJD-PD-Pos\/V erforderlich))
+  (\$. .))

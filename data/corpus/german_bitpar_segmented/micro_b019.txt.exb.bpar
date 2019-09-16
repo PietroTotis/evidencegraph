@@ -1,0 +1,123 @@
+
+(TOP
+  (S-TOP
+    (NP-EP
+      (PPER-HD-Nom.Sg.Neut\/ep Es))
+    (VAFIN-HD-Sg ist)
+    (ADJD-PD-Pos\/V erstrebenswert)
+    (\$, ,)
+    (S-SB
+      (KOUS-CP\/sb dass)
+      (NP-SB\/Sg
+        (PIS-HD-Nom.Sg.Masc niemand))
+      (NP-OA
+        (PPOSAT-HD-Acc.Sg.Neut sein)
+        (NN-HD-Nom.Sg.Neut Vermögen))
+      (PP-MO\/V
+        (APPRART-AC-Dat.Sg.Masc am)
+        (NN-HD-Dat.Sg.Masc Fiskus))
+      (VVFIN-HD-Sg vorbeischleust)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (CS-SB
+      (S-SB
+        (PWS-SB-Nom.Sg.Masc Wer)
+        (NP-OA
+          (PDS-HD-Acc.Sg.Neut dies))
+        (ADV-MO\/V doch)
+        (VVFIN-HD-Sg tut))
+      (KON-CD oder)
+      (S-SB\/nosubj
+        (VVFIN-HD-Sg versucht)))
+    (\$, ,)
+    (VMFIN-HD-Sg sollte)
+    (PP-MO\/V
+      (APPR-AC\/Dat nach)
+      (NE-HD-Dat.Sg Möglichkeit))
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (PP-MO\/V
+          (APPRART-AC-Dat.Sg.Fem zur)
+          (NN-HD-Dat.Sg.Fem Rechenschaft))
+        (VVPP-HD gezogen))
+      (VAINF-HD werden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Andererseits)
+    (VAFIN-HD-Pl werden)
+    (PP-MO\/V
+      (APPR-AC\/Dat aus)
+      (ADJA-HD-Pos.Dat.Pl.Neut staatlichen)
+      (NN-HD-Dat.Pl.Neut Mitteln))
+    (NP-SB\/Pl
+      (ADJA-HD-Pos.Nom.Pl.Fem zahlreiche)
+      (ADJA-HD-Pos.Nom.Pl.Fem sinnfreie)
+      (NN-HD-Nom.Pl.Fem Investitionen))
+    (VP-OC\/pp
+      (VVPP-HD verschwendet)
+      (\$, ,)
+      (S-MO
+        (VVFIN-HD-Sg sodass)
+        (NP-SB\/Sg
+          (PDS-HD-Nom.Sg.Masc dieser))
+        (ADJD-MO-Pos\/V ideell)
+        (PP-MO\/V
+          (APPR-AC\/Dat\/in in)
+          (PIAT-HD-Dat.Pl.Masc vielen)
+          (NN-HD-Dat.Pl.Masc Bereichen))
+        (NP-SB\/Sg
+          (PTKNEG-NG nicht)
+          (NE-HD-Nom.Sg unterstützenswert))
+        (VVFIN-HD-Sg erscheint))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PROAV-MO Zudem)
+    (VAFIN-HD-Sg ist)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc der)
+      (NN-HD-Nom.Sg.Masc Handel)
+      (PP-MNR\/N
+        (APPR-AC\/Dat mit)
+        (NN-HD-Dat.Pl.Fem Informationen)))
+    (VP-OC\/pp
+      (ADJD-MO-Pos\/V offensichtlich)
+      (PP-SBP\/V
+        (APPR-AC\/Dat\/von von)
+        (NE-HD-Dat.Sg Profitgier))
+      (VVPP-HD getrieben)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl.Fem Steuerdaten)
+      (\$, ,)
+      (S-RC
+        (NP-SB\/Pl\/rel
+          (PRELS-HD-Nom.Pl.Masc die))
+        (VP-OC\/pp
+          (PTKNEG-NG nicht)
+          (ADJD-MO-Pos\/V kostenfrei)
+          (PP-MO\/V
+            (APPRART-AC-Dat.Sg.Fem zur)
+            (NN-HD-Dat.Sg.Fem Verfügung))
+          (VVPP-HD gestellt))
+        (VAFIN-HD-Pl werden)))
+    (\$, ,)
+    (VMFIN-HD-Pl sollten)
+    (PROAV-MO daher)
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (PTKNEG-NG nicht)
+        (PP-SBP\/V
+          (APPRART-AC-Dat.Sg.Masc\/von vom)
+          (NN-HD-Dat.Sg.Masc Staat))
+        (VVPP-HD gekauft))
+      (VAINF-HD werden)))
+  (\$. .))

@@ -1,0 +1,110 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl.Fem Die)
+      (ADJA-HD-Pos.Nom.Pl.Fem gesetzlichen)
+      (NN-HD-Nom.Pl.Fem Krankenkassen))
+    (VMFIN-HD-Pl sollten)
+    (VP-OC\/inf
+      (NP-OA
+        (ADV-MO\/N auch)
+        (NN-HD-Acc.Pl.Fem Behandlungen)
+        (PP-MNR\/N
+          (APPRART-AC-Dat.Sg.Neut beim)
+          (CNP-HD
+            (TRUNCCap-HD Natur-)
+            (KON-CD oder)
+            (NN-HD-Nom.Sg.Masc Heilpraktiker))))
+      (VVINF-HD zahlen)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (PDS-AG-Gen.Pl.Fem Deren)
+      (CNP-HD
+        (NN-HD-Acc.Pl.Fem Behandlungsmethoden)
+        (KON-CD und)
+        (NN-HD-Acc.Pl.Neut -Erfolge)))
+    (VAFIN-HD-Pl sind)
+    (CVP-OC\/pp
+      (VP-OC\/pp
+        (ADV-MO\/V zwar)
+        (PTKNEG-NG nicht)
+        (ADJD-MO-Pos\/V hinreichend)
+        (VVPP-HD erforscht))
+      (KON-CD oder)
+      (VP-OC\/pp
+        (VVPP-HD nachgewiesen))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KON-JU Doch)
+    (NP-SB\/Pl
+      (PIAT-HD-Nom.Pl.Masc viele)
+      (NN-HD-Nom.Pl.Masc Patienten))
+    (VVFIN-HD-Pl empfinden)
+    (ADJD-MO-Pos\/V subjektiv)
+    (NP-OA
+      (ART-HD-Acc.Sg.Fem eine)
+      (CNP-HD
+        (NN-HD-Nom.Sg.Fem Linderung)
+        (KON-CD oder)
+        (NN-HD-Nom.Sg.Fem Heilung))
+      (NP-AG
+        (PPOSAT-HD-Gen.Pl.Fem ihrer)
+        (NN-HD-Gen.Pl.Fem Beschwerden))
+      (\$, ,)
+      (S-RC
+        (PWAV-MO\/rel wodurch)
+        (ADV-MO\/V letztlich)
+        (NP-SB\/Pl
+          (ADV-MO\/N auch)
+          (NN-HD-Nom.Pl Kosten))
+        (VP-OC\/pp
+          (PN-DA-Dat.Sg
+            (NE-HD-Dat.Sg für))
+          (NP-OA
+            (CNP-HD
+              (NN-HD-Nom.Pl.Fem Behandlungen)
+              (KON-CD und)
+              (NN-HD-Nom.Pl.Neut Medikamente))
+            (NP-AG
+              (ART-HD-Gen.Sg.Fem der)
+              (ADJA-HD-Pos.Gen.Sg.Fem klassischen)
+              (NN-HD-Gen.Sg.Fem Medizin)))
+          (VVPP-HD eingespart))
+        (VAFIN-HD-Pl werden))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ADV-MO\/N Auch)
+      (ART-HD-Nom.Sg.Fem die)
+      (\$Par \()
+      (NE-HD kassen-\)ärztliche)
+      (NN-HD-Nom.Sg.Fem Kunst))
+    (VAFIN-HD-Sg ist)
+    (CO-PD
+      (AP-PD\/pred
+        (PP-MO\/0
+          (APPR-AC\/Dat\/in in)
+          (ADJA-HD-Pos.Dat.Sg.Fem vielen)
+          (NN-HD-Dat.Sg.Fem Fällen))
+        (PTKNEG-NG nicht)
+        (ADJD-HD-Pos\/0 erfolgreich))
+      (KON-CD und)
+      (VP-PD
+        (PROAV-MO zudem)
+        (PP-MO\/V
+          (APPR-AC\/Dat mit)
+          (ADJA-HD-Pos.Dat.Pl.Masc erheblichen)
+          (CNP-HD\/Dat
+            (NN-HD-Dat.Pl.Neut Risiken)
+            (KON-CD und)
+            (NN-HD-Dat.Pl.Fem Nebenwirkungen)))
+        (VVPP-HD verbunden))))
+  (\$. .))

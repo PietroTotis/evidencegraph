@@ -1,0 +1,19 @@
+<html>
+
+	<head>
+		<title> Thank you!</title>
+		<link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+	</head>
+<body>
+	
+    <h1> Options </h1>
+	<p>Thank you for sharing with use your opinion!</p>
+    <p> Plese now visit one of the following url to see what our algorithms think about your sentences</p>
+        
+		<a href="{{ url_for('visualization') }}">See what other people have said</a> 
+        <p></p>
+        <p></p>
+        <a href="{{ url_for('arggraph') }}">See the argumentative structure of your thoughts</a> 
+        <p></p>
+	</body>
+</html>

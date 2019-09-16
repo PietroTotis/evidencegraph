@@ -1,0 +1,76 @@
+
+(TOP
+  (S-TOP
+    (PN-OA-1-Acc.Sg.Masc
+      (NE-HD-Acc.Sg.Masc Peter))
+    (VMFIN-HD-Sg sollte)
+    (NP-SB\/Sg
+      (PPOSAT-HD-Nom.Sg.Fem seine)
+      (NN-HD-Nom.Sg.Fem Imbissbude))
+    (AVP-MO\/V
+      (AVP-MO\/0
+        (ADV-HD\/0 so))
+      (ADV-HD\/V bald)
+      (NP-CC
+        (KOKOM-CM wie)
+        (CARD-HD möglich)
+        (NN-HD-Nom.Pl.Neut schließen))))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Masc Der)
+        (NN-HD-Nom.Sg.Masc Preisdruck))
+      (VAFIN-HD-Sg ist)
+      (ADV-MO\/V einfach)
+      (PP-MO\/V
+        (APPR-AC\/Dat zu)
+        (NE-HD-Dat.Sg groß)))
+    (\$, ,)
+    (KON-CD und)
+    (S-TOP
+      (NP-SB\/Sg
+        (PPOSAT-HD-Nom.Sg.Neut sein)
+        (NN-HD-Nom.Sg.Neut Kundenstamm))
+      (VVFIN-HD-Sg schrumpft)
+      (ADJD-MO-Pos\/V stetig)))
+  (\$. .))
+
+(TOP
+  (ADV-MO\/0 Zwar)
+  (XY-TOP könnte)
+  (S-TOP
+    (S-MO\/nohead
+      (NP-SB\/Sg
+        (PPER-HD-Nom.Sg.Masc er))
+      (VP-OC\/nohead
+        (AP-MO\/pred
+          (ADV-MO\/0 noch)
+          (ADV-MO\/0 einmal)
+          (ADJD-HD-Pos\/0 richtig))
+        (NP-OA
+          (ART-HD-Acc.Sg.Fem die)
+          (NN-HD-Acc.Sg.Fem Werbetrommel)
+          (NE-HD rühren))))
+    (\$, ,)
+    (NP-SB\/Sg
+      (ADV-MO\/N aber)
+      (PDS-HD-Nom.Sg.Neut das))
+    (VVFIN-HD-Sg hilft)
+    (NP-OA
+      (ADV-MO\/N auch)
+      (PIS-HD-Neut nichts))
+    (S-MO
+      (KOUS-CP\/mo wenn)
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Neut das)
+        (ADJA-HD-Pos.Nom.Sg.Neut ganze)
+        (NN-HD-Nom.Sg.Neut Viertel))
+      (NP-OA
+        (ART-HD-Acc.Sg.Masc den)
+        (NN-HD-Acc.Sg.Masc Bach))
+      (ADV-MO\/V runter)
+      (VVFIN-HD-Sg geht)))
+  (\$. .))

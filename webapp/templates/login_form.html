@@ -1,0 +1,25 @@
+<html>
+	<head>
+		<title> Test Visualization App </title>
+		<link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+	</head>
+
+	<body>
+		<h1> Tag der Wissenschaft opinions</h1>
+        <p></p>
+        Dear visitors, please share with us your opinions about this event! In exchange we will let you see what our algorithms sees with 
+        respect to all the opinions collected so far and what they can understand of your one!
+        
+          <form action ="{{ url_for('options') }}" id = "login", method="post">
+		<p></p>
+        
+        <div class="justified">
+        		<textarea type="text" id="text_input" name="text_input" class = "mytext" > </textarea>
+                
+   <input type="submit" id="submit" text="text_input", value="Let's go">
+        <div>
+       
+        <p></p>
+		</form>
+	</body>
+</html>

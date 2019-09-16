@@ -1,0 +1,38 @@
+<html>
+<head>
+<link
+    href="http://cdn.pydata.org/bokeh/release/bokeh-1.0.4.min.css"
+    rel="stylesheet" type="text/css">
+<link
+    href="http://cdn.pydata.org/bokeh/release/bokeh-widgets-1.0.4.min.css"
+    rel="stylesheet" type="text/css">
+
+<script src="http://cdn.pydata.org/bokeh/release/bokeh-1.0.4.min.js"></script>
+<script src="http://cdn.pydata.org/bokeh/release/bokeh-widgets-1.0.4.min.js"></script>
+
+<link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+
+</head>
+
+	<body>
+    <title> Clustering</title>
+	<h1> Cluster Visualization </h1>
+    <p></p>
+     <p>This was the text given as inuput</p>
+		
+        <p></p>
+        <strong>{{text}}</strong>
+        <p></p>
+        
+     
+   <p> Here you can see many data points. Each data points represent a text that was collected during this event.</p>
+   <p> As you can see there are cloud of points which have the same color.</p>
+   <p> These clouds represent what our algorithm thinks about all the texts collected so fare</p>
+   <p> Intuitively, texts with the same color share similar words/meaning.</p>
+   <p> Moreover, the closer two points are in the space, the more similar in meaning theey are. And viceversa</p>
+    
+        
+{{ script|safe }}
+{{ div|safe }}
+</body>
+</html>

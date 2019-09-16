@@ -1,0 +1,101 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (ADJA-HD-Pos.Nom.Pl.Fem Alternative)
+      (NN-HD-Nom.Pl.Fem Heilpraktiken))
+    (VMFIN-HD-Pl sollten)
+    (AVP-MO\/V
+      (ADV-HD\/V genauso)
+      (NP-CC
+        (KOKOM-CM wie)
+        (CARD-HD ärztliche)
+        (NN-HD-Acc.Pl.Fem Behandlungen)))
+    (VP-OC\/inf
+      (VVPP-OC bezuschusst)
+      (VAINF-HD werden))
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo weil)
+      (NP-SB\/Pl
+        (PIAT-HD-Nom.Pl.Masc beide)
+        (NN-HD-Nom.Pl.Masc Wege)
+        (PP-MNR\/N
+          (APPRART-AC-Dat.Sg.Fem zur)
+          (NN-HD-Dat.Sg.Fem Verhinderung)))
+      (\$, ,)
+      (CNP-APP
+        (NP-APP\/chain
+          (NN-HD-Dat.Sg.Fem Minderung))
+        (KON-CD oder)
+        (NP-APP
+          (NN-HD-Nom.Sg.Fem Heilung)
+          (NP-AG
+            (ART-HD-Gen.Sg.Fem einer)
+            (NN-HD-Gen.Sg.Fem Krankheit)
+            (PN-HD
+              (NE-PNC führen)
+              (NE-PNC könnten)))))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PROAV-MO Zudem)
+    (PN-SB-Nom.Sg
+      (NE-HD-Nom.Sg müsste))
+    (ADV-MO\/V es)
+    (VP-OC\/inf
+      (PP-MO\/V
+        (APPRART-AC-Dat.Sg.Masc\/in im)
+        (NN-HD-Dat.Sg.Masc Sinne)
+        (NP-AG
+          (ART-HD-Gen.Pl.Fem der)
+          (NN-HD-Gen.Pl.Fem Krankenkassen)))
+      (VVINF-HD liegen)
+      (\$, ,)
+      (VP-RE
+        (NP-OA
+          (NN-HD-Acc.Pl.Fem Naturheilpraktiken))
+        (PP-MO\/V
+          (APPR-AC\/Dat als)
+          (ADJA-HD-Pos.Dat.Sg.Fem ärztliche)
+          (NN-HD-Dat.Sg.Fem Behandlung))
+        (VVIZU-HD anzuerkennen)))
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo da)
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Fem eine)
+        (NN-HD-Nom.Sg.Fem Chance)
+        (NP-AG
+          (ART-HD-Gen.Sg.Fem der)
+          (NN-HD-Gen.Sg.Fem Genesung)))
+      (VVFIN-HD-Sg besteht)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-EP
+      (PPER-HD-Nom.Sg.Neut\/ep Es))
+    (VVFIN-HD-Sg spielt)
+    (PROAV-MO dabei)
+    (ADV-MO\/V doch)
+    (NP-OA
+      (PIAT-HD-Acc.Sg.Fem keine)
+      (NN-HD-Acc.Sg.Fem Rolle)
+      (\$, ,)
+      (S-OC
+        (KOUS-CP\/oc dass)
+        (NP-SB\/Pl
+          (ART-HD-Nom.Pl.Fem die)
+          (NN-HD-Nom.Pl.Fem Behandelnden))
+        (PTKNEG-NG nicht)
+        (VP-OC\/inf
+          (NP-OA
+            (ART-HD-Acc.Sg.Masc den)
+            (CH-HD
+              (FM-UC \")
+              (FM-UC Ärzte-Status)
+              (FM-UC \")))
+          (VVINF-HD tragen)))))
+  (\$. .))

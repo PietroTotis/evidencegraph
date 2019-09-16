@@ -1,0 +1,45 @@
+1	Das	_	der	_	ART	_	nom|sg|neut	-1	3	_	NK	_	_
+2	neue	_	neu	_	ADJA	_	nom|sg|neut|pos	-1	3	_	NK	_	_
+3	Smartphone	_	Smartphone	_	NN	_	nom|sg|neut|pos	-1	9	_	DA	_	_
+4	XYZ-123	_	XYZ-123	_	NE	_	nom|sg|*	-1	3	_	NK	_	_
+5	kann	_	können	_	VMFIN	_	sg|1|pres|ind	-1	0	_	--	_	_
+6	ich	_	ich	_	PPER	_	nom|sg|*|1	-1	5	_	SB	_	_
+7	jedem	_	jeder	_	PIS	_	acc|sg|neut	-1	9	_	OA	_	_
+8	nur	_	nur	_	ADV	_	_	-1	9	_	MO	_	_
+9	empfehlen	_	empfehlen	_	VVINF	_	_	-1	5	_	OC	_	_
+10	.	_	--	_	$.	_	_	-1	9	_	--	_	_
+
+1	Zwar	_	zwar	_	ADV	_	_	-1	2	_	MO	_	_
+2	könnte	_	können	_	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+3	die	_	der	_	ART	_	nom|sg|fem	-1	4	_	NK	_	_
+4	Kamera	_	Kamera	_	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+5	noch	_	noch	_	ADV	_	_	-1	6	_	MO	_	_
+6	besser	_	gut	_	ADJD	_	comp	-1	7	_	PD	_	_
+7	sein	_	sein	_	VAINF	_	_	-1	2	_	OC	_	_
+8	,	_	--	_	$,	_	_	-1	7	_	--	_	_
+9	denn	_	denn	_	KON	_	_	-1	2	_	CD	_	_
+10	sie	_	sie	_	PPER	_	nom|sg|fem|3	-1	11	_	SB	_	_
+11	hat	_	haben	_	VAFIN	_	sg|3|pres|ind	-1	9	_	CJ	_	_
+12	nur	_	nur	_	ADV	_	_	-1	15	_	MO	_	_
+13	eine	_	ein	_	ART	_	acc|sg|fem	-1	15	_	NK	_	_
+14	mittelmäßige	_	mittelmäßig	_	ADJA	_	acc|sg|fem|pos	-1	15	_	NK	_	_
+15	Auflösung	_	Auflösung	_	NN	_	acc|sg|fem	-1	11	_	OA	_	_
+16	und	_	und	_	KON	_	_	-1	15	_	CD	_	_
+17	in	_	in	_	APPR	_	_	-1	20	_	MO	_	_
+18	dunklen	_	dunkel	_	ADJA	_	dat|pl|fem|pos	-1	19	_	NK	_	_
+19	Umgebungen	_	Umgebung	_	NN	_	dat|pl|fem	-1	17	_	NK	_	_
+20	sind	_	sein	_	VAFIN	_	pl|3|pres|ind	-1	16	_	CJ	_	_
+21	die	_	der	_	ART	_	nom|pl|neut	-1	22	_	NK	_	_
+22	Bilder	_	Bild	_	NN	_	nom|pl|neut	-1	20	_	SB	_	_
+23	schnell	_	schnell	_	ADJD	_	pos	-1	24	_	MO	_	_
+24	verrauscht	_	verrauschen	_	VVPP	_	_	-1	20	_	PD	_	_
+25	.	_	--	_	$.	_	_	-1	24	_	--	_	_
+
+1	Aber	_	aber	_	KON	_	_	-1	4	_	JU	_	_
+2	für	_	für	_	APPR	_	_	-1	4	_	MO	_	_
+3	Schnappschüsse	_	Schnappschuß	_	NN	_	acc|pl|masc	-1	2	_	NK	_	_
+4	reicht	_	reichen	_	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	es	_	es	_	PPER	_	nom|sg|neut|3	-1	4	_	SB	_	_
+6	dennoch	_	dennoch	_	ADV	_	_	-1	4	_	MO	_	_
+7	.	_	--	_	$.	_	_	-1	6	_	--	_	_
+

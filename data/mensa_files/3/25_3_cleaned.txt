@@ -1,0 +1,17 @@
+When I used it with the first text, the LanguageTool easily detected the language (German), and the only error it gave me was the noun Golm, that was not already in the dictionary.
+I did some tests to check if the LanguageTool would recognize different types of grammatical errors:
+I wrote the article “der” instead of “das” before “Essen” and it detected an error, but not the right one.
+It suggested me to change “Essen” in “Hessen”, so it considered the article to be right and the name to be wrong.
+To double check I wrote the article “der” also before “Dessert” and in this case it recognized the missed agreement between the article and the noun, giving me different correct alternatives.
+I wrote “mensa” instead of  “Mensa” it detected and explained to me the error and it gave to me a link to a more detailed explanation.
+It also detected as an error “konnen” instead of “können”.
+I wrote the sequence “weil sie ist” and it detected the order error, but it didn’t detect the order error when I wrote the sequence “wenn Sie haben nur 30 Minuten Pause.”
+I wrote the sequence “Das Essen sind nicht das beste” and it didn’t detected the missed agreement of number between the subject and the verb, but it detected it when I wrote “Das Essen bist nicht das beste”.
+I did some similar tests with the English text, it detected correctly the language (English) it didn’t have the noun Golm in the dictionary as before and it suggested me to remove the “,” before the word “because”.
+When I checked whether it recognizes some grammatical errors, I had the following results:
+It didn’t detect the word order error in the sequence “because is it really cheap”
+It didn’t detect the missed agreement in the sequence “The food are not the best” between the verb and the subject
+More tests can be done.
+In general I think that the LanguageTool doesn’t return many false negatives, so it has a really good recall, but there are some false positives, so the precision and the accuracy are lower.
+The LanguageTool easily detects wrong spelled words or words that don’t exist, but has sometimes it can have issues with word orders and agreements between elements in the sentence.
+Maybe this happens because on one side it is easy to detect a wrong word, because it is wrong in all the possible cases, on the other side the relations between words can be considered grammatical in some situations and ungrammatical in others.

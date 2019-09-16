@@ -1,0 +1,118 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl.Neut Naturheilverfahren))
+    (VAFIN-HD-Pl sind)
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in in)
+      (PIAT-HD-Dat.Pl.Masc vielen)
+      (NN-HD-Dat.Pl.Masc Bereichen))
+    (NP-SB\/Pl
+      (ADJA-HD-Pos.Nom.Pl erwiesene)
+      (NN-HD-Nom.Pl gesundheitsfördernde))
+    (VP-OC\/pp
+      (VVPP-HD Behandlungsmethoden)
+      (\$, ,)
+      (S-OC
+        (NP-SB\/Pl
+          (ART-HD-Nom.Pl die)
+          (NN-HD-Nom.Pl häufig))
+        (AP-PD\/pred
+          (ADJD-HD-Comp\/0 preiswerter)
+          (NP-CC
+            (KOKOM-CM als)
+            (PN-HD
+              (NP-PNC
+                (NN-HD-Nom.Sg.Fem\/name Medikamente)
+                (NP-AG
+                  (ART-HD-Gen.Sg.Fem der)
+                  (NN-HD-Gen.Sg.Fem Schulmedizin))))))
+        (VAFIN-HD-Pl sind)))
+    (\$, ,)
+    (S-RC
+      (NP-SB\/Pl\/rel
+        (PRELS-HD-Nom.Pl.Masc die))
+      (VP-OC\/pp
+        (ADV-MO\/V ja)
+        (ADV-MO\/V auch)
+        (VVPP-HD bezahlt))
+      (VAFIN-HD-Pl werden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Oft)
+    (VAFIN-HD-Pl sind)
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl.Neut Naturheilverfahren)
+      (CARD-HD für))
+    (NP-OA
+      (ART-HD-Acc.Pl.Masc die)
+      (NN-HD-Acc.Pl.Masc Patienten))
+    (PTKNEG-NG nicht)
+    (AP-PD\/pred
+      (AVP-MO\/0
+        (ADV-HD\/0 so)
+        (ADV-MO\/0 sehr))
+      (ADJD-HD-Pos\/0 belastend)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (PDS-HD-Nom.Pl Diese))
+    (VVFIN-HD-Pl Heilverfahren)
+    (PN-OA-Acc.Sg
+      (NE-HD-Acc.Sg können))
+    (PP-MO\/V
+      (APPR-AC\/Acc\/durch durch)
+      (ART-HD-Acc.Sg.Neut das)
+      (ADJA-HD-Pos.Acc.Sg.Neut aktive)
+      (NN-HD-Acc.Sg.Neut Mittun)
+      (NP-AG
+        (ART-HD-Gen.Pl.Masc der)
+        (NN-HD-Gen.Pl.Masc Patienten))))
+  (XY-TOP häufig)
+  (VP-CJ
+    (CNP-OA
+      (NP-OA
+        (NN-HD-Acc.Sg.Fem Besserung)
+        (NP-AG
+          (ART-HD-Gen.Sg.Masc des)
+          (NN-HD-Gen.Sg.Masc Zustandes))))
+    (VVINF-HD bewirken))
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl.Fem Die)
+      (NN-HD-Nom.Pl.Fem Kassen))
+    (VP-OC\/inf
+      (NP-PD
+        (CARD-HD müssen)
+        (NN-HD-Neut befähigt))
+      (VAINF-HD werden)
+      (\$, ,)
+      (CVP-OC\/zu
+        (VP-OC\/zu
+          (NP-DA
+            (NP-HD
+              (ART-HD-Acc.Sg.Fem die)
+              (NN-HD-Acc.Sg.Fem Entscheidung)
+              (NP-AG
+                (ART-HD-Gen.Sg.Masc des)
+                (NN-HD-Gen.Sg.Masc Arztes)))
+            (NN-HD-Dat.Pl für))
+          (NP-OA
+            (ART-HD-Acc.Sg.Fem eine)
+            (NN-HD-Acc.Sg.Fem Naturheilbehandlung))
+          (VVIZU-HD anzuerkennen))
+        (KON-CD und)
+        (VP-OC\/zu
+          (ADV-MO\/V auch)
+          (VZ-HD
+            (PTKZU-PM zu)
+            (VVINF-HD bezahlen))))))
+  (\$. .))

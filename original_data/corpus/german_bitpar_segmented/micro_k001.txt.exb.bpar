@@ -1,0 +1,119 @@
+
+(TOP
+  (S-TOP
+    (AP-MO\/pred
+      (PTKNEG-NG Nicht)
+      (ADJD-HD-Comp\/0 jeder))
+    (VMFIN-HD-Sg sollte)
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (VVPP-HD verpflichtet))
+      (VAINF-HD sein))
+    (\$, ,)
+    (VP-RE
+      (NP-OA
+        (ART-HD-Acc.Sg.Masc den)
+        (NN-HD-Acc.Sg.Masc Rundfunkbeitrag))
+      (VZ-HD
+        (PTKZU-PM zu)
+        (VVINF-HD bezahlen))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (ADV-MO\/N Besonders)
+      (ART-HD-Nom.Pl die)
+      (NN-HD-Nom.Pl jüngeren)
+      (NP-AG
+        (NN-HD-Gen.Pl.Fem Generationen)))
+    (VAFIN-HD-Pl sind)
+    (VP-PD
+      (PP-MO\/V
+        (APPR-AC\/Acc\/auf auf)
+        (ART-HD-Acc.Sg.Neut das)
+        (NN-HD-Acc.Sg.Neut Angebot)
+        (NP-AG
+          (ART-HD-Gen.Sg.Fem der)
+          (PN-HD
+            (NP-PNC
+              (NE-HD öffentlich-rechtlichen)
+              (NN-HD-Dat.Sg.Masc\/name Sender)))))
+      (AVP-NG\/V
+        (PTKNEG-HD nicht)
+        (ADV-MO\/V mehr))
+      (VVPP-HD angewiesen)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-SB\/Pl
+        (NN-HD-Nom.Pl.Fem US-Serien))
+      (VAFIN-HD-Pl werden)
+      (VP-OC\/pp
+        (NP-DA
+          (ART-HD-Dat.Sg.Masc dem)
+          (NN-HD-Dat.Sg.Masc Tatort))
+        (VVPP-HD vorgezogen)))
+    (\$, ,)
+    (S-TOP\/nohead
+      (S-RE
+        (NP-SB\/Sg
+          (PPER-HD-Nom.Sg.Neut es))
+        (VAFIN-HD-Sg wird)
+        (VP-OC\/pp
+          (PP-MO\/V
+            (APPR-AC\/Acc\/auf auf)
+            (NN-HD-Acc.Pl.Fem Onlinezeitschriften))
+          (VVPP-HD statt)))
+      (PP-MO\/V
+        (APPR-AC\/Acc\/auf auf)
+        (ART-HD-Acc.Pl.Fem die)
+        (NN-HD-Acc.Pl.Fem Tagesthemen))
+      (XY-MO zurückgegriffen)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc Der)
+      (NN-HD-Nom.Sg.Masc Rundfunkbeitrag)
+      (NE-HD ermöglicht))
+    (VVFIN-HD-Sg wirtschaftlich)
+    (NP-OA
+      (PN-AG
+        (NE-HD unabhängigen))
+      (NN-HD-Acc.Sg.Masc Journalismus)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KON-JU Doch)
+    (S-MO
+      (KOUS-CP\/mo solange)
+      (NP-SB\/Pl
+        (ART-HD-Nom.Pl die)
+        (NN-HD-Nom.Pl Gebührenzahler))
+      (NP-OA
+        (PIAT-HD-Acc.Sg.Masc keinen)
+        (NN-HD-Acc.Sg.Masc Einfluss)
+        (PP-MNR\/N
+          (APPR-AC\/Acc\/auf auf)
+          (ART-HD-Acc.Sg.Fem die)
+          (NN-HD-Acc.Sg.Fem Verteilung)
+          (NP-AG
+            (ART-HD-Gen.Pl.Neut der)
+            (NN-HD-Gen.Pl.Neut Gelder))))
+      (VAFIN-HD-Pl haben))
+    (\$, ,)
+    (NP-OA
+      (NN-HD-Acc.Sg.Fem verärgert))
+    (VVFIN-HD-Sg sie)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc der)
+      (NN-HD-Nom.Sg.Masc Beitrag))
+    (PP-MO\/V
+      (APPR-AC\/Dat zu)
+      (NN-HD-Dat.Sg.Neut Recht)))
+  (\$. .))

@@ -1,0 +1,86 @@
+
+(TOP
+  (S-TOP\/nohead
+    (NP-SB\/Sg
+      (NN-HD-Nom.Sg.Neut Geheimdienste)
+      (XY-HD genießen))
+    (ADJD-MO-Pos\/V scheinbar)
+    (NP-MO
+      (CARD-HD willkürliche)
+      (NN-HD-Acc.Pl.Fem Freiheiten)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (PIS-HD-Nom.Sg.Masc Niemand))
+    (VMFIN-HD-Sg kann)
+    (VP-OC\/inf
+      (NP-OA
+        (PPOSAT-HD-Acc.Sg.Fem ihre)
+        (NN-HD-Acc.Sg.Fem Tätigkeiten)
+        (PP-MNR\/N
+          (APPRART-AC-Dat.Sg.Neut\/in im)
+          (NN-HD-Dat.Sg.Neut Detail)))
+      (VVINF-HD nachvollziehen)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Zwar)
+    (VAFIN-HD-Sg ist)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem eine)
+      (ADJA-HD-Pos.Nom.Sg.Fem gewisse)
+      (NN-HD-Nom.Sg.Fem Geheimhaltung)
+      (PN-AG-Gen.Sg.Masc
+        (NE-PNC-Nom.Sg.Masc Basis)
+        (NE-PNC-Gen.Sg.Masc für)))
+    (NP-PD
+      (ART-HD-Nom.Sg.Fem die)
+      (NN-HD-Nom.Sg.Fem Arbeit)
+      (NP-AG
+        (ART-HD-Gen.Pl.Masc der)
+        (NN-HD-Gen.Pl.Masc Geheimdienste))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-OA
+      (ART-HD-Acc.Sg.Fem Eine)
+      (ADJA-HD-Pos.Acc.Sg.Fem unkontrollierte)
+      (NN-HD-Acc.Sg.Fem Arbeit)
+      (NP-AG
+        (ART-HD-Gen.Pl.Masc der)
+        (NN-HD-Gen.Pl.Masc Geheimdienste)))
+    (VVFIN-HD-Sg birgt)
+    (NP-SB\/Sg
+      (ADV-MO\/N aber)
+      (ART-HD-Nom.Sg.Fem die)
+      (NN-HD-Nom.Sg.Fem Gefahr)
+      (NP-AG
+        (ART-HD-Gen.Sg.Masc des)
+        (NN-HD-Gen.Sg.Masc Missbrauchs)
+        (NP-AG
+          (PPOSAT-HD-Gen.Pl.Fem ihrer)
+          (NN-HD-Gen.Pl.Fem Kompetenzen)))))
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (PROAV-MO Daher)
+    (NP-SB\/Pl
+      (CARD-HD müssen)
+      (NN-HD-Nom.Pl.Masc Geheimdienste))
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (PP-MO\/V
+          (APPRART-AC-Dat.Sg.Masc\/in im)
+          (NN-HD-Dat.Sg.Masc Rahmen))
+        (PP-MO\/V
+          (APPR-AC\/Dat\/von von)
+          (ADJA-HD-Pos.Dat.Sg.Fem parlamentarischen)
+          (NN-HD-Dat.Sg.Fem Kontrollausschüssen))
+        (VVPP-HD kontrolliert))
+      (VAINF-HD werden)))
+  (\$. .))

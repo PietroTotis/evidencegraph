@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_k004" topic_id="allow_shops_to_open_on_holidays_and_sundays" stance="pro">
+  <edu id="e1"><![CDATA[Supermercati e centri commerciali dovrebbero essere aperti la domenica e nei giorni festivi.]]></edu>
+  <edu id="e2"><![CDATA[Questo può essere un cambiamento difficile da accettare per i dipendenti.]]></edu>
+  <edu id="e3"><![CDATA[Tuttavia, soprattutto per i clienti che lavorano, ciò significherebbe maggiore flessibilità e meno ore di punta nervose durante la settimana.]]></edu>
+  <edu id="e4"><![CDATA[Con la crescente digitalizzazione della società, il modello tradizionale del fine settimana sarà presto obsoleto.]]></edu>
+  <edu id="e5"><![CDATA[Molti paesi europei, come i Paesi Bassi, la Svezia o la Gran Bretagna, hanno già riconosciuto ciò e hanno adattato con successo gli orari di apertura dei loro negozi.]]></edu>
+  <adu id="a1" type="pro"/>
+  <adu id="a2" type="opp"/>
+  <adu id="a3" type="pro"/>
+  <adu id="a4" type="pro"/>
+  <adu id="a5" type="pro"/>
+  <edge id="c6" src="e1" trg="a1" type="seg"/>
+  <edge id="c7" src="e2" trg="a2" type="seg"/>
+  <edge id="c8" src="e3" trg="a3" type="seg"/>
+  <edge id="c9" src="e4" trg="a4" type="seg"/>
+  <edge id="c10" src="e5" trg="a5" type="seg"/>
+  <edge id="c2" src="a2" trg="a1" type="reb"/>
+  <edge id="c3" src="a3" trg="c2" type="und"/>
+  <edge id="c4" src="a4" trg="a1" type="sup"/>
+  <edge id="c5" src="a5" trg="a4" type="exa"/>
+</arggraph>
+   

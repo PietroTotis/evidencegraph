@@ -1,0 +1,172 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (ADJA-HD-Pos.Nom.Pl Deutsche)
+      (NN-HD-Nom.Pl Universitäten))
+    (VMFIN-HD-Pl sollten)
+    (VP-OC\/inf
+      (PP-MO\/V
+        (APPR-AC\/Acc\/auf auf)
+        (PIAT-HD-Acc.Sg.Masc keinen)
+        (NN-HD-Acc.Sg.Masc Fall))
+      (PN-OA-Acc.Sg
+        (NE-HD-Acc.Sg Studiengebühren))
+      (VVINF-HD verlangen)))
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (NP-SB\/Sg
+      (PDAT-HD-Nom.Sg.Neut Dies)
+      (NN-HD-Nom.Sg.Neut würde))
+    (PP-MO\/V
+      (ADV-MO\/N nur)
+      (PROAV-PH dazu)
+      (VP-RE
+        (NP-OA
+          (NN-HD-Acc.Sg.Fem führen))
+        (\$, ,)
+        (S-OC
+          (KOUS-CP\/oc dass)
+          (PRF-OA-Acc.Pl sich)
+          (NP-SB\/Pl
+            (ADV-MO\/N nur)
+            (NN-HD-Nom.Pl.Masc Menschen)
+            (PP-MNR\/N
+              (APPR-AC\/Dat mit)
+              (AP-HD
+                (ADJD-MO-Pos\/0 gut)
+                (CNP-HD
+                  (NP-HD
+                    (ADJA-HD-Pos.Nom.Pl verdienenden)
+                    (NN-HD-Nom.Pl Eltern))
+                  (KON-CD oder)
+                  (NP-HD
+                    (CNP-HD
+                      (NP-HD
+                        (ART-HD-Dat.Sg.Fem einer)
+                        (ADJA-HD-Pos.Dat.Sg.Fem vorherigen)
+                        (NN-HD-Dat.Sg.Fem Ausbildung))
+                      (KON-CD und)
+                      (NP-HD
+                        (ART-HD-Dat.Sg.Masc einem)
+                        (NN-HD-Dat.Sg.Masc Nebenjob)
+                        (NE-HD-Nom.Sg während)))
+                    (NP-AG
+                      (ART-HD-Gen.Sg.Neut des)
+                      (NN-HD-Gen.Sg.Neut Studiums)))))
+              (NN-HD-Neut\/seq überhaupt)
+              (NN-HD-Dat.Sg.Fem für)))
+          (VP-OC\/inf
+            (NP-OA
+              (ART-HD-Acc.Sg.Neut ein)
+              (NN-HD-Acc.Sg.Neut Studium))
+            (VVINF-HD bewerben)))))
+    (XY-MO könnten))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (PP-MO\/V
+        (ADV-MO\/N Auch)
+        (APPR-AC\/Acc ohne)
+        (NE-HD-Acc.Sg Studiengebühren))
+      (VVFIN-HD-Sg muss)
+      (NP-SB\/Sg
+        (PIAT-HD-Nom.Sg.Masc jeder)
+        (ADJA-HD-Pos.Nom.Sg.Masc zweite)
+        (NN-HD-Nom.Sg.Masc während)
+        (NP-AG
+          (ART-HD-Gen.Sg.Masc des)
+          (NN-HD-Gen.Sg.Masc Studierens)))
+      (VP-OC\/inf
+        (VVINF-HD arbeiten)))
+    (KON-CD und)
+    (S-TOP\/nosubj
+      (VAFIN-HD-Sg hat)
+      (AVP-MO\/V
+        (ADV-MO\/V so)
+        (ADV-HD\/V weniger))
+      (PP-MO\/V
+        (NN-HD-Nom.Sg.Fem Zeit)
+        (CARD-HD für))
+      (CNP-OA
+        (NP-OA
+          (ART-HD-Acc.Sg.Neut das)
+          (NN-HD-Acc.Sg.Neut Lernen))
+        (KON-CD und)
+        (NP-OA
+          (ART-HD-Acc.Sg.Fem die)
+          (NN-HD-Acc.Sg.Fem Freizeit)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (PIS-HD-Nom.Sg Man))
+    (VMFIN-HD-Sg kann)
+    (ADV-MO\/V zwar)
+    (VVINF-OC behaupten)
+    (\$, ,)
+    (S-MO
+      (NP-SB\/Pl
+        (AP-HD
+          (ADV-MO\/0 durch)
+          (PIAT-HD mehr))
+        (NN-HD-Neut\/seq Studiengebühren)
+        (NN-HD-Nom.Pl.Neut würden))
+      (VP-OC\/pp
+        (NP-OA
+          (ADV-MO\/N auch)
+          (ART-HD-Acc.Pl.Fem die)
+          (NN-HD-Acc.Pl.Fem Bildungseinrichtungen))
+        (ADJD-MO-Comp\/V besser)
+        (VVPP-HD ausgestattet))
+      (VAFIN-HD-Pl werden)))
+  (\$. .))
+
+(TOP
+  (S-TOP\/quest
+    (KON-JU Doch)
+    (PWS-OA-Acc.Sg.Neut was)
+    (VVFIN-HD-Sg bringt)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem eine)
+      (AP-HD-Pos.Nom.Sg.Fem
+        (ADJD-MO-Pos\/0 wunderbar)
+        (ADJA-HD-Pos.Nom.Sg.Fem ausgestattete))
+      (NN-HD-Nom.Sg.Fem Universität))
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo wenn)
+      (NP-SB\/Sg
+        (PPER-HD-Nom.Sg.Fem sie))
+      (NP-DA
+        (ART-HD-Dat.Sg.Neut dem)
+        (NN-HD-Dat.Sg.Neut Großteil)
+        (NP-AG
+          (ART-HD-Gen.Pl.Masc der)
+          (ADJA-HD-Pos.Gen.Pl.Masc schlauen)
+          (NN-HD-Gen.Pl.Masc Menschen)))
+      (NP-OA
+        (AP-HD-Acc.Sg.Fem
+          (ADV-MO\/0 gar)
+          (PIAT-HD-Acc.Sg.Fem keine))
+        (NN-HD-Acc.Sg.Fem Chance))
+      (VVFIN-HD-Sg gibt)
+      (\$, ,)
+      (VP-RE
+        (PP-MO\/V
+          (APPR-AC\/Dat mit)
+          (ART-HD-Dat.Sg.Fem der)
+          (ADJA-HD-Pos.Dat.Sg.Fem tollen)
+          (NN-HD-Dat.Sg.Fem Ausstattung))
+        (NP-OA
+          (PPOSAT-HD-Acc.Sg.Masc ihren)
+          (NN-HD-Acc.Sg.Masc Horizont))
+        (VZ-HD
+          (PTKZU-PM zu)
+          (VVINF-HD erweitern)))))
+  (\$.\/quest ?))

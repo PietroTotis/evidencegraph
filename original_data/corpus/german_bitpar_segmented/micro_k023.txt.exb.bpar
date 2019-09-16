@@ -1,0 +1,96 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Die)
+      (NN-HD-Nom.Sg.Fem BA-Arbeit))
+    (VMFIN-HD-Sg soll)
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo wenn)
+      (PTKNEG-NG nicht)
+      (NP-OA
+        (ART-HD-Acc.Sg.Fem die)
+        (NN-HD-Acc.Sg.Fem Gesamtnote))
+      (VVFIN-HD-Pl bilden))
+    (\$, ,)
+    (VP-OC\/inf
+      (ADV-MO\/V dann)
+      (ADV-MO\/V mindestens)
+      (NP-OA
+        (ART-HD-Acc.Sg.Masc einen)
+        (NE-HD größeren)
+        (NN-HD-Acc.Sg.Masc Anteil)
+        (PROAV-MNR daran))
+      (VAINF-HD haben)))
+  (\$. .))
+
+(TOP
+  (DL-TOP
+    (S-TOP
+      (KON-JU Denn)
+      (NP-OA
+        (ART-HD-Acc.Sg.Fem eine)
+        (ADJA-HD-Pos.Acc.Sg.Fem gute)
+        (NN-HD-Acc.Sg.Fem Gesamtnote)
+        (NE-HD hält))
+      (ADV-MO\/V zwar)
+      (NP-SB\/Pl
+        (PIAT-HD-Nom.Pl viele)
+        (NN-HD-Nom.Pl Türen))
+      (ADJD-PD-Pos\/V offen))
+    (\$, ,)
+    (S-DH
+      (VAFIN-HD-Sg ist)
+      (NP-SB\/Sg
+        (ADV-MO\/N aber)
+        (NE-HD-Nom.Sg für))
+      (AP-PD\/pred
+        (NP-OA
+          (ART-HD-Acc.Sg.Masc den)
+          (NN-HD-Acc.Sg.Masc Arbeitgeber))
+        (PTKNEG-NG nicht)
+        (ADJD-HD-Pos\/0 erstrangig))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PP-MO\/V
+      (APPR-AC\/Dat Mit)
+      (ART-HD-Dat.Sg.Fem der)
+      (NN-HD-Dat.Sg.Fem BA-Arbeit))
+    (VMFIN-HD-Sg kann)
+    (NP-SB\/Sg
+      (PIS-HD-Nom.Sg man))
+    (ADV-MO\/V jedoch)
+    (CNP-SB
+      (NP-SB\/Pl
+        (ART-HD-Nom.Pl.Neut die)
+        (NN-HD-Nom.Pl.Neut Interessen))
+      (KON-CD und)
+      (NP-SB\/Pl
+        (ART-HD-Nom.Pl.Neut die)
+        (NN-HD-Nom.Pl.Neut Fachkenntnisse)))
+    (VP-OC\/inf
+      (AP-MO\/pred
+        (ADV-MO\/0 besonders)
+        (ADJD-HD-Pos\/0 gut))
+      (VVINF-HD zeigen)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PN-DA-1-Dat.Sg
+      (NE-HD-Dat.Sg Schließlich))
+    (VAFIN-HD-Sg ist)
+    (NP-SB\/Sg
+      (PIS-HD-Nom.Sg man))
+    (PTKNEG-NG nicht)
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in in)
+      (PIAT-HD-Dat.Sg.Neut jedem)
+      (NN-HD-Dat.Sg.Neut Fach))
+    (AP-PD\/pred
+      (ADV-MO\/0 sehr)
+      (ADJD-HD-Pos\/0 gut)))
+  (\$. .))

@@ -1,0 +1,209 @@
+
+(TOP
+  (S-TOP
+    (PN-SB-Nom.Sg.Neut
+      (NE-HD-Nom.Sg.Neut Deutschland))
+    (VMFIN-HD-Sg sollte)
+    (NP-OA
+      (PP-MO\/N
+        (APPR-AC\/Acc\/auf auf)
+        (PIAT-HD-Acc.Sg.Masc keinen)
+        (NN-HD-Acc.Sg.Masc Fall))
+      (ART-HD-Acc.Sg.Fem die)
+      (NN-HD-Acc.Sg.Fem Todesstrafe)
+      (NE-HD einführen)))
+  (\$. .))
+
+(TOP
+  (XY-TOP Gäbe)
+  (S-TOP
+    (CS-OC
+      (S-OC\/nohead
+        (NP-SB\/Sg
+          (PPER-HD-Nom.Sg.Neut es))
+        (VP-OC\/inf
+          (NP-OA
+            (ART-HD-Acc.Sg.Fem eine)
+            (NN-HD-Acc.Sg.Fem Todesstrafe)
+            (\$, ,)
+            (CH-MNR
+              (FM-UC würde)
+              (FM-UC das)))
+          (VVINF-HD bedeuten)))
+      (\$, ,)
+      (S-OC
+        (KOUS-CP\/oc dass)
+        (NP-SB\/Sg
+          (PPER-HD-Nom.Sg.Neut es))
+        (VP-OC\/inf
+          (VP-OC\/pp
+            (NP-OA
+              (NN-HD-Acc.Pl.Masc Menschen))
+            (VVPP-HD erlaubt))
+          (VAINF-HD werden))
+        (VMFIN-HD-Sg soll)))
+    (\$, ,)
+    (CVP-OC\/zu
+      (VP-OC\/zu
+        (PRF-DA-Dat.Pl sich)
+        (NP-OA
+          (CARD-HD über)
+          (PIS-HD-Acc.Pl andere))
+        (VZ-HD
+          (PTKZU-PM zu)
+          (VVINF-HD stellen)))
+      (KON-CD und)
+      (VP-OC\/zu
+        (NP-DA
+          (NN-HD-Dat.Pl über))
+        (NP-OA
+          (PPOSAT-HD-Acc.Sg.Neut deren)
+          (NN-HD-Acc.Sg.Neut Leben))
+        (VZ-HD
+          (PTKZU-PM zu)
+          (VVINF-HD entscheiden)))))
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl.Masc Die)
+      (NN-HD-Nom.Pl.Masc Todesstrafe)
+      (CNP-HD
+        (PN-HD
+          (NP-PNC
+            (NE-HD auszuführen)
+            (NE-HD wäre)
+            (NE-HD-Nom.Sg Mord)))
+        (KON-CD und)
+        (NE-HD müsste)))
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (ADV-MO\/V ebenfalls)
+        (PP-MO\/V
+          (APPR-AC\/Dat mit)
+          (ART-HD-Dat.Sg.Fem der)
+          (NN-HD-Dat.Sg.Fem Todesstrafe))
+        (VVPP-HD bestraft))
+      (VAINF-HD werden)))
+  (\$. .))
+
+(TOP
+  (S-TOP\/quest
+    (PWS-SB-Nom.Sg.Neut Was)
+    (ADV-MO\/V aber)
+    (VAFIN-HD-Sg ist)
+    (PP-MO\/V
+      (APPR-AC\/Dat mit)
+      (NE-HD-Dat.Sg Straftätern))
+    (\$, ,)
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (NP-OA
+          (ART-HD-Acc.Pl.Neut die)
+          (AP-HD-Pos.Acc.Pl.Neut
+            (ADJD-MO-Pos\/0 wirklich)
+            (ADJA-HD-Pos.Acc.Pl.Neut schlimme))
+          (NN-HD-Acc.Pl.Neut Verbrechen))
+        (VVPP-HD begangen))
+      (VAINF-HD haben)
+      (\$, ,)
+      (S-OC
+        (PWAV-MO wie)
+        (NP-DA
+          (ADV-MO\/N etwa)
+          (CNP-HD
+            (NN-HD-Nom.Sg.Masc Mord)
+            (KON-CD oder)
+            (NN-HD-Nom.Sg.Fem Vergewaltigung)))
+        (\$Par -)
+        (VMFIN-HD-Sg soll)
+        (NP-EP
+          (PPER-HD-Nom.Sg.Neut\/ep es))
+        (VP-OC\/inf
+          (VP-OC\/pp
+            (NP-OA
+              (PDS-HD-Acc.Sg.Masc diesen))
+            (ADV-MO\/V einfach)
+            (VVPP-HD erlaubt))
+          (VAINF-HD sein)
+          (\$, ,)
+          (VP-OC\/zu
+            (VVIZU-HD weiterzuleben)))))
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo obwohl)
+      (NP-SB\/Pl
+        (PPER-HD-Nom.Pl sie))
+      (CVP-OC\/pp
+        (VP-OC\/pp
+          (NP-OA
+            (ART-HD-Acc.Sg.Neut ein)
+            (ADJA-HD-Pos.Acc.Sg.Neut anderes)
+            (NN-HD-Acc.Sg.Neut Leben))
+          (VVPP-HD genommen))
+        (KON-CD oder)
+        (VP-OC\/nohead
+          (PN-DA-Dat.Sg
+            (NE-HD-Dat.Sg zerstört))))
+      (VAFIN-HD-Pl haben)))
+  (\$.\/quest ?))
+
+(TOP
+  (S-TOP
+    (PTKANT-DM Ja)
+    (\$, ,)
+    (KON-JU denn)
+    (S-SB
+      (NP-SB\/Sg
+        (PPER-HD-Nom.Sg.Neut es))
+      (VAFIN-HD-Sg ist)
+      (NP-PD
+        (ART-HD-Nom.Sg.Fem eine)
+        (AP-HD-Pos.Nom.Sg.Fem
+          (ADV-MO\/0 sehr)
+          (ADV-MO\/0 viel)
+          (ADJA-HD-Pos.Nom.Sg.Fem schlimmere))
+        (NN-HD-Nom.Sg.Fem Strafe)))
+    (\$, ,)
+    (CVP-SB
+      (VP-SB
+        (NP-OA
+          (NN-HD-Acc.Sg.Fem für))
+        (ADV-MO\/V immer)
+        (PP-MO\/V
+          (APPRART-AC-Dat.Sg.Neut\/in im)
+          (NN-HD-Dat.Sg.Neut Gefängnis))
+        (VZ-HD
+          (PTKZU-PM zu)
+          (VAINF-HD sein)))
+      (KON-CD und)
+      (VP-SB
+        (PP-MO\/V
+          (APPR-AC\/Dat\/von von)
+          (ART-HD-Dat.Pl.Fem den)
+          (ADJA-HD-Pos.Dat.Pl.Fem eigenen)
+          (NN-HD-Dat.Pl.Fem Gedanken))
+        (NP-OA
+          (NN-HD-Acc.Sg.Fem gequält))
+        (VZ-HD
+          (PTKZU-PM zu)
+          (VAINF-HD werden))
+        (\$, ,)
+        (VP-RE
+          (PP-MO\/V
+            (APPR-AC als)
+            (CAP-HD\/pred
+              (ADJD-HD-Pos\/0 schnell)
+              (KON-CD und)
+              (ADJD-HD-Pos\/0 einfach)))
+          (PP-MO\/V
+            (APPR-AC\/Acc\/durch durch)
+            (ART-HD-Acc.Sg.Fem eine)
+            (NN-HD-Acc.Sg.Fem Injektion))
+          (NP-OA
+            (NN-HD-Acc.Sg.Fem getötet))
+          (VZ-HD
+            (PTKZU-PM zu)
+            (VAINF-HD werden))))))
+  (\$. .))

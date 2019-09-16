@@ -1,0 +1,94 @@
+
+(TOP
+  (S-TOP
+    (NP-MO
+      (PIAT-HD-Acc.Sg.Masc Jeden)
+      (NN-HD-Acc.Sg.Masc Tag))
+    (VAFIN-HD-Pl werden)
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in in)
+      (CNP-HD\/Dat
+        (TRUNCCap-HD U-)
+        (KON-CD und)
+        (NN-HD-Dat.Pl.Masc S-Bahnen)))
+    (\$, ,)
+    (CNP-APP
+      (NP-APP\/chain
+        (NN-HD-Dat.Pl.Masc Bussen))
+      (KON-CD und)
+      (NP-APP
+        (CH-HD
+          (FM-UC Zügen)
+          (FM-UC Fahrgäste))
+        (PP-PG\/N
+          (APPR-AC\/Dat\/von von)
+          (CNP-HD\/Dat
+            (NN-HD-Dat.Pl.Masc Rowdys)
+            (KON-CD oder)
+            (NP-HD
+              (NN-HD-Dat.Sg.Neut Betrunkenen)
+              (XY-HD belästigt)))))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KON-JU Und)
+    (NP-SB\/Pl
+      (ADV-MO\/N auch)
+      (ART-HD-Nom.Pl.Fem die)
+      (NN-HD-Nom.Pl.Fem Vorschriften)
+      (NP-AG
+        (ART-HD-Gen.Pl.Masc der)
+        (NN-HD-Gen.Pl.Masc Verkehrsbetriebe)))
+    (VAFIN-HD-Pl werden)
+    (VP-OC\/pp
+      (ADJD-MO-Pos\/V selten)
+      (VVPP-HD eingehalten)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PROAV-MO Deswegen)
+    (VVFIN-HD-Pl brauchen)
+    (NP-SB\/Pl
+      (PPER-HD-Nom.Pl wir))
+    (NP-OA
+      (PIAT-HD mehr)
+      (NN-HD Polizeipräsenz)
+      (PP-MNR\/N
+        (APPR-AC\/Dat\/in in)
+        (CARD-HD öffentlichen)
+        (NN-HD-Dat.Pl.Neut Verkehrsmitteln)))
+    (\$, ,)
+    (S-MO
+      (ADV-MO\/V selbst)
+      (KOUS-CP\/mo wenn)
+      (NP-SB\/Pl
+        (NN-HD-Nom.Pl dafür))
+      (ADJD-MO-Pos\/V eigentlich)
+      (NP-SB\/Pl
+        (ART-HD-Nom.Pl.Neut die)
+        (ADJA-HD-Pos.Nom.Pl.Neut Betriebs-eigenen)
+        (NN-HD-Nom.Pl.Neut Sicherheitskräfte))
+      (VP-OC\/pp
+        (VVPP-HD gedacht))
+      (VAFIN-HD-Pl waren)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Die)
+      (CH-HD
+        (FM-UC Fahrgäste)
+        (FM-UC würden)))
+    (VVFIN-HD-Sg sich)
+    (ADV-MO\/V dann)
+    (PP-MO\/V
+      (APPR-AC\/Acc\/auf auf)
+      (PIAT-HD-Acc.Sg.Masc jeden)
+      (NN-HD-Acc.Sg.Masc Fall))
+    (NP-SB\/Sg
+      (ADJA-HD-Pos.Nom.Sg.Masc sicherer)
+      (NN-HD-Nom.Sg.Masc fühlen)))
+  (\$. .))

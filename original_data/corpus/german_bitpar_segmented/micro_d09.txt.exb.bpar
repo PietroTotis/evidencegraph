@@ -1,0 +1,65 @@
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-SB\/Sg
+        (PPER-HD-Nom.Sg Du))
+      (VVFIN-HD-Sg solltest)
+      (NP-OA
+        (PIS-HD weniger))
+      (VVINF-OC fernsehen))
+    (\$, ,)
+    (KON-CD denn)
+    (S-TOP
+      (NP-SB\/Sg
+        (PIAT-HD zuviel)
+        (NN-HD-Nom.Sg.Neut Fernsehen))
+      (VVFIN-HD-Sg macht)
+      (CPP-MO\/V
+        (PP-MO\/V
+          (APPR-AC\/Acc\/auf auf)
+          (NN-HD-Acc.Sg.Fem Dauer)
+          (ADJD-HD-Pos\/N dumm))
+        (\$, ,)
+        (KON-CD wie)
+        (PP-MO\/V
+          (APPR-AC\/Dat bei)
+          (PPOSAT-HD-Dat.Sg.Masc deinem)
+          (NN-HD-Dat.Sg.Masc Bruder)))))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Fem Eine)
+        (NN-HD-Nom.Sg.Fem Ausnahme)
+        (NE-HD wäre))
+      (NP-PD
+        (PPER-HD-Nom.Sg.Neut es))
+      (\$, ,)
+      (S-MO
+        (KOUS-CP\/mo wenn)
+        (NP-SB\/Sg
+          (PPER-HD-Nom.Sg du))
+        (ADV-MO\/V nur)
+        (NP-OA
+          (NN-HD-Acc.Pl.Masc Quizshows))
+        (VVFIN-HD-Pl sehen)
+        (NP-SB\/Pl
+          (NN-HD-Nom.Pl würdest))))
+    (\$, ,)
+    (KON-CD aber)
+    (S-TOP
+      (NP-SB\/Sg
+        (PPER-HD-Nom.Sg du))
+      (VVFIN-HD-Sg guckst)
+      (ADV-MO\/V ja)
+      (ADV-MO\/V eher)
+      (CNP-SB
+        (PN-SB\/chain-Nom.Sg
+          (NE-HD-Nom.Sg BigBrother))
+        (KON-CD und)
+        (PN-SB\/chain-Nom.Sg
+          (NE-HD-Nom.Sg X-Diaries)))))
+  (\$. .))

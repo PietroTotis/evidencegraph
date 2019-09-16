@@ -1,0 +1,228 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl.Neut Videospiele)
+      (\$, ,)
+      (S-PAR
+        (AP-PD\/pred
+          (PP-MO\/0
+            (APPR-AC\/Dat bei)
+            (PPER-HD-Dat.Sg mir))
+          (ADJD-HD-Pos\/0 namentlich))
+        (NP-SB\/Sg
+          (NE-HD-Nom.Sg.Neut FIFA)
+          (\$, ,)
+          (S-PAR
+            (NP-SB\/Pl
+              (CARD-HD können)
+              (ADJA-HD-Pos.Nom.Pl.Masc junge)
+              (NN-HD-Nom.Pl.Masc Menschen))
+            (AP-PD\/pred
+              (ADJD-HD-Pos\/0 stundenlang)
+              (\$, ,))))
+        (CAP-PD
+          (ADJD-PD-Comp\/0 intensiver)
+          (KON-CD und)
+          (ADJD-PD-Comp\/0 emotionaler))))
+    (VVFIN-HD-Pl begeistern)
+    (NP-MO
+      (KOKOM-CM als)
+      (PIAT-HD-Nom.Sg.Masc jeder)
+      (NN-HD-Nom.Sg.Masc Sport)
+      (NP-AG
+        (ART-HD-Gen.Sg.Fem der)
+        (NN-HD-Gen.Sg.Fem Welt))))
+  (\$. !))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg.Neut Es))
+    (AP-PD\/pred
+      (NP-OA
+        (NN-HD-Acc.Sg.Fem wäre))
+      (ADJD-HD-Pos\/0 richtig)
+      (\$, ,)
+      (VP-RE
+        (NP-OA
+          (PPER-HD-Acc.Sg.Fem sie))
+        (PP-MO\/V
+          (ADV-MO\/N auch)
+          (APPR-AC\/Dat zu)
+          (ART-HD-Dat.Sg.Fem einer)
+          (ADJA-HD-Pos.Dat.Sg.Fem olympischen)
+          (NN-HD-Dat.Sg.Fem Disziplin))
+        (VZ-HD
+          (PTKZU-PM zu)
+          (VVINF-HD machen)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Vielleicht)
+    (VAFIN-HD-Sg ist)
+    (NP-EP
+      (PPER-HD-Nom.Sg.Neut\/ep es))
+    (PN-SB-Nom.Sg
+      (NE-HD-Nom.Sg für))
+    (VP-OC\/inf
+      (NP-OA
+        (ART-HD-Acc.Sg.Masc einen)
+        (NN-HD-Acc.Sg.Masc Zuschauer))
+      (AP-MO\/pred
+        (AVP-MO\/0
+          (ADV-HD\/0 weniger))
+        (ADJD-HD-Pos\/0 spannend)
+        (\$, ,)
+        (S-OC
+          (S-MO
+            (KOUS-CP\/mo als)
+            (PN-SB-Nom.Sg
+              (NE-HD-Nom.Sg für))
+            (NP-OA
+              (ART-HD-Acc.Sg.Masc den)
+              (NN-HD-Acc.Sg.Masc Spieler))
+            (VVFIN-HD-Sg selbst)
+            (\$, ,)
+            (S-RE
+              (ADV-MO\/V aber)
+              (NP-SB\/Pl
+                (ADV-MO\/N auch)
+                (CARD-HD für)
+                (ADJA-HD-Pos.Nom.Pl.Masc aktuelle)
+                (ADJA-HD-Pos.Nom.Pl.Masc olympische)
+                (NN-HD-Nom.Pl.Masc Disziplinen)
+                (\$, ,)
+                (S-TOP
+                  (CS-OC
+                    (S-OC
+                      (NP-SB\/Sg
+                        (PPER-HD-Nom.Sg ich))
+                      (VVFIN-HD-Sg erinnere)
+                      (PRF-OA-Acc.Sg mich)
+                      (ADV-MO\/V zuletzt)
+                      (PP-OP\/V
+                        (APPR-AC\/Dat an)
+                        (NE-HD-Dat.Sg Curling)))
+                    (KON-CD oder)
+                    (S-OC\/nosubj
+                      (NP-MO
+                        (CARD-HD 50)
+                        (NN-HD-Acc.Pl.Masc km))
+                      (NP-PD
+                        (NN-HD-Nom.Sg.Masc Ski-Langlauf))))
+                  (\$, ,)
+                  (VVFIN-HD-Sg muss)
+                  (NP-SB\/Sg
+                    (PIS-HD-Nom.Sg man))))
+              (VP-OC\/inf
+                (NP-PD
+                  (PIS-HD mehr)
+                  (NP-CC
+                    (KOKOM-CM als)
+                    (ART-HD-Nom.Sg.Masc ein)
+                    (NN-HD-Nom.Sg.Masc Freak)))
+                (VAINF-HD sein))))
+          (\$, ,)
+          (VVFIN-HD-Sg sich)
+          (NP-SB\/Sg
+            (ART-HD-Nom.Sg.Neut das)
+            (NN-HD-Nom.Sg.Neut länger)
+            (PP-CC\/N
+              (KOKOM-CM als)
+              (APPR-AC\/Dat\/in in)
+              (ART-HD-Dat.Sg.Fem der)
+              (NN-HD-Dat.Sg.Fem Zusammenfassung)))))
+      (VVINF-HD reinzuziehen)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (S-OC
+      (PN-SB-Nom.Sg
+        (NE-HD-Nom.Sg Außerdem))
+      (VAFIN-HD-Sg ist)
+      (NP-OA
+        (ART-HD-Acc.Sg.Fem die)
+        (NN-HD-Acc.Sg.Fem Hürde)
+        (\$, ,)
+        (VP-OC\/zu
+          (NP-OA
+            (NN-HD-Acc.Pl.Masc Videospiele))
+          (ADJD-MO-Pos\/V olympisch)
+          (VZ-HD
+            (PTKZU-PM zu)
+            (VVINF-HD machen))))
+      (ADV-MO\/V minimal))
+    (\$, ,)
+    (VVFIN-HD-Sg braucht)
+    (NP-EP
+      (PPER-HD-Nom.Sg.Neut\/ep es))
+    (ADV-MO\/V ja)
+    (AVP-MO\/V
+      (PTKNEG-NG nicht)
+      (ADV-HD\/V mal))
+    (NP-OA
+      (NN-HD-Acc.Pl.Fem Dopingkontrollen))
+    (\$, ,)
+    (KON-CD sondern)
+    (NP-CJ
+      (ADV-MO\/N nur)
+      (ART-HD-Nom.Sg.Fem eine)
+      (ADJA-HD-Pos.Nom.Sg.Fem neutrale)
+      (NN-HD-Nom.Sg.Fem Konsole)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KON-JU Und)
+    (NP-SB\/Sg
+      (NE-HD-Nom.Sg körperliche)
+      (\$, ,)
+      (NP-APP
+        (CAP-HD-Pos.Nom.Pl.Neut
+          (ADJA-HD-Pos.Nom.Pl.Neut geistige)
+          (KON-CD und)
+          (AP-HD-Pos.Nom.Pl.Neut
+            (ADV-MO\/0 insbesondere)
+            (ADJA-HD-Pos.Nom.Pl.Neut mentale)))
+        (NN-HD-Nom.Pl.Neut Fähigkeiten)))
+    (VVFIN-HD-Sg verlangt)
+    (ADV-MO\/V so)
+    (NP-OA
+      (PIAT-HD-Acc.Sg.Neut manches)
+      (NN-HD-Acc.Sg.Neut Videospiel))
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo wenn)
+      (NP-SB\/Sg
+        (PPER-HD-Nom.Sg ich))
+      (PP-MO\/V
+        (APPR-AC\/Acc an)
+        (ART-HD-Acc.Sg.Neut das)
+        (NN-HD-Acc.Sg.Neut Finale)
+        (NP-AG
+          (ART-HD-Gen.Sg.Neut des)
+          (ADJA-HD-Pos.Gen.Sg.Neut letzten)
+          (NN-HD-Gen.Sg.Neut Fifa-Turniers)))
+      (VVFIN-HD-Sg denke))
+    (\$, ,)
+    (NP-OA
+      (PIS-HD mehr))
+    (PTKVZ-SVP ab)
+    (\$, ,)
+    (VP-OC\/zu
+      (PP-MO\/V
+        (APPR-AC\/Acc als)
+        (ART-HD-Acc.Sg.Fem eine)
+        (NN-HD-Acc.Sg.Fem Kugel))
+      (AP-MO\/pred
+        (NP-AMS
+          (CARD-HD 20)
+          (NN-HD-Acc.Pl.Masc Meter))
+        (ADJD-HD-Pos\/0 weit))
+      (VZ-HD
+        (PTKZU-PM zu)
+        (ADJA-HD-Pos.Dat.Sg.Fem stoßen))))
+  (\$. .))

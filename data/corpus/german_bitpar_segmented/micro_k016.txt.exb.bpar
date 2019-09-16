@@ -1,0 +1,100 @@
+
+(TOP
+  (S-TOP
+    (PP-OP\/V
+      (APPR-AC\/Dat Trotz)
+      (AP-HD-Pos.Dat.Pl.Fem
+        (NP-DA
+          (ART-HD-Dat.Sg.Fem der)
+          (ADJA-HD-Pos.Dat.Sg.Fem starken)
+          (\$, ,)
+          (VP-OC\/zu
+            (ADV-MO\/V zeitweise)
+            (VZ-HD
+              (PTKZU-PM zu)
+              (VVINF-HD eskalieren))))
+        (ADJA-HD-Pos.Dat.Pl.Fem drohenden))
+      (NN-HD-Dat.Pl.Fem Auseinandersetzungen)
+      (PP-MNR\/N
+        (APPR-AC\/Dat\/in in)
+        (NE-HD-Dat.Sg.Neut Kiew)))
+    (\$, ,)
+    (VMFIN-HD-Sg sollte)
+    (PRF-OA-Acc.Sg sich)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem die)
+      (NE-HD-Nom.Sg.Fem EU))
+    (PTKNEG-NG nicht)
+    (VP-OC\/inf
+      (PP-MO\/V
+        (APPR-AC\/in in)
+        (CNP-HD
+          (NP-HD
+            (ART-HD-Nom.Sg.Neut das)
+            (ADJA-HD-Pos.Nom.Sg.Neut dortige)
+            (ADJA-HD-Pos.Nom.Sg.Neut politische)
+            (NN-HD-Nom.Sg.Neut Geschehen))))
+      (VVINF-HD einmischen)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (CS-MO
+      (S-MO
+        (KOUS-CP\/mo Obwohl)
+        (NP-SB\/Sg
+          (ART-HD-Nom.Sg.Fem die)
+          (NE-HD-Nom.Sg.Fem Ukraine))
+        (ADV-MO\/V zwar)
+        (NP-OA
+          (ART-HD-Acc.Sg.Neut ein)
+          (PN-HD-Nom.Sg.Neut
+            (NE-PNC europäisches)
+            (NE-PNC-Nom.Sg.Neut Land)))
+        (VAFIN-HD-Sg ist))
+      (KON-CD und)
+      (S-MO\/nosubj
+        (VP-OC\/pp
+          (NP-OA
+            (ART-HD-Acc.Sg.Fem die)
+            (ADJA-HD-Pos.Acc.Sg.Fem ukrainische)
+            (NN-HD-Acc.Sg.Fem Opposition))
+          (PP-MO\/V
+            (PP-MO\/N
+              (APPR-AC\/Dat vor)
+              (PIS-HD-Dat.Sg.Neut allem))
+            (APPR-AC\/Dat an)
+            (ART-HD-Dat.Sg.Fem der)
+            (NN-HD-Dat.Sg.Fem Durchsetzung)
+            (NP-AG
+              (ART-HD-Gen.Sg.Fem einer)
+              (NE-HD tragfähigen)
+              (NN-HD-Gen.Sg.Fem Demokratie)))
+          (VVPP-HD interessiert))
+        (VAFIN-HD-Sg ist)))
+    (\$, ,)
+    (VVFIN-HD-Sg steht)
+    (PN-SB-Nom.Sg
+      (NE-HD-Nom.Sg möglichen)))
+  (XY-TOP Unterstützern)
+  (S-PAR
+    (PP-MO\/V
+      (APPR-AC\/Acc\/durch durch)
+      (ART-HD-Acc.Sg.Neut das)
+      (PN-HD
+        (NP-PNC
+          (ADJA-HD-Pos.Dat.Sg.Fem\/name Einmischen)
+          (NN-HD-Dat.Sg.Fem\/name Russlands)
+          (PP-MNR\/N
+            (APPR-AC\/Acc\/in in)
+            (ART-HD-Acc.Sg.Fem die)
+            (ADJA-HD-Pos.Acc.Sg.Fem dortige)
+            (NN-HD-Acc.Sg.Fem Politik)))))
+    (NP-PD
+      (ART-HD-Nom.Sg.Masc ein)
+      (AP-HD
+        (ADJD-MO-Pos\/card deutlich)
+        (CARD-HD mächtigerer))
+      (NN-HD-Nom.Sg.Masc Gegner)))
+  (XY-TOP gegenüber)
+  (\$. .))

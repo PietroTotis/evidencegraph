@@ -1,0 +1,13 @@
+Das Language Tool Plus ist ein gutes Tool um kürzere Texte in der Länge von bis zu 1500
+Zeichen, auf Grammatik-, Stil- und Rechtschreibfehler zu prüfen. Mein erster Eindruck ist gut,
+bei mir hat es bei dem deutschen Text eine stilistische Sache gefunden, die den Begriff
+„warme Temperatur“ betrifft, dabei rät es mir zu anderen Begriffen wie „hoch“, oder
+„sommerlich“. Im englischen Text rät es mir zu Begriffen wie „excellent“, oder „wonderful“
+statt „really good“. Bei beiden Varianten erkennt es den Begriff „Golm“ nicht als Eigennamen
+und schlägt mir Wörter vor, wie „Gold“, oder „Golf“, das stört aber auch nicht weiter und ist
+vermutlich auch schwer, das bei diesem Programm anders zu realisieren. Zudem finde ich es
+auch sehr hilfreich, dass der Fehler immer in einem kurzen Satz erklärt wird, bevor die
+Alternativen vorgeschlagen werden, sodass man daraus lernen kann. Bei längeren Texten
+würde ich empfehlen, den Text in kleinere Abschnitte aufzuteilen und diese dann individuell
+zu prüfen, um besser auf die Fehler eingehen zu können, außerdem kann das Tool nicht mehr
+als 1500 Zeichen verarbeiten.

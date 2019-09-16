@@ -1,0 +1,85 @@
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-SB\/Sg
+        (PN-HD-Nom.Sg.Masc
+          (NE-PNC-Nom.Sg.Masc Berlin)
+          (NE-PNC-Nom.Sg.Masc Tegel)))
+      (VAFIN-HD-Sg ist)
+      (PP-MO\/V
+        (APPR-AC\/Nom als)
+        (ADJA-HD-Pos.Nom.Sg.Masc zentrumsnaher)
+        (NN-HD-Nom.Sg.Masc Flughafen))
+      (AP-PD\/pred
+        (AP-MO
+          (ADV-MO\/0 gerade)
+          (CH-HD
+            (FM-UC für)
+            (FM-UC Geschäftsreisende)))
+        (ADJD-HD-Pos\/0 attraktiv)))
+    (KON-CD und)
+    (S-TOP\/nosubj
+      (VMFIN-HD-Sg sollte)
+      (ADV-MO\/V unbedingt)
+      (VP-OC\/inf
+        (ADJD-MO-Pos\/V offen)
+        (VVINF-HD bleiben))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg.Masc Er))
+    (VAFIN-HD-Sg ist)
+    (NP-PD
+      (ART-HD-Nom.Sg.Masc ein)
+      (NN-HD-Nom.Sg.Masc Wirtschaftsfaktor)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-OA
+      (ART-HD-Acc.Pl.Fem Die)
+      (ADJA-HD-Pos.Acc.Pl.Fem negativen)
+      (NN-HD-Acc.Pl.Fem Auswirkungen)
+      (NP-AG
+        (ART-HD-Gen.Sg.Masc des)
+        (NN-HD-Gen.Sg.Masc Flugverkehrs)))
+    (VAFIN-HD-Pl sind)
+    (ADV-MO\/V aber)
+    (ADJD-PD-Pos\/V beachtlich))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (NN-HD-Nom.Sg.Masc Flugverkehr))
+    (VAFIN-HD-Sg ist)
+    (ADJD-MO-Pos\/V stark)
+    (NP-PD
+      (NN-HD-Nom.Sg.Fem umweltschädlich)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (AP-MO\/pred
+      (ADV-MO\/0 Ganz)
+      (ADJD-HD-Pos\/0 speziell)
+      (PP-MO\/0
+        (APPR-AC\/Dat\/in in)
+        (NE-HD-Dat.Sg.Neut Tegel)))
+    (VAFIN-HD-Pl haben)
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl.Masc die)
+      (ADJA-HD-Pos Anwohner)
+      (NN-HD-Nom.Pl.Masc Jahrzehnte))
+    (VP-OC\/inf
+      (NP-OA
+        (ART-HD-Acc.Pl.Fem die)
+        (NN-HD-Acc.Pl.Fem Belastungen)
+        (NP-AG
+          (ART-HD-Gen.Sg.Masc des)
+          (NN-HD-Gen.Sg.Masc Fluglärms)))
+      (VVINF-HD ertragen)))
+  (\$. .))

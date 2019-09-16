@@ -1,0 +1,83 @@
+1	Eigentlich	_	eigentlich	_	ADV	_	_	-1	2	_	MO	_	_
+2	sollten	_	sollen	_	VMFIN	_	pl|3|past|subj	-1	0	_	--	_	_
+3	nur	_	nur	_	ADV	_	_	-1	4	_	MO	_	_
+4	die	_	der	_	PDS	_	nom|pl|masc	-1	2	_	SB	_	_
+5	einen	_	ein	_	ART	_	acc|sg|masc	-1	6	_	NK	_	_
+6	Rundfunkbeitrag	_	Rundfunkbeitrag	_	NN	_	acc|sg|masc	-1	4	_	AG	_	_
+7	zahlen	_	zahlen	_	VVINF	_	_	-1	2	_	OC	_	_
+8	,	_	--	_	$,	_	_	-1	7	_	--	_	_
+9	die	_	der	_	PRELS	_	nom|sg|fem	-1	12	_	SB	_	_
+10	auch	_	auch	_	ADV	_	_	-1	12	_	MO	_	_
+11	wirklich	_	wirklich	_	ADJD	_	pos	-1	12	_	NK	_	_
+12	ARD	_	ARD	_	NE	_	nom|sg|*	-1	6	_	RC	_	_
+13	,	_	--	_	$,	_	_	-1	12	_	--	_	_
+14	ZDF	_	ZDF	_	NE	_	nom|sg|*	-1	12	_	CJ	_	_
+15	,	_	--	_	$,	_	_	-1	14	_	--	_	_
+16	Arte	_	Arte	_	NE	_	nom|sg|masc	-1	17	_	PNC	_	_
+17	usw	_	usw	_	NE	_	nom|sg|masc	-1	14	_	CJ	_	_
+18	.	_	--	_	$.	_	_	-1	17	_	--	_	_
+
+1	gucken	_	gucken	_	VVINF	_	_	-1	0	_	--	_	_
+2	.	_	--	_	$.	_	_	-1	1	_	--	_	_
+
+1	Es	_	es	_	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+2	ist	_	sein	_	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	ja	_	ja	_	ADV	_	_	-1	2	_	MO	_	_
+4	an	_	an	_	APPR	_	_	-1	8	_	MO	_	_
+5	und	_	und	_	KON	_	_	-1	4	_	CD	_	_
+6	für	_	für	_	APPR	_	_	-1	5	_	CJ	_	_
+7	sich	_	sich	_	PRF	_	acc|sg|3	-1	6	_	NK	_	_
+8	gut	_	gut	_	ADJD	_	pos	-1	2	_	PD	_	_
+9	,	_	--	_	$,	_	_	-1	8	_	--	_	_
+10	ein	_	ein	_	ART	_	acc|sg|neut	-1	12	_	NK	_	_
+11	anspruchsvolleres	_	anspruchsvoll	_	ADJA	_	acc|sg|neut|comp	-1	12	_	NK	_	_
+12	Programm	_	Programm	_	NN	_	acc|sg|neut	-1	16	_	OA	_	_
+13	durch	_	durch	_	APPR	_	_	-1	16	_	MO	_	_
+14	Gebühren	_	Gebühr	_	NN	_	acc|pl|fem	-1	13	_	NK	_	_
+15	zu	_	zu	_	PTKZU	_	_	-1	16	_	PM	_	_
+16	unterstützen	_	unterstützen	_	VVINF	_	_	-1	1	_	RE	_	_
+17	.	_	--	_	$.	_	_	-1	16	_	--	_	_
+
+1	Kurioserweise	_	Kurioserweise	_	ADV	_	_	-1	2	_	MO	_	_
+2	gibt	_	geben	_	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	_	es	_	PPER	_	nom|sg|neut|3	-1	2	_	EP	_	_
+4	jedoch	_	jedoch	_	ADV	_	_	-1	2	_	MO	_	_
+5	trotzdem	_	trotzdem	_	PROAV	_	_	-1	2	_	MO	_	_
+6	Werbung	_	Werbung	_	NN	_	acc|sg|fem	-1	2	_	OA	_	_
+7	und	_	und	_	KON	_	_	-1	6	_	CD	_	_
+8	Produktplatzierung	_	Produktplatzierung	_	NN	_	acc|sg|fem	-1	7	_	CJ	_	_
+9	auf	_	auf	_	APPR	_	_	-1	6	_	MNR	_	_
+10	den	_	der	_	ART	_	dat|pl|*	-1	11	_	NK	_	_
+11	Öffentlichen	_	Öffentlichen	_	NN	_	dat|pl|*	-1	9	_	NK	_	_
+12	.	_	--	_	$.	_	_	-1	11	_	--	_	_
+
+1	Wofür	_	wofür	_	PWAV	_	_	-1	2	_	MO	_	_
+2	zahlt	_	zahlen	_	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	man	_	man	_	PIS	_	nom|sg|*	-1	2	_	SB	_	_
+4	dann	_	dann	_	ADV	_	_	-1	2	_	MO	_	_
+5	noch	_	noch	_	ADV	_	_	-1	2	_	MO	_	_
+6	?	_	--	_	$.	_	_	-1	5	_	--	_	_
+
+1	Dass	_	dass	_	KOUS	_	_	-1	12	_	CP	_	_
+2	immer	_	immer	_	ADV	_	_	-1	5	_	MO	_	_
+3	die	_	der	_	ART	_	nom|pl|masc	-1	5	_	NK	_	_
+4	gleichen	_	gleich	_	ADJA	_	nom|pl|fem|pos	-1	5	_	NK	_	_
+5	Schauspieltruppen	_	Schauspieltruppe	_	NN	_	nom|pl|fem	-1	12	_	SB	_	_
+6	sich	_	sich	_	PRF	_	dat|pl|3	-1	12	_	DA	_	_
+7	einen	_	ein	_	ART	_	acc|sg|masc	-1	8	_	NK	_	_
+8	Lenz	_	Lenz	_	NN	_	acc|sg|masc	-1	12	_	OA	_	_
+9	an	_	an	_	APPR	_	_	-1	12	_	MO	_	_
+10	exotischen	_	exotisch	_	ADJA	_	dat|pl|masc|pos	-1	11	_	NK	_	_
+11	Drehorten	_	Drehort	_	NN	_	dat|pl|masc	-1	9	_	NK	_	_
+12	machen	_	machen	_	VVINF	_	_	-1	0	_	--	_	_
+13	?	_	--	_	$.	_	_	-1	12	_	--	_	_
+
+1	Auch	_	auch	_	ADV	_	_	-1	3	_	MO	_	_
+2	die	_	der	_	ART	_	nom|pl|neut	-1	3	_	NK	_	_
+3	Drehbücher	_	Drehbuch	_	NN	_	nom|pl|masc	-1	4	_	SB	_	_
+4	sind	_	sein	_	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+5	oft	_	oft	_	ADV	_	_	-1	7	_	MO	_	_
+6	voneinander	_	voneinander	_	ADV	_	_	-1	7	_	MO	_	_
+7	abgekupfert	_	abkupfern	_	VVPP	_	_	-1	4	_	PD	_	_
+8	.	_	--	_	$.	_	_	-1	7	_	--	_	_
+

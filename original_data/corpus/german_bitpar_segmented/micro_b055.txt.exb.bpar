@@ -1,0 +1,195 @@
+
+(TOP
+  (S-TOP
+    (S-MO
+      (KOUS-CP\/mo Da)
+      (NP-SB\/Sg
+        (PPER-HD-Nom.Sg ich)
+        (ADV-MNR\/N selbst))
+      (NP-PD
+        (NN-HD-Nom.Pl.Masc Apotheker))
+      (VAFIN-HD-Sg bin))
+    (\$, ,)
+    (VVFIN-HD-Sg spreche)
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg ich))
+    (NP-OA
+      (PPER-HD-Acc.Sg mich))
+    (VVFIN-HD-Sg absolut)
+    (PN-SB-Nom.Sg
+      (NE-HD-Nom.Sg für))
+    (NP-OA
+      (ART-HD-Acc.Sg.Neut das)
+      (ADJA-HD-Pos.Acc.Sg.Neut rezeptfreie)
+      (NN-HD-Acc.Sg.Neut Erhalten)
+      (NP-AG
+        (ART-HD-Gen.Sg.Fem der)
+        (CH-HD
+          (FM-UC „Pille)
+          (FM-UC danach“))))
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in in)
+      (ART-HD-Dat.Sg.Fem der)
+      (NN-HD-Dat.Sg.Fem Apotheke))
+    (PTKVZ-SVP aus))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (VP-MO
+      (PP-MO\/V
+        (APPR-AC\/Dat Aus)
+        (ADJA-HD-Pos.Dat.Sg.Fem medizinischer)
+        (NN-HD-Dat.Sg.Fem Sicht))
+      (VVPP-HD gesehen))
+    (\$, ,)
+    (VAFIN-HD-Sg ist)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem die)
+      (NN-HD-Nom.Sg.Fem „Pille))
+    (NP-DA
+      (NN-HD-Dat.Pl danach“))
+    (AP-PD
+      (AA-HD
+        (PTKA-PM am)
+        (ADJD-HD-Sup\/0 wirksamsten)))
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo wenn)
+      (NP-SB\/Sg
+        (PPER-HD-Nom.Sg.Fem sie))
+      (VP-OC\/pp
+        (NP-OA
+          (NN-HD-Acc.Sg.Fem möglichst))
+        (ADJD-MO-Pos\/V schnell)
+        (PP-MO\/V
+          (APPR-AC\/Dat nach)
+          (ART-HD-Dat.Sg.Masc dem)
+          (NN-HD-Dat.Sg.Masc Verkehr))
+        (VVPP-HD eingenommen))
+      (VAFIN-HD-Sg wird)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (S-MO
+      (KOUS-CP\/mo Wenn)
+      (AVP-MO\/V
+        (ADV-MO\/V jedoch)
+        (ADV-HD\/V immer))
+      (NP-PD
+        (ADV-MO\/N erst)
+        (ART-HD-Nom.Sg.Masc ein)
+        (NN-HD-Nom.Sg.Masc Gang)
+        (PP-MNR\/N
+          (APPRART-AC-Dat.Sg.Masc zum)
+          (NN-HD-Dat.Sg.Masc Arzt))
+        (\$Par \()
+        (PP-MNR\/N
+          (APPR-AC mit)
+          (CNP-HD
+            (TRUNCCap-HD Fahr-)
+            (KON-CD und)
+            (NN-HD-Nom.Pl.Fem Wartezeiten))
+          (\$, ,)
+          (NP-APP
+            (NE-HD möglichem)
+            (CARD-HD Schamgefühl)))))
+    (\$, ,)
+    (VVFIN-HD-Sg etc))
+  (\$. .))
+
+(TOP
+  (\$Par \))
+  (S-TOP
+    (PN-SB-Nom.Sg
+      (NE-HD-Nom.Sg nötig))
+    (VAFIN-HD-Sg ist)
+    (\$, ,)
+    (PN-SB-Nom.Sg
+      (NE-HD-Nom.Sg führt))
+    (NP-OA
+      (PDS-HD-Acc.Sg.Neut dies))
+    (PP-MO\/V
+      (APPR-AC\/Dat zu)
+      (PIAT-HD mehr)
+      (ADJA-HD-Pos.Dat.Pl.Fem ungewollten)
+      (NN-HD-Dat.Pl.Fem Schwangerschaften)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP\/nohead
+      (NP-SB\/Pl
+        (PIAT-HD-Nom.Pl.Masc Viele)
+        (NN-HD-Nom.Pl.Masc Gegner)
+        (NP-AG
+          (ART-HD-Gen.Sg.Fem der)
+          (NN-HD-Gen.Sg.Fem Pille)
+          (NE-HD führen)))
+      (ADV-MO\/V jedoch)
+      (PP-MO\/V
+        (APPR-AC\/Acc an)
+        (\$, ,)
+        (S-OC
+          (KOUS-CP\/oc dass)
+          (PROAV-MO damit)
+          (NP-OA
+            (ART-HD-Acc.Sg.Fem die)
+            (NN-HD-Acc.Sg.Fem Beratung)
+            (NP-AG
+              (ART-HD-Gen.Sg.Masc des)
+              (NN-HD-Gen.Sg.Masc Arztes)))))
+      (XY-MO wegfällt))
+    (KON-CD und)
+    (S-TOP\/nohead
+      (NP-SB\/Pl
+        (PIAT-HD-Nom.Pl.Fem viele)
+        (NN-HD-Nom.Pl.Fem Frauen))
+      (VP-OC\/inf
+        (CH-MO
+          (FM-UC sie)
+          (FM-UC unnötig))
+        (VVINF-HD einnehmen))))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (ADV-MO\/V Allerdings)
+      (VAFIN-HD-Sg ist)
+      (NP-EP
+        (PPER-HD-Nom.Sg.Neut\/ep es))
+      (AVP-PD\/V
+        (ADV-HD\/V so))
+      (\$, ,)
+      (S-SB
+        (KOUS-CP\/sb dass)
+        (NP-SB\/Pl
+          (PPER-HD-Nom.Pl wir))
+        (VP-OC\/pp
+          (NP-OA
+            (NN-HD-Acc.Pl.Masc Apotheker))
+          (ADJD-MO-Pos\/V gesetzlich)
+          (PROAV-OP dazu)
+          (VVPP-HD verpflichtet))
+        (VAFIN-HD-Pl sind)))
+    (\$, ,)
+    (S-TOP\/nohead
+      (NP-SB\/Pl
+        (ART-HD-Nom.Pl.Masc die)
+        (NN-HD-Nom.Pl.Masc Patienten))
+      (VP-OC\/inf
+        (CNP-OA
+          (PN-OA\/chain-Acc.Sg
+            (NE-HD-Acc.Sg aufzuklären))
+          (KON-CD und)
+          (NP-OA
+            (PDAT-HD-Acc.Sg.Neut dasselbe)
+            (NN-HD-Acc.Sg.Neut Fachwissen)))
+        (VVINF-HD besitzen)
+        (\$, ,)
+        (NP-CC
+          (KOKOM-CM wie)
+          (NE-HD-Nom.Sg Ärzte)))))
+  (\$. .))

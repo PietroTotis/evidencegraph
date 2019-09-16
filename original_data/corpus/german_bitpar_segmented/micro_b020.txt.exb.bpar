@@ -1,0 +1,107 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl.Fem Die)
+      (ADJA-HD-Pos.Nom.Pl.Fem Olympischen)
+      (NN-HD-Nom.Pl.Fem Disziplinen))
+    (VVFIN-HD-Pl entspringen)
+    (NP-OA
+      (ADJA-HD-Pos.Acc.Pl.Fem alten)
+      (NN-HD-Acc.Pl.Fem Traditionen)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Andererseits)
+    (VAFIN-HD-Pl haben)
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl.Fem die)
+      (ADJA-HD-Pos.Nom.Pl.Fem Olympische)
+      (NN-HD-Nom.Pl.Fem Disziplinen))
+    (PROAV-MO zudem)
+    (NP-OA
+      (ART-HD-Acc.Sg.Masc einen)
+      (AP-HD-Pos.Acc.Sg.Masc
+        (ADJD-MO-Pos\/0 kulturell)
+        (ADJA-HD-Pos.Acc.Sg.Masc bedingten))
+      (NN-HD-Acc.Sg.Masc Charakter)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (PPOSAT-HD-Nom.Sg.Fem Unsere)
+      (NN-HD-Nom.Sg.Fem Gesellschaft))
+    (VAFIN-HD-Sg ist)
+    (CAP-PD\/pred
+      (AP-PD\/pred
+        (ADJD-HD-Pos\/0 stark)
+        (PP-MO\/0
+          (APPR-AC\/Dat\/von von)
+          (NN-HD-Dat.Pl.Masc Computern)
+          (NP-AG
+            (NN-HD-Gen.Sg.Masc geprägt))))
+      (KON-CD und)
+      (ADJD-PD-Pos\/0 digitalisiert)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Jedoch)
+    (VAFIN-HD-Sg ist)
+    (NP-SB\/Sg
+      (NN-HD-Nom.Sg.Masc Sport))
+    (VP-OC\/pp
+      (PP-MO\/V
+        (APPRART-AC-Dat.Sg.Neut\/in im)
+        (NN-HD-Dat.Sg.Neut Allgemeinen))
+      (PP-MO\/V
+        (APPR-AC mit)
+        (CARD-HD körperlicher)
+        (NN-HD-Neut Ertüchtigung))
+      (VVPP-HD verbunden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (AVP-MO\/V
+      (ADV-HD\/V Da)
+      (ADV-MO\/V aber))
+    (NP-SB\/Sg
+      (ADV-MO\/N auch)
+      (NE-HD-Nom.Sg Skat))
+    (\$, ,)
+    (AP-PD\/pred
+      (ADJD-HD-Pos\/0 Schach)
+      (AVP-MO\/0
+        (ADV-HD\/0 etc))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (VP-OC\/inf
+      (PP-MO\/V
+        (PTKNEG-NG nicht)
+        (APPR-AC\/Nom als)
+        (ADJA-HD-Pos.Nom.Pl.Masc Olympische)
+        (NN-HD-Nom.Pl.Masc Disziplinen))
+      (NP-OA
+        (NN-HD-Acc.Sg.Fem geführt))
+      (VAINF-HD werden)
+      (\$, ,))
+    (VMFIN-HD-Pl sollten)
+    (NP-SB\/Pl
+      (ADV-MO\/N auch)
+      (NN-HD-Nom.Pl.Masc Computerspiele))
+    (VP-OC\/nohead
+      (S-MO
+        (VP-OC\/pp
+          (PTKNEG-NG nicht)
+          (PP-MO\/V
+            (APPR-AC\/Nom als)
+            (ADJA-HD-Pos.Nom.Pl.Masc Olympische)
+            (NN-HD-Nom.Pl.Masc Disziplinen))
+          (VVPP-HD anerkannt))
+        (VAFIN-HD-Sg werde))))
+  (\$. .))

@@ -1,0 +1,77 @@
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (ADV-MO\/V Bald)
+      (VAFIN-HD-Sg ist)
+      (NP-SB\/Sg
+        (NN-HD-Nom.Sg.Fem Bundestagswahl)))
+    (KON-CD und)
+    (S-TOP
+      (ADV-MO\/V traditionellerweise)
+      (VAFIN-HD-Sg ist)
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Fem die)
+        (NN-HD-Nom.Sg.Fem Regierungspartei))
+      (PP-MO\/V
+        (APPRART-AC-Dat.Sg.Neut\/in im)
+        (NN-HD-Dat.Sg.Neut Vorfeld)
+        (PP-PG\/N
+          (APPR-AC\/Dat\/von von)
+          (NN-HD-Dat.Pl.Fem Bundestagswahlen)))
+      (NP-PD
+        (NN-HD-Nom.Sg.Masc großzügig)
+        (PP-MNR\/N
+          (APPR-AC\/Dat mit)
+          (CARD-HD populären)
+          (NN-HD-Dat.Pl.Fem Versprechungen)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PROAV-MO Trotzdem)
+    (VMFIN-HD-Sg sollte)
+    (NP-SB\/Sg
+      (NN-HD-Nom.Sg.Fem Regierungschefin)
+      (NE-HD-Nom.Sg.Fem Merkel))
+    (PRF-DA-Dat.Sg sich)
+    (NP-OA
+      (PDAT-HD-Acc.Sg.Neut dieses)
+      (NN-HD-Acc.Sg.Neut Jahr))
+    (PP-MO\/V
+      (APPR-AC\/Dat mit)
+      (ART-HD-Dat.Sg.Masc dem)
+      (NN-HD-Dat.Sg.Masc Ankündigen)
+      (PP-PG\/N
+        (APPR-AC\/Dat\/von von)
+        (NN-HD-Dat.Pl.Masc Wahlgeschenken)
+        (NP-AG
+          (ADJA-HD-Pos.Gen.Pl.Fem besser)
+          (FM-HD zurückhalten)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc Der)
+      (NN-HD-Nom.Sg.Masc Wähler))
+    (VAFIN-HD-Sg ist)
+    (VP-OC\/pp
+      (ADJD-PD-Comp\/V skeptischer)
+      (VAPP-HD geworden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (AP-HD-Nom.Pl.Neut
+        (PTKA-MO Zu)
+        (PIAT-HD-Nom.Pl.Neut viele))
+      (NN-HD-Nom.Pl.Neut Versprechen))
+    (VAFIN-HD-Pl sind)
+    (VP-OC\/pp
+      (VP-OC\/pp
+        (PTKNEG-NG nicht)
+        (VVPP-HD gehalten))
+      (VAPP-HD worden)))
+  (\$. .))

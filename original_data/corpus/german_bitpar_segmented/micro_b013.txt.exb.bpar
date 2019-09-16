@@ -1,0 +1,115 @@
+
+(TOP
+  (S-TOP
+    (NP-OA
+      (NN-HD-Acc.Sg.Fem Selbstverständlich))
+    (VMFIN-HD-Pl sollten)
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl.Fem die)
+      (NN-HD-Nom.Pl.Fem Krankenkassen))
+    (NP-OA
+      (NN-HD-Acc.Pl.Fem Behandlungen)
+      (NP-AG
+        (ART-HD-Gen.Sg.Fem der)
+        (ADJA-HD-Pos.Gen.Sg.Fem alternativen)
+        (NN-HD-Gen.Sg.Fem Medizin)
+        (NE-HD unterstützen))))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-SB
+        (PTKNEG-NG Nicht)
+        (CNP-HD
+          (NP-HD
+            (PIAT-HD-Acc.Pl.Fem alle)
+            (NN-HD-Acc.Pl.Fem Praktiken))
+          (KON-CD und)
+          (NP-HD
+            (NN-HD-Dat.Pl Ansätze)
+            (\$, ,)
+            (S-RC
+              (NP-SB\/Pl\/rel
+                (PRELS-HD-Nom.Pl.Masc die))
+              (PRF-OA-Acc.Pl sich)
+              (PP-MO\/V
+                (APPR-AC\/Dat\/unter unter)
+                (PDAT-HD-Dat.Sg.Fem dieser)
+                (NN-HD-Dat.Sg.Fem Bezeichnung))
+              (VVFIN-HD-Pl verbergen)))))
+      (\$, ,)
+      (NP-SB\/Pl
+        (NN-HD-Nom.Pl mögen))
+      (VP-OC\/inf
+        (VP-OC\/pp
+          (PP-MO\/V
+            (APPR-AC\/Acc\/durch durch)
+            (ADJA-HD-Pos.Acc.Pl.Fem klinische)
+            (NN-HD-Acc.Pl.Fem Studien))
+          (NP-PD
+            (NN-HD-Nom.Sg.Fem bestärkt))
+          (VAPP-HD worden))
+        (VAINF-HD sein)))
+    (\$, ,)
+    (S-TOP
+      (ADV-MO\/V jedoch)
+      (VAFIN-HD-Sg ist)
+      (ADV-MO\/V gerade)
+      (NP-OA
+        (PRELAT-AG-Gen.Pl.Fem deren)
+        (ADJA-HD-Pos.Acc.Sg.Fem positive)
+        (NN-HD-Acc.Sg.Fem Wirkung))
+      (PP-MO\/V
+        (APPR-AC\/Dat\/in in)
+        (NN-HD-Dat.Sg.Fem Begleitung))
+      (AP-MO\/pred
+        (ADJD-HD-Comp\/0 konventioneller))
+      (NP-SB\/Sg
+        (\$Par \")
+        (ADJA-HD-Pos.Nom.Sg.Masc westlicher)
+        (\$Par \")
+        (ADJA-HD-Pos.Nom.Sg.Masc medizinischer)
+        (NN-HD-Nom.Sg.Masc Therapien))
+      (AP-PD\/pred
+        (ADV-MO\/0 durchaus)
+        (ADJD-HD-Pos\/0 belegbar))))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (ADV-MO\/V Ausserdem)
+      (VVFIN-HD-Pl bieten)
+      (NP-SB\/Pl
+        (PIAT-HD-Nom.Pl viele)
+        (ADJA-HD-Pos.Nom.Pl niedergelassene)
+        (NN-HD-Nom.Pl Ärzte))
+      (CNP-OA
+        (NP-OA
+          (PIAT-HD derlei)
+          (NN-HD-Acc.Pl.Fem Beratungen))
+        (KON-CD und)
+        (NP-OA
+          (NN-HD-Acc.Pl.Fem Leistungen)))
+      (AP-MO\/pred
+        (ADV-MO\/0 sowieso)
+        (ADJD-HD-Pos\/0 parallel))
+      (PTKVZ-SVP an))
+    (\$Par -)
+    (KON-CD und)
+    (S-TOP
+      (ADV-MO\/V wer)
+      (VAFIN-HD-Sg wird)
+      (VP-OC\/inf
+        (VP-OC\/inf
+          (NP-OA
+            (PRELAT-AG-Gen.Pl.Fem deren)
+            (ADJA-HD-Pos.Acc.Sg.Fem breitere)
+            (NN-HD-Acc.Sg.Fem Expertise))
+          (PP-CVC\/V
+            (APPR-AC\/Acc\/in in)
+            (NN-HD-Acc.Sg.Fem Frage))
+          (VVINF-HD stellen))
+        (VMINF-HD wollen))))
+  (\$. ?))

@@ -1,0 +1,16 @@
+<html>
+	<head>
+		<title>Argmumentaion Grah</title>
+		<link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+	</head>
+<body>
+    <h1> Visualization of the predicted argumentation structure of your text</h1>
+    <p><p>
+    
+    <p>Text inside circles are the text part the algorithms thinks are your opinion </p>
+    <p> With a special attention to the circle connected to the text box with a curved line. That is your CLAIM </p>
+    <p> Standard arrow-shaped lines are SUPPORT arguments, while the one ending with a filled circle are ATTACK ones.</p>
+    
+  <img src="data:image/png;base64,{{chart_output|safe}}" class="center"/>
+  </body>
+</html>

@@ -1,0 +1,106 @@
+
+(TOP
+  (S-TOP
+    (CNP-SB
+      (NP-SB\/Sg
+        (PIAT-HD-Nom.Sg.Masc Kein)
+        (NN-HD-Nom.Sg.Masc Mensch))
+      (KON-CD oder)
+      (NP-SB\/Sg
+        (ADJA-HD-Pos.Nom.Sg.Neut menschliches)
+        (NN-HD-Nom.Sg.Neut Gremium)))
+    (VMFIN-HD-Sg sollte)
+    (VP-OC\/inf
+      (ADV-MO\/V wieder)
+      (NP-OA
+        (ART-HD-Acc.Sg.Fem die)
+        (NN-HD-Acc.Sg.Fem Erlaubnis))
+      (VVINF-HD bekommen))
+    (\$, ,)
+    (VP-RE
+      (NP-OA
+        (CARD-HD über)
+        (\$Par \")
+        (CNP-APP
+          (NP-APP\/chain
+            (NN-HD-Acc.Sg.Neut Leben))
+          (KON-CD oder)
+          (NP-APP\/chain
+            (NN-HD-Nom.Sg.Masc Tod)))
+        (\$Par \"))
+      (VZ-HD
+        (PTKZU-PM zu)
+        (VVINF-HD entscheiden))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (ADV-MO\/N Auch)
+      (NN-HD-Nom.Pl.Neut Gerichte))
+    (VVFIN-HD-Pl unterliegen)
+    (NP-OA
+      (ADJA-HD menschlichen)
+      (NN-HD Irrtümern)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PROAV-MO Deshalb)
+    (VMFIN-HD-Sg sollte)
+    (PN-SB-Nom.Sg.Neut
+      (NE-HD-Nom.Sg.Neut Deutschland))
+    (NP-OA
+      (ART-HD-Acc.Sg.Fem die)
+      (NN-HD-Acc.Sg.Fem Todesstrafe))
+    (PTKNEG-NG nicht))
+  (XY-TOP einführen)
+  (\$. !))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-PD
+        (PIAT-HD-Nom.Sg.Masc Jeder)
+        (NN-HD-Nom.Sg.Masc Mensch))
+      (\$, ,)
+      (NP-CJ
+        (ADV-MO\/N auch)
+        (PDS-HD-Nom.Sg.Masc der)
+        (\$, ,)
+        (S-RC
+          (NP-SB\/Sg\/rel
+            (PRELS-HD-Nom.Sg.Masc der))
+          (VP-OC\/pp
+            (NP-OA
+              (CARD-HD ein)
+              (NN-HD-Neut\/seq verurteilungswürdiges)
+              (NN-HD-Nom.Pl.Neut Verbrechen))
+            (VVPP-HD begangen))
+          (VAFIN-HD-Sg hat))))
+    (\$, ,)
+    (S-TOP\/nosubj
+      (VMFIN-HD-Sg kann)
+      (VP-OC\/inf
+        (PRF-OA-Acc.Sg sich)
+        (PP-MO\/V
+          (APPR-AC\/Dat zu)
+          (ART-HD-Dat.Sg.Fem einer)
+          (ADJA-HD-Pos.Dat.Sg.Fem bereuenden)
+          (NN-HD-Dat.Sg.Fem Meinungsänderung))
+        (VVINF-HD durchringen))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-DA
+      (ART-HD-Dat.Sg.Fem Einer)
+      (NN-HD-Dat.Sg.Fem Wiedergutmachung))
+    (VVFIN-HD-Sg muss)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem eine)
+      (NN-HD-Nom.Sg.Fem Tür))
+    (VP-OC\/inf
+      (VVPP-OC offengehalten)
+      (VAINF-HD werden)))
+  (\$. .))

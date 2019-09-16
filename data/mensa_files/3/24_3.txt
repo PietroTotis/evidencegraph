@@ -1,0 +1,11 @@
+Mein Eindruck war, dass das tool der Webseite dem standardmäßig in Programmen wie Word integrierten Programmen nicht viel vorauszuhaben scheint, 
+außer wenn es im Deutschen darum geht, ob Wörter zusammen geschrieben werden oder nicht, da ist es super.
+Wie bei allen Rechtschreibprogrammen war zu erwarten, dass Eigennamen nicht erkannt werden 
+und so gegebenenfalls als falsch gekennzeichnet werden wie „Golmer“ in meinem Beispiel. 
+Andere Fehler wurden mir beim ersten Anlauf in beiden Texten nicht gezeigt.
+Beim englischen Text versuchte ich einige Verben durch Rekonstruktionen zu ersetzen, wie man sie gebrauchen würde,
+ wenn einem das richtige Wort nicht einfällt, diese klangen teilweise recht komisch und wurden trotzdem nie irgendwie als verbesserungswürdig markiert.
+ Wenn man statt „there“ aus Versehen „their“ schreibt, wird es aber erkannt. Schreibt man jedoch statt „für sich“ aus Versehen „für sicher“, wird es nicht erkannt. 
+Allgemein werden also wahrscheinlich nur so die typischen Varianten solcher Fehler erkannt, auf welche man jedoch auch selbst schon bewusster achtet. Lustig ist auch,
+dass wenn ich „ausversehen“ schreibe das tool mir als Verbesserung „aus versehen“ oder „aus Versehen“ anbietet, obwohl es im nächsten Anlauf dann weiß, 
+dass „aus versehen“ wohl doch nicht so richtig ist.

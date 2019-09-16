@@ -1,0 +1,51 @@
+1	Für	_	für	_	APPR	_	_	-1	8	_	MO	_	_
+2	Hundehaufen	_	Hundehaufen	_	NN	_	acc|sg|neut	-1	1	_	NK	_	_
+3	auf	_	auf	_	APPR	_	_	-1	2	_	MNR	_	_
+4	Gehwegen	_	Gehwegen	_	NN	_	dat|pl|masc	-1	3	_	NK	_	_
+5	sollte	_	sollen	_	VMFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+6	die	_	der	_	ART	_	nom|sg|fem	-1	7	_	NK	_	_
+7	Geldbuße	_	Geldbuße	_	NN	_	nom|sg|fem	-1	5	_	SB	_	_
+8	erhöht	_	erhöhen	_	VVPP	_	_	-1	9	_	OC	_	_
+9	werden	_	werden	_	VAINF	_	_	-1	5	_	OC	_	_
+10	.	_	--	_	$.	_	_	-1	9	_	--	_	_
+
+1	Hundehaufen	_	hunhaufen	_	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+2	sind	_	sein	_	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	eklig	_	eklig	_	ADJD	_	pos	-1	2	_	PD	_	_
+4	und	_	und	_	KON	_	_	-1	2	_	CD	_	_
+5	ein	_	ein	_	ART	_	acc|sg|neut	-1	7	_	NK	_	_
+6	hygienisches	_	hygienisch	_	ADJA	_	acc|sg|neut|pos	-1	7	_	NK	_	_
+7	Problem	_	Problem	_	NN	_	acc|sg|neut	-1	4	_	CJ	_	_
+8	.	_	--	_	$.	_	_	-1	7	_	--	_	_
+
+1	Auch	_	auch	_	ADV	_	_	-1	2	_	MO	_	_
+2	Kinder	_	Kind	_	NN	_	nom|pl|neut	-1	8	_	SB	_	_
+3	,	_	--	_	$,	_	_	-1	2	_	--	_	_
+4	Erwachsene	_	erwachsene	_	NN	_	nom|pl|*	-1	2	_	CJ	_	_
+5	und	_	und	_	KON	_	_	-1	4	_	CD	_	_
+6	andere	_	anderer	_	ADJA	_	nom|pl|neut|pos	-1	7	_	NK	_	_
+7	Tiere	_	Tier	_	NN	_	nom|pl|neut	-1	5	_	CJ	_	_
+8	dürfen	_	dürfen	_	VMFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+9	keine	_	kein	_	PIAT	_	acc|pl|fem	-1	10	_	NK	_	_
+10	Haufen	_	Haufen	_	NN	_	acc|pl|fem	-1	14	_	OA	_	_
+11	auf	_	auf	_	APPR	_	_	-1	14	_	MO	_	_
+12	die	_	der	_	ART	_	acc|sg|fem	-1	13	_	NK	_	_
+13	Gehwege	_	Gehweg	_	NN	_	acc|sg|fem	-1	11	_	NK	_	_
+14	setzen	_	setzen	_	VVINF	_	_	-1	8	_	OC	_	_
+15	.	_	--	_	$.	_	_	-1	14	_	--	_	_
+
+1	Entsorgt	_	entsorgt	_	VVFIN	_	sg|3|pres|ind	-1	9	_	MO	_	_
+2	man	_	man	_	PIS	_	nom|sg|*	-1	1	_	SB	_	_
+3	die	_	der	_	ART	_	acc|pl|masc	-1	4	_	NK	_	_
+4	Haufen	_	Haufen	_	NN	_	acc|pl|masc	-1	1	_	OA	_	_
+5	selbst	_	selbst	_	ADV	_	_	-1	1	_	MO	_	_
+6	und	_	und	_	KON	_	_	-1	5	_	CD	_	_
+7	sofort	_	sofort	_	ADV	_	_	-1	6	_	CJ	_	_
+8	,	_	--	_	$,	_	_	-1	7	_	--	_	_
+9	ist	_	sein	_	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+10	eine	_	ein	_	ART	_	nom|sg|fem	-1	11	_	NK	_	_
+11	Geldbuße	_	Geldbuße	_	NN	_	nom|sg|fem	-1	9	_	SB	_	_
+12	nicht	_	nicht	_	PTKNEG	_	_	-1	9	_	NG	_	_
+13	erforderlich	_	erforderlich	_	ADJD	_	pos	-1	9	_	PD	_	_
+14	.	_	--	_	$.	_	_	-1	13	_	--	_	_
+

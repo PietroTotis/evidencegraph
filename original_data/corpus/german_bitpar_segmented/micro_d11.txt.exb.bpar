@@ -1,0 +1,82 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (PPER-HD-Nom.Pl Wir))
+    (VMFIN-HD-Pl sollten)
+    (VP-OC\/inf
+      (PP-MO\/V
+        (APPRART-AC-Dat.Sg.Neut am)
+        (NN-HD-Dat.Sg.Neut Wochenende))
+      (PP-MO\/V
+        (APPR-AC\/Acc an)
+        (ART-HD-Acc.Pl.Masc die)
+        (NN-HD-Acc.Pl.Masc Ostsee))
+      (VVINF-HD fahren)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (PP-MO\/V
+        (APPR-AC\/Dat Laut)
+        (NN-HD-Dat.Sg.Masc Wetterbericht))
+      (VAFIN-HD-Sg wird)
+      (NP-EP
+        (PPER-HD-Nom.Sg.Neut\/ep es))
+      (VP-OC\/inf
+        (NP-OA
+          (ADJA-HD-Pos.Acc.Sg.Neut perfektes)
+          (NN-HD-Acc.Sg.Neut Strandwetter))
+        (VVINF-HD geben)))
+    (KON-CD und)
+    (S-TOP
+      (NP-OA
+        (PDS-HD-Acc.Sg.Neut das))
+      (VMFIN-HD-Sg darf)
+      (NP-SB\/Sg
+        (PIS-HD-Nom.Sg man))
+      (PTKNEG-NG nicht)
+      (VP-OC\/inf
+        (ADJD-MO-Pos\/V ungenutzt)
+        (VVINF-HD lassen))
+      (\$, ,)
+      (S-MO
+        (ADV-MO\/V selbst)
+        (KOUS-CP\/mo wenn)
+        (NP-SB\/Sg
+          (PPER-HD-Nom.Sg ich))
+        (NP-OA
+          (PN-AG
+            (NE-HD für))
+          (NN-HD-Acc.Sg.Masc Dienstag))
+        (VP-OC\/inf
+          (ADV-MO\/V noch)
+          (NP-OA
+            (ART-HD-Acc.Sg.Neut ein)
+            (NN-HD-Acc.Sg.Neut Referat))
+          (VVINF-HD vorbereiten))
+        (VVFIN-HD-Sg muss))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PN-DA-1-Dat.Sg
+      (NE-HD-Dat.Sg Außerdem))
+    (VMFIN-HD-Sg darf)
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg ich))
+    (VP-OC\/inf
+      (NP-OA
+        (ART-HD-Acc.Sg.Neut das)
+        (FM-HD große)
+        (\$, ,)
+        (NP-APP
+          (ADJA-HD-Pos.Nom.Sg.Neut bequeme)
+          (NN-HD-Nom.Sg.Neut Auto)))
+      (PP-OP\/V
+        (APPR-AC\/Dat\/von von)
+        (PPOSAT-HD-Dat.Pl meinen)
+        (NN-HD-Dat.Pl Eltern))
+      (VVINF-HD nehmen)))
+  (\$. .))

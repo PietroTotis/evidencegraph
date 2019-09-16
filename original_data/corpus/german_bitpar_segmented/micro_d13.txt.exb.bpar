@@ -1,0 +1,100 @@
+
+(TOP
+  (S-TOP
+    (S-MO
+      (PWAV-MO Wann)
+      (ADV-MO\/V immer)
+      (PN-SB-Nom.Sg.Masc
+        (NE-HD-Nom.Sg.Masc Peter))
+      (PP-MO\/V
+        (APPR-AC\/Dat\/auf auf)
+        (ART-HD-Dat.Sg.Fem einer)
+        (NN-HD-Dat.Sg.Fem Party))
+      (NP-OA
+        (ART-HD-Acc.Sg.Fem eine)
+        (NN-HD-Acc.Sg.Fem Exfreundin))
+      (VVFIN-HD-Sg trifft))
+    (\$, ,)
+    (VVFIN-HD-Sg verzichtet)
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg.Masc er))
+    (ADV-MO\/V vorsichtshalber)
+    (PP-MO\/V
+      (APPR-AC\/Dat\/auf auf)
+      (ADJA-HD-Comp.Dat.Sg.Neut weiteren)
+      (NN-HD-Dat.Sg.Neut Alkoholkonsum)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (S-MO
+      (KOUS-CP\/mo Als)
+      (NP-SB\/Sg
+        (PPER-HD-Nom.Sg.Masc er))
+      (ADV-MO\/V gestern)
+      (PP-MO\/V
+        (APPR-AC\/Dat\/von von)
+        (PN-AG-Gen.Sg
+          (NE-HD-Gen.Sg Ralfs))
+        (NN-HD-Dat.Sg.Fem Party))
+      (VVFIN-HD-Sg heimkam))
+    (\$, ,)
+    (VAFIN-HD-Sg war)
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg.Masc er))
+    (AVP-MO\/V
+      (ADV-MO\/V immer)
+      (ADV-HD\/V noch))
+    (NP-PD
+      (NN-HD-Nom.Sg.Fem stocknüchtern)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Folglich)
+    (VVFIN-HD-Sg muss)
+    (NP-SB\/Sg
+      (PIS-HD-Nom.Sg.Fem eine)
+      (NP-AG
+        (PPOSAT-HD-Gen.Pl.Fem seiner)
+        (NN-HD-Gen.Pl.Fem Exfreundinnen)))
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (ADV-MO\/V dort)
+        (VAPP-HD gewesen))
+      (VAINF-HD sein)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Zwar)
+    (VVFIN-HD-Sg behauptet)
+    (PN-SB-Nom.Sg
+      (NE-HD-Nom.Sg Ralf))
+    (\$, ,)
+    (S-OC
+      (KOUS-CP\/oc dass)
+      (NP-SB\/Pl
+        (PPER-HD-Nom.Pl sie))
+      (ADJD-MO-Pos\/V gemeinsam)
+      (NP-SB\/Pl
+        (NN-HD-Nom.Pl Eierlikör))
+      (VP-OC\/pp
+        (VVPP-HD getrunken))))
+  (XY-TOP hätten)
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (ADV-MO\/V Aber)
+    (NP-OA
+      (ART-HD-Acc.Sg.Masc den)
+      (NE-HD würde)
+      (NN-HD-Acc.Sg.Masc Peter)
+      (ADV-MO\/N auch))
+    (PP-MO\/V
+      (APPR-AC\/Acc ohne)
+      (NE-HD-Acc.Sg.Masc Exfreundin)
+      (ADV-MO\/N niemals))
+    (XY-MO anrühren))
+  (\$. .))

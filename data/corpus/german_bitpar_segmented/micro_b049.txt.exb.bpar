@@ -1,0 +1,110 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Die)
+      (NN-HD-Nom.Sg.Fem Bachelor-Arbeit))
+    (VVFIN-HD-Sg spiegelt)
+    (CAP-MO
+      (ADJD-MO-Pos\/0 inhaltlich)
+      (KON-CD wie)
+      (ADJD-MO-Pos\/0 methodisch))
+    (NP-OA
+      (ART-HD-Acc.Pl.Masc die)
+      (ADJA-HD-Pos.Acc.Pl.Masc erlernten)
+      (NN-HD-Acc.Pl.Masc Inhalte)
+      (NP-AG
+        (ART-HD-Gen.Sg.Neut des)
+        (NN-HD-Gen.Sg.Neut Studiums)))
+    (AVP-MO\/V
+      (ADV-HD\/V wieder)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KON-JU Aber)
+    (NP-SB\/Sg
+      (PIS-HD-Nom.Sg man))
+    (VMFIN-HD-Sg kann)
+    (VP-OC\/inf
+      (PRF-OA-Acc.Sg sich)
+      (PP-MO\/V
+        (APPR-AC\/Dat\/in in)
+        (ART-HD-Dat.Sg.Fem der)
+        (NN-HD-Dat.Sg.Fem Bachelor-Arbeit))
+      (ADV-MO\/V mal)
+      (VVINF-HD irren)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (S-MO
+      (KOUS-CP\/mo Wenn)
+      (NP-SB\/Sg
+        (PDAT-HD-Nom.Sg.Fem diese)
+        (NN-HD-Nom.Sg.Fem stärker))
+      (VP-OC\/pp
+        (VVPP-HD gewichtet))
+      (VAFIN-HD-Sg wird))
+    (\$, ,)
+    (NP-SB\/Sg
+      (NN-HD-Nom.Sg.Fem könnte))
+    (NP-OA
+      (PDS-HD-Acc.Sg.Neut das))
+    (AP-MO\/pred
+      (NP-OA
+        (PIAT-HD-Acc.Pl.Fem viele)
+        (ADJA-HD-Pos.Acc.Pl.Fem gute)
+        (NN-HD-Acc.Pl.Fem Einzelleistungen))
+      (NP-OG
+        (ART-HD-Gen.Sg.Neut des)
+        (NN-HD-Gen.Sg.Neut Studiums))
+      (ADJD-HD-Pos\/0 stark)))
+  (XY-TOP überdecken)
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Eine)
+      (ADJA-HD-Pos.Nom.Sg.Fem gute)
+      (NN-HD-Nom.Sg.Fem Benotung)
+      (NP-AG
+        (ART-HD-Gen.Sg.Fem der)
+        (NN-HD-Gen.Sg.Fem Arbeit)
+        (NE-HD hängt))
+      (PROAV-MO zudem))
+    (VVFIN-HD-Sg auch)
+    (ADJD-MO-Pos\/V entscheidend)
+    (PP-OP\/V
+      (APPR-AC\/Dat\/von von)
+      (ART-HD-Dat.Sg.Fem der)
+      (NN-HD-Dat.Sg.Fem Betreuung)
+      (PP-MNR\/N
+        (APPR-AC\/Acc\/durch durch)
+        (ART-HD-Acc.Sg.Masc einen)
+        (ADJA-HD-Pos.Acc.Sg.Masc engagierten)
+        (NN-HD-Acc.Sg.Masc Dozenten)))
+    (PTKVZ-SVP ab))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PP-MO\/V
+      (APPR-AC\/Dat Aufgrund)
+      (APPR-AC\/Dat\/von von)
+      (AP-HD-Dat.Pl.Fem
+        (PTKA-MO zu)
+        (PIAT-HD-Dat.Pl.Fem vielen))
+      (NN-HD-Dat.Pl.Fem Zufallsparametern))
+    (VMFIN-HD-Sg sollte)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem die)
+      (NN-HD-Nom.Sg.Fem Bachelor-Arbeit))
+    (VP-OC\/inf
+      (NP-OA
+        (PIAT-HD-Acc.Pl.Masc keine)
+        (CARD-HD größere)
+        (NN-HD-Acc.Pl.Masc Rolle))
+      (VVINF-HD spielen)))
+  (\$. .))

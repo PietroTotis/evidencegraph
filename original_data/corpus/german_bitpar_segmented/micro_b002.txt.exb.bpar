@@ -1,0 +1,143 @@
+
+(TOP
+  (S-TOP
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in In)
+      (CNP-HD\/Dat
+        (NE-HD-Dat.Sg Friedrichshain)
+        (KON-CD oder)
+        (NE-HD-Dat.Sg Neukölln)))
+    (VMFIN-HD-Sg kann)
+    (NP-SB\/Sg
+      (PIS-HD-Nom.Sg man))
+    (PRF-OA-Acc.Sg sich)
+    (ADV-MO\/V heutzutage)
+    (PTKNEG-NG nicht)
+    (VP-OC\/inf
+      (ADV-MO\/V mehr)
+      (VVINF-HD bewegen))
+    (\$, ,)
+    (VP-MO
+      (KOUI-CP ohne)
+      (ADJD-MO-Pos\/V permanent)
+      (NP-OA
+        (ART-HD-Acc.Sg.Masc den)
+        (NN-HD-Acc.Sg.Masc Boden)
+        (PP-MNR\/N
+          (APPR-AC\/Dat nach)
+          (NN-HD-Dat.Pl.Masc Hundehaufen)))
+      (VVIZU-HD abzusuchen)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KON-JU Und)
+    (CS-MO
+      (S-MO
+        (KOUS-CP\/mo wenn)
+        (NP-SB\/Sg
+          (PIS-HD-Nom.Sg man))
+        (ADV-MO\/V doch)
+        (ADV-MO\/V mal)
+        (NP-OA
+          (NN-HD-Acc.Sg.Neut Pech))
+        (VAFIN-HD-Sg hat))
+      (KON-CD und)
+      (S-MO\/nosubj
+        (NP-OA
+          (PIS-HD-Acc.Sg.Fem eine)
+          (NP-AG
+            (ART-HD-Gen.Sg.Fem der)
+            (ADJA-HD-Pos.Gen.Sg.Fem vielen)
+            (PN-HD
+              (NP-PNC
+                (NE-HD \")
+                (NN-HD-Nom.Pl.Fem\/name Tretminen)))
+            (\$Par \")))
+        (VVFIN-HD-Sg trifft)))
+    (\$, ,)
+    (VVFIN-HD-Sg muss)
+    (NP-SB\/Sg
+      (PIS-HD-Nom.Sg man))
+    (PRF-OA-Acc.Sg sich)
+    (VP-OC\/pp
+      (NP-OA
+        (ART-HD-Acc.Pl.Fem die)
+        (ADJA-HD-Pos.Acc.Pl.Fem stinkenden)
+        (NN-HD-Acc.Pl.Fem Hinterlassenschaften))
+      (PN-DA-Dat.Sg
+        (NE-HD-Dat.Sg mühselig))
+      (PP-MO\/V
+        (APPR-AC\/Dat\/von von)
+        (ART-HD-Dat.Sg.Fem der)
+        (NN-HD-Dat.Sg.Fem Sohle))
+      (VVPP-HD kratzen)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (NE-HD Höhere)
+      (NN-HD-Nom.Pl.Fem Geldstrafen))
+    (VAFIN-HD-Pl sind)
+    (ADV-MO\/V da)
+    (NP-OA
+      (ART-HD-Acc.Sg.Neut das)
+      (ADJA-HD-Pos.Acc.Sg.Neut richtige)
+      (NN-HD-Acc.Sg.Neut Mittel)
+      (PP-MNR\/N
+        (APPR-AC\/Acc gegen)
+        (NE-HD-Acc.Sg nachlässige))
+      (\$, ,)
+      (NP-APP
+        (CAP-HD-Pos.Nom.Pl.Neut
+          (ADJA-HD-Pos.Nom.Pl.Neut faule)
+          (KON-CD oder)
+          (AP-HD-Pos.Nom.Pl.Neut
+            (ADV-MO\/0 einfach)
+            (ADJA-HD-Pos.Nom.Pl.Neut gedankenlose)))
+        (NN-HD-Nom.Pl.Neut Hundehalter))))
+  (\$. .))
+
+(TOP
+  (S-TOP\/imp
+    (S-MO
+      (ADJD-PD-Pos\/V Klar)
+      (\$, ,)
+      (S-SB
+        (NP-SB\/Pl
+          (ART-HD-Nom.Pl die)
+          (NN-HD-Nom.Pl müssen))
+        (VP-OC\/pp
+          (ADV-MO\/V erstmal)
+          (PP-SBP\/V
+            (APPR-AC\/Dat\/von von)
+            (ART-HD-Dat.Pl.Masc den)
+            (ADJA-HD-Pos.Dat.Pl.Masc wenigen)
+            (NN-HD-Dat.Pl.Masc Ordnungsbeamten))
+          (VVPP-HD erwischt))
+        (VAFIN-HD-Pl werden)
+        (\$, ,)
+        (S-MO
+          (ADV-MO\/V aber)
+          (KOUS-CP\/mo wenn)
+          (NP-SB\/Sg
+            (PPER-HD-Nom.Sg.Fem sie))
+          (ADV-MO\/V dann)
+          (NP-OA
+            (ART-HD-Acc.Sg.Fem die)
+            (CH-HD
+              (FM-UC Brieftasche)
+              (FM-UC zücken)
+              (FM-UC müssen))))))
+    (\$, ,)
+    (VAFIN-HD-Sg wird)
+    (VP-OC\/inf
+      (NP-DA
+        (PPER-HD-Dat.Pl ihnen))
+      (NP-OA
+        (ART-HD-Acc.Sg.Fem die)
+        (NN-HD-Acc.Sg.Fem Faulheit))
+      (ADV-MO\/V schon)
+      (VVINF-HD vergehen)))
+  (\$.\/imp !))

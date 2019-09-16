@@ -1,0 +1,140 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl.Neut Videospiele))
+    (VMFIN-HD-Pl sollten)
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (PP-MO\/V
+          (APPR-AC\/Acc\/in in)
+          (ART-HD-Acc.Sg.Masc den)
+          (NN-HD-Acc.Sg.Masc Reigen)
+          (NP-AG
+            (ART-HD-Gen.Pl.Neut der)
+            (ADJA-HD-Pos.Gen.Pl.Neut Olympischen)
+            (NN-HD-Gen.Pl.Neut Disziplinen)))
+        (VVPP-HD aufgenommen))
+      (VAINF-HD werden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl.Fem Die)
+      (NN-HD-Nom.Pl.Fem Leistungen)
+      (\$, ,)
+      (S-RC
+        (NP-SB\/Pl\/rel
+          (PRELS-HD-Nom.Pl.Masc die))
+        (VP-OC\/pp
+          (NP-DA
+            (ART-HD-Dat.Sg.Masc dem)
+            (NN-HD-Dat.Sg.Masc Spieler))
+          (ADV-MO\/V teilweise)
+          (VVPP-HD abverlangt))
+        (VAFIN-HD-Pl werden)))
+    (\$, ,)
+    (VAFIN-HD-Pl sind)
+    (VP-OC\/zu
+      (CAVP-MO
+        (ADV-MO\/0 immens)
+        (KON-CD und)
+        (ADV-MO\/0 durchaus))
+      (PP-MO\/V
+        (APPR-AC\/Dat mit)
+        (ADJA-HD-Pos.Dat.Sg.Fem sportlicher)
+        (NN-HD-Dat.Sg.Fem Anstrengung))
+      (VZ-HD
+        (PTKZU-PM zu)
+        (VVINF-HD vergleichen))))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-PH
+        (PPER-HD-Nom.Sg.Neut Es))
+      (VAFIN-HD-Pl werden)
+      (NP-SB\/Pl
+        (PP-MNR\/N
+          (APPR-AC\/Acc\/durch durch)
+          (ADJA-HD-Pos.Acc.Pl.Neut verschiedene)
+          (NN-HD-Acc.Pl.Neut Spiele))
+        (ADV-MO\/N auch)
+        (ADJA-HD-Pos.Nom.Pl.Neut verschiedene)
+        (NN-HD-Nom.Pl.Neut Fähigkeiten))
+      (CVP-OC
+        (VP-OC\/nohead
+          (PN-DA-Dat.Sg
+            (NE-HD-Dat.Sg gefördert)))
+        (KON-CD und)
+        (VP-OC\/pp
+          (VVPP-HD gefordert))))
+    (\$, ,)
+    (S-TOP\/nohead\/nosubj
+      (ADV-MO\/V so)
+      (PP-MO\/V
+        (APPRART-AC-Dat.Sg.Neut z.)
+        (NN-HD-Dat.Sg.Neut B))))
+  (\$. .))
+
+(TOP
+  (CNP-TOP
+    (NP-TOP\/chain
+      (NN-HD-Nom.Sg.Fem Planungsfähigkeit))
+    (\$, ,)
+    (NP-TOP\/chain
+      (NN-HD-Nom.Sg.Fem Reaktionsschnelligkeit))
+    (KON-CD und)
+    (NP-TOP
+      (NN-HD-Nom.Sg.Masc Kombinationsfähigkeit)
+      (\$, ,)
+      (VP-MNR
+        (KOUI-CP um)
+        (NP-OA
+          (ADV-MO\/N nur)
+          (PIS-HD-Acc.Pl.Neut einige))
+        (VZ-HD
+          (PTKZU-PM zu)
+          (VVINF-HD nennen)))))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-SB\/Pl
+        (PIAT-HD-Nom.Pl.Neut Einige)
+        (NN-HD-Nom.Pl.Neut Videospiele))
+      (VAFIN-HD-Pl sind)
+      (NP-HD
+        (NN-HD bezüglich)
+        (NP-AG
+          (PPOSAT-HD-Gen.Pl.Fem ihrer)
+          (NN-HD-Gen.Pl.Fem Anforderungen)))
+      (ADV-MO\/V zwar)
+      (AVP-NG\/V
+        (PTKNEG-HD nicht)
+        (ADV-MO\/V sportlich))
+      (ADJD-PD-Pos\/V relevant))
+    (\$, ,)
+    (S-TOP
+      (ADV-MO\/V doch)
+      (VMFIN-HD-Sg sollte)
+      (NP-SB\/Sg
+        (PDAT-HD-Nom.Sg.Neut dieses)
+        (NN-HD-Nom.Sg.Neut Problem))
+      (PP-MO\/V
+        (APPR-AC\/Acc\/durch durch)
+        (ART-HD-Acc.Sg.Fem eine)
+        (AP-HD-Pos.Acc.Sg.Fem
+          (ADJD-MO-Pos\/0 klar)
+          (ADJA-HD-Pos.Acc.Sg.Fem strukturierte))
+        (NN-HD-Acc.Sg.Fem Vorauswahl))
+      (S-OC
+        (NP-SB\/Pl
+          (NN-HD-Nom.Pl gelöst))
+        (VAFIN-HD-Pl werden)
+        (NP-PD
+          (NN-HD-Nom.Sg.Fem können)))))
+  (\$. .))

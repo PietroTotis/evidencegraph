@@ -1,0 +1,143 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc Der)
+      (NN-HD-Nom.Sg.Masc Rundfunkbeitrag))
+    (VMFIN-HD-Sg sollte)
+    (ADV-MO\/V nur)
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (PP-MO\/V
+          (APPR-AC\/Dat\/von von)
+          (PDS-HD-Dat.Pl denen))
+        (VVPP-HD eingefordert))
+      (VAINF-HD werden)
+      (\$, ,)
+      (S-RC
+        (NP-SB\/Pl\/rel
+          (PRELS-HD-Nom.Pl.Masc die))
+        (NP-OA
+          (ART-HD-Acc.Sg.Neut das)
+          (NN-HD-Acc.Sg.Neut Angebot)
+          (NP-AG
+            (ART-HD-Gen.Pl.Masc der)
+            (CARD-HD Öffentlich)
+            (ADJA-HD-Pos.Gen.Pl.Masc Rechtlichen)
+            (NN-HD-Gen.Pl.Masc Sender)))
+        (ADV-MO\/V auch)
+        (VVFIN-HD-Pl nutzen))))
+  (\$. .))
+
+(TOP
+  (XY-TOP Schließlich)
+  (S-TOP
+    (VVFIN-HD-Sg gibt)
+    (NP-EP
+      (PPER-HD-Nom.Sg.Neut\/ep es))
+    (NP-OA
+      (PIAT-HD-Acc.Pl.Masc viele)
+      (NN-HD-Acc.Pl.Masc Menschen)
+      (PP-MNR\/N
+        (APPR-AC\/Dat\/in in)
+        (NE-HD-Dat.Sg.Neut Deutschland))
+      (\$, ,)
+      (S-RC
+        (NP-SB\/Pl\/rel
+          (PRELS-HD-Nom.Pl.Masc die))
+        (NP-OA
+          (ART-HD-Acc.Sg.Fem die)
+          (NN-HD-Acc.Sg.Fem Beitrage))
+        (VVFIN-HD-Pl bezahlen)))
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo obwohl)
+      (NP-SB\/Pl
+        (PPER-HD-Nom.Pl sie))
+      (NP-OA
+        (ADV-MO\/N lediglich)
+        (ART-HD-Acc.Sg.Masc einen)
+        (NN-HD-Acc.Sg.Masc Rechner))
+      (PP-MO\/V
+        (APPRART-AC-Dat.Sg.Neut zum)
+        (NN-HD-Dat.Sg.Neut Arbeiten))
+      (VVFIN-HD-Pl verwenden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PROAV-MO Trotzdem)
+    (VAFIN-HD-Pl werden)
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl die)
+      (NN-HD-Nom.Pl Gebühren))
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (PP-SBP\/V
+          (APPR-AC\/Dat\/von von)
+          (PIS-HD-Dat.Sg.Masc jedem))
+        (VVPP-HD verlangt)
+        (\$, ,)
+        (CS-MO
+          (S-MO
+            (AVP-MO\/V
+              (S-RC
+                (NP-SB\/Sg\/rel
+                  (PRELS-HD-Nom.Sg.Masc der))
+                (NP-OA
+                  (PIAT-HD-Acc.Sg.Fem keine)
+                  (NN-HD-Acc.Sg.Fem Befreiung))
+                (VVFIN-HD-Sg anmeldet))
+              (\$, ,)
+              (ADV-HD\/V egal))
+            (\$, ,)
+            (NP-SB
+              (ADJA-HD wieviele)
+              (NN-HD Geräte))
+            (PRF-OA-Acc.Pl sich)
+            (PP-OP\/V
+              (APPR-AC\/Dat\/in in)
+              (ART-HD-Dat.Sg.Masc einem)
+              (NN-HD-Dat.Sg.Masc Haushalt))
+            (VVFIN-HD-Pl befinden))
+          (KON-CD und)
+          (S-MO
+            (PWAV-MO wie)
+            (NP-SB\/Sg
+              (PPER-HD-Nom.Sg.Fem sie))
+            (VVFIN-HD-Sg verwendet))))
+      (VAINF-HD werden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Allerdings)
+    (VVFIN-HD-Sg leuchtet)
+    (ADV-MO\/V ein)
+    (\$, ,)
+    (S-OC
+      (KOUS-CP\/oc dass)
+      (NP-SB\/Pl
+        (ART-HD-Nom.Pl.Masc die)
+        (NN-HD-Nom.Pl.Masc Mitarbeiter)
+        (NP-AG
+          (ART-HD-Gen.Sg.Fem der)
+          (NE-HD-Gen.Sg.Fem GEZ)))
+      (NP-PD
+        (PTKNEG-NG nicht)
+        (ART-HD-Nom.Sg.Fem die)
+        (NN-HD-Nom.Sg.Fem Möglichkeiten))
+      (VAFIN-HD-Pl haben)
+      (\$, ,)
+      (VP-OC\/zu
+        (NP-OA
+          (ART-HD-Acc.Sg.Fem die)
+          (NN-HD-Acc.Sg.Fem Benutzung)
+          (NP-AG
+            (PIAT-HD-Gen.Sg.Masc jeden)
+            (ADJA-HD-Pos.Gen.Sg.Masc einzelnen)
+            (NN-HD-Gen.Sg.Masc Gerätes)))
+        (VZ-HD
+          (PTKZU-PM zu)
+          (ADJA-HD-Pos.Dat.Sg.Fem prüfen)))))
+  (\$. .))

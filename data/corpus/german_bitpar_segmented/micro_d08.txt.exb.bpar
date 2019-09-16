@@ -1,0 +1,89 @@
+
+(TOP
+  (S-TOP
+    (CS-OC
+      (S-OC\/nohead
+        (S-MO
+          (KOUS-CP\/mo Obwohl)
+          (NP-SB\/Pl
+            (ART-HD-Nom.Pl die)
+            (NN-HD-Nom.Pl Geschäftszahlen)
+            (PP-PG\/N
+              (APPR-AC\/Dat\/von von)
+              (NE-HD-Dat.Sg IBM))
+            (PP-MNR\/N
+              (APPR-AC\/Dat\/in in)
+              (ADJA-HD-Pos.Dat.Sg.Fem letzter)
+              (NN-HD-Dat.Sg.Fem Zeit)))
+          (PTKNEG-NG nicht)
+          (ADJD-PD-Pos\/V umwerfend)
+          (VAFIN-HD-Pl waren)))
+      (KON-CD und)
+      (S-OC
+        (NP-SB\/Sg
+          (ART-HD-Nom.Sg.Fem die)
+          (NN-HD-Nom.Sg.Fem Stimmung)
+          (PP-MNR\/N
+            (APPR-AC\/Dat an)
+            (ART-HD-Dat.Sg.Fem der)
+            (NN-HD-Dat.Sg.Fem Börse)))
+        (VVFIN-HD-Sg insgesamt)
+        (ADJD-MO-Comp\/V besser)
+        (NP-SB\/Sg
+          (PPOSAT-HD-Nom.Sg.Masc sein)
+          (NN-HD-Nom.Sg.Masc könnte))))
+    (\$, ,)
+    (VVFIN-HD-Sg solltest)
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg du))
+    (NP-OA
+      (PN-AG-Gen.Sg
+        (NE-HD-Gen.Sg IBM))
+      (NN-HD-Acc.Pl.Fem Aktien))
+    (VVINF-OC kaufen)
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo wenn)
+      (NP-SB\/Sg
+        (PPER-HD-Nom.Sg du))
+      (VP-OC\/inf
+        (VVINF-HD investieren))
+      (VMFIN-HD-Sg willst)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (KON-JU Denn)
+      (ADV-MO\/V einerseits)
+      (VVFIN-HD-Pl verkaufen)
+      (PRF-OA-Acc.Pl sich)
+      (NP-SB\/Pl
+        (PDS-AG-Gen.Pl deren)
+        (NN-HD-Nom.Pl.Neut Produkte))
+      (PP-MO\/V
+        (ADV-MO\/N auch)
+        (APPR-AC\/Dat\/in in)
+        (ADJA-HD-Pos.Dat.Pl.Fem schlechten)
+        (NN-HD-Dat.Pl.Fem Zeiten))
+      (ADV-MO\/V noch))
+    (\$, ,)
+    (KON-CD und)
+    (S-TOP
+      (ADV-MO\/V andererseits)
+      (VAFIN-HD-Sg ist)
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Fem die)
+        (NN-HD-Nom.Sg.Fem Aktie))
+      (NP-PD
+        (AVP-MO\/N
+          (PTKNEG-NG nicht)
+          (ADV-HD\/N so))
+        (NN-HD-Nom.Sg.Fem anfällig)
+        (NP-CC
+          (KOKOM-CM wie)
+          (PDS-HD-Nom.Pl.Fem die)
+          (NP-AG
+            (ADJA-HD-Pos.Gen.Pl.Fem anderer)
+            (NN-HD-Gen.Pl.Fem IT-Unternehmen))))))
+  (\$. .))

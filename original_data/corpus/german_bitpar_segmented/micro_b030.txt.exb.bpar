@@ -1,0 +1,95 @@
+
+(TOP
+  (S-TOP
+    (PP-MO\/V
+      (APPR-AC\/Dat An)
+      (PPOSAT-HD-Dat.Pl.Fem unseren)
+      (NN-HD-Dat.Pl.Fem Schulen))
+    (VMFIN-HD-Pl sollten)
+    (NP-SB\/Pl
+      (PIAT-HD-Nom.Pl.Fem keine)
+      (NN-HD-Nom.Pl.Fem Schul-Uniformen))
+    (VP-OC\/inf
+      (VVPP-OC getragen)
+      (VAINF-HD werden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (PPER-HD-Nom.Pl Sie))
+    (VVFIN-HD-Pl bieten)
+    (ADV-MO\/V zwar)
+    (NP-OA
+      (ART-HD-Acc.Sg.Masc den)
+      (NN-HD-Acc.Sg.Masc Vorteil)
+      (\$, ,)
+      (S-OC
+        (KOUS-CP\/oc dass)
+        (NP-SB\/Sg
+          (ART-HD-Nom.Sg.Fem die)
+          (NN-HD-Nom.Sg.Fem Konkurrenz)
+          (PP-PG\/N
+            (APPR-AC\/Dat\/von von)
+            (CNP-HD\/Dat
+              (NN-HD-Dat.Sg.Fem Markenkleidung)
+              (KON-CD und)
+              (NP-HD
+                (ART-HD-Acc.Sg.Fem die)
+                (NN-HD-Acc.Sg.Fem Benachteiligung)))))
+        (AP-MO\/pred
+          (ADJD-MO-Pos\/0 sozial)
+          (ADJD-HD-Comp\/0 Schwacher))
+        (VP-OC\/inf
+          (VVPP-OC verhindert)
+          (VAINF-HD werden)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Dennoch)
+    (NP-OA
+      (NN-HD-Acc.Sg.Fem möchte))
+    (AP-MO\/pred
+      (ADV-MO\/0 kaum)
+      (ADJD-HD-Pos\/0 jemand))
+    (VP-OC\/inf
+      (CNP-OA
+        (PRF-OA-Acc.Sg sich)
+        (KON-CD oder)
+        (NP-OA
+          (PPOSAT-HD-Acc.Pl.Neut seine)
+          (NN-HD-Acc.Pl.Neut Kinder)))
+      (PP-CVC\/V
+        (APPR-AC\/Acc\/in in)
+        (NN-HD-Acc.Sg.Fem Einheits-Uniform))
+      (VVINF-HD kleiden)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (PROAV-MO Zudem)
+      (VVFIN-HD-Pl stehen)
+      (NP-SB\/Pl
+        (PIAT-HD-Nom.Pl.Fem solche)
+        (NN-HD-Nom.Pl.Fem Uniformen))
+      (NP-DA
+        (ADV-MO\/N auch)
+        (NN-HD-Dat.Pl für))
+      (NP-OA
+        (ART-HD-Acc.Sg.Fem eine)
+        (ADJA-HD-Pos.Acc.Sg.Fem ideologische)
+        (NN-HD-Acc.Sg.Fem Gleichschaltung)))
+    (KON-CD und)
+    (S-TOP\/nohead
+      (PN-SB-Nom.Sg
+        (NE-HD-Nom.Sg für))
+      (NP-OA
+        (ART-HD-Acc.Sg.Fem die)
+        (NN-HD-Acc.Sg.Fem Unterdrückung)
+        (NP-AG
+          (ART-HD-Dat.Sg.Fem einer)
+          (ADJA-HD-Pos.Dat.Sg.Fem individuellen)
+          (NN-HD-Dat.Sg.Fem Persönlichkeitsentfaltung)))))
+  (\$. .))

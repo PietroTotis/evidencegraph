@@ -1,0 +1,91 @@
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Masc Der)
+        (NN-HD-Nom.Sg.Masc BER))
+      (VMFIN-HD-Sg sollte)
+      (VP-OC\/inf
+        (VP-OC\/pp
+          (PP-MO\/V
+            (APPR-AC\/Dat\/von von)
+            (NN-HD-Dat.Sg.Masc Grund))
+          (AP-MO\/pred
+            (ADV-MO\/0 auf)
+            (ADJD-HD-Pos\/0 an))
+          (ADJD-MO-Pos\/V neu)
+          (VVPP-HD konzipiert))
+        (VAINF-HD werden))
+      (\$, ,)
+      (S-MO
+        (ADV-MO\/V auch)
+        (KOUS-CP\/mo wenn)
+        (NP-SB\/Pl
+          (ADV-MO\/N bereits)
+          (PIAT-HD-Nom.Pl.Fem einige)
+          (NN-HD-Nom.Pl.Fem Milliarden))
+        (NP-OA
+          (NN-HD-Acc.Sg.Masc Euro)
+          (PP-MNR\/N
+            (APPR-AC\/in in)
+            (PN-HD
+              (S-PNC
+                (NP-SB\/Sg
+                  (ART-HD-Nom.Sg.Neut das)
+                  (ADJA-HD-Pos.Nom.Sg.Neut bestehende)
+                  (NN-HD-Nom.Sg.Neut Flughafen-Großprojekt))
+                (VVFIN-HD-Sg investiert)))))
+        (VAFIN-HD-Pl wurden)))
+    (KON-CD und)
+    (S-TOP\/nosubj
+      (VVFIN-HD-Sg sich)
+      (PP-OP\/V
+        (APPR-AC\/Acc\/auf auf)
+        (PDAT-HD-Acc.Sg.Fem diese)
+        (NN-HD-Acc.Sg.Fem Weise)
+        (NP-AG
+          (ART-HD-Gen.Sg.Fem der)
+          (NN-HD-Gen.Sg.Fem Fertigstellungstermin))
+        (PP-MNR\/N
+          (APPR-AC\/Acc\/auf auf)
+          (ADJA-HD-Pos.Acc.Sg.Fem unbestimmte)
+          (PN-HD
+            (NE-PNC-Dat.Sg.Fem Zeit)
+            (NE-PNC hinauszögern)
+            (NE-PNC würde))))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (CNP-SB
+      (KON-CD\/sowohl Sowohl)
+      (NP-SB\/Pl
+        (ART-HD-Nom.Pl die)
+        (AP-HD-Pos.Nom.Pl
+          (CAP-MO
+            (AP-MO\/pred
+              (ADV-MO\/0 nur)
+              (ADJD-HD-Pos\/0 schleppend)))
+          (ADJA-HD-Pos.Nom.Pl varangehenden))
+        (NN-HD-Nom.Pl Baumaßnahmen))
+      (\$, ,)
+      (KON-CD\/als als)
+      (NP-SB\/Pl
+        (ADV-MO\/N auch)
+        (ART-HD-Nom.Pl.Fem die)
+        (CNP-HD
+          (NP-HD
+            (AP-HD-Pos.Dat.Sg.Fem
+              (PRF-OA-Acc.Sg sich)
+              (ADJA-HD-Pos.Dat.Sg.Fem anhäufenden))
+            (NN-HD-Dat.Sg.Fem Sicherheitsmängel)))))
+    (VVFIN-HD-Pl zeigen)
+    (NP-OA
+      (ADJA-HD-Pos.Acc.Pl.Neut deutliche)
+      (NN-HD-Acc.Pl.Neut Defizite)
+      (PP-MNR\/N
+        (APPR-AC\/Dat\/in in)
+        (ART-HD-Dat.Sg.Fem der)
+        (NN-HD-Dat.Sg.Fem Gesamtplanung))))
+  (\$. .))

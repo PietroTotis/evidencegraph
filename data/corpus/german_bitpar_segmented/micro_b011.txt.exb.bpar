@@ -1,0 +1,66 @@
+
+(TOP
+  (S-TOP
+    (NP-OA
+      (CARD-HD Für)
+      (AP-HD-Pos.Acc.Pl.Neut
+        (PP-MO\/0
+          (APPR-AC\/Dat\/auf auf)
+          (ART-HD-Dat.Sg.Neut dem)
+          (NN-HD-Dat.Sg.Neut Bürgersteig))
+        (ADJA-HD-Pos.Acc.Pl.Neut hinterlassene))
+      (NN-HD-Acc.Pl.Neut Hundehaufen))
+    (VMFIN-HD-Sg sollte)
+    (NP-SB\/Sg
+      (PIS-HD-Nom.Sg man))
+    (NP-OA
+      (NN-HD-Acc.Pl.Masc Hundebesitzer))
+    (ADJD-MO-Pos\/V ruhig)
+    (VP-OC\/inf
+      (AP-MO
+        (ADV-MO\/0 etwas)
+        (PIAT-HD mehr))
+      (PP-CVC\/V
+        (APPRART-AC-Dat.Sg.Fem zur)
+        (NN-HD-Dat.Sg.Fem Kasse))
+      (VVINF-HD bitten)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-SB\/Pl
+        (ART-HD-Nom.Pl.Neut Die)
+        (NN-HD-Nom.Pl.Neut Tiere)
+        (PP-MNR\/N
+          (APPR-AC\/Dat an)
+          (PRF-HD-Dat.Sg sich)))
+      (NP-PD
+        (CH-HD
+          (FM-UC können)
+          (FM-UC zwar)
+          (FM-UC nichts))
+        (FM-HD dafür)))
+    (\$, ,)
+    (KON-CD aber)
+    (S-TOP
+      (VP-MO
+        (ADV-MO\/V einmal)
+        (VVPP-HD hineingetreten))
+      (\$, ,)
+      (VVFIN-HD-Pl scheinen)
+      (NP-OA
+        (PPOSAT-HD-Acc.Pl.Neut ihre)
+        (NN-HD-Acc.Pl.Neut Exkremente))
+      (VP-OC\/zu
+        (NP-OA
+          (CARD-HD überaus)
+          (NN-HD-Neut hartnäckig))
+        (PP-MO\/V
+          (APPR-AC\/Dat an)
+          (ART-HD-Dat.Pl.Fem den)
+          (NN-HD-Dat.Pl.Fem Schuhsohlen))
+        (VZ-HD
+          (PTKZU-PM zu)
+          (VVINF-HD haften)))))
+  (\$. .))

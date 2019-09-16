@@ -1,0 +1,1 @@
+Das Tool erkennt Rechtschreibfehler, sowie inhaltliche Unstimmigkeiten. Eigennamen, wie zum Beispiel „Golm“, erkennt das Programm nicht und schlägt dafür andere mögliche Begriffe vor. Satzzeichen werden nicht korrigiert. Unter anderem wurden allerdings auch Wörter markiert und falsche inhaltliche Vorschläge angezeigt. 

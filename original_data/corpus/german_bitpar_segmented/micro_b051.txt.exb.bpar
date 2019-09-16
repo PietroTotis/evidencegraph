@@ -1,0 +1,150 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (AP-HD-Nom.Sg.Neut
+        (ADV-MO\/0 Durch)
+        (ART-HD-Nom.Sg.Neut das))
+      (ADJA-HD-Pos.Nom.Sg.Neut vermehrte)
+      (NN-HD-Nom.Sg.Neut Öffnen)
+      (PP-MNR\/N
+        (APPR-AC\/Dat an)
+        (CNP-HD\/Dat
+          (TRUNCCap-HD Sonn-)
+          (KON-CD und)
+          (NN-HD-Dat.Pl.Masc Feiertagen))))
+    (VVFIN-HD-Sg steigt)
+    (NP-OA
+      (ART-HD-Acc.Sg.Fem die)
+      (CNP-HD
+        (NN-HD-Nom.Sg.Masc Beschäftigungszahl)
+        (KON-CD und)
+        (NN-HD-Nom.Sg.Masc -zeit))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Allerdings)
+    (VAFIN-HD-Pl werden)
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl hauptsächlich))
+    (NP-DA
+      (ADV-MO\/N nur)
+      (NN-HD-Dat.Pl.Masc Aushilfen))
+    (\$Par \()
+    (ADV-MO\/V also)
+    (CNP-PD
+      (NP-PD\/chain
+        (NN-HD-Nom.Pl.Masc Studenten))
+      (\$, ,)
+      (NP-PD\/chain
+        (NN-HD-Nom.Pl Schüler)))
+    (\$, ,)
+    (ADJD-PD-Pos\/V etc))
+  (\$. .))
+
+(TOP
+  (\$Par \))
+  (S-TOP
+    (VP-MO
+      (VVPP-HD eingestellt))
+    (\$, ,)
+    (VVFIN-HD-Sg sodass)
+    (NP-SB\/Sg
+      (PDS-HD-Nom.Sg.Neut dies))
+    (ADV-MO\/V kaum)
+    (NP-OA
+      (NN-HD-Acc.Sg.Fem Auswirkung)
+      (PP-MNR\/N
+        (APPR-AC\/auf auf)
+        (PN-HD-Dat.Sg.Neut
+          (NE-PNC Vollzeitbeschäftigte)
+          (NE-PNC-Dat.Sg.Neut bzw)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem die)
+      (NN-HD-Nom.Sg.Fem Arbeitslosenzahl))
+    (VAFIN-HD-Sg hat))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (PROAV-MO Zudem)
+      (VVFIN-HD-Sg leidet)
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Neut das)
+        (CNP-HD
+          (TRUNCCap-HD Familien-)
+          (KON-CD und)
+          (NN-HD-Nom.Sg.Neut Privatleben)))
+      (ADJD-MO-Pos\/V massiv)
+      (PP-MO\/V
+        (APPR-AC\/Dat\/unter unter)
+        (PDAT-HD-Dat.Sg.Fem dieser)
+        (NN-HD-Dat.Sg.Fem Verkürzung)))
+    (KON-CD und)
+    (S-TOP\/nosubj
+      (NP-PD
+        (NN-HD-Nom.Sg.Fem Verschiebung)
+        (NP-AG
+          (ART-HD-Gen.Pl.Masc der)
+          (ADJA-HD-Sup.Gen.Pl.Masc festen)
+          (NN-HD-Gen.Pl.Masc Ruhezeiten)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-MO
+      (NE-HD Außerdem)
+      (NN-HD-Acc.Sg.Fem können))
+    (VVFIN-HD-Sg sich)
+    (NP-SB\/Sg
+      (AP-HD
+        (ADV-MO\/card nur)
+        (CARD-HD große))
+      (NN-HD-Nom.Sg.Neut Unternehmen))
+    (NP-OA
+      (ART-HD-Acc.Sg.Fem die)
+      (NN-HD-Acc.Sg.Fem zusätzlichen))
+    (VP-OC\/inf
+      (NP-OA
+        (NN-HD-Acc.Pl Personalkosten))
+      (VVINF-HD leisten)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PP-MO\/V
+      (APPR-AC\/Dat Aus)
+      (PDAT-HD-Dat.Pl.Fem diesen)
+      (NN-HD-Dat.Pl Gründen))
+    (VMFIN-HD-Sg sollte)
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg.Neut es))
+    (VP-OC\/inf
+      (VP-PD
+        (CNP-DA
+          (NP-DA\/chain
+            (NN-HD-Dat.Pl Supermärkte))
+          (KON-CD und)
+          (NP-DA\/chain
+            (NN-HD-Dat.Pl.Masc Einkaufszentren)))
+        (PTKNEG-NG nicht)
+        (VVPP-HD erlaubt))
+      (VAINF-HD sein)
+      (\$, ,)
+      (PP-MO\/V
+        (APPR-AC\/Dat an)
+        (ADJA-HD-Pos.Dat.Pl.Neut beliebigen)
+        (CNP-HD\/Dat
+          (TRUNCCap-HD Sonn-)
+          (KON-CD und)
+          (NN-HD-Dat.Pl.Masc Feiertagen))
+        (PP-MNR\/N
+          (APPR-AC\/Dat zu)
+          (NE-HD-Dat.Sg öffnen)))))
+  (\$. .))

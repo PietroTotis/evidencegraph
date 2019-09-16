@@ -1,0 +1,19 @@
+Deutsch:
+Bei meinem ersten Textversuch hat das Tool nur 3 Fehler angezeigt.
+Erstens hat es Golm nicht als Eigenname erkannt, und sah es als Rechtschreibfehler für "Golf" an.
+Zweitens erkannte das Tool, dass ich "2,50€" statt "2,50 €" geschrieben habe.
+Drittens wurde mir der Ausdruck "Tomatensauce" angestrichen, und fragte, ob man nicht lieber die vom Duden vorgeschlagene Schreibweise "Tomatensoße" verwenden wolle.
+Beim "Verschlimmbessern" kommt heraus, dass das Tool nicht so wirklich gut darin ist, komplexe Grammatikfehler zu erkennen: Wenn man statt "Falls einem keines der Gerichte zusagt" "Falls einer keinem der Gerichte zusagen" schreibt, erkennt das Tool dies nicht als falsch.
+Jedoch erkennt es falsche Artikel und Zeitformen und normale Rechtschreibfehler.
+Englisch:
+Ähnliche Ergebnisse, abermals der gleiche Golm- und Geldfehler, sonst wurde nichts fehlerhaft erkannt.
+Für die Anführungszeichen werden alternative Symbole vorgeschlagen.
+Zeitformfehler erkennt das Tool im Englischen schlechter, wenn man "various meal options are serve" schreibt, erkennt es das nicht als Fehler.
+Auch fehlende -s-Endungen erkennt es nicht, beispielsweise bei "The Mensa often fail".
+Falsches gerund erkennt es jedoch meistens.
+Falsche Redewendungen werden anders als im Deutschen nicht erkannt, wie beispielsweise "A penny a dozen" statt "A dime a dozen".
+Allgemein ist das Tool deutlich schlechter bei Englischen Texten als bei Deutschen.
+Zusammenfassend ist das Tool bei deutschen Texten nur teilweise nützlich und bietet weniger Funktionalität als bsp. Word, was sogar einfache grammatische Fehler erkennt, zum Beispiel bei Kongruenz von anderen Wortarten als Artikeln.
+Jedoch ist die Datumsfunktion ganz nett, die erkennt, ob ein Wochentag zu einem Datum stimmt.
+Für das Englische ist das Tool jedoch recht nutzlos außer in Bezug auf Rechtschreibung, einfache Grammatikfehler werden nicht erkannt.
+Das alles können die meisten Texteditoren besser.

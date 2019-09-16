@@ -1,0 +1,79 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (PN-HD-Nom.Sg
+        (NE-PNC Übermäßiger)
+        (NE-PNC-Nom.Sg Fleischkonsum)))
+    (VAFIN-HD-Sg ist)
+    (ADJD-PD-Pos\/V ungesund))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PROAV-MO Zudem)
+    (VAFIN-HD-Sg ist)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem die)
+      (NN-HD-Nom.Sg.Fem Fleischproduktion))
+    (AP-PD\/pred
+      (ADV-MO\/0 vergleichsweise)
+      (ADJD-HD-Pos\/0 Ressourcen-intensiv)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (PPER-HD-Nom.Pl Wir))
+    (VMFIN-HD-Pl sollten)
+    (PROAV-MO daher)
+    (NP-SB\/Pl
+      (PIS-HD-Nom.Pl alle))
+    (VP-OC\/nohead
+      (NP-OA
+        (PPOSAT-HD-Acc.Sg.Masc unseren)
+        (NN-HD-Acc.Sg.Masc Fleischkonsum)
+        (PN-HD-Nom.Sg
+          (NE-PNC-Nom.Sg rigoros)
+          (ADJD-PNC-Pos\/0 einschränken)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-PD
+      (CH-HD
+        (FM-UC Man)
+        (FM-UC könnte))
+      (FM-HD befürchten))
+    (\$, ,)
+    (S-SB
+      (KOUS-CP\/sb dass)
+      (NP-SB\/Pl
+        (PPOSAT-HD-Nom.Pl.Masc unsere)
+        (NN-HD-Nom.Pl.Masc Bauern))
+      (PP-MO\/V
+        (PROAV-PH dadurch))
+      (PP-MO\/V
+        (APPR-AC\/Acc\/in in)
+        (ADJA-HD-Pos.Acc.Pl.Fem wirtschaftliche)
+        (NN-HD-Acc.Pl.Fem Schwierigkeiten))
+      (VVFIN-HD-Pl kommen)
+      (NP-SB
+        (NN-HD würden))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KON-JU Aber)
+    (NP-SB\/Sg
+      (PIAT-HD-Nom.Sg.Masc kein)
+      (ADJA-HD-Pos.Nom.Sg.Masc ernstzunehmender)
+      (NN-HD-Nom.Sg.Masc Ökonom))
+    (VMFIN-HD-Sg wollte)
+    (NP-OA
+      (PDAT-HD-Acc.Sg.Fem diese)
+      (NN-HD-Acc.Sg.Fem Vorhersage))
+    (ADV-MO\/V bisher)
+    (NP-SB\/Sg
+      (NN-HD-Nom.Sg.Fem bestätigen)))
+  (\$. .))

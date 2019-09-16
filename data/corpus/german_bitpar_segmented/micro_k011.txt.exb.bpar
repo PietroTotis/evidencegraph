@@ -1,0 +1,213 @@
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-SB\/Pl
+        (NN-HD-Nom.Pl Mietpreiserhöhungen)
+        (PP-MNR\/N
+          (APPR-AC\/Dat bei)
+          (ART-HD-Dat.Sg.Fem einer)
+          (NN-HD-Dat.Sg.Fem Neuvermietung)))
+      (VAFIN-HD-Pl sind)
+      (PP-MO\/V
+        (APPR-AC\/Dat an)
+        (PRF-HD-Dat.Sg sich))
+      (AP-PD\/pred
+        (AVP-MO\/0
+          (PTKNEG-NG nicht)
+          (ADV-HD\/0 so))
+        (ADJD-HD-Pos\/0 schlimm)
+        (\$, ,)
+        (S-CC
+          (KOUS-CP wenn)
+          (NP-EP
+            (PPER-HD-Nom.Sg.Neut\/ep es))
+          (PRF-OA-Acc.Sg sich)
+          (PP-OP\/V
+            (ADV-MO\/N nur)
+            (APPR-AC\/Acc\/um um)
+            (ART-HD-Acc.Sg.Masc einen)
+            (ADJA-HD-Pos.Acc.Sg.Masc kleinen)
+            (NN-HD-Acc.Sg.Masc Betrag))
+          (VVFIN-HD-Sg handelt))))
+    (\$, ,)
+    (S-TOP\/nohead
+      (AP-MO\/pred
+        (ADV-MO\/0 sehr)
+        (ADJD-HD-Pos\/0 schlimm))
+      (ADV-MO\/V allerdings)
+      (\$, ,)
+      (S-RE
+        (KOUS-CP\/re wenn)
+        (NP-SB\/Sg
+          (ART-HD-Nom.Sg.Fem die)
+          (NN-HD-Nom.Sg.Fem Miete))
+        (PP-OP\/V
+          (APPR-AC\/auf auf)
+          (CNP-HD
+            (PN-HD
+              (S-PNC\/nohead
+                (ADV-MO\/V einmal)
+                (NP-OA
+                  (CARD-HD 100))))
+            (\$, ,)
+            (\$Par -)
+            (PN-HD
+              (PP-PNC\/0
+                (APPR-AC bis)
+                (CARD-HD 200)))
+            (\$, ,)
+            (\$Par -)
+            (NE-HD €)))
+        (VVFIN-HD-Sg steigt))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PTKVZ-SVP Bei)
+    (VVFIN-HD-Pl diesen)
+    (NP-SB\/Pl
+      (CARD-HD Beträgen)
+      (NN-HD-Fem überlegt)
+      (S-PAR\/nohead
+        (NP-SB\/Sg
+          (PIS-HD-Nom.Sg man))
+        (ADV-MO\/V es)))
+    (PRF-OA-Acc.Pl sich)
+    (AVP-MO\/V
+      (ADV-MO\/V noch)
+      (ADV-HD\/V einmal))
+    (\$, ,)
+    (S-RE
+      (KOUS-CP\/re ob)
+      (NP-SB\/Sg
+        (PIS-HD-Nom.Sg man))
+      (VP-OC\/inf
+        (ADJD-MO-Pos\/V wirklich)
+        (PP-MO\/V
+          (APPR-AC\/Dat\/in in)
+          (ART-HD-Dat.Sg.Fem der)
+          (NN-HD-Dat.Sg.Fem Wohnung))
+        (VVINF-HD bleiben))
+      (VMFIN-HD-Sg will)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (AVP-MO\/V
+      (S-RE
+        (KOUS-CP\/re Wenn)
+        (NP-EP
+          (PPER-HD-Nom.Sg.Neut\/ep es))
+        (ADV-MO\/V schon)
+        (NP-OA
+          (NN-HD-Acc.Sg.Fem Mietpreiserhöhungen))
+        (VVFIN-HD-Sg gibt))
+      (\$, ,)
+      (ADV-PH\/V dann))
+    (VMFIN-HD-Sg soll)
+    (NP-EP
+      (PPER-HD-Nom.Sg.Neut\/ep es))
+    (ADV-MO\/V also)
+    (VP-OC\/inf
+      (NP-OA
+        (ADV-MO\/N auch)
+        (ART-HD-Acc.Sg.Fem eine)
+        (NN-HD-Acc.Sg.Fem Beschränkung))
+      (VVINF-HD geben))
+    (\$, ,)
+    (VP-MO
+      (KOUI-CP um)
+      (NP-OA
+        (CARD-HD bösen)
+        (NN-HD-Neut Überraschungen))
+      (VVIZU-HD vorzubeugen)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-DA
+        (ART-HD-Dat.Pl.Masc Den)
+        (NN-HD-Dat.Pl.Masc Vermietern))
+      (VAFIN-HD-Sg ist)
+      (VP-OC\/pp
+        (ADV-MO\/V so)
+        (VVPP-HD geholfen))
+      (\$, ,)
+      (S-MO
+        (KOUS-CP\/mo weil)
+        (NP-SB\/Pl
+          (PPER-HD-Nom.Pl sie))
+        (PP-MO\/V
+          (APPR-AC\/Dat mit)
+          (ART-HD-Dat.Sg.Fem der)
+          (NN-HD-Dat.Sg.Fem Erhöhung))
+        (NP-OA
+          (PPOSAT-HD-Acc.Pl.Fem ihre)
+          (NN-HD-Acc.Pl.Fem Ausgaben))
+        (VVFIN-HD-Pl anpassen)
+        (NP-SB\/Pl
+          (NN-HD-Nom.Pl können))))
+    (\$, ,)
+    (KON-CD und)
+    (S-TOP
+      (NP-DA
+        (ART-HD-Dat.Pl.Masc den)
+        (ADJA-HD-Pos.Dat.Pl.Masc neuen)
+        (NN-HD-Dat.Pl.Masc Mietern))
+      (VAFIN-HD-Sg ist)
+      (VP-OC\/pp
+        (ADV-MO\/V ebenfalls)
+        (VVPP-HD geholfen))
+      (\$, ,)
+      (S-MO
+        (KOUS-CP\/mo da)
+        (NP-SB\/Pl
+          (PPER-HD-Nom.Pl sie))
+        (NP-OA
+          (ART-HD-Acc.Sg.Fem eine)
+          (ADJA-HD-Pos.Acc.Sg.Fem maximale)
+          (NN-HD-Acc.Sg.Fem Mietpreiserhöhung))
+        (VVFIN-HD-Pl einkalkulieren)
+        (NP-SB\/Pl
+          (NN-HD-Nom.Pl können)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (S-SB
+      (KOUS-CP\/sb Dass)
+      (NP-SB\/Pl
+        (ART-HD-Nom.Pl.Masc die)
+        (NN-HD-Nom.Pl.Masc Vermieter))
+      (ADV-MO\/V dann)
+      (PP-MO\/V
+        (APPR-AC\/Dat\/in in)
+        (ART-HD-Dat.Sg.Fem der)
+        (NN-HD-Dat.Sg.Fem Verwaltung)
+        (NP-AG
+          (PPOSAT-HD-Gen.Sg.Neut ihres)
+          (NN-HD-Gen.Sg.Neut Eigentums)))
+      (NP-PD
+        (PIAT-HD etwas)
+        (NN-HD eingeschränkt))
+      (VAFIN-HD-Pl werden))
+    (VAFIN-HD-Sg ist)
+    (NP-OA
+      (PIAT-HD-Acc.Sg.Neut kein)
+      (NN-HD-Acc.Sg.Neut Problem))
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo da)
+      (NP-SB\/Pl
+        (PPER-HD-Nom.Pl sie))
+      (ADV-MO\/V letztendlich)
+      (ADV-MO\/V ja)
+      (ADV-MO\/V doch)
+      (PP-MO\/V
+        (APPRART-AC-Dat.Sg.Masc am)
+        (ADJA-HD-Pos.Dat.Sg.Masc längeren)
+        (NN-HD-Dat.Sg.Masc Hebel))
+      (VVFIN-HD-Pl sitzen)))
+  (\$. .))

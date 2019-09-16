@@ -1,0 +1,91 @@
+
+(TOP
+  (S-TOP
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in In)
+      (NE-HD-Dat.Sg.Neut Deutschland))
+    (VMFIN-HD-Sg sollte)
+    (NP-SB\/Sg
+      (PIS-HD-Nom.Sg man))
+    (NP-OA
+      (ART-HD-Acc.Sg.Fem die)
+      (NN-HD-Acc.Sg.Fem Todesstrafe))
+    (PTKNEG-NG nicht)
+    (NP-SB\/Sg
+      (ADV-MO\/N wieder)
+      (NE-HD-Nom.Sg einführen))
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo da)
+      (PRF-OA-Acc.Sg sich)
+      (ADV-MO\/V niemand)
+      (S-OC
+        (NP-SB\/Sg
+          (ART-HD-Nom.Sg.Neut das)
+          (NN-HD-Nom.Sg.Neut Recht)
+          (NE-HD-Nom.Sg anmaßen))
+        (VMFIN-HD-Sg kann)
+        (\$, ,)
+        (VP-MO
+          (CNP-PD
+            (PN-PD-Nom.Sg.Neut
+              (NE-PNC über)
+              (NE-PNC-Nom.Sg.Neut Leben))
+            (KON-CD oder)
+            (NP-PD
+              (NN-HD-Nom.Sg.Masc Tod)
+              (NP-AG
+                (ART-HD-Gen.Sg.Masc eines)
+                (ADJA-HD-Pos.Gen.Sg.Masc anderen)
+                (NN-HD-Gen.Sg.Masc Menschen))))
+          (VZ-HD
+            (PTKZU-PM zu)
+            (VVINF-HD entscheiden))))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Die)
+      (NN-HD-Nom.Sg.Fem Todesstrafe))
+    (VAFIN-HD-Sg wird)
+    (VP-OC\/inf
+      (NP-OA
+        (PIAT-HD-Acc.Sg.Masc keinen)
+        (ADJA-HD-Pos.Acc.Sg.Masc anderen))
+      (PP-MO\/V
+        (APPR-AC\/Dat\/von von)
+        (ART-HD-Dat.Sg.Fem einer)
+        (NN-HD-Dat.Sg.Fem Untat))
+      (VVINF-HD abhalten)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-DA
+      (PIS-HD-Dat.Sg.Masc Jedem))
+    (VVFIN-HD-Sg muss)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem die)
+      (NN-HD-Nom.Sg.Fem Gelegenheit))
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (VVPP-HD gegeben))
+      (VAINF-HD werden)
+      (\$, ,)
+      (VP-OC\/zu
+        (NP-OA
+          (PPOSAT-HD-Acc.Sg.Neut sein)
+          (NN-HD-Acc.Sg.Neut Gewissen)
+          (PP-MNR\/N
+            (APPR-AC\/Dat zu)
+            (CNP-HD\/Dat
+              (NE-HD-Dat.Sg schärfen)
+              (KON-CD und)
+              (NP-HD
+                (PPOSAT-HD-Nom.Sg.Fem seine)
+                (NN-HD-Nom.Sg.Fem Tat)
+                (NE-HD-Nom.Sg.Fem möglichst)))))
+        (ADV-MO\/V wieder)
+        (VVIZU-HD gutzumachen))))
+  (\$. .))

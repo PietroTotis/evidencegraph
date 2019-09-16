@@ -1,0 +1,90 @@
+
+(TOP
+  (S-TOP\/nohead
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc Der)
+      (NN-HD-Nom.Sg.Masc Prototyp)
+      (PP-PG\/N
+        (APPR-AC\/Dat\/von von)
+        (PN-AG-Gen.Sg
+          (NE-HD-Gen.Sg Audi\'s))
+        (ADJA-HD-Pos.Dat.Sg.Masc neuem)
+        (ADJA-HD-Pos.Dat.Sg.Masc Sportwagen)
+        (NN-HD-Dat.Sg.Masc lässt)))
+    (VP-OC\/inf
+      (NP-OA
+        (NP-HD
+          (ART-HD-Acc.Pl.Neut die)
+          (NN-HD-Acc.Pl.Neut Herzen)
+          (PP-PG\/N
+            (APPR-AC\/Dat\/von von)
+            (NN-HD-Dat.Pl.Masc Autoliebhabern)))
+        (NN-HD-Nom.Pl höher))
+      (VVINF-HD schlagen)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (PP-MO\/V
+        (APPRART-AC-Dat.Sg.Neut Am)
+        (NN-HD-Dat.Sg.Neut Lenksystem))
+      (VVFIN-HD-Sg muss)
+      (ADV-MO\/V zwar)
+      (ADV-MO\/V noch)
+      (VP-OC\/inf
+        (VP-OC\/pp
+          (NP-OA
+            (PIS-HD-Neut etwas))
+          (VVPP-HD gefeilt))
+        (VAINF-HD werden)))
+    (\$, ,)
+    (KON-CD denn)
+    (S-TOP
+      (PP-MO\/V
+        (APPR-AC\/Dat bei)
+        (CARD-HD höheren)
+        (NN-HD-Dat.Pl.Fem Geschwindigkeiten))
+      (VVFIN-HD-Sg bricht)
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Masc der)
+        (NN-HD-Nom.Sg.Masc Wagen))
+      (ADJD-MO-Pos\/V schnell)
+      (PTKVZ-SVP aus)))
+  (KON-TOP und)
+  (S-CJ
+    (NP-SB\/Sg
+      (PIS-HD-Nom.Sg man))
+    (VAFIN-HD-Sg wird)
+    (VP-OC\/inf
+      (PP-MO\/V
+        (APPR-AC\/Dat mit)
+        (ART-HD-Dat.Sg.Neut dem)
+        (NN-HD-Dat.Sg.Neut Prachtstück))
+      (ADV-MO\/V ja)
+      (AP-PD\/pred
+        (ADJD-HD-Pos\/0 sicher)
+        (AVP-MO\/0
+          (AP-MO\/pred
+            (ADV-MO\/0 oft)
+            (ADJD-HD-Pos\/0 schnell))
+          (ADV-HD\/0 unterwegs)))
+      (VAINF-HD sein)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Aber)
+    (VVFIN-HD-Pl ansonsten)
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl erfüllt)
+      (NP-AG
+        (ART-HD-Gen.Pl.Masc der)
+        (NN-HD-Gen.Pl.Masc Wagen)))
+    (ADV-MO\/V so)
+    (NP-OA
+      (AP-HD-Acc.Sg.Masc
+        (ADV-MO\/0 ziemlich)
+        (PIAT-HD-Acc.Sg.Masc jeden))
+      (NN-HD-Acc.Sg.Masc Wunsch)))
+  (\$. .))

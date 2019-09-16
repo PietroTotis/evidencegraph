@@ -1,0 +1,82 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (PIAT-HD-Nom.Sg.Masc Jeder)
+      (ADJA-HD-Pos.Nom.Sg.Masc deutsche)
+      (NN-HD-Nom.Sg.Masc Bürger))
+    (VAFIN-HD-Sg hat)
+    (NP-PD
+      (ART-HD-Nom.Sg.Neut ein)
+      (NN-HD-Nom.Sg.Neut Recht)
+      (PP-MNR\/N
+        (APPR-AC\/Acc\/auf auf)
+        (NN-HD-Acc.Sg.Fem Bildung))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (NN-HD-Nom.Sg.Fem Qualität)
+      (PP-MNR\/N
+        (APPR-AC\/Acc an)
+        (NE-HD-Acc.Sg Universitäten)))
+    (VAFIN-HD-Sg hat)
+    (NP-OA
+      (PPOSAT-HD-Acc.Sg.Masc ihren)
+      (NN-HD-Acc.Sg.Masc Preis)
+      (\$, ,)
+      (S-RC
+        (PWAV-MO\/rel weshalb)
+        (NP-SB\/Pl
+          (ADV-MO\/N auch)
+          (ART-HD-Nom.Pl.Masc die)
+          (NN-HD-Nom.Pl.Masc Studenten))
+        (VP-OC\/inf
+          (VP-OC\/pp
+            (PP-MO\/V
+              (APPR-AC\/Dat an)
+              (PDAT-HD-Dat.Sg.Masc diesem)
+              (NN-HD-Dat.Sg.Masc Kostenfaktor))
+            (VVPP-HD beteiligt))
+          (VAINF-HD werden))
+        (VMFIN-HD-Pl sollten))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KON-JU Aber)
+    (NP-SB\/Sg
+      (NN-HD-Nom.Sg.Fem Bildung))
+    (VMFIN-HD-Sg darf)
+    (VP-OC\/inf
+      (PP-MO\/V
+        (APPR-AC\/Dat\/in in)
+        (NN-HD-Dat.Pl.Fem Wohlstandsgesellschaften)
+        (NP-CC
+          (KOKOM-CM wie)
+          (NE-HD-Nom.Sg.Neut Deutschland)))
+      (NP-PD
+        (PIAT-HD-Nom.Sg.Fem keine)
+        (NN-HD-Nom.Sg.Fem Frage)
+        (NP-AG
+          (ART-HD-Gen.Sg.Neut des)
+          (NN-HD-Gen.Sg.Neut Geldes)))
+      (VAINF-HD sein)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PROAV-MO Daher)
+    (VMFIN-HD-Pl sollten)
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl Universitäten)
+      (PP-MNR\/N
+        (APPR-AC\/Dat\/in in)
+        (NE-HD-Dat.Sg.Neut Deutschland)))
+    (VP-OC\/inf
+      (NP-OA
+        (PIAT-HD-Acc.Sg.Fem keine)
+        (NN-HD-Acc.Sg.Fem Studiengebühren))
+      (VVINF-HD verlangen)))
+  (\$. .))

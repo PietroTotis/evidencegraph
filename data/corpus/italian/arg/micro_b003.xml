@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_b003" topic_id="health_insurance_cover_complementary_medicine" stance="con">
+  <edu id="e1"><![CDATA[Le assicurazioni sanitarie non dovrebbero pagare i trattamenti con la medicina alternativa,]]></edu>
+  <edu id="e2"><![CDATA[a meno che l'effetto promesso e il loro uso medico non siano stati concretamente provati.]]></edu>
+  <edu id="e3"><![CDATA[Però esattamente questa prova manca nella maggior parte dei casi.]]></edu>
+  <edu id="e4"><![CDATA[I pazienti si riferiscono spesso a un sollievo delle loro lamentele dopo tali trattamenti.]]></edu>
+  <edu id="e5"><![CDATA[Ma fino a quando non si capisce perché questo accade, sarebbe meglio spendere i soldi per trattamenti che si conoscono per certo.]]></edu>
+  <adu id="a1" type="pro"/>
+  <adu id="a2" type="opp"/>
+  <adu id="a3" type="pro"/>
+  <adu id="a4" type="opp"/>
+  <adu id="a5" type="pro"/>
+  <edge id="c6" src="e1" trg="a1" type="seg"/>
+  <edge id="c7" src="e2" trg="a2" type="seg"/>
+  <edge id="c8" src="e3" trg="a3" type="seg"/>
+  <edge id="c9" src="e4" trg="a4" type="seg"/>
+  <edge id="c10" src="e5" trg="a5" type="seg"/>
+  <edge id="c2" src="a2" trg="a1" type="reb"/>
+  <edge id="c3" src="a3" trg="a2" type="reb"/>
+  <edge id="c4" src="a4" trg="a1" type="reb"/>
+  <edge id="c5" src="a5" trg="c4" type="und"/>
+</arggraph>

@@ -1,0 +1,106 @@
+
+(TOP
+  (S-TOP
+    (NP-DA
+      (ART-HD-Dat.Sg.Masc Dem)
+      (NN-HD-Dat.Sg.Masc Mietwucher))
+    (VMFIN-HD-Sg sollte)
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (PP-MO\/V
+          (APPR-AC\/Acc\/durch durch)
+          (NN-HD-Acc.Sg.Fem Begrenzung)
+          (NP-AG
+            (ART-HD der)
+            (NN-HD Mietpreiserhöhung)))
+        (PP-MO\/V
+          (APPR-AC\/Dat bei)
+          (NN-HD-Dat.Sg.Neut Wohnungswechsel))
+        (NP-OA
+          (ART-HD-Acc.Sg.Neut ein)
+          (NN-HD-Acc.Sg.Neut Riegel))
+        (VVPP-HD vorgeschoben))
+      (VAINF-HD werden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KON-JU Denn)
+    (NP-SB\/Sg
+      (ADJA-HD-Pos.Nom.Sg.Masc bezahlbarer)
+      (NN-HD-Nom.Sg.Masc Wohnraum))
+    (VAFIN-HD-Sg ist)
+    (ADJD-PD-Pos\/V knapp))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PROAV-MO Zudem)
+    (VAFIN-HD-Sg ist)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc ein)
+      (ADJA-HD-Pos.Nom.Sg.Masc hoher)
+      (NN-HD-Nom.Sg.Masc Luxusgrad))
+    (\$Par \()
+    (NP-PD
+      (ADJA-HD-Pos.Nom.Pl.Fem teure)
+      (NN-HD-Nom.Pl.Fem Wohnungen))
+    (\$Par \)))
+  (XY-TOP für)
+  (S-PAR
+    (CO-PD
+      (AP-PD\/pred
+        (NP-OA
+          (ART-HD-Acc.Sg.Fem die)
+          (NN-HD-Acc.Sg.Fem Mehrheit)
+          (NP-AG
+            (ART-HD-Gen.Pl.Masc der)
+            (NN-HD-Gen.Pl.Masc Menschen)))
+        (PTKNEG-NG nicht)
+        (ADJD-HD-Pos\/0 notwendig))
+      (\$, ,)
+      (KON-CD sondern)
+      (NP-PD
+        (ADV-MO\/N vielmehr)
+        (ART-HD-Nom.Sg.Fem eine)
+        (NN-HD-Nom.Sg.Fem Wohnung))))
+  (XY-TOP überhaupt)
+  (\$. .))
+
+(TOP
+  (XY-TOP Außerdem)
+  (XY-TOP muss)
+  (NP-TOP
+    (FM-HD jeder)
+    (PP-MNR\/N
+      (APPR-AC\/Dat\/in in)
+      (PPOSAT-HD-Dat.Sg.Neut seinem)
+      (NN-HD-Dat.Sg.Neut Leben)))
+  (XY-TOP ca)
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (CARD-HD 3-10)
+      (NN-HD-Neut Mal))
+    (VVFIN-HD-Pl umziehen)
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo weil)
+      (PRF-OA-Acc.Sg sich)
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Fem die)
+        (NN-HD-Nom.Sg.Fem Größe)
+        (NP-AG
+          (ART-HD-Gen.Sg.Fem der)
+          (NE-HD gewünschten)
+          (NN-HD-Gen.Sg.Fem Wohnung)))
+      (PP-MO\/V
+        (APPRART-AC-Dat.Sg.Masc\/in im)
+        (NN-HD-Dat.Sg.Masc Laufe)
+        (NP-AG
+          (ART-HD-Gen.Sg.Neut eines)
+          (NN-HD-Gen.Sg.Neut Lebens)
+          (NE-HD-Nom.Sg ändert)))))
+  (\$. .))

@@ -1,0 +1,153 @@
+
+(TOP
+  (S-TOP\/imp
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc Der)
+      (NN-HD-Nom.Sg.Masc Bruch)
+      (NP-AG
+        (ART-HD-Gen.Sg.Masc des)
+        (NN-HD-Gen.Sg.Masc Völkerrechts)))
+    (VMFIN-HD-Sg sollte)
+    (ADV-MO\/V wohl)
+    (VP-OC\/inf
+      (AVP-MO\/V
+        (ADV-HD\/V mehr)
+        (AVP-CC\/0
+          (KOKOM-CM als)
+          (ADV-HD\/0 genug)))
+      (VAINF-HD sein)
+      (\$, ,)
+      (VP-OC\/zu
+        (PP-MO\/V
+          (APPR-AC\/um um)
+          (CARD-HD über))
+        (NP-OA
+          (ART-HD-Acc.Sg.Fem eine)
+          (NN-HD-Acc.Sg.Fem Reaktion))
+        (VVIZU-HD nachzudenken))))
+  (\$.\/imp !))
+
+(TOP
+  (S-TOP
+    (S-OC
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Fem Die)
+        (NN-HD-Nom.Sg.Fem Menschheit))
+      (VAFIN-HD-Sg hat)
+      (VP-OC\/pp
+        (PP-MO\/V
+          (APPR-AC\/Dat\/in in)
+          (PPOSAT-HD-Dat.Sg.Fem ihrer)
+          (NN-HD-Dat.Sg.Fem Geschichte))
+        (NP-OA
+          (PIAT-HD genug)
+          (NN-HD-Acc.Pl.Masc Fehler))
+        (VVPP-HD gemacht)
+        (\$, ,)
+        (CS-MO
+          (S-MO
+            (KOUS-CP\/mo indem)
+            (NP-SB\/Sg
+              (PPER-HD-Nom.Sg.Fem sie))
+            (VP-OC\/pp
+              (ADV-MO\/V zulange)
+              (VVPP-HD gewartet))
+            (VAFIN-HD-Sg hat))
+          (KON-CD und)
+          (S-MO
+            (KOUS-CP\/mo als)
+            (NP-SB\/Sg
+              (PPER-HD-Nom.Sg.Fem sie))
+            (ADV-MO\/V dann)
+            (VVFIN-HD-Sg reagierte)))))
+    (\$, ,)
+    (VVFIN-HD-Sg blieb)
+    (NP-SB\/Sg
+      (ADV-MO\/N meist)
+      (ADV-MO\/N nur)
+      (ADV-MO\/N noch)
+      (ART-HD-Nom.Sg.Masc der)
+      (NN-HD-Nom.Sg.Masc Krieg)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Allerdings)
+    (VMFIN-HD-Sg kann)
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in in)
+      (PPOSAT-HD-Dat.Sg.Fem unserer)
+      (ADJA-HD-Pos.Dat.Sg.Fem zivilisierten)
+      (NN-HD-Dat.Sg.Fem Welt)
+      (\$, ,)
+      (APPR-AC\/Dat\/in in)
+      (ART-HD-Dat.Sg.Neut einem)
+      (ADJA-HD-Pos.Dat.Sg.Neut demokratischen)
+      (NN-HD-Dat.Sg.Neut Land))
+    (\$, ,)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Neut das)
+      (NN-HD-Nom.Sg.Neut Volk))
+    (VP-OC\/inf
+      (ADV-MO\/V wohl)
+      (NP-MO
+        (CARD-HD über))
+      (NP-OA
+        (PRF-HD-Acc.Sg sich)
+        (ADV-MNR\/N selbst))
+      (VVINF-HD bestimmen))
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo solange)
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Fem die)
+        (NN-HD-Nom.Sg.Fem Motivation)
+        (NP-AG
+          (PDAT-HD-Gen.Pl.Masc dieser)
+          (NN-HD-Gen.Pl.Masc Menschen)))
+      (PP-MO\/V
+        (PTKNEG-NG nicht)
+        (APPR-AC\/von von)
+        (CNP-HD
+          (NN-HD-Sg.Fem Propaganda)
+          (\$, ,)
+          (NN-HD-Sg.Fem Korruption)
+          (KON-CD und)
+          (NN-HD militärischem)))
+      (NP-OA
+        (NN-HD-Acc.Sg.Masc Druck)
+        (CARD-HD ausgelöst))
+      (VAFIN-HD-Pl werden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (S-MO
+      (KOUS-CP\/mo Da)
+      (ADV-MO\/V aber)
+      (PP-MO\/V
+        (APPR-AC\/Dat\/in in)
+        (NE-HD-Dat.Sg.Neut Russland)
+        (PP-MNR\/N
+          (APPR-AC\/Dat neben)
+          (CNP-HD\/Dat
+            (NN-HD-Dat.Sg.Neut Gas)
+            (KON-CD und)
+            (NN-HD-Dat.Sg.Neut Öl))))
+      (NP-SB
+        (ADV-MO\/N nur)
+        (CNP-HD
+          (NN-HD-Acc.Sg.Fem Propaganda)
+          (KON-CD und)
+          (NN-HD-Acc.Sg.Fem Korruption)))
+      (VVFIN-HD-Pl herrschen))
+    (\$, ,)
+    (VMFIN-HD-Sg sollte)
+    (PRF-OA-Acc.Sg sich)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem die)
+      (NE-HD-Nom.Sg.Fem EU))
+    (ADV-MO\/V schleunigst)
+    (VP-OC\/inf
+      (VVINF-HD einmischen)))
+  (\$. !))

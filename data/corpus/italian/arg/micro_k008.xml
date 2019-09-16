@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_k008" topic_id="higher_dog_poo_fines" stance="pro">
+  <edu id="e1"><![CDATA[Se ci fossero multe più salate per la cacca di cane lasciata sui marciapiedi, probabilmente ci sarebbero meno cacche di cane,]]></edu>
+  <edu id="e2"><![CDATA[con il risultato di marciapiedi più puliti in generale.]]></edu>
+  <edu id="e3"><![CDATA[Anche se una multa più alta non è particolarmente equa per le persone economicamente svantaggiate,]]></edu>
+  <edu id="e4"><![CDATA[è dovere del proprietario del cane rimuovere la cacca di cane.]]></edu>
+  <adu id="a1" type="pro"/>
+  <adu id="a2" type="pro"/>
+  <adu id="a3" type="opp"/>
+  <adu id="a4" type="pro"/>
+  <edge id="c5" src="e1" trg="a1" type="seg"/>
+  <edge id="c6" src="e2" trg="a2" type="seg"/>
+  <edge id="c7" src="e3" trg="a3" type="seg"/>
+  <edge id="c8" src="e4" trg="a4" type="seg"/>
+  <edge id="c2" src="a2" trg="a1" type="sup"/>
+  <edge id="c3" src="a3" trg="a1" type="reb"/>
+  <edge id="c4" src="a4" trg="c3" type="und"/>
+</arggraph>
+   

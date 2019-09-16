@@ -1,0 +1,124 @@
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-SB\/Pl
+        (NN-HD-Nom.Pl.Masc Geheimdienste))
+      (VMFIN-HD-Pl sollten)
+      (VP-OC\/inf
+        (VP-OC\/pp
+          (PN-OA-Acc.Sg
+            (NE-HD-Acc.Sg stärker))
+          (PP-OP\/V
+            (APPRART-AC-Dat.Sg.Neut\/von vom)
+            (NN-HD-Dat.Sg.Neut Parlament))
+          (VVPP-HD kontrolliert))
+        (VAINF-HD werden)))
+    (\$, ,)
+    (KON-CD denn)
+    (S-TOP
+      (S-MO
+        (PWAV-MO wie)
+        (NP-SB\/Sg
+          (ART-HD-Nom.Sg.Masc der)
+          (NN-HD-Nom.Sg.Masc jüngste)
+          (NE-HD NSA-Abhörskandal))
+        (VP-OC\/pp
+          (VVPP-HD gezeigt))
+        (VAFIN-HD-Sg hat))
+      (\$, ,)
+      (VAFIN-HD-Sg ist)
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Fem die)
+        (NN-HD-Nom.Sg.Fem Landesregierung))
+      (VP-OC\/pp
+        (ADJD-MO-Pos\/V vermeintlich)
+        (AVP-NG\/V
+          (PTKNEG-HD nicht)
+          (ADV-MO\/V immer))
+        (PP-OP\/V
+          (APPR-AC\/Dat mit)
+          (ART-HD-Dat.Pl.Fem den)
+          (NN-HD-Dat.Pl Tätigkeitsbereichen)
+          (NP-AG
+            (PPOSAT-HD-Gen.Sg.Fem seiner)
+            (NN-HD-Gen.Sg.Fem Nachrichtendienste)))
+        (VVPP-HD vertraut))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB
+      (NP-HD
+        (NN-HD-Dat.Sg.Neut Kontrollen)
+        (XY-HD könnten))
+      (PROAV-MNR dazu))
+    (VVFIN-HD-Pl beitragen)
+    (\$, ,)
+    (S-OC
+      (KOUS-CP\/oc dass)
+      (NP-SB\/Pl
+        (ART-HD-Nom.Pl.Neut die)
+        (ADJA-HD-Pos.Nom.Pl.Neut einzelnen)
+        (NN-HD-Nom.Pl.Neut Dienste))
+      (PP-MO\/V
+        (APPR-AC\/Acc\/in in)
+        (PPOSAT-HD-Acc.Sg.Fem ihren)
+        (CNP-HD
+          (NP-HD
+            (AP-HD-Pos.Dat.Sg.Fem
+              (ADV-MO\/0 bisher)
+              (ADV-MO\/0 sehr)
+              (ADJA-HD-Pos.Dat.Sg.Fem undurchsichtigen))
+            (ADJA-HD-Pos.Dat.Sg.Fem Handlungsspielräumen)
+            (NN-HD-Dat.Sg.Fem eingeschränkt))))
+      (VAFIN-HD-Pl werden)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-EP
+        (PPER-HD-Nom.Sg.Neut\/ep Es))
+      (VVFIN-HD-Sg bleibt)
+      (ADV-MO\/V jedoch)
+      (PN-SB-Nom.Sg
+        (NE-HD-Nom.Sg fragwürdig))
+      (\$, ,)
+      (S-OC
+        (KOUS-CP\/oc ob)
+        (NP-SB\/Sg
+          (ART-HD-Nom.Sg.Fem die)
+          (FM-HD tatsächliche)
+          (NN-HD-Nom.Sg.Fem Durchführung)
+          (NP-AG
+            (ADJA-HD-Pos.Gen.Pl.Fem derartiger)
+            (NN-HD-Gen.Pl.Fem Kontrollen))
+          (ADV-MO\/N auch))
+        (ADJD-MO-Pos\/V gleichzeitig)
+        (PP-MO\/V
+          (APPRART-AC-Dat.Sg.Fem zur)
+          (ADJA-HD-Pos.Dat.Sg.Fem stärkeren)
+          (NN-HD-Dat.Sg.Fem Einhaltung)
+          (PP-PG\/N
+            (APPR-AC\/Dat\/von von)
+            (NN-HD-Dat.Pl.Neut Gesetzen)))
+        (NP-OA
+          (NN-HD-Acc.Sg.Fem führt))))
+    (\$, ,)
+    (KON-CD denn)
+    (S-TOP
+      (ADJD-MO-Pos\/V jetztendlich)
+      (VVFIN-HD-Sg liegt)
+      (NP-SB\/Sg
+        (PDAT-HD-Nom.Sg.Fem diese)
+        (NN-HD-Nom.Sg.Fem Entscheidung))
+      (PP-MO\/V
+        (APPR-AC\/Dat\/in in)
+        (ART-HD-Dat.Pl.Neut den)
+        (CARD-HD Händen)
+        (NP-AG
+          (ART-HD-Gen.Sg.Masc des)
+          (ADJA-HD-Pos.Gen.Sg.Masc jeweiligen)
+          (NN-HD-Gen.Sg.Masc Regierungschefs)))))
+  (\$. .))

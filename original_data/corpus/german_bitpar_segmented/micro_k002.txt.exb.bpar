@@ -1,0 +1,134 @@
+
+(TOP
+  (S-TOP\/nohead
+    (VP-OC\/nohead
+      (VP-OC\/pp
+        (PP-MO\/V
+          (APPRART-AC-Dat.Sg.Masc\/in Im)
+          (NN-HD-Dat.Sg.Masc Grunde))
+        (PN-DA-Dat.Sg
+          (NE-HD-Dat.Sg wäre))
+        (NP-OA
+          (PPER-HD-Acc.Sg.Neut es))
+        (VVPP-HD gerechtfertigt)
+        (\$, ,)
+        (S-MO
+          (KOUS-CP\/mo wenn)
+          (NP-SB\/Pl
+            (PIAT-HD-Nom.Pl alle)
+            (NN-HD-Nom.Pl Universitäten)
+            (PP-MNR\/N
+              (APPR-AC\/Dat\/in in)
+              (NE-HD-Dat.Sg.Neut Deutschland)))
+          (NP-OA
+            (NN-HD-Acc.Sg.Fem Studiengebühren))
+          (VVFIN-HD-Pl verlangen))))
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl würden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (S-MO
+      (KOUS-CP\/mo Solange)
+      (VVPP-OC sichergestellt)
+      (VAFIN-HD-Sg wird)
+      (\$, ,)
+      (S-SB
+        (KOUS-CP\/sb dass)
+        (NP-SB\/Sg
+          (ART-HD-Nom.Sg.Neut das)
+          (NN-HD-Nom.Sg.Neut Geld))
+        (ADJD-MO-Pos\/V wirklich)
+        (ADV-MO\/V direkt)
+        (NP-DA
+          (ART-HD-Dat.Pl den)
+          (NN-HD-Dat.Pl Universitäten))
+        (VVFIN-HD-Sg zugutekommt)))
+    (\$, ,)
+    (VMFIN-HD-Sg kann)
+    (ADV-MO\/V durchaus)
+    (ADV-MO\/V weiterhin)
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (PP-SBP\/V
+          (APPR-AC\/Dat\/von von)
+          (ADJA-HD-Pos.Dat.Sg.Fem sozialer)
+          (NN-HD-Dat.Sg.Fem Gerechtigkeit))
+        (VVPP-HD gesprochen))
+      (VAINF-HD werden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (S-SB
+      (PWS-SB-Nom.Sg.Masc Wer)
+      (PN-OA-Acc.Sg
+        (NE-HD-Acc.Sg später))
+      (VVFIN-HD-Sg studiert))
+    (\$, ,)
+    (VVFIN-HD-Sg entscheidet)
+    (PRF-OA-Acc.Sg sich)
+    (ADV-MO\/V ohnehin)
+    (ADV-MO\/V bereits)
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in in)
+      (CARD-HD früheren)
+      (NN-HD-Dat.Pl.Neut Jahren)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-EP
+      (PPER-HD-Nom.Sg.Neut\/ep Es))
+    (VAFIN-HD-Sg ist)
+    (ADV-MO\/V jederzeit)
+    (NP-PD
+      (NN-HD-Nom.Sg.Fem möglich))
+    (\$, ,)
+    (CVP-RE
+      (VP-RE
+        (NP-OA
+          (ART-HD-Acc.Sg.Masc einen)
+          (NN-HD-Acc.Sg.Masc Studienkredit))
+        (VVIZU-HD aufzunehmen))
+      (KON-CD oder)
+      (VP-RE
+        (PRF-DA-Dat.Sg sich)
+        (NP-OA
+          (ART-HD-Acc.Sg.Neut ein)
+          (NN-HD-Acc.Sg.Neut Stipendium))
+        (VZ-HD
+          (PTKZU-PM zu)
+          (VVINF-HD erarbeiten)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (VP-SB
+      (NP-OA
+        (NE-HD-Nom.Sg.Masc Nichtakademiker)
+        (NE-HD über)
+        (NE-HD-Acc.Sg.Masc Steuerabgaben))
+      (PP-MO\/V
+        (PROAV-PH dazu))
+      (VZ-HD
+        (PTKZU-PM zu)
+        (VVINF-HD verpflichten))
+      (\$, ,)
+      (VP-RE
+        (NP-DA
+          (PIS-HD-Dat.Pl anderen))
+        (NP-OA
+          (ART-HD-Acc.Sg.Neut das)
+          (NN-HD-Acc.Sg.Neut Studium))
+        (VZ-HD
+          (PTKZU-PM zu)
+          (VVINF-HD finanzieren))))
+    (\$, ,)
+    (VVFIN-HD-Sg scheint)
+    (PROAV-MO dagegen)
+    (AP-MO\/pred
+      (PTKNEG-NG nicht)
+      (ADJD-HD-Pos\/0 gerecht)))
+  (\$. .))

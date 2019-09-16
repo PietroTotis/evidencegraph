@@ -1,0 +1,126 @@
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (PP-MO\/V
+        (APPR-AC\/Acc\/durch Durch)
+        (ART-HD-Acc.Sg.Masc den)
+        (NN-HD-Acc.Sg.Masc Ankauf)
+        (PP-PG\/N
+          (APPR-AC\/Dat\/von von)
+          (AP-HD-Pos.Dat.Pl.Fem
+            (ADJD-MO-Pos\/0 illegal)
+            (ADJA-HD-Pos.Dat.Pl.Fem erworbenen))
+          (NN-HD-Dat.Pl.Fem Steuerdaten)
+          (PP-PG\/N
+            (APPR-AC\/Dat\/von von)
+            (NE-HD-Dat.Sg Bürgern))))
+      (VVFIN-HD-Sg macht)
+      (PRF-OA-Acc.Sg sich)
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Masc der)
+        (NN-HD-Nom.Sg.Masc Staat)
+        (ADV-MNR\/N selbst))
+      (PP-MO\/V
+        (AVP-MO\/N
+          (PTKNEG-NG nicht)
+          (ADV-HD\/N nur))
+        (APPRART-AC-Dat.Sg.Neut zum)
+        (NN-HD-Dat.Sg.Neut Verbrecher)))
+    (\$, ,)
+    (KON-CD sondern)
+    (S-TOP\/nosubj
+      (VVFIN-HD-Sg bezahlt)
+      (ADV-MO\/V auch)
+      (NP-OA
+        (ADV-MO\/N noch)
+        (NN-HD-Acc.Pl Kriminelle))))
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (AVP-MO\/V
+      (S-PAR
+        (PROAV-MO Zudem)
+        (VAFIN-HD-Sg ist)
+        (NP-SB\/Sg
+          (ART-HD-Nom.Sg.Masc der)
+          (NN-HD-Nom.Sg.Masc Ankauf)
+          (NP-AG
+            (PIAT-HD-Gen.Pl.Fem solcher)
+            (NN-HD-Gen.Pl.Fem CDs)))
+        (VAFIN-HD-Sg ist))
+      (ADV-HD\/V heute))
+    (PN-SB-Nom.Sg
+      (NE-HD-Nom.Sg unnötig))
+    (\$, ,)
+    (S-RE
+      (KOUS-CP\/re da)
+      (NP-SB\/Pl
+        (PIAT-HD-Nom.Pl.Fem viele)
+        (NN-HD-Nom.Pl.Fem Banken))
+      (PP-MO\/V
+        (APPR-AC wegen)
+        (CARD-HD geänderter)
+        (NN-HD-Neut Geschäftsbedingungen))
+      (NP-OA
+        (PPOSAT-HD-Acc.Pl.Masc ihre)
+        (NN-HD-Acc.Pl.Masc Kunden))
+      (ADV-MO\/V selbst)
+      (NP-SB\/Pl
+        (NN-HD-Nom.Pl drängen))
+      (PRF-OA-Acc.Pl sich)
+      (VVFIN-HD-Pl anzuzeigen)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc Ein)
+      (NN-HD-Nom.Sg.Masc Ankauf)
+      (PP-PG\/N
+        (APPR-AC\/Dat\/von von)
+        (NN-HD-Dat.Pl.Fem CDs)
+        (PP-MNR\/N
+          (APPR-AC\/Dat mit)
+          (NN-HD-Dat.Pl.Fem Steuerdaten)
+          (PP-PG\/N
+            (APPR-AC\/Dat\/von von)
+            (NE-HD-Dat.Sg Steuersündern)))))
+    (VVFIN-HD-Sg kommt)
+    (PROAV-MO daher)
+    (PTKNEG-NG nicht)
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in in)
+      (NN-HD-Dat.Sg.Fem Frage)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADJD-PD-Pos\/V Unbestritten)
+    (VAFIN-HD-Sg ist)
+    (ADV-MO\/V aber)
+    (\$, ,)
+    (S-SB
+      (KOUS-CP\/sb dass)
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Masc der)
+        (NN-HD-Nom.Sg.Masc Staat)
+        (PP-MNR\/N
+          (APPR-AC\/Acc\/durch durch)
+          (ART-HD-Acc.Sg.Masc den)
+          (NN-HD-Acc.Sg.Masc Ankauf)))
+      (NP-OA
+        (ART-HD-Acc.Sg.Masc den)
+        (NN-HD-Acc.Sg.Masc Druck)
+        (PP-MNR\/N
+          (APPR-AC\/auf auf)
+          (CARD-HD Steuersünder)
+          (NN-HD-Neut erhöht)))
+      (\$, ,)
+      (VP-RE
+        (NP-OA
+          (PRF-HD-Acc.Sg sich)
+          (ADV-MNR\/N selbst))
+        (VVIZU-HD anzuzeigen))))
+  (\$. .))

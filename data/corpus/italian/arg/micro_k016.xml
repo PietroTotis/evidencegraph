@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_k016" topic_id="EU_influence_on_political_events_in_Ukraine" stance="con">
+  <edu id="e1"><![CDATA[Nonostante la forte e talvolta pericolosa escalation di conflitti a Kiev,]]></edu>
+  <edu id="e2"><![CDATA[l'Unione Europea non dovrebbe interferire negli eventi politici che si verificano in Ucraina.]]></edu>
+  <edu id="e3"><![CDATA[Sebbene questa sia un paese europeo]]></edu>
+  <edu id="e4"><![CDATA[e l'opposizione ucraina sia interessata principalmente alla realizzazione di una democrazia sostenibile,]]></edu>
+  <edu id="e5"><![CDATA[i possibili sostenitori si scontrano con l'ingerenza della Russia nelle politiche del paese.]]></edu>
+  <adu id="a1" type="opp"/>
+  <adu id="a2" type="pro"/>
+  <adu id="a3" type="opp"/>
+  <adu id="a4" type="opp"/>
+  <adu id="a5" type="pro"/>
+  <edge id="c6" src="e1" trg="a1" type="seg"/>
+  <edge id="c7" src="e2" trg="a2" type="seg"/>
+  <edge id="c8" src="e3" trg="a3" type="seg"/>
+  <edge id="c9" src="e4" trg="a4" type="seg"/>
+  <edge id="c10" src="e5" trg="a5" type="seg"/>
+  <edge id="c1" src="a1" trg="a2" type="reb"/>
+  <edge id="c3" src="a3" trg="a2" type="reb"/>
+  <edge id="c4" src="a4" trg="a2" type="reb"/>
+  <edge id="c5" src="a5" trg="a2" type="sup"/>
+</arggraph>

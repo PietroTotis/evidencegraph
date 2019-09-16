@@ -1,0 +1,118 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl Die)
+      (NN-HD-Nom.Pl Universitäten)
+      (PP-MNR\/N
+        (APPR-AC\/Dat\/in in)
+        (NE-HD-Dat.Sg.Neut Deutschland)))
+    (VMFIN-HD-Pl sollten)
+    (VP-OC\/inf
+      (PP-MO\/V
+        (APPR-AC\/Acc\/auf auf)
+        (PIAT-HD-Acc.Sg.Masc keinen)
+        (NN-HD-Acc.Sg.Masc Fall))
+      (PN-OA-Acc.Sg
+        (NE-HD-Acc.Sg Studiengebühren))
+      (VVINF-HD erheben)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP\/nohead
+      (PROAV-MO Dadurch)
+      (NP-SB
+        (NN-HD würde))
+      (VP-OC\/pp
+        (ADJD-MO-Pos\/V finanziell)
+        (NP-OA
+          (CARD-HD schwächer)
+          (NN-HD-Nom.Pl.Fem Gestellten)
+          (NP-HD
+            (ART-HD-Nom.Sg.Masc der)
+            (NN-HD-Nom.Sg.Masc Zugang)))
+        (VVPP-HD erschwert)))
+    (KON-CD oder)
+    (S-TOP\/nohead\/nosubj
+      (VP-OC\/pp
+        (VVPP-HD verwehrt))))
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl.Neut Die)
+      (ADJA-HD-Pos.Nom.Pl.Neut erhofften)
+      (NN-HD-Nom.Pl.Neut Ziele)
+      (PP-MNR\/N
+        (APPR-AC\/von von)
+        (CARD-HD Studiengebühren)
+        (NN-HD-Neut können)))
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (PP-MO\/V
+          (APPR-AC\/Acc\/auf auf)
+          (ADJA-HD-Pos.Acc.Sg.Fem andere)
+          (NN-HD-Acc.Sg.Fem Weise))
+        (VVPP-HD erreicht))
+      (VAINF-HD werden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KOUS-CP Als)
+    (NP-SB\/Sg
+      (NN-HD-Nom.Sg.Fem Motivation)
+      (NE-HD-Nom.Sg.Fem für))
+    (NP-OA
+      (ART-HD-Acc.Sg.Fem eine)
+      (ADJA-HD-Comp.Acc.Sg.Fem straffere)
+      (NN-HD-Acc.Sg.Fem Studiendisziplin))
+    (VVFIN-HD-Sg gibt)
+    (NP-EP
+      (PPER-HD-Nom.Sg.Neut\/ep es))
+    (NP-OA
+      (ADJA-HD-Pos.Acc.Pl.Fem andere)
+      (NN-HD-Acc.Pl.Fem Instrumentarien)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KON-JU Und)
+    (PP-OP\/V
+      (APPRART-AC-Dat.Sg.Fem zur)
+      (NN-HD-Dat.Sg.Fem Finanzierung))
+    (VMFIN-HD-Sg sollte)
+    (VP-OC\/inf
+      (NP-PD
+        (PN-HD
+          (XY-PNC u.)
+          (XY-PNC a.)
+          (XY-PNC geprüft)))
+      (VAINF-HD werden))
+    (\$, ,)
+    (S-MO
+      (PWAV-MO wie)
+      (PP-MO\/V
+        (PP-MO\/N
+          (APPR-AC\/Dat bei)
+          (NN-HD-Dat.Pl.Masc Studenten))
+        (APPR-AC\/Dat aus)
+        (ADJA-HD-Pos.Dat.Pl.Masc anderen)
+        (\$Par \()
+        (TRUNCCap-HD Bundes-)
+        (\$Par \))
+        (NN-HD-Dat.Sg.Fem Ländern))
+      (NP-SB\/Pl
+        (ART-HD-Nom.Pl die)
+        (NN-HD-Nom.Pl Kosten))
+      (VP-OC\/zu
+        (PP-MO\/V
+          (APPR-AC\/Dat\/von von)
+          (PDS-HD-Dat.Pl diesen))
+        (VZ-HD
+          (PTKZU-PM zu)
+          (VVINF-HD erstatten)))
+      (VAFIN-HD-Pl sind)))
+  (\$. .))

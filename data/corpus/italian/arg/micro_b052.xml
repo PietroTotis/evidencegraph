@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_b052" topic_id="keep_retirement_at_63" stance="con">
+  <edu id="e1"><![CDATA[Sebbene il carico di lavoro in molte professioni stia diventando sempre più pesante]]></edu>
+  <edu id="e2"><![CDATA[e l'usura sia fisica che mentale del personale stia aumentando,]]></edu>
+  <edu id="e3"><![CDATA[in futuro l'età pensionabile non dovrebbe più essere di 63 anni.]]></edu>
+  <edu id="e4"><![CDATA[A causa del basso tasso di natalità, la percentuale della popolazione anziana e quindi i costi pensionistici sono in aumento,]]></edu>
+  <edu id="e5"><![CDATA[e inoltre grazie alla medicina di oggi la maggior parte delle persone in molte professioni è ancora in grado di lavorare fino a età più avanzate rispetto a prima.]]></edu>
+  <adu id="a1" type="opp"/>
+  <adu id="a2" type="opp"/>
+  <adu id="a3" type="pro"/>
+  <adu id="a4" type="pro"/>
+  <adu id="a5" type="pro"/>
+  <edge id="c6" src="e1" trg="a1" type="seg"/>
+  <edge id="c7" src="e2" trg="a2" type="seg"/>
+  <edge id="c8" src="e3" trg="a3" type="seg"/>
+  <edge id="c9" src="e4" trg="a4" type="seg"/>
+  <edge id="c10" src="e5" trg="a5" type="seg"/>
+  <edge id="c1" src="a1" trg="a3" type="reb"/>
+  <edge id="c2" src="a2" trg="a3" type="reb"/>
+  <edge id="c4" src="a4" trg="a3" type="sup"/>
+  <edge id="c5" src="a5" trg="a3" type="sup"/>
+</arggraph>
+   

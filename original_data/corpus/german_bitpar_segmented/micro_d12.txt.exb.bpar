@@ -1,0 +1,71 @@
+
+(TOP
+  (S-TOP
+    (NP-OA
+      (ART-HD-Acc.Sg.Neut Das)
+      (ADJA-HD-Pos.Acc.Sg.Neut neue)
+      (NN-HD-Acc.Sg.Neut Smartphone)
+      (NE-HD-Nom XYZ-123))
+    (VMFIN-HD-Sg kann)
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg ich))
+    (VP-OC\/inf
+      (NP-DA
+        (PIS-HD-Dat.Sg.Masc jedem)
+        (ADV-MO\/N nur))
+      (VVINF-HD empfehlen)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (ADV-MO\/V Zwar)
+      (NP-OA
+        (NN-HD-Acc.Sg.Fem könnte))
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Fem die)
+        (NN-HD-Nom.Sg.Fem Kamera))
+      (VP-OC\/inf
+        (AP-PD\/pred
+          (ADV-MO\/0 noch)
+          (ADJD-HD-Comp\/0 besser))
+        (VAINF-HD sein)))
+    (\$, ,)
+    (KON-CD denn)
+    (CS-TOP
+      (S-TOP
+        (NP-SB\/Sg
+          (PPER-HD-Nom.Sg.Fem sie))
+        (VAFIN-HD-Sg hat)
+        (ADV-MO\/V nur)
+        (NP-OA
+          (ART-HD-Acc.Sg.Fem eine)
+          (CH-HD
+            (FM-UC mittelmäßige)
+            (FM-UC Auflösung))))
+      (KON-CD und)
+      (S-TOP
+        (PP-MO\/V
+          (APPR-AC\/Dat\/in in)
+          (ADJA-HD-Pos.Dat.Pl.Fem dunklen)
+          (NN-HD-Dat.Pl.Fem Umgebungen))
+        (VAFIN-HD-Pl sind)
+        (NP-SB\/Pl
+          (ART-HD-Nom.Pl.Neut die)
+          (NN-HD-Nom.Pl.Neut Bilder))
+        (VP-OC\/pp
+          (ADJD-MO-Pos\/V schnell)
+          (VVPP-HD verrauscht)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KON-JU Aber)
+    (NP-OA
+      (CARD-HD für)
+      (NN-HD-Neut Schnappschüsse))
+    (VVFIN-HD-Sg reicht)
+    (NP-EP
+      (PPER-HD-Nom.Sg.Neut\/ep es))
+    (ADV-MO\/V dennoch))
+  (\$. .))

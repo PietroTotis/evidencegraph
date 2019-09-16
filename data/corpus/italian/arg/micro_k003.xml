@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_k003" topic_id="increase_weight_of_BA_thesis_in_final_grade" stance="con">
+  <edu id="e1"><![CDATA[Nei corsi di laurea linguistica, gli studenti di solito hanno solo otto settimane per scrivere la loro tesi di laurea.]]></edu>
+  <edu id="e2"><![CDATA[Tuttavia, correggere la porzione del voto complessivo dando un peso eccessivo non sarebbe proporzionato agli altri risultati accademici e agli esami.]]></edu>
+  <edu id="e3"><![CDATA[Occorre pertanto mantenere le attuali regole di calcolo del voto finale. ]]></edu>
+  <edu id="e4"><![CDATA[Infatti la preparazione di un articolo scientifico di questo tipo è una delle competenze di base che devono essere acquisite durante un percorso di studi filologico.]]></edu>
+  <edu id="e5"><![CDATA[Nei sei o sette semestri di studio tuttavia vengono impartiti contenuti che devono avere la stessa importanza.]]></edu>
+  <adu id="a1" type="pro"/>
+  <adu id="a2" type="pro"/>
+  <adu id="a3" type="pro"/>
+  <adu id="a4" type="opp"/>
+  <adu id="a5" type="pro"/>
+  <edge id="c6" src="e1" trg="a1" type="seg"/>
+  <edge id="c7" src="e2" trg="a2" type="seg"/>
+  <edge id="c8" src="e3" trg="a3" type="seg"/>
+  <edge id="c9" src="e4" trg="a4" type="seg"/>
+  <edge id="c10" src="e5" trg="a5" type="seg"/>
+  <edge id="c1" src="a1" trg="a3" type="sup"/>
+  <edge id="c2" src="a2" trg="c1" type="add"/>
+  <edge id="c4" src="a4" trg="a3" type="reb"/>
+  <edge id="c5" src="a5" trg="c4" type="und"/>
+</arggraph> 

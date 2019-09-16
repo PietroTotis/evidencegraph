@@ -1,16 +1,16 @@
 # -*- coding: utf-8 -*-
 
-"""
+'''
 @author: Andreas Peldszus
-"""
-from __future__ import print_function
+'''
 
-import sys
-
+from scipy.spatial.distance import cosine
 import numpy as np
+import sys
 
 
 class BasicWeightingSearch(object):
+
     def __init__(self, calc_function):
         """
         An abstract search for the best weighting, represented as a
@@ -55,7 +55,7 @@ class BasicWeightingSearch(object):
 
         >>> s = BasicWeightingSearch(lambda *x: 1.0)
         >>> r = s._random_weighting()
-        >>> abs(1 - sum(r)) < 1e-6
+        >>> 0.9 <= sum(r) <= 1.0
         True
         """
         x = np.random.random(4)
@@ -79,20 +79,18 @@ class BasicWeightingSearch(object):
         n = len(self.scores)
         min_score = min(self.scores.values())
         max_score = max(self.scores.values())
-        print (
-            "Searched {} weightings, scoring from {} up to {}.".format(
-                n, min_score, max_score
-            )
+        print( "Searched {} weightings, scoring from {} up to {}.".format( 
+            n, min_score, max_score)
         )
 
 
 class ThrowRiceSearch(BasicWeightingSearch):
+
     def __init__(self, calc_function, n=99):
         """
         A very simple search, which draws `n` random
         weightings and tests the score of all of them.
 
-        >>> from scipy.spatial.distance import cosine
         >>> f = lambda *w: 1.0 / cosine(w, [0.5, 0.3, 0.2, 0.0])
         >>> s = ThrowRiceSearch(f, n=1000)
         >>> s.search()
@@ -104,38 +102,31 @@ class ThrowRiceSearch(BasicWeightingSearch):
         self.n = n
 
     def search(self, verbose=False):
-        weightings_to_search_in = [(0.25, 0.25, 0.25, 0.25)] + [
-            self._random_weighting() for _ in range(self.n)
-        ]
+        weightings_to_search_in = [(.25, .25, .25, .25)] + [
+            self._random_weighting() for _ in range(self.n)]
         searched_weightings = 0
         for weighting in weightings_to_search_in:
             if searched_weightings > 0 and searched_weightings % 100 == 0:
                 if verbose:
-                    sys.stdout.write("\n")
+                    sys.stdout.write('\n')
             if verbose:
-                sys.stdout.write(".")
+                sys.stdout.write('.')
             searched_weightings += 1
             self.test_weighting(*weighting)
         if verbose:
-            print ("!")
+            print( '!' )
 
 
 class EvolutionarySearch(BasicWeightingSearch):
-    def __init__(
-        self,
-        calc_function,
-        n_to_start_with=20,
-        n_to_keep_proportion=0.25,
-        factor=0.5,
-        stop_after=1e-4,
-        stop_after_step=3,
-    ):
+
+    def __init__(self, calc_function, n_to_start_with=20,
+                 n_to_keep_proportion=.25, factor=0.5,
+                 stop_after=1e-4, stop_after_step=3):
         """
         A simple evolutionary search, which starts with some randomly
         drawn weightings, and then gradually refines the best weightings
         by randomly jittering them with a decreasing jitter rate.
 
-        >>> from scipy.spatial.distance import cosine
         >>> f = lambda *w: 1.0 / cosine(w, [0.5, 0.3, 0.2, 0.0])
         >>> s = EvolutionarySearch(f)
         >>> s.search()
@@ -149,13 +140,14 @@ class EvolutionarySearch(BasicWeightingSearch):
         self.factor = factor
         self.stop_after = stop_after
         self.stop_after_step = stop_after_step
+        
 
     def search(self, verbose=False):
+       
         n_to_keep = int(self.n_to_start_with * self.n_to_keep_proportion)
         # start by scoring the first weightings
-        weightings_to_start_with = [(0.25, 0.25, 0.25, 0.25)] + [
-            self._random_weighting() for _ in range(self.n_to_start_with)
-        ]
+        weightings_to_start_with = [(.25, .25, .25, .25)] + [
+            self._random_weighting() for _ in range(self.n_to_start_with)]
         for weighting in weightings_to_start_with:
             self.test_weighting(*weighting)
         # then get top n_to_keep_proportion weighings and jitter them
@@ -164,12 +156,9 @@ class EvolutionarySearch(BasicWeightingSearch):
         step = 0
         while True:
             top_weightings = sorted(
-                [
-                    (score, weighting)
-                    for weighting, score in self.scores.iteritems()
-                ],
-                reverse=True,
-            )
+                [(score, weighting)
+                 for weighting, score in self.scores.items()],
+                reverse=True)
             # stoping criterion
             top_score = top_weightings[0][0]
             if (top_score - last_top_score) < self.stop_after:
@@ -183,9 +172,8 @@ class EvolutionarySearch(BasicWeightingSearch):
             rate = rate * self.factor
             if verbose:
                 best = top_weightings[0]
-                print (
-                    "### rate=%.4f - top weighting: score=%.3f weighting=(%s)"
-                    % (rate, best[0], ", ".join(["%.3f" % w for w in best[1]]))
+                print( "### rate=%.4f - top weighting: score=%.3f weighting=(%s)" % ( 
+                    rate, best[0], ', '.join(['%.3f' % w for w in best[1]]))
                 )
             # jitter!
             for _score, weighting in top_weightings[:n_to_keep]:

@@ -1,0 +1,69 @@
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (PP-MO\/V
+        (APPR-AC\/Dat\/in In)
+        (PIAT-HD-Dat.Pl.Neut wenigen)
+        (NN-HD-Dat.Pl.Neut Jahrzehnten))
+      (VAFIN-HD-Sg wird)
+      (NP-SB\/Sg
+        (PPOSAT-HD-Nom.Sg.Fem unsere)
+        (NN-HD-Nom.Sg.Fem Gesellschaft)
+        (NE-HD-Nom.Sg.Fem überaltert))
+      (VP-OC\/inf
+        (VAINF-HD sein)))
+    (\$. :)
+    (S-TOP
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Fem Die)
+        (NN-HD-Nom.Sg.Fem Lebenserwartung))
+      (VVFIN-HD-Sg steigt)
+      (ADJD-MO-Pos\/V kontinuierlich)
+      (\$, ,)
+      (S-OC
+        (ADJD-MO-Pos\/V gleichzeitig)
+        (VVFIN-HD-Sg geht)
+        (NP-SB\/Sg
+          (ART-HD-Nom.Sg.Fem die)
+          (NN-HD-Nom.Sg.Fem Geburtenrate)
+          (NE-HD zurück)))))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (ADV-MO\/V Zwar)
+      (VAFIN-HD-Sg ist)
+      (NP-SB\/Sg
+        (NN-HD-Nom.Sg.Neut Kinderkriegen)
+        (PP-MNR\/N
+          (APPR-AC\/Dat\/in in)
+          (ART-HD-Dat.Pl.Neut den)
+          (ADJA-HD-Pos.Dat.Pl.Neut letzten)
+          (NN-HD-Dat.Pl.Neut Jahren)))
+      (VP-OC\/pp
+        (ADV-MO\/V wieder)
+        (PP-CVC\/V
+          (APPR-AC\/Acc\/in in)
+          (NN-HD-Acc.Sg.Fem Mode))
+        (VVPP-HD gekommen)))
+    (\$, ,)
+    (KON-CD aber)
+    (S-TOP\/nosubj
+      (VVFIN-HD-Sg diese)
+      (NP-OA
+        (ADJA-HD-Pos.Acc.Pl.Fem kurzfristigen)
+        (NN-HD-Acc.Pl.Fem Schwankungen)
+        (NP-AG
+          (ART-HD-Gen.Sg.Fem der)
+          (NN-HD-Gen.Sg.Fem Geburtenrate)
+          (PN-HD-Nom.Sg
+            (NE-PNC ändern)
+            (NE-PNC-Nom.Sg nichts))))
+      (PP-MO\/V
+        (APPR-AC\/Dat an)
+        (ART-HD-Dat.Sg.Fem der)
+        (ADJA-HD-Pos.Dat.Sg.Fem generellen)
+        (NN-HD-Dat.Sg.Fem Entwicklung))))
+  (\$. .))

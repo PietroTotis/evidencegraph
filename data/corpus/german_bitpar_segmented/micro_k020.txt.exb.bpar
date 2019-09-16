@@ -1,0 +1,94 @@
+
+(TOP
+  (S-TOP
+    (PP-MO\/V
+      (APPR-AC Trotz)
+      (NN-HD-Sg.Fem Todesstrafe))
+    (VVFIN-HD-Pl geschehen)
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in in)
+      (ART-HD-Dat.Pl den)
+      (NE-HD-Dat.Pl USA))
+    (ADJD-MO-Pos\/V signifikant)
+    (NP-OA
+      (AP-HD
+        (PIAT-HD mehr))
+      (NN-HD-Acc.Pl.Masc Morde)
+      (PP-CC\/N
+        (KOKOM-CM als)
+        (APPR-AC\/Dat\/in in)
+        (NE-HD-Dat.Sg.Neut Deutschland))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-OA
+      (ART-HD-Acc.Sg.Fem Die)
+      (NN-HD-Acc.Sg.Fem Angst)
+      (PP-MNR\/N
+        (APPR-AC\/Dat vor)
+        (NN-HD-Dat.Sg.Fem Bestrafung)))
+    (VVFIN-HD-Sg schreckt)
+    (PN-SB-Nom.Sg
+      (NE-HD-Nom.Sg Mörder))
+    (ADV-MO\/V also)
+    (PTKNEG-NG nicht)
+    (PTKVZ-SVP ab))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (\$Par \")
+    (NP-MO
+      (NN-HD-Nom.Sg.Neut Auge)
+      (PP-MNR\/N
+        (APPR-AC\/Acc\/um um)
+        (NN-HD-Acc.Sg.Neut Auge)))
+    (\$Par \")
+    (VVFIN-HD-Sg scheint)
+    (VP-OC\/zu
+      (NP-OA
+        (PPOSAT-HD-Acc.Sg.Masc seinen)
+        (NN-HD-Acc.Sg.Masc Sinn))
+      (VZ-HD
+        (PTKZU-PM zu)
+        (VVINF-HD verfehlen))))
+  (\$. .))
+
+(TOP
+  (CO-TOP
+    (S-TOP
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Masc Der)
+        (NN-HD-Nom.Sg.Masc Staat))
+      (VMFIN-HD-Sg soll)
+      (VP-OC\/inf
+        (NP-OA
+          (NN-HD-Acc.Pl.Masc Morde))
+        (VVINF-HD verhindern)))
+    (\$Par -)
+    (NP-TOP
+      (PTKNEG-NG nicht)
+      (NN-HD-Nom.Pl.Neut rächen)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Eine)
+      (NN-HD-Nom.Sg.Fem Wiedereinführung)
+      (NP-AG
+        (ART-HD-Gen.Sg.Fem der)
+        (NN-HD-Gen.Sg.Fem Todesstrafe))
+      (PP-MNR\/N
+        (APPR-AC\/Dat\/in in)
+        (NE-HD-Dat.Sg.Neut Deutschland)))
+    (NP-PD
+      (NN-HD-Nom.Sg.Masc wäre)
+      (NP-AG
+        (ART-HD ein)
+        (NN-HD Rückschritt)
+        (PP-MNR\/N
+          (APPRART-AC-Acc.Sg.Neut\/in ins)
+          (NN-HD-Acc.Sg.Neut Mittelalter)))))
+  (\$. .))

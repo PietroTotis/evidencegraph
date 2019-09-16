@@ -1,0 +1,56 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg Ich))
+    (VVFIN-HD-Sg halte)
+    (NP-OA
+      (ART-HD-Acc.Sg.Fem eine)
+      (NN-HD-Acc.Sg.Fem Randbebauung)
+      (NP-AG
+        (ART-HD-Gen.Sg.Masc des)
+        (ADJA-HD-Pos Tempelhofer)
+        (NN-HD-Gen.Sg.Masc Feldes))
+      (PP-MNR\/N
+        (APPR-AC aus)
+        (CH-HD
+          (FM-UC städtebaulichen)
+          (FM-UC Gründen)
+          (FM-UC für))))
+    (ADJD-MO-Pos\/V richtig)
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo da)
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Neut das)
+        (NN-HD-Nom.Sg.Neut Areal)
+        (PP-MNR\/N
+          (ADV-MO\/N mitten)
+          (APPR-AC\/Dat\/in in)
+          (ART-HD-Dat.Sg.Fem der)
+          (NN-HD-Dat.Sg.Fem Stadt)
+          (\$Par \()
+          (NN-HD-Dat.Sg.Fem Hauptstadt)
+          (\$Par \))))
+      (VVFIN-HD-Sg liegt)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Die)
+      (NN-HD-Nom.Sg.Fem Größe)
+      (NP-AG
+        (ART-HD-Gen.Sg.Masc des)
+        (NN-HD-Gen.Sg.Masc Feldes)
+        (NE-HD-Nom.Sg lässt)))
+    (VVFIN-HD-Sg sowohl)
+    (NP-OA
+      (NN-HD-Acc.Sg.Fem Wohnbebauung)
+      (PP-MNR\/N
+        (APPR-AC als)
+        (ADV-MO\/N auch)
+        (CARD-HD großzügige)
+        (NN-HD-Neut Freiräume)))
+    (PTKVZ-SVP zu))
+  (\$. .))

@@ -1,0 +1,112 @@
+
+(TOP
+  (S-TOP
+    (CS-MO
+      (S-MO
+        (KOUS-CP\/mo Obwohl)
+        (PRF-OA-Acc.Sg sich)
+        (NP-SB\/Sg
+          (ART-HD-Nom.Sg.Fem die)
+          (NN-HD-Nom.Sg.Fem Arbeitsdichte))
+        (PP-MO\/V
+          (APPR-AC\/Dat\/in in)
+          (PIAT-HD-Dat.Pl.Masc vielen)
+          (NN-HD-Dat.Pl.Masc Berufen))
+        (AVP-MO\/V
+          (ADV-MO\/V immer)
+          (ADV-HD\/V mehr))
+        (VVFIN-HD-Sg verdichtet))
+      (KON-CD und)
+      (S-MO
+        (NP-SB\/Sg
+          (ART-HD-Nom.Sg.Masc der)
+          (ADJA-HD-Pos.Nom.Sg.Masc personelle)
+          (NN-HD-Nom.Sg.Masc Verschleiß))
+        (NP-OA
+          (AP-MO\/pred
+            (CAP-MO
+              (ADJD-MO-Pos\/0 physisch)
+              (KON-CD und)
+              (ADJD-MO-Pos\/0 psychisch))
+            (ADJD-HD-Comp\/0 immer))
+          (PIS-HD mehr))
+        (VVFIN-HD-Sg steigt)))
+    (\$, ,)
+    (VMFIN-HD-Sg sollte)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Neut das)
+      (NN-HD-Nom.Sg.Neut Rentenalter))
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in in)
+      (NN-HD-Dat.Sg.Fem Zukunft))
+    (AVP-NG\/V
+      (PTKNEG-HD nicht)
+      (ADV-MO\/V weiter))
+    (VP-OC\/inf
+      (PP-MO\/V
+        (APPR-AC\/Dat bei)
+        (AP-HD
+          (ADV-MO\/card nur)
+          (CARD-HD 63))
+        (NN-HD-Dat.Pl.Neut Jahren))
+      (VVINF-HD liegen)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KON-JU Denn)
+    (PP-MO\/V
+      (APPR-AC\/Acc\/durch durch)
+      (ART-HD-Acc.Sg.Fem die)
+      (ADJA-HD-Pos.Acc.Sg.Fem niedrige)
+      (NN-HD-Acc.Sg.Fem Geburtenrate)
+      (NP-AG
+        (ADJA-HD-Pos.Dat.Sg.Fem wächst)
+        (CNP-HD
+          (NP-HD
+            (ART-HD-Nom.Sg.Masc der)
+            (NN-HD-Nom.Sg.Masc Anteil)
+            (NP-AG
+              (ART-HD-Dat.Sg.Fem der)
+              (ADJA-HD-Pos.Dat.Sg.Fem alten)
+              (NN-HD-Dat.Sg.Fem Bevölkerung)))
+          (KON-CD und)
+          (NP-HD
+            (PP-MO\/N
+              (PROAV-PH damit))
+            (ART-HD-Nom.Pl.Fem die)
+            (NN-HD-Nom.Pl.Fem Rentenkosten)
+            (CNP-HD
+              (PN-HD
+                (S-PNC\/nohead
+                  (ADV-MO\/V immer)
+                  (NP-OA
+                    (PIS-HD mehr))))
+              (KON-CD und)
+              (NE-HD außerdem))))))
+    (VAFIN-HD-Pl sind)
+    (PP-MO\/V
+      (APPR-AC\/Acc\/durch durch)
+      (ART-HD-Acc.Sg.Fem die)
+      (ADJA-HD-Pos.Acc.Sg.Fem heutige)
+      (NN-HD-Acc.Sg.Fem Medizin))
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in in)
+      (PIAT-HD-Dat.Pl.Masc vielen)
+      (NN-HD-Dat.Pl.Masc Berufssparten))
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl.Masc die)
+      (PIAT-HD-Nom.Pl.Masc meisten)
+      (NN-HD-Nom.Pl.Masc Menschen))
+    (PP-MO\/V
+      (ADV-MO\/N auch)
+      (APPRART-AC-Dat.Sg.Neut\/in im)
+      (ADJA-HD-Pos.Dat.Sg.Neut hohen)
+      (NN-HD-Dat.Sg.Neut Alter))
+    (ADV-MO\/V noch)
+    (NP-PD
+      (CH-HD
+        (FM-UC einsatzfähiger)
+        (FM-UC als))
+      (FM-HD früher)))
+  (\$. .))

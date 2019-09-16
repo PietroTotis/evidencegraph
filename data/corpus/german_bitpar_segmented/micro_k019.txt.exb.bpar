@@ -1,0 +1,139 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc Der)
+      (NN-HD-Nom.Sg.Masc Gedanke)
+      (PP-MNR\/N
+        (APPR-AC\/Acc an)
+        (ART-HD-Acc.Sg.Fem eine)
+        (NN-HD-Acc.Sg.Fem Fernsehlandschaft)
+        (PP-MNR\/N
+          (APPR-AC\/Dat mit)
+          (AP-HD-Pos.Dat.Sg.Fem
+            (ADV-MO\/0 nur)
+            (ADV-MO\/0 noch)
+            (ADJA-HD-Pos.Dat.Sg.Fem privaten))
+          (NN-HD-Dat.Sg.Fem Kanälen))))
+    (VVFIN-HD-Sg macht)
+    (NP-DA
+      (PPER-HD-Dat.Sg mir))
+    (NP-OA
+      (NN-HD-Acc.Sg.Fem Angst)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Zwar)
+    (VAFIN-HD-Pl sind)
+    (CNP-SB
+      (PN-SB\/chain-Nom.Sg
+        (NE-HD-Nom.Sg Trash))
+      (KON-CD und)
+      (PN-SB\/chain-Nom.Sg
+        (NE-HD-Nom.Sg Krawall)))
+    (NP-OA
+      (ADJD-MO-Pos\/N genau)
+      (PDS-HD-Acc.Sg.Neut das)
+      (\$, ,)
+      (S-RC
+        (NP-SB\/Sg\/rel
+          (PRELS-HD-Nom.Sg.Neut was))
+        (VP-OC\/inf
+          (NP-OA
+            (ART-HD-Acc.Sg.Fem eine)
+            (NN-HD-Acc.Sg.Fem Mehrheit)
+            (NP-AG
+              (ART-HD-Gen.Pl.Masc der)
+              (NN-HD-Gen.Pl.Masc Menschen)))
+          (VVINF-HD sehen))
+        (VMFIN-HD-Sg will))))
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (VP-OC\/zu
+      (PROAV-MO Deshalb)
+      (NP-OA
+        (ADV-MO\/N aber)
+        (NN-HD-Acc.Sg.Neut Fernsehen))
+      (ADV-MO\/V nur)
+      (ADV-MO\/V noch)
+      (PP-MO\/V
+        (APPR-AC\/Dat an)
+        (NN-HD-Dat.Pl.Masc Einschaltquoten))
+      (ADJD-MO-Pos\/V orientiert)
+      (VVIZU-HD anzubieten))
+    (NP-SB\/Pl
+      (CARD-HD wäre)
+      (NN-HD-Nom.Pl gefährlich)))
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (PP-MO\/V
+      (ADV-MO\/N Nur)
+      (APPR-AC\/Dat\/in in)
+      (CARD-HD öffentlich-rechtlichen)
+      (NN-HD-Dat.Pl.Fem Fernsehsendungen))
+    (NP-SB\/Pl
+      (CARD-HD können)
+      (NN-HD-Nom.Pl.Masc Zuschauer))
+    (VP-OC\/inf
+      (NP-OA
+        (NN-HD-Acc.Pl.Fem Informationen))
+      (VVINF-HD erhalten))
+    (\$, ,)
+    (S-RC
+      (NP-SB\/Pl\/rel
+        (PRELS-HD-Nom.Pl.Masc die))
+      (VP-OC\/pp
+        (PTKNEG-NG nicht)
+        (VVPP-HD gewinnorientiert))
+      (VAFIN-HD-Pl sind)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (KON-JU Und)
+    (S-MO
+      (KOUS-CP\/mo da)
+      (NP-SB\/Sg
+        (PPER-HD-Nom.Sg.Neut es))
+      (NP-PD
+        (NN-HD-Nom.Sg.Fem Aufgabe)
+        (NP-AG
+          (ART-HD-Gen.Sg.Fem der)
+          (NN-HD-Gen.Sg.Fem Gesellschaft)))
+      (VAFIN-HD-Sg ist))
+    (\$, ,)
+    (NP-OA
+      (ADJA-HD-Pos.Acc.Pl.Neut bestimmte)
+      (NN-HD-Acc.Pl.Neut Gebiete)
+      (\$, ,)
+      (S-RC
+        (NP-SB\/Pl\/rel
+          (PRELS-HD-Nom.Pl.Masc die))
+        (ADJD-MO-Pos\/V marktwirtschaftlich)
+        (PTKNEG-NG nicht)
+        (VVFIN-HD-Pl bestehen)))
+    (PN-SB-Nom.Sg
+      (NE-HD-Nom.Sg könnten))
+    (\$, ,)
+    (S-OC
+      (VP-MO
+        (ADJD-MO-Pos\/V gemeinsam)
+        (VZ-HD
+          (PTKZU-PM zu)
+          (VVINF-HD finanzieren)))
+      (\$, ,)
+      (VMFIN-HD-Sg sollte)
+      (NP-SB\/Sg
+        (ADV-MO\/N auch)
+        (PIS-HD-Nom.Sg.Masc jeder))
+      (VP-OC\/inf
+        (NP-OA
+          (PPOSAT-HD-Acc.Sg.Masc seinen)
+          (NN-HD-Acc.Sg.Masc Beitrag))
+        (VVINF-HD leisten))))
+  (\$. .))

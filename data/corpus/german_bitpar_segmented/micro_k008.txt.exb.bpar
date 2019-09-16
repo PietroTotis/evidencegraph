@@ -1,0 +1,92 @@
+
+(TOP
+  (S-TOP
+    (S-MO
+      (KOUS-CP\/mo Wenn)
+      (NP-EP
+        (PPER-HD-Nom.Sg.Neut\/ep es))
+      (CS-OC
+        (S-OC
+          (NP-SB\/Pl
+            (CARD-HD höhere)
+            (NN-HD-Nom.Pl.Fem Geldstrafen)
+            (NP-HD
+              (CARD-HD für)
+              (AP-HD-Pos.Acc.Pl
+                (PP-MO\/0
+                  (APPR-AC\/Acc\/auf auf)
+                  (NN-HD-Acc.Pl.Fem Gehwegen))
+                (ADJA-HD-Pos.Acc.Pl hinterlassene))
+              (NN-HD-Acc.Pl Hundehaufen)))
+          (VVFIN-HD-Pl geben)
+          (CNP-SB
+            (PN-SB
+              (NE-HD würde))
+            (\$, ,)
+            (PN-SB
+              (NE-HD würde)))
+          (NP-OA
+            (PPER-HD-Acc.Sg.Neut es))
+          (AVP-MO\/V
+            (ADV-MO\/V vermutlich)
+            (ADV-HD\/V weniger))
+          (NP-OA
+            (NN-HD-Acc.Pl.Fem Hundehaufen))
+          (VVFIN-HD-Pl geben))
+        (\$, ,)
+        (S-OC
+          (PWS-SB-Nom.Sg.Neut was)
+          (ADV-MO\/V wiederum)
+          (PP-MO\/V
+            (APPR-AC\/Acc\/in in)
+            (AP-HD-Pos.Acc.Sg.Fem
+              (ADJD-MO-Pos\/0 allgemein)
+              (ADJA-HD-Pos.Acc.Sg.Fem sauberere))
+            (NN-HD-Acc.Sg.Fem Bürgersteige)))))
+    (VVFIN-HD-Pl resultieren)
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl würde)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (ADV-MO\/V Zwar)
+      (VAFIN-HD-Sg ist)
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Neut ein)
+        (CH-HD
+          (FM-UC höheres)
+          (FM-UC Bußgeld)
+          (FM-UC gerade)
+          (FM-UC für)))
+      (NP-MO
+        (AP-HD-Pos.Nom.Pl.Fem
+          (AP-MO\/pred
+            (ADJD-MO-Pos\/0 finanziell)
+            (ADJD-HD-Comp\/0 schlechter))
+          (ADJA-HD-Pos.Nom.Pl.Fem gestellte))
+        (NN-HD-Nom.Pl.Fem Personen))
+      (AP-PD\/pred
+        (AVP-NG\/0
+          (PTKNEG-HD nicht)
+          (ADV-MO\/0 besonders))
+        (ADJD-HD-Pos\/0 gut)))
+    (\$, ,)
+    (KON-CD aber)
+    (S-TOP
+      (VP-OC\/zu
+        (NP-OA
+          (NN-HD-Acc.Pl.Fem Hundehaufen))
+        (VZ-HD
+          (PTKZU-PM zu)
+          (VVINF-HD entfernen)))
+      (VAFIN-HD-Sg ist)
+      (ADV-MO\/V nun)
+      (ADV-MO\/V mal)
+      (NP-PD
+        (NN-HD-Nom.Sg.Fem Pflicht)
+        (NP-AG
+          (ART-HD-Gen.Sg.Masc des)
+          (NN-HD-Gen.Sg.Masc Hundehalters)))))
+  (\$. .))

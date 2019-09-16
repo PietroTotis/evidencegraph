@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_k027" topic_id="public_broadcasting_fees_on_demand" stance="pro">
+  <edu id="e1"><![CDATA[Il contributo radio-televisivo dovrebbe essere richiesto solo da coloro che realmente usufruiscono dei programmi delle emittenti pubbliche.]]></edu>
+  <edu id="e2"><![CDATA[Dopo tutto, ci sono molte persone in Germania che pagano i contributi anche se usano solo il computer per lavorare.]]></edu>
+  <edu id="e3"><![CDATA[Le tasse, tuttavia, sono a carico di chiunque non abbia diritto a un'esenzione, indipendentemente dal numero di apparecchi presenti in una famiglia e dal modo in cui vengono utilizzati.]]></edu>
+  <edu id="e4"><![CDATA[E' chiaro però che le autorità non hanno i mezzi per controllare l'utilizzo di ogni singolo apparecchio.]]></edu>
+  <adu id="a1" type="pro"/>
+  <adu id="a2" type="pro"/>
+  <adu id="a3" type="pro"/>
+  <adu id="a4" type="opp"/>
+  <edge id="c5" src="e1" trg="a1" type="seg"/>
+  <edge id="c6" src="e2" trg="a2" type="seg"/>
+  <edge id="c7" src="e3" trg="a3" type="seg"/>
+  <edge id="c8" src="e4" trg="a4" type="seg"/>
+  <edge id="c2" src="a2" trg="a1" type="sup"/>
+  <edge id="c3" src="a3" trg="a1" type="sup"/>
+  <edge id="c4" src="a4" trg="a1" type="reb"/>
+</arggraph>  

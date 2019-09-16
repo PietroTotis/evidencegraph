@@ -1,15 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""
+'''
 @author: Andreas Peldszus
-"""
+'''
 
 from __future__ import print_function
 
 from time import strftime
 import gzip
-import cPickle as pickle
+import _pickle as pickle
 
 import pandas as pd
 from scipy.stats import wilcoxon
@@ -40,7 +40,7 @@ def is_numeric(obj):
     False
     """
     # http://stackoverflow.com/a/500908
-    attrs = ["__add__", "__sub__", "__mul__", "__div__", "__pow__"]
+    attrs = ['__add__', '__sub__', '__mul__', '__truediv__', '__pow__']
     return all(hasattr(obj, attr) for attr in attrs)
 
 
@@ -86,7 +86,7 @@ def load_result_collector(filename):
     Returns:
         ResultCollector: the loaded result collectors
     """
-    with gzip.open(filename, "rb") as f:
+    with gzip.open(filename, 'rb') as f:
         return pickle.load(f)
 
 
@@ -100,7 +100,7 @@ class ResultCollector(object):
     scores of different metrics.
     """
 
-    def __init__(self, name="noname", series="noseries", desc="nodesc"):
+    def __init__(self, name='noname', series='noseries', desc='nodesc'):
         # meta data
         self.name = name
         self.series = series
@@ -182,14 +182,10 @@ class ResultCollector(object):
         if len(self.data) > 0:
             v = value_in_nested_dict(self.data[0][3], path_of_keys)
             if (not ignore_type) and (not is_numeric(v)):
-                raise ValueError(
-                    (
-                        "The path of keys does not lead to a"
-                        "numerical object/number."
-                    )
-                )
+                raise ValueError(('The path of keys does not lead to a'
+                                  ' numerical object/number.'))
         else:
-            print ("Warning: path_of_keys to the metric cannot be validated.")
+            print("Warning: path_of_keys to the metric cannot be validated.")
         self.path_to_metric = path_of_keys
 
     def save(self, filename):
@@ -199,7 +195,7 @@ class ResultCollector(object):
         Args:
             filename (str): path to the file to write to
         """
-        with gzip.open(filename, "wb") as f:
+        with gzip.open(filename, 'wb') as f:
             pickle.dump(self, f, -1)
 
     def print_result(self, condition, level):
@@ -227,7 +223,7 @@ class ResultCollector(object):
         max      1.500000
         dtype: float64
         """
-        print (self._sum_result(condition, level))
+        print(self._sum_result(condition, level))
 
     def print_result_for_level(self, level, print_header=True):
         """
@@ -248,16 +244,9 @@ class ResultCollector(object):
         l1  0.400 (+- 0.141)    0.325 (+- 0.106)
         """
         if print_header:
-            print ("\t".join(["level"] + self.conditions))
-        print (
-            "\t".join(
-                [level]
-                + [
-                    self._string_summary(condition, level)
-                    for condition in self.conditions
-                ]
-            )
-        )
+            print('\t'.join(['level'] + self.conditions))
+        print('\t'.join([level] + [self._string_summary(condition, level)
+                                   for condition in self.conditions]))
 
     def print_all_results(self):
         """
@@ -278,17 +267,10 @@ class ResultCollector(object):
         l1  0.400 (+- 0.141)    0.325 (+- 0.106)
         l2  0.375 (+- 0.177)    0.400 (+- 0.071)
         """
-        print ("\t".join(["level"] + self.conditions))
+        print('\t'.join(['level'] + self.conditions))
         for level in self.levels:
-            print (
-                "\t".join(
-                    [level]
-                    + [
-                        self._string_summary(condition, level)
-                        for condition in self.conditions
-                    ]
-                )
-            )
+            print('\t'.join([level] + [self._string_summary(condition, level)
+                                       for condition in self.conditions]))
 
     def wilcoxon(self, conditionA, conditionB, level):
         """
@@ -312,7 +294,7 @@ class ResultCollector(object):
         >>> rc.add_result('c2', 2, 'l1', {'score': .40})
         >>> rc.set_metric(['score'])
         >>> rc.wilcoxon('c1', 'c2', 'l1')
-        (0.0, 0.1797...)
+        (0.0, 0.17971249487899976)
         """
         result_a = self._get_result(conditionA, level)
         result_b = self._get_result(conditionB, level)
@@ -325,11 +307,9 @@ class ResultCollector(object):
     def _get_result(self, condition, level):
         assert condition in self.conditions
         assert level in self.levels
-        relevant_data = [
-            value_in_nested_dict(d, self.path_to_metric)
-            for c, _i, lvl, d in self.data
-            if c == condition and lvl == level
-        ]
+        relevant_data = [value_in_nested_dict(d, self.path_to_metric)
+                         for c, _i, l, d in self.data
+                         if c == condition and l == level]
         return relevant_data
 
     def _sum_result(self, condition, level):
@@ -338,19 +318,19 @@ class ResultCollector(object):
 
     def _string_summary(self, condition, level):
         t = self._sum_result(condition, level)
-        return "%.3f (+- %.3f)" % (t["mean"], t["std"])
+        return "%.3f (+- %.3f)" % (t['mean'], t['std'])
 
 
 def filter_params(params):
-    """ this function can be used to filter the get_params output for
+    ''' this function can be used to filter the get_params output for
         Estimator instances, so that no objects but only their string
-        representations are pickled """
+        representations are pickled '''
     out = {}
-    for k, v in params.iteritems():
+    for k, v in params.items():
         if isinstance(v, dict):
             v2 = filter_params(v)
-        elif isinstance(v, BaseEstimator) or hasattr(v, "__call__"):
-            v2 = str(v).replace("\n      ", "")
+        elif isinstance(v, BaseEstimator) or hasattr(v, '__call__'):
+            v2 = str(v).replace('\n      ', '')
         else:
             v2 = v
         out[k] = v2

@@ -1,0 +1,138 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (PIAT-HD-Nom.Pl.Masc Viele)
+      (NN-HD-Nom.Pl.Masc Menschen))
+    (VVFIN-HD-Pl erfahren)
+    (ADJD-MO-Pos\/V nachweislich)
+    (NP-OA
+      (PP-MNR\/N
+        (APPR-AC\/Acc\/durch durch)
+        (CNP-HD\/Acc
+          (TRUNCCap-HD Natur-)
+          (KON-CD und)
+          (NN-HD-Acc.Pl.Masc Heilpraktiker)))
+      (CNP-HD
+        (NP-HD
+          (ADJA-HD-Pos.Acc.Sg.Fem deutliche)
+          (NN-HD-Acc.Sg.Fem Linderung)
+          (NP-AG
+            (ART-HD-Gen.Sg.Fem der)
+            (NN-HD-Gen.Sg.Fem Symptome)))
+        (KON-CD und)
+        (NP-HD
+          (ART-HD-Gen.Sg.Masc des)
+          (NN-HD-Gen.Sg.Masc Krankheitsgrades)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Allerdings)
+    (VVFIN-HD-Sg gibt)
+    (NP-EP
+      (PPER-HD-Nom.Sg.Neut\/ep es))
+    (NP-OA
+      (PIAT-HD-Acc.Pl.Neut keine)
+      (ADJA-HD-Pos.Acc.Pl.Neut nachweislichen)
+      (NN-HD-Acc.Pl.Neut Daten))
+    (\$, ,)
+    (S-SB
+      (KOUS-CP\/sb dass)
+      (NP-SB\/Sg
+        (PDAT-HD-Nom.Sg.Fem diese)
+        (NN-HD-Nom.Sg.Fem Heilung))
+      (PP-MO\/V
+        (AVP-MO\/N
+          (PTKNEG-NG nicht)
+          (ADV-HD\/N nur))
+        (APPR-AC\/Dat\/auf auf)
+        (ART-HD-Dat.Sg.Neut dem)
+        (NN-HD-Dat.Sg.Neut Placebo-Effekt))
+      (VVFIN-HD-Sg beruht)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-TOP
+      (NN-HD Außerdem))
+    (VAFIN-HD-Pl sind)
+    (NP-SB\/Pl
+      (PIAT-HD-Nom.Pl viele)
+      (NN-HD-Nom.Pl Tätigkeiten))
+    (VP-OC\/pp
+      (PP-MO\/V
+        (APPR-AC\/Dat\/in in)
+        (PDAT-HD-Dat.Sg.Fem dieser)
+        (NN-HD-Dat.Sg.Fem Sparte))
+      (CNP-OA
+        (NP-OA
+          (PIAT-HD-Acc.Pl.Masc keine)
+          (CARD-HD geschützten)
+          (NN-HD-Acc.Pl.Masc Berufe))
+        (\$, ,)
+        (CH-OA
+          (FM-UC sodass)
+          (FM-UC Scharlatane))
+        (KON-CD und)
+        (PN-OA\/chain-Acc.Sg
+          (NE-HD-Acc.Sg Schwindler)))
+      (\$, ,)
+      (VVPP-HD unbemerkt)))
+  (XY-TOP für)
+  (S-PAR
+    (NP-PD
+      (ART-HD-Nom.Pl.Masc die)
+      (NN-HD-Nom.Pl.Masc Patienten))
+    (\$, ,)
+    (NP-MO
+      (PDAT-HD-Acc.Sg.Fem diese)
+      (NN-HD-Acc.Sg.Fem ausüben)))
+  (XY-TOP können)
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PROAV-MO Deshalb)
+    (VMFIN-HD-Pl sollten)
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl.Fem die)
+      (ADJA-HD-Pos.Nom.Pl.Fem gesetzlichen)
+      (NN-HD-Nom.Pl.Fem Krankenkassen))
+    (VP-OC\/inf
+      (NP-OA
+        (PDAT-HD-Acc.Pl.Fem diese)
+        (NN-HD-Acc.Pl.Fem Behandlungen))
+      (PTKNEG-NG nicht)
+      (VVINF-HD bezahlen)))
+  (\$. .))
+
+(TOP
+  (XY-TOP Es)
+  (XY-TOP wäre)
+  (S-TOP
+    (ADV-MO\/V jedoch)
+    (ADJD-PD-Pos\/V denkbar)
+    (\$, ,)
+    (VP-SB
+      (PP-MO\/V
+        (APPR-AC\/Gen seitens)
+        (ART-HD-Gen.Sg.Masc des)
+        (NN-HD-Gen.Sg.Masc Staates))
+      (ADV-MO\/V mehr)
+      (PP-MO\/V
+        (APPR-AC\/in in)
+        (CNP-HD
+          (NP-HD
+            (ART-HD-Acc.Sg.Fem die)
+            (NN-HD-Acc.Sg.Fem Ausbildung))
+          (KON-CD und)
+          (NP-HD
+            (NN-HD-Acc.Sg.Fem Kontrolle)
+            (NP-AG
+              (PDAT-HD-Gen.Sg.Fem dieser)
+              (NN-HD-Gen.Sg.Fem Berufssparte)))))
+      (VZ-HD
+        (PTKZU-PM zu)
+        (VVINF-HD investieren))))
+  (\$. .))

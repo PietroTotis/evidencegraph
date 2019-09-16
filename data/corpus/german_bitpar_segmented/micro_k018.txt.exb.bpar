@@ -1,0 +1,137 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (PPOSAT-HD-Nom.Sg.Fem Unsere)
+      (NN-HD-Nom.Sg.Fem Gesellschaft))
+    (VVFIN-HD-Sg droht)
+    (PP-MO\/V
+      (APPRART-AC-Dat.Sg.Neut am)
+      (\$Par \")
+      (S-PAR
+        (ADV-MO\/V niemals)
+        (NP-PD
+          (NN-HD-Nom.Sg.Masc Feierabend)))
+      (\$Par \"))
+    (PP-MO\/V
+      (APPR-AC\/Dat zu)
+      (NE-HD-Dat.Sg überhitzen)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (S-MO
+      (KOUS-CP\/mo Obwohl)
+      (NP-SB\/Pl
+        (NN-HD-Nom.Pl.Masc Politiker))
+      (NP-OA
+        (ART-HD-Acc.Sg.Masc den)
+        (ADJA-HD-Pos.Acc.Sg.Masc christlichen)
+        (NN-HD-Acc.Sg.Masc Charakter)
+        (NP-AG
+          (PPOSAT-HD-Gen.Sg.Neut unseres)
+          (NN-HD-Gen.Sg.Neut Landes)))
+      (VVFIN-HD-Pl betonen))
+    (\$, ,)
+    (VAFIN-HD-Sg wurde)
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in in)
+      (ART-HD-Dat.Pl.Neut den)
+      (ADJA-HD-Pos.Dat.Pl.Neut letzten)
+      (CARD-HD 20)
+      (NN-HD-Dat.Pl.Neut Jahren))
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc der)
+      (ADJA-HD-Pos.Nom.Sg.Masc freie)
+      (NN-HD-Nom.Sg.Masc Sonntag))
+    (VP-OC\/pp
+      (ADV-MO\/V immer)
+      (NP-DA
+        (ADV-MO\/N mehr)
+        (ART-HD-Dat.Sg.Masc dem)
+        (NN-HD-Dat.Sg.Masc Verkauf))
+      (VVPP-HD geopfert)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PROAV-MO Dabei)
+    (VAFIN-HD-Sg hat)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc ein)
+      (ADJA-HD-Pos.Nom.Sg.Masc freier)
+      (NN-HD-Nom.Sg.Masc Tag))
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in in)
+      (ART-HD-Dat.Sg.Fem der)
+      (NN-HD-Dat.Sg.Fem Woche))
+    (NP-SB
+      (AVP-MO\/N
+        (PTKNEG-NG nicht)
+        (ADV-HD\/N nur))
+      (CNP-HD
+        (NP-HD
+          (ART-HD-Acc.Sg.Masc den)
+          (NN-HD-Acc.Sg.Masc Grund))
+        (\$, ,)
+        (NP-HD
+          (NN-HD-Nom.Sg.Fem Zeit)
+          (CARD-HD für))))
+    (VP-OC\/zu
+      (NP-OA
+        (ART-HD-Acc.Sg.Masc den)
+        (NN-HD-Acc.Sg.Masc Kirchgang))
+      (VZ-HD
+        (PTKZU-PM zu)
+        (VVINF-HD gewinnen))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Vielmehr)
+    (VMFIN-HD-Sg soll)
+    (NP-DA
+      (ART-HD-Dat.Pl.Masc den)
+      (NN-HD-Dat.Pl.Masc Menschen))
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem die)
+      (NN-HD-Nom.Sg.Fem Möglichkeit)
+      (NP-AG
+        (ART-HD-Gen.Sg.Masc eines)
+        (ADJA-HD-Pos.Gen.Sg.Masc mentalen)
+        (NN-HD-Gen.Sg.Masc Breaks)))
+    (VP-OC\/inf
+      (VVPP-OC gegeben)
+      (VAINF-HD werden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PROAV-MO Deshalb)
+    (VMFIN-HD-Sg sollte)
+    (NP-EP
+      (PPER-HD-Nom.Sg.Neut\/ep es))
+    (VP-OC\/inf
+      (NP-OA
+        (ART-HD-Acc.Sg.Masc einen)
+        (NN-HD-Acc.Sg.Masc Tag)
+        (PP-MNR\/N
+          (APPR-AC\/Dat\/in in)
+          (ART-HD-Dat.Sg.Fem der)
+          (NN-HD-Dat.Sg.Fem Woche)))
+      (VVINF-HD geben)
+      (\$, ,)
+      (S-RC
+        (PP-MO\/V\/rel
+          (APPR-AC\/Dat an)
+          (PRELS-HD-Dat.Pl.Fem denen))
+        (CNP-SB
+          (NP-SB\/Pl
+            (ART-HD-Nom.Pl die)
+            (NN-HD-Nom.Pl Supermärkte))
+          (KON-CD und)
+          (NP-SB\/chain\/Pl
+            (NN-HD-Nom.Pl.Neut Einkaufszentren)))
+        (ADJD-MO-Pos\/V geschlossen)
+        (VVFIN-HD-Pl bleiben))))
+  (\$. .))

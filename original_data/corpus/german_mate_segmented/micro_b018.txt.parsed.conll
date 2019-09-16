@@ -1,0 +1,61 @@
+1	Die	_	der	_	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Wahl	_	Wahl	_	NN	_	nom|sg|fem	-1	6	_	SB	_	_
+3	des	_	der	_	ART	_	gen|sg|masc	-1	5	_	NK	_	_
+4	behandelnden	_	behandelnd	_	ADJA	_	gen|sg|masc|pos	-1	5	_	NK	_	_
+5	Arztes	_	Arzt	_	NN	_	gen|sg|masc	-1	2	_	AG	_	_
+6	steht	_	stehen	_	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	dem	_	der	_	ART	_	dat|sg|masc	-1	8	_	NK	_	_
+8	Patienten	_	Patient	_	NN	_	dat|sg|masc	-1	6	_	DA	_	_
+9	frei	_	frei	_	PTKVZ	_	_	-1	6	_	SVP	_	_
+10	.	_	--	_	$.	_	_	-1	9	_	--	_	_
+
+1	Jedoch	_	jedoch	_	ADV	_	_	-1	2	_	MO	_	_
+2	ist	_	sein	_	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	das	_	der	_	ART	_	nom|sg|neut	-1	4	_	NK	_	_
+4	Geld	_	Geld	_	NN	_	nom|sg|neut	-1	2	_	SB	_	_
+5	der	_	der	_	ART	_	gen|pl|fem	-1	6	_	NK	_	_
+6	Gesundheitskassen	_	Gesundheitskasse	_	NN	_	gen|pl|fem	-1	4	_	AG	_	_
+7	eine	_	ein	_	ART	_	acc|sg|fem	-1	8	_	NK	_	_
+8	Gemeinschaftsleistung	_	Gemeinschaftsleistung	_	NN	_	acc|sg|fem	-1	2	_	PD	_	_
+9	aller	_	aller	_	PIAT	_	gen|pl|masc	-1	10	_	NK	_	_
+10	Beitragszahler	_	Beitragszahler	_	NN	_	gen|pl|masc	-1	8	_	AG	_	_
+11	.	_	--	_	$.	_	_	-1	10	_	--	_	_
+
+1	Sie	_	sie	_	PPER	_	nom|pl|*|3	-1	2	_	SB	_	_
+2	sollten	_	sollen	_	VMFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+3	nicht	_	nicht	_	PTKNEG	_	_	-1	2	_	NG	_	_
+4	für	_	für	_	APPR	_	_	-1	10	_	MO	_	_
+5	persönliche	_	persönlich	_	ADJA	_	acc|pl|neut|pos	-1	6	_	NK	_	_
+6	Vorlieben	_	Vorlieb	_	NN	_	dat|pl|masc	-1	4	_	NK	_	_
+7	ohne	_	ohne	_	APPR	_	_	-1	10	_	MO	_	_
+8	nachweislichen	_	nachweislich	_	ADJA	_	dat|pl|masc|pos	-1	9	_	NK	_	_
+9	Nutzen	_	Nutzen	_	NN	_	dat|pl|masc	-1	7	_	NK	_	_
+10	aufgewendet	_	aufwenden	_	VVPP	_	_	-1	11	_	OC	_	_
+11	werden	_	werden	_	VAINF	_	_	-1	2	_	OC	_	_
+12	.	_	--	_	$.	_	_	-1	11	_	--	_	_
+
+1	Die	_	der	_	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Wirkung	_	Wirkung	_	NN	_	nom|sg|fem	-1	5	_	SB	_	_
+3	vieler	_	vieler	_	PIAT	_	gen|pl|neut	-1	4	_	NK	_	_
+4	Naturheilmittel	_	Naturheilmittel	_	NN	_	gen|pl|neut	-1	2	_	AG	_	_
+5	ist	_	sein	_	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	nicht	_	nicht	_	PTKNEG	_	_	-1	7	_	NG	_	_
+7	erwiesen	_	erweisen	_	VVPP	_	_	-1	5	_	PD	_	_
+8	.	_	--	_	$.	_	_	-1	7	_	--	_	_
+
+1	Daher	_	daher	_	PROAV	_	_	-1	2	_	MO	_	_
+2	sollten	_	sollen	_	VMFIN	_	pl|3|past|subj	-1	0	_	--	_	_
+3	keine	_	kein	_	PIAT	_	nom|pl|fem	-1	7	_	NK	_	_
+4	ungeprüften	_	ungeprüft	_	ADJA	_	gen|pl|neut|sup	-1	7	_	NK	_	_
+5	und	_	und	_	KON	_	_	-1	4	_	CD	_	_
+6	unanerkannten	_	unanerkannt	_	ADJA	_	dat|pl|fem|pos	-1	5	_	CJ	_	_
+7	Behandlungen	_	Behandlung	_	NN	_	dat|pl|fem	-1	2	_	SB	_	_
+8	bei	_	bei	_	APPR	_	_	-1	13	_	MO	_	_
+9	Naturheilkundlern	_	Naturheilkundler	_	NN	_	dat|pl|masc	-1	8	_	NK	_	_
+10	von	_	von	_	APPR	_	_	-1	13	_	SBP	_	_
+11	den	_	der	_	ART	_	dat|pl|fem	-1	12	_	NK	_	_
+12	Kassen	_	Kasse	_	NN	_	dat|pl|fem	-1	10	_	NK	_	_
+13	erstattet	_	erstatten	_	VVPP	_	_	-1	14	_	OC	_	_
+14	werden	_	werden	_	VAINF	_	_	-1	2	_	OC	_	_
+15	.	_	--	_	$.	_	_	-1	14	_	--	_	_
+

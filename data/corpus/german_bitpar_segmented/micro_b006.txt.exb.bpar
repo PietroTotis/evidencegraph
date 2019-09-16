@@ -1,0 +1,129 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Die)
+      (NN-HD-Nom.Sg.Fem Todesstrafe))
+    (VAFIN-HD-Sg ist)
+    (NP-OA
+      (ART-HD-Acc.Sg.Neut ein)
+      (NN-HD-Acc.Sg.Neut Rechtsmittel)
+      (\$, ,)
+      (S-RC
+        (NP-SB\/Sg\/rel
+          (PRELS-HD-Nom.Sg.Neut welches))
+        (PP-MO\/V
+          (APPR-AC\/Acc als)
+          (PIS-HD-Acc.Sg.Neut solches))
+        (PP-MO\/V
+          (APPR-AC\/Dat\/in in)
+          (NE-HD-Dat.Sg.Neut Deutschland))
+        (PTKNEG-NG nicht)
+        (ADJD-PD-Pos\/V anwendbar)
+        (VAFIN-HD-Sg ist))))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (PP-MO\/V
+        (APPRART-AC-Dat.Sg Zum)
+        (PIS-HD-Dat.Sg einen))
+      (VAFIN-HD-Sg ist)
+      (PP-MO\/V
+        (APPR-AC\/Dat\/in in)
+        (PPOSAT-HD-Dat.Sg.Fem unserer)
+        (NN-HD-Dat.Sg.Fem Verfassung))
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Fem eine)
+        (ADJA-HD-Pos.Nom.Sg.Fem unantastbare)
+        (NN-HD-Nom.Sg.Fem Menschenwürde))
+      (VP-OC\/pp
+        (VVPP-HD verankert)))
+    (KON-CD und)
+    (S-TOP
+      (PP-MO\/V
+        (APPRART-AC-Dat.Sg zum)
+        (PIS-HD-Dat.Sg anderen))
+      (VMFIN-HD-Sg kann)
+      (PRF-OA-Acc.Sg sich)
+      (NP-SB\/Sg
+        (PIAT-HD-Nom.Sg.Masc kein)
+        (NN-HD-Nom.Sg.Masc Mensch))
+      (VP-OC\/inf
+        (NP-OA
+          (ART-HD-Acc.Sg.Neut ein)
+          (NN-HD-Acc.Sg.Neut Recht))
+        (VVINF-HD herausnehmen)
+        (\$, ,)
+        (VP-RE
+          (NP-OA
+            (NN-HD-Acc.Sg.Fem über))
+          (VP-OC\/inf
+            (NP-OA
+              (ART-HD-Acc.Sg.Masc den)
+              (NN-HD-Acc.Sg.Masc Tod)
+              (NP-AG
+                (ART-HD-Gen.Sg.Masc eines)
+                (ADJA-HD-Pos.Gen.Sg.Masc anderen)
+                (NN-HD-Gen.Sg.Masc Menschen)))
+            (VVINF-HD entscheiden))
+          (VZ-HD
+            (PTKZU-PM zu)
+            (ADJA-HD-Pos.Dat.Sg.Fem dürfen))))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (S-MO
+      (ADV-MO\/V Auch)
+      (KOUS-CP\/mo wenn)
+      (NP-SB\/Pl
+        (PIAT-HD-Nom.Pl.Masc viele)
+        (NN-HD-Nom.Pl.Masc Menschen))
+      (VVFIN-HD-Pl denken)
+      (\$, ,)
+      (S-OC
+        (KOUS-CP\/oc dass)
+        (NP-SB\/Sg
+          (ART-HD-Nom.Sg.Masc ein)
+          (NN-HD-Nom.Sg.Masc Mörder))
+        (VP-OC\/pp
+          (NP-OA
+            (AP-HD
+              (ADV-MO\/card bereits)
+              (CARD-HD über))
+            (CNP-HD
+              (NN-HD-Acc.Sg.Neut Leben)
+              (KON-CD und)
+              (NN-HD-Acc.Sg.Masc Tod))
+            (NP-AG
+              (ART-HD-Gen.Sg.Masc eines)
+              (ADJA-HD-Pos.Gen.Sg.Masc anderen)
+              (NN-HD-Gen.Sg.Masc Menschen)))
+          (VVPP-HD entschieden))
+        (VAFIN-HD-Sg hat)))
+    (\$, ,)
+    (VAFIN-HD-Sg ist)
+    (NP-SB\/Sg
+      (PDS-HD-Nom.Sg.Neut dies))
+    (ADV-MO\/V ja)
+    (NP-PD
+      (ART-HD-Nom.Sg.Fem die)
+      (NN-HD-Nom.Sg.Fem Straftat)
+      (\$, ,)
+      (S-RC\/nohead
+        (NP-OA\/rel
+          (PRELS-HD-Acc.Sg.Fem die))
+        (NP-SB\/Pl
+          (PPER-HD-Nom.Pl wir))
+        (VP-OC\/nohead
+          (PTKNEG-NG nicht)
+          (PP-MO\/V
+            (APPR-AC\/Dat mit)
+            (AP-HD-Dat.Sg.Fem
+              (ADV-MO\/0 eben)
+              (PIAT-HD-Dat.Sg.Fem solcher))
+            (ADJA-HD-Pos.Dat.Sg.Fem vergelten)
+            (NN-HD-Dat.Sg.Fem können))))))
+  (\$. .))

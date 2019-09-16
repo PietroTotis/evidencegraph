@@ -1,0 +1,101 @@
+
+(TOP
+  (S-TOP\/nohead
+    (NP-SB\/Pl
+      (CARD-HD Studiengebühren)
+      (NN-HD-Nom.Pl dürften))
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (PTKNEG-NG nicht)
+        (ADJD-MO-Pos\/V generell)
+        (PP-MO\/V
+          (APPR-AC\/Dat an)
+          (NE-HD-Dat.Sg Universitäten))
+        (VVPP-HD erhoben))
+      (VAINF-HD werden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl Universitäten))
+    (VAFIN-HD-Pl sind)
+    (CNP-PD
+      (NP-PD
+        (CH-HD
+          (FM-UC für)
+          (FM-UC alle)
+          (FM-UC Bürger))
+        (FM-HD da))
+      (\$, ,)
+      (NP-PD
+        (NN-HD-Nom.Sg.Masc unabhängig)
+        (PP-MNR\/N
+          (APPRART-AC-Dat.Sg.Masc\/von vom)
+          (NN-HD-Dat.Sg.Masc Geldbeutel)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (CNP-SB
+      (NP-SB\/chain\/Sg
+        (NN-HD-Nom.Sg.Fem Bildung))
+      (KON-CD und)
+      (NP-SB\/chain\/Sg
+        (NN-HD-Nom.Sg.Fem Ausbildung)))
+    (VAFIN-HD-Pl sind)
+    (NP-OA
+      (NN-HD-Acc.Pl.Neut Grundrechte)
+      (\$, ,)
+      (S-RC
+        (NP-OA\/rel
+          (PRELS-HD-Acc.Sg.Fem die))
+        (CNP-SB
+          (NP-SB\/Sg
+            (ART-HD-Nom.Sg.Masc der)
+            (NN-HD-Nom.Sg.Masc Staat))
+          (\$, ,)
+          (NP-SB\/Sg
+            (ART-HD-Nom.Sg.Fem die)
+            (NN-HD-Nom.Sg.Fem Gesellschaft)))
+        (VVFIN-HD-Pl leisten)))
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl müssen)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP\/nosubj
+      (VVFIN-HD-Sg Fehlt)
+      (NP-DA
+        (ART-HD-Dat.Pl den)
+        (NN-HD-Dat.Pl Universitäten))
+      (NP-OA
+        (NN-HD-Acc.Sg.Neut Geld)))
+    (\$, ,)
+    (VP-OC\/inf
+      (VP-OC\/pp
+        (ADV-MO\/V muss)
+        (PP-MO\/V
+          (APPR-AC\/Dat nach)
+          (NN-HD-Dat.Pl.Masc Sponsoren))
+        (VVPP-HD gesucht))
+      (VAINF-HD werden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Leider)
+    (VMFIN-HD-Sg kann)
+    (NP-SB\/Sg
+      (PDS-HD-Nom.Sg.Neut dies))
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in in)
+      (ADJA-HD-Pos.Dat.Sg.Fem manchen)
+      (NN-HD-Dat.Sg.Fem Fällen))
+    (PP-MO\/V
+      (APPR-AC\/Dat zu)
+      (ADJA-HD-Pos.Dat.Sg.Fem unliebsamen)
+      (ADJA-HD-Pos.Dat.Sg.Fem Abhängigkeiten)
+      (NN-HD-Dat.Sg.Fem führen)))
+  (\$. .))

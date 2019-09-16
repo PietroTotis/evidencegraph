@@ -1,0 +1,1964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?relations relSet="Martin1992"?>
+<!DOCTYPE conanolex SYSTEM "ConAnoLex.dtd">
+<conanolex>
+  <entry id="1">
+    <orth type="cont">
+      <part type="phrasal">a causa di</part>
+    </orth>
+    <syn type="prep">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:reason</coh-relation>
+        <example>A causa del maltempo il St. Gotthard � rimasto chiuso.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="2">
+    <orth type="cont">
+      <part type="phrasal">a condizione che</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>CONTINGENCY:Condition</coh-relation>
+        <example>Oggi usciamo, a condizione che venga Hans.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="3">
+    <orth type="cont">
+      <part type="phrasal">a dire il vero</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>COMPARISON:Concession:Arg2-as-denier</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="4">
+    <orth type="cont">
+      <part type="phrasal">a dire la verit�</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>COMPARISON:Concession:Arg2-as-denier</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="5">
+    <orth type="cont">
+      <part type="phrasal">a dispetto di</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>COMPARISON:Concession:Arg1-as-denier</coh-relation>
+        <example>Ci andiamo a dispetto del maltempo.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="6">
+    <orth type="cont">
+      <part type="phrasal">a meno che</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>CONTINGENCY:Negative-Condition:Arg2-as-negcond</coh-relation>
+        <example>In caso di divorzio la madre ottiene l'affidamento dei minori, a meno che il giudice non decida altrimenti.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="7">
+    <orth type="cont">
+      <part type="phrasal">a onor del vero</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>COMPARISON:Concession:Arg2-as-denier</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="8">
+    <orth type="cont">
+      <part type="phrasal">a tal fine</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>CONTINGENCY:Purpose:Arg1-as-goal</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="9">
+    <orth type="cont">
+      <part type="phrasal">ad esempio</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION:Instantiation</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="10">
+    <orth type="cont">
+      <part type="phrasal">ad ogni modo</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>COMPARISON:Concession:Arg2-as-denier</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="11">
+    <orth type="cont">
+      <part type="single">affinch�</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>CONTINGENCY:Purpose:Arg2-as-goal</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="12">
+    <orth type="cont">
+      <part type="phrasal">al che</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>TEMPORAL:Asynchronous:precedence</coh-relation>
+        <example>Il boxer incespic� impotente nella corda, al che l'arbitro interruppe l'incontro.</example>
+        <coh-relation>CONTINGENCY:Cause:result</coh-relation>
+        <example>Il boxer incespic� impotente nella corda, al che l'arbitro interruppe l'incontro.</example>
+	  </sem>
+    </syn>
+  </entry>
+  <entry id="13">
+    <orth type="cont">
+      <part type="phrasal">al contrario</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>COMPARISON:Contrast</coh-relation>
+        <example>Un imprenditore, che non ha ancora tagliato gole, non pu� essere chiamato strozzino. Al contrario un avvocato pu� indicare...</example>
+        <coh-relation>COMPARISON:Concession:Arg2-as-denier</coh-relation>
+        <example></example>
+	  </sem>
+    </syn>
+  </entry>
+  <entry id="14">
+    <orth type="cont">
+      <part type="phrasal">al massimo</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION:Exception:Arg2-as-excpt</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="15">
+    <orth type="cont">
+      <part type="phrasal">al posto di</part>
+    </orth>
+    <syn type="prep">
+      <sem>
+        <coh-relation>EXPANSION:Substitution:Arg1-as-subst</coh-relation>
+        <example>Al posto di mandare i bambini, ha mandato il nonno.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="16">
+    <orth type="cont">
+      <part type="phrasal">alla fin fine</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="17">
+    <orth type="cont">
+      <part type="phrasal">alla fine</part>
+    </orth>
+    <syn type="prep">
+      <sem>
+        <coh-relation>TEMPORAL:Asynchronous:Precedence</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="18">
+    <orth type="cont">
+      <part type="phrasal">allo scopo di</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>CONTINGENCY:Purpose:Arg2-as-goal</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="19">
+    <orth type="cont">
+      <part type="phrasal">allo stesso modo</part>
+    </orth>
+    <syn type="prep">
+      <sem>
+        <coh-relation>COMPARISON:Similarity</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="20">
+    <orth type="cont">
+      <part type="single">allora</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>TEMPORAL:Asynchronous:precedence</coh-relation>
+        <example></example>
+		<coh-relation>CONTINGENCY:Cause:result</coh-relation>
+		<example>Ho trovato sotto il ginocchio della gamba sinistra un'altra scottatura, allora l� il flusso deve aver di nuovo abbandonato il corpo.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="21">
+    <orth type="cont">
+      <part type="single">altrimenti</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>CONTINGENCY:Negative-Condition:Arg1-as-negcond</coh-relation>
+        <example>Il quindicenne deve sottomettersi, altrimenti viene colpito sul muso.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="22">
+    <orth type="cont">
+      <part type="single">anche</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>EXPANSION:Conjunction</coh-relation>
+        <example>Klaus non � ancora tornato. Si � anche perso l'allenamento.</example>
+		<coh-relation>COMPARISON:Concession:Arg1-as-denier</coh-relation>
+		<example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="23">
+    <orth type="cont">
+      <part type="phrasal">anche se</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>COMPARISON:Concession:Arg1-as-denier</coh-relation>
+        <example>Abbiamo perso, anche se ci eravamo preparati bene.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="24">
+    <orth type="cont">
+      <part type="single">anzi</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION:Conjunction</coh-relation>
+        <example>Sapevano di aver perso, anzi non c'era pi� possibilit� di una vittoria.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="25">
+    <orth type="cont">
+      <part type="single">anzich�</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION:Substitution:Arg1-as-subst</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="26">
+    <orth type="cont">
+      <part type="single">bench�</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>COMPARISON:Concession:Arg1-as-denier</coh-relation>
+        <example>Bench� Greff fosse sposato, sembrava pi� un capo degli scout che un marito.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="27">
+    <orth type="cont">
+      <part type="single">bens�</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>COMPARISON:Contrast</coh-relation>
+        <example>Con la vincita del lotto non ha comprato nessuna auto, bens� ha fatto pi� viaggi all'estero.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="28">
+    <orth type="cont">
+      <part type="single">cio�</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>EXPANSION:Equivalence  +  reformulation</coh-relation>
+        <example>Sapevano di aver perso, cio� non c'era pi� possibilit� di una vittoria.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="29">
+    <orth type="cont">
+      <part type="single">cionondimeno</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>COMPARISON:Concession:Arg2-as-denier</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="30">
+    <orth type="cont">
+      <part type="single">ciononostante</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>COMPARISON:Concession:Arg2-as-denier</coh-relation>
+        <example>Entrambe le pagine annunciavano un secondo incontro per marted�. Ciononostante le lotte nei campi andarono avanti anche il luned�.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="31">
+    <orth type="cont">
+      <part type="single">come</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>TEMPORAL:Synchronous  +  addition</coh-relation>
+        <example>Come i bambini videro il pupazzo di neve, corsero da lui.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="32">
+    <orth type="cont">
+      <part type="phrasal">come conseguenza</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>TEMPORAL:Asynchronous:precedence</coh-relation>
+        <example>Il boxer incespic� impotente nella corda, come conseguenza l'arbitro interruppe l'incontro.</example>
+        <coh-relation>CONTINGENCY:Cause:result</coh-relation>
+		<example>Il boxer incespic� impotente nella corda, come conseguenza l'arbitro interruppe l'incontro.</example>
+	  </sem>
+    </syn>
+  </entry>
+  <entry id="33">
+    <orth type="cont">
+      <part type="single">comunque</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>EXPANSION:Conjunction</coh-relation>
+        <example>Per me il Marocco d'estate � troppo caldo. Comunque ho paura di volare.</example>
+        <coh-relation>COMPARISON:Concession:Arg2-as-denier</coh-relation>
+		<example></example>
+	  </sem>
+    </syn>
+  </entry>
+  <entry id="34">
+    <orth type="cont">
+      <part type="phrasal">con ci�</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>consequence</coh-relation>
+        <example>La compagnia telefonica Talkline respingeva l'ufficio di regolazione per le telecomunicazioni e le poste. Con ci� fu stabilita la posizione di monopolio della Telecom e criticata la Talkline.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="35">
+    <orth type="cont">
+      <part type="phrasal">con tutto questo</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>COMPARISON:Concession:Arg2-as-denier</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="36">
+    <orth type="cont">
+      <part type="phrasal">contrariamente a</part>
+    </orth>
+    <syn type="prep">
+      <sem>
+        <coh-relation>COMPARISON:Contrast</coh-relation>
+        <example>Contrariamente all'attuale ipotesi, alcune molecole di principi attivi non vengono del tutto distrutte durante la cottura.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="37">
+    <orth type="cont">
+      <part type="single">contuttoci�</part>
+    </orth>
+    <syn type="prep">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="38">
+    <orth type="cont">
+      <part type="single">cos�</part>
+    </orth>
+    <syn type="prep">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:result</coh-relation>
+        <example>La compagnia telefonica Talkline respingeva l'ufficio di regolazione per le telecomunicazioni e le poste. Cos� fu stabilita la posizione di monopolio della Telecom e criticata la Talkline.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="39">
+    <orth type="cont">
+      <part type="phrasal">cos� che</part>
+    </orth>
+    <syn type="prep">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:result</coh-relation>
+        <example>Il bambino aveva la febbre, cos� che doveva restare a letto.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="40">
+    <orth type="cont">
+      <part type="phrasal">da allora</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>TEMPORAL:Asynchronous:precedence</coh-relation>
+        <example>Il vulcano � ritornato attivo l'estate scorsa. Da allora sputa ripetutamente cenere e vapore.</example>
+        <coh-relation>CONTINGENCY:Cause:result</coh-relation>
+		<example></example>
+	  </sem>
+    </syn>
+  </entry>
+  <entry id="41">
+    <orth type="cont">
+      <part type="phrasal">da ci�</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:result</coh-relation>
+        <example>La compagnia telefonica Talkline respingeva l'ufficio di regolazione per le telecomunicazioni e le poste. Da ci� fu stabilita la posizione di monopolio della Telecom e criticata la Talkline.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="42">
+    <orth type="cont">
+      <part type="phrasal">da quando</part>
+    </orth>
+    <syn type="other">
+      <sem>
+        <coh-relation>TEMPORAL:Asynchronous:succession</coh-relation>
+        <example>Da quando conosco le Alpi, voglio sempre tornare l�.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="43">
+    <orth type="cont">
+      <part type="phrasal">da ultimo</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>TEMPORAL:Asynchronous:precedence</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="44">
+    <orth type="cont">
+      <part type="phrasal">da un canto ... dall'altro</part>
+    </orth>
+    <syn type="other">
+      <sem>
+        <coh-relation>COMPARISON:Contrast</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="45">
+    <orth type="cont">
+      <part type="phrasal">da un lato ... dall'altro lato</part>
+    </orth>
+    <syn type="other">
+      <sem>
+        <coh-relation>COMPARISON:Contrast</coh-relation>
+        <example>Sabeth non credeva che io avessi capito qualcosa, e aveva da un lato una fiducia smisurata in me, dall'altra parte assolutamente nessun rispetto.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="46">
+    <orth type="cont">
+      <part type="phrasal">da una parte</part>
+    </orth>
+    <syn type="other">
+      <sem>
+        <coh-relation>COMPARISON:Contrast</coh-relation>
+        <example>Sabeth non credeva che io avessi capito qualcosa, e aveva da una parte una fiducia smisurata in me, dall'altra parte assolutamente nessun rispetto.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="47">
+    <orth type="cont">
+      <part type="phrasal">dal momento che</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:reason</coh-relation>
+        <example>Dal momento che la cantante � malata, il concerto non pu� avere luogo.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="48">
+    <orth type="cont">
+      <part type="phrasal">d'altra parte</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>COMPARISON:Contrast</coh-relation>
+        <example>'La letteratura africana � una performance', spieg� Hove. La letteratura europea � d'altra parte un esercizio intellettuale.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="49">
+    <orth type="cont">
+      <part type="phrasal">d'altro lato</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="50">
+    <orth type="cont">
+      <part type="phrasal">del resto</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:result</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="51">
+    <orth type="cont">
+      <part type="phrasal">di conseguenza</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:result</coh-relation>
+        <example>Non aveva ancora mangiato. Di conseguenza si sentiva indebolita.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="52">
+    <orth type="cont">
+      <part type="phrasal">di fatto</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="53">
+    <orth type="cont">
+      <part type="phrasal">di modo che</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:result</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="54">
+    <orth type="cont">
+      <part type="single">dopo</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>TEMPORAL:Asynchronous:precedence</coh-relation>
+        <example>Scalfire i pomodori con un coltello affilato e annaffiare con acqua calda. Dopo si pu� spellarli senza problemi.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="55">
+    <orth type="cont">
+      <part type="phrasal">dopo di che</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>TEMPORAL:Asynchronous:precedence</coh-relation>
+        <example>Hanno camminato per cinque ore sotto la pioggerella minuta, dopodich� avevano tutti bisogno di un punch per riscaldarsi.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="56">
+    <orth type="cont">
+      <part type="single">dopotutto</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="57">
+    <orth type="cont">
+      <part type="single">dunque</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:result</coh-relation>
+        <example>Allora la radio ancora non c'era. Dunque, gli abitanti di Heilbronn dovevano aspettare fino al luned� successivo, per conoscere il segnale.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="58">
+    <orth type="cont">
+      <part type="single">e</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION:Conjunction</coh-relation>
+        <example>Il sole brilla e gli uccelli cinguettano.</example>
+		<coh-relation>TEMPORAL:Asynchronous:precedence</coh-relation>
+		<example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="59">
+    <orth type="cont">
+      <part type="single">ebbene</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="60">
+    <orth type="cont">
+      <part type="single">eccetto</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>EXPANSION:Exception:Arg2-as-excpt</coh-relation>
+        <example>In caso di divorzio la madre ottiene l'affidamento dei minori, eccetto che il giudice non decida altrimenti.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="61">
+    <orth type="cont">
+      <part type="single">eppure</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>COMPARISON:Concession:Arg2-as-denier</coh-relation>
+        <example>Oggi i gatti non hanno pi� un'utilit� pratica come animali domestici. Eppure sono estremamente amati.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="62">
+    <orth type="cont">
+      <part type="phrasal">fatto sta che</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="63">
+    <orth type="cont">
+      <part type="phrasal">fin qui</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION:Conjunction</coh-relation>
+        <example>Prima dell'elezione, il governo quanto l'opposizione, mettono in vista pesanti aumenti di assegni familiari e assegni di maternit�. Fin qui non c'� nulla di nuovo.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="64">
+    <orth type="cont">
+      <part type="phrasal">fino a questo punto</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION:Conjunction</coh-relation>
+        <example>Prima dell'elezione, il governo quanto l'opposizione, mettono in vista pesanti aumenti di assegni familiari e assegni di maternit�. Fino a questo punto non c'� nulla di nuovo.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="65">
+    <orth type="cont">
+      <part type="single">frattanto</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>TEMPORAL:Synchronous</coh-relation>
+        <example>Frattanto le idee della Volks-AG nella navigazione marittima verranno collaudate anche in altri rami del campo dei trasporti.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="66">
+    <orth type="cont">
+      <part type="single">fuorch�</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION:Exception:Arg2-as-excpt</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="67">
+    <orth type="cont">
+      <part type="single">giacch�</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:reason</coh-relation>
+        <example>Giacch� la cantante � malata, il concerto non pu� avere luogo.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="68">
+    <orth type="cont">
+      <part type="phrasal">in altre parole</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION:Equivalence</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="69">
+    <orth type="cont">
+      <part type="phrasal">in base a</part>
+    </orth>
+    <syn type="prep">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:reason</coh-relation>
+        <example>Il rimprovero, in base al quale Alain Patrice N. fu trattenuto il 21 aprile, era per ottenimento di prestazioni con inganno.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="70">
+    <orth type="cont">
+      <part type="phrasal">in breve</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION:Level-of-detail:Arg1-as-detail</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="71">
+    <orth type="cont">
+      <part type="phrasal">in caso contrario</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>CONTINGENCY:Negative-Condition:Arg1-as-negcond</coh-relation>
+        <example>Il quindicenne deve sottomettersi, in caso contrario viene colpito sul muso.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="72">
+    <orth type="cont">
+      <part type="phrasal">in conclusione</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION:Level-of-detail:Arg1-as-detail</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="73">
+    <orth type="cont">
+      <part type="phrasal">in conseguenza di ci�</part>
+    </orth>
+    <syn type="prep">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:result</coh-relation>
+        <example>Ottenne la licenza di insegnante della scuola primaria al seminario di Rorschach e in conseguenza di ci� insegn� per alcuni anni a Kaltbrunn.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="74">
+    <orth type="cont">
+      <part type="phrasal">in definitiva</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="75">
+    <orth type="cont">
+      <part type="phrasal">in fin dei conti</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="76">
+    <orth type="cont">
+      <part type="phrasal">in luogo di</part>
+    </orth>
+    <syn type="prep">
+      <sem>
+        <coh-relation>EXPANSION:Substitution:Arg1-as-subst</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="77">
+    <orth type="cont">
+      <part type="phrasal">in ogni caso</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>EXPANSION: Conjunction</coh-relation>
+        <example>Per me il Marocco d'estate � troppo caldo. In ogni caso ho paura di volare.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="78">
+    <orth type="cont">
+      <part type="phrasal">in pi�</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>EXPANSION:Conjunction</coh-relation>
+        <example>Non ho voglia di andare al cinema, in pi� sono stanco.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="79">
+    <orth type="cont">
+      <part type="phrasal">in poche parole</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>EXPANSION:Level-of-detail:Arg1-as-detail</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="80">
+    <orth type="cont">
+      <part type="phrasal">in quanto</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:reason</coh-relation>
+        <example>� cos� ansiosa in quanto � gi� stata bocciata all'esame di guida due volte</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="81">
+    <orth type="cont">
+      <part type="phrasal">in quanto al resto</part>
+    </orth>
+    <syn type="other">
+      <sem>
+        <coh-relation>EXPANSION:Exception:Arg1-as-excpt</coh-relation>
+        <example>L'EDV-Kurs purtroppo deve essere disdetto. In quanto al resto tutte le offerte possono essere passate.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="82">
+    <orth type="cont">
+      <part type="phrasal">in realt�</part>
+    </orth>
+    <syn type="other">
+      <sem>
+        <coh-relation>EXPANSION:Level-of-detail:Arg2-as-detail</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="83">
+    <orth type="cont">
+      <part type="phrasal">in seguito</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>TEMPORAL:Asynchronous:precedence</coh-relation>
+        <example>Scalfire i pomodori con un coltello affilato e annaffiare con acqua calda. In seguito si pu� spellarli senza problemi.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="84">
+    <orth type="cont">
+      <part type="phrasal">in seguito a</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:reason</coh-relation>
+        <example>In seguito al maltempo, il St. Gotthard resta chiuso.</example>
+		<coh-relation>TEMPORAL:Asynchronous:succession</coh-relation>
+		<example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="85">
+    <orth type="cont">
+      <part type="phrasal">in seguito a ci�</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>TEMPORAL:Asynchronous:precedence</coh-relation>
+        <example>La querelante desiderava che la societ� fosse protetta da lui. In seguito a ci� l'accusato scoppi� in lacrime.</example>
+		<coh-relation>CONTINGENCY:Cause:result</coh-relation>
+		<example>La querelante desiderava che la societ� fosse protetta da lui. In seguito a ci� l'accusato scoppi� in lacrime.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="86">
+    <orth type="cont">
+      <part type="phrasal">in sintesi</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>EXPANSION:Level-of-detail:Arg1-as-detail</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="87">
+    <orth type="cont">
+      <part type="phrasal">in sostanza</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION:Level-of-detail:Arg1-as-detail</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="88">
+    <orth type="cont">
+      <part type="phrasal">in ultima analisi</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="89">
+    <orth type="cont">
+      <part type="single">infatti</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION:Instantiation</coh-relation>
+        <example>La somiglianza non � cos� sorprendente. Infatti le due sono sorelle.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="90">
+    <orth type="cont">
+      <part type="single">infine</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="91">
+    <orth type="cont">
+      <part type="single">innanzitutto</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="92">
+    <orth type="cont">
+      <part type="single">inoltre</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION:Conjunction</coh-relation>
+        <example>Non ho voglia di andare al cinema, inoltre sono stanco.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="93">
+    <orth type="cont">
+      <part type="single">insomma</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>EXPANSION:Level-of-detail:Arg1-as-detail</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="94">
+    <orth type="cont">
+      <part type="single">intanto</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>TEMPORAL:Synchronous</coh-relation>
+        <example>Applausi scrosciano dai 120.000 spettatori. Intanto un gruppo di 150 manifestanti contrari � tenuto sott'occhio da un forte spiegamento di polizia.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="95">
+    <orth type="cont">
+      <part type="single">invece</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>COMPARISON:Contrast</coh-relation>
+        <example>Lui � grande, invece sua moglie � piccola</example>
+		<coh-relation>COMPARISON:Concession:Arg2-as-denier</coh-relation>
+		<example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="96">
+    <orth type="cont">
+      <part type="phrasal">invece di</part>
+    </orth>
+    <syn type="prep">
+      <sem>
+        <coh-relation>EXPANSION:Substitution:Arg1-as-subst</coh-relation>
+        <example>Invece di mandare i bambini, ha mandato il nonno.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="97">
+    <orth type="cont">
+      <part type="single">invero</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="98">
+    <orth type="cont">
+      <part type="single">ma</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>COMPARISON:Contrast</coh-relation>
+        <example>Lui � grande, ma sua moglie � piccola</example>
+		<coh-relation>COMPARISON:Concession:Arg2-as-denier</coh-relation>
+		<example>Lui � grande, ma non sa giocare a basket.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="99">
+    <orth type="cont">
+      <part type="single">malgrado</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>COMPARISON:Concession:Arg1-as-denier</coh-relation>
+        <example>Ci andiamo malgrado il maltempo.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="100">
+    <orth type="cont">
+      <part type="phrasal">malgrado ci�</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>COMPARISON:Concession:Arg2-as-denier</coh-relation>
+        <example>Entrambe le pagine annunciavano un secondo incontro per marted�. Malgrado ci� le lotte nei campi andarono avanti anche il luned�.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="101">
+    <orth type="cont">
+      <part type="single">mentre</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>TEMPORAL:Synchronous</coh-relation>
+        <example>Mentre pioveva, eravamo in una trattoria.</example>
+		<coh-relation>EXPANSION:Conjunction</coh-relation>
+		<example>Nessuno degli aspiranti presidenti in Argentina conta su pi� del 15 % delle intenzioni di voto, mentre circa il 12 % degli elettori pensano di astenersi.</example>
+	  </sem>
+	</syn>
+	<syn type="cco">
+      <sem>
+	    <coh-relation>COMPARISON:Contrast</coh-relation>
+        <example>Lei ha studiato, mentre suo fratello ha imparato un mestiere. </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="102">
+    <orth type="cont">
+      <part type="single">n�</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>EXPANSION:Conjunction</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="103">
+    <orth type="cont">
+      <part type="phrasal">n� ... n�</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>EXPANSION: Conjunction</coh-relation>
+        <example>Ieri non ha n� piovuto, n� brillato il sole.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="104">
+    <orth type="cont">
+      <part type="phrasal">nel contempo</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>TEMPORAL:Synchronous</coh-relation>
+        <example>Lei diceva, che voleva rivolgersi direttamente alla base di Mitte e Prenzlauer Berg. Nel contempo criticava l'azione della presidenza federale.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="105">
+    <orth type="cont">
+      <part type="phrasal">nel frattempo</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>TEMPORAL:Synchronous</coh-relation>
+        <example>Nel frattempo le idee della Volks-AG nella navigazione marittima verranno collaudate anche in altri rami del campo dei trasporti.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="106">
+    <orth type="cont">
+      <part type="phrasal">non appena</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>TEMPORAL:Synchronous</coh-relation>
+        <example>Non appena gli dai un dito, lui ti prende tutta la mano.</example>
+		<coh-relation>CONTINGENCY:Condition</coh-relation>
+		<example>Non appena gli dai un dito, lui ti prende tutta la mano.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="107">
+    <orth type="cont">
+      <part type="phrasal">non prima di</part>
+    </orth>
+    <syn type="prep">
+      <sem>
+        <coh-relation>TEMPORAL:Asynchronous:succession</coh-relation>
+        <example>Vado a dormire, non prima di aver aerato per bene.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="108">
+    <orth type="cont">
+      <part type="single">nondimeno</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>COMPARISON:Concession:Arg2-as-denier</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="109">
+    <orth type="cont">
+      <part type="single">nonostante</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>COMPARISON:Concession:Arg1-as-denier</coh-relation>
+        <example>Ci andiamo nonostante il maltempo.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="110">
+    <orth type="cont">
+      <part type="single">nonpertanto</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="111">
+    <orth type="cont">
+      <part type="single">o</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION:Disjunction</coh-relation>
+        <example>Puoi scrivergli, o puoi telefonargli.</example>
+		<coh-relation>CONTINGENCY:Negative-Condition:Arg1-as-negcond</coh-relation>
+		<example>O mangi la tua minestra, o non puoi guardare la televisione.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="112">
+    <orth type="cont">
+      <part type="phrasal">ogni volta che</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>TEMPORAL:Synchronous</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="113">
+    <orth type="cont">
+      <part type="phrasal">oltre a ci�</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION: Conjunction</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="114">
+    <orth type="cont">
+      <part type="single">oltretutto</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION:Conjunction</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="115">
+    <orth type="cont">
+      <part type="single">oppure</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION:Disjunction</coh-relation>
+        <example>Puoi scrivergli, oppure puoi telefonargli.</example>
+		<coh-relation>CONTINGENCY:Negative-Condition:Arg1-as-negcond</coh-relation>
+		<example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="116">
+    <orth type="cont">
+      <part type="single">ossia</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION:Equivalence</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="117">
+    <orth type="cont">
+      <part type="single">parimenti</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>COMPARISON:Similarity</coh-relation>
+        <example>Non c'erano particolari riguardo le modalit� di una riforma economica e monetaria, parimenti si aspettava invano per presentazioni del governo al riguardo..</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="118">
+    <orth type="cont">
+      <part type="single">per</part>
+    </orth>
+    <syn type="prep">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:reason</coh-relation>
+        <example>Per una festa privata oggi il locale resta chiuso.</example>
+		<coh-relation>CONTINGENCY:Purpose:Arg2-as-goal</coh-relation>
+		<example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="119">
+    <orth type="cont">
+      <part type="phrasal">per contro</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>COMPARISON:Concession:Arg2-as-denier</coh-relation>
+        <example></example>
+		<coh-relation>COMPARISON:Contrast</coh-relation>
+		<example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="120">
+    <orth type="cont">
+      <part type="phrasal">per cui</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:result</coh-relation>
+        <example>Allora la radio ancora non c'era. Per cui, gli abitanti di Heilbronn dovevano aspettare fino al luned� successivo, per conoscere il segnale.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="121">
+    <orth type="cont">
+      <part type="phrasal">per di pi�</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION:Conjunction</coh-relation>
+        <example>Durante la giornata gli articoli vengono stabilmente aggiornati. Per di pi� la distribuzione elettronica contiene pi� retroscena.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="122">
+    <orth type="cont">
+      <part type="phrasal">per giunta</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION:Conjunction</coh-relation>
+        <example>In Turchia era solo, per giunta all'inizio era atteso dal servizio militare.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="123">
+    <orth type="cont">
+      <part type="phrasal">per il fatto che</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:reason</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="124">
+    <orth type="cont">
+      <part type="phrasal">per il resto</part>
+    </orth>
+    <syn type="other">
+      <sem>
+        <coh-relation>EXPANSION:Exception:Arg1-as-excpt</coh-relation>
+        <example>L'EDV-Kurs purtroppo deve essere disdetto. Per il resto tutte le offerte possono essere passate.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="125">
+    <orth type="cont">
+      <part type="phrasal">per la qual cosa</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="126">
+    <orth type="cont">
+      <part type="phrasal">per meglio dire</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION:Equivalence</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="127">
+    <orth type="cont">
+      <part type="phrasal">per poco che</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="128">
+    <orth type="cont">
+      <part type="phrasal">per prima cosa</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="129">
+    <orth type="cont">
+      <part type="phrasal">per quanto</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>CONTINGENCY:Condition  +  COMPARISON:Concession:Arg1-as-denier</coh-relation>
+        <example>Voleva risparmiare alla moglie questa delusione, per quanto fosse possibile.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="130">
+    <orth type="cont">
+      <part type="phrasal">per questa ragione</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:result</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="131">
+    <orth type="cont">
+      <part type="phrasal">per questo</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:result</coh-relation>
+        <example>Il suo Oldtimer � in ottimo stato. Per questo � costato un sacco di soldi.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="132">
+    <orth type="cont">
+      <part type="phrasal">per questo motivo</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:result</coh-relation>
+        <example>Non aveva ancora mangiato. Per questo motivo si sentiva indebolita.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="133">
+    <orth type="cont">
+      <part type="single">peraltro</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="134">
+    <orth type="cont">
+      <part type="single">perch�</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:reason</coh-relation>
+        <example>Il concerto non pu� avere luogo perch� la cantante � malata.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="135">
+    <orth type="cont">
+      <part type="single">perci�</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:resulte</coh-relation>
+        <example>Allora la radio ancora non c'era. Perci�, gli abitanti di Heilbronn dovevano aspettare fino al luned� successivo, per conoscere il segnale.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="136">
+    <orth type="cont">
+      <part type="single">per�</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>COMPARISON:Contrast</coh-relation>
+        <example>Lui � grande, per� sua moglie � piccola</example>
+		<coh-relation>COMPARISON:Concession:Arg2-as-denier</coh-relation>
+		<example>La collega � malata, per� lavora</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="137">
+    <orth type="cont">
+      <part type="single">persino</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>EXPANSION:Conjunction</coh-relation>
+        <example>Klaus non � ancora tornato. Si � persino perso l'allenamento.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="138">
+    <orth type="cont">
+      <part type="single">pertanto</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:result</coh-relation>
+        <example>Il boxer incespic� impotente nella corda, pertanto l'arbitro interruppe l'incontro.</example>
+        <coh-relation>COMPARISON:Concession:Arg1-as-denier</coh-relation>
+		<example></example>
+	  </sem>
+    </syn>
+  </entry>
+  <entry id="139">
+    <orth type="cont">
+      <part type="phrasal">pi� che altro</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="140">
+    <orth type="cont">
+      <part type="phrasal">pi� tardi</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>TEMPORAL:Asynchronous:precedence</coh-relation>
+        <example>Scalfire i pomodori con un coltello affilato e annaffiare con acqua calda. Pi� tardi si pu� spellarli senza problemi.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="141">
+    <orth type="cont">
+      <part type="single">piuttosto</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION:Substitution:Arg1-as-subst</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="142">
+    <orth type="cont">
+      <part type="single">poi</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>TEMPORAL:Asynchronous:precedence</coh-relation>
+        <example>Scalfire i pomodori con un coltello affilato e annaffiare con acqua calda. Poi si pu� spellarli senza problemi.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="143">
+    <orth type="cont">
+      <part type="single">poich�</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:reason  +  consequence</coh-relation>
+        <example>� cos� ansiosa poich� � gi� stata bocciata all'esame di guida due volte.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="144">
+    <orth type="cont">
+      <part type="single">precedentemente</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>TEMPORAL:Asynchronous:succession</coh-relation>
+        <example>In autunno sar� pubblicato il nuovo album di Zachary Richard. Precedentemente far� per la prima volta un tour in Germania.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="145">
+    <orth type="cont">
+      <part type="single">prima</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>TEMPORAL:Asynchronous:succession</coh-relation>
+        <example>In autunno sar� pubblicato il nuovo album di Zachary Richard. Prima far� per la prima volta un tour in Germania.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="146">
+    <orth type="cont">
+      <part type="phrasal">prima che</part>
+    </orth>
+    <syn type="prep">
+      <sem>
+        <coh-relation>TEMPORAL:Asynchronous:precedence</coh-relation>
+        <example>Prima che la lezione cominci, gli studenti tirano fuori libri e quaderni.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="147">
+    <orth type="cont">
+      <part type="single">purch�</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>CONTINGENCY:Condition</coh-relation>
+        <example>Oggi usciamo, purch� venga Hans.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="148">
+    <orth type="cont">
+      <part type="single">pure</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>EXPANSION:Conjunction</coh-relation>
+        <example></example>
+		<coh-relation>COMPARISON:Concession:Arg1-as-denier</coh-relation>
+		<example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="149">
+    <orth type="cont">
+      <part type="single">quando</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>TEMPORAL:Synchronous</coh-relation>
+        <example>Quando lasci� l'appartamento, arriv� la chiamata</example>
+		<coh-relation>TEMPORAL:Asynchronous:succession</coh-relation>
+		<example></example>
+		<coh-relation>CONTINGENCY:Condition</coh-relation>
+		<example>Quando si preme sul bottone, la porta si apre da sola.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="150">
+    <orth type="cont">
+      <part type="single">quantunque</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>COMPARISON:Concession:Arg1-as-denier</coh-relation>
+        <example>Il palazzo ci d� ancora oggi un'idea della grandezza del tempo, quantunque la gran parte � andata in rovina.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="151">
+    <orth type="cont">
+      <part type="single">quindi</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:result</coh-relation>
+        <example>Allora la radio ancora non c'era. Quindi, gli abitanti di Heilbronn dovevano aspettare fino al luned� successivo, per conoscere il segnale.</example>
+		<coh-relation>TEMPORAL:Asynchronous:precedence</coh-relation>
+		<example></example>
+	  </sem>
+    </syn>
+  </entry>
+  <entry id="152">
+    <orth type="cont">
+      <part type="phrasal">salvo che</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>CONTINGENCY:Negative-Condition:Arg2-as-negcond</coh-relation>
+        <example>In caso di divorzio la madre ottiene l'affidamento dei minori, salvo che il giudice non decida altrimenti.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="153">
+    <orth type="cont">
+      <part type="single">se</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>CONTINGENCY:Condition  +  consequence</coh-relation>
+        <example>Se viene a Dresda, ci viene a visitare.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="154">
+    <orth type="cont">
+      <part type="single">sebbene</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>COMPARISON:Concession:Arg1-as-denier</coh-relation>
+        <example>Sebbene Greff fosse sposato, sembrava pi� un capo degli scout che un marito.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="155">
+    <orth type="cont">
+      <part type="single">semmai</part>
+    </orth>
+    <syn type="other">
+      <sem>
+        <coh-relation>EXPANSION: Conjunction</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="156">
+    <orth type="cont">
+      <part type="single">senn�</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>CONTINGENCY:Negative-Condition:Arg1-as-negcond</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="157">
+    <orth type="cont">
+      <part type="single">sennonch�</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>COMPARISON:Concession:Arg2-as-denier</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="158">
+    <orth type="cont">
+      <part type="single">siccome</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>CONTINGENCY:Cause:reason</coh-relation>
+        <example>Siccome la cantante � malata, il concerto non pu� avere luogo.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="159">
+    <orth type="cont">
+      <part type="single">solamente</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>COMPARISON:Concession:Arg2-as-denier</coh-relation>
+        <example>Sento bene il messaggio, solamente mi manca la convinzione</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="160">
+    <orth type="cont">
+      <part type="single">solo</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>COMPARISON:Concession:Arg2-as-denier</coh-relation>
+        <example>Sento bene il messaggio, solo mi manca la convinzione</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="161">
+    <orth type="cont">
+      <part type="phrasal">sopra ogni altra cosa</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="162">
+    <orth type="cont">
+      <part type="phrasal">supposto che</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>CONTINGENCY:Condition</coh-relation>
+        <example>Per 230 anni i collezionisti possono acquistare i pezzi - supposto che la KPM ci sia per cos� a lungo.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="163">
+    <orth type="cont">
+      <part type="phrasal">tanto pi� che</part>
+    </orth>
+    <syn type="csu">
+      <sem>
+        <coh-relation>EXPANSION:Conjunction  +  consequence</coh-relation>
+        <example>I cambi di nome delle strade a Goerlitz sono ancora non chiari. Tanto pi� che nel nuovo quartiere in costruzione resteranno i nomi vecchi delle strade</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="164">
+    <orth type="cont">
+      <part type="phrasal">tra l'altro</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="165">
+    <orth type="cont">
+      <part type="phrasal">tra le altre cose</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="166">
+    <orth type="cont">
+      <part type="single">tranne</part>
+    </orth>
+    <syn type="prep">
+      <sem>
+        <coh-relation>EXPANSION:Exception:Arg2-as-excpt</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="167">
+    <orth type="cont">
+      <part type="phrasal">tranne quando</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>CONTINGENCY:Negative-Condition:Arg2-as-negcond</coh-relation>
+        <example>Lei � sempre di buon umore, tranne quando non ha dormito abbastanza.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="168">
+    <orth type="cont">
+      <part type="phrasal">tutt'al pi�</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="169">
+    <orth type="cont">
+      <part type="single">tuttavia</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>COMPARISON:Concession:Arg2-as-denier</coh-relation>
+        <example>Lui � grande, tuttavia non sa giocare a basket</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="170">
+    <orth type="cont">
+      <part type="phrasal">tutto sommato</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation></coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="171">
+    <orth type="cont">
+      <part type="single">ugualmente</part>
+    </orth>
+    <syn type="adv">
+      <sem>
+        <coh-relation>COMPARISON:Similarity</coh-relation>
+        <example>Non c'erano particolari riguardo le modalit� di una riforma economica e monetaria, ugualmente si aspettava invano per presentazioni del governo al riguardo...</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="172">
+    <orth type="cont">
+      <part type="phrasal">vale a dire</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>EXPANSION:Level-of-detail:Arg2-as-detail</coh-relation>
+        <example></example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="173">
+    <orth type="cont">
+      <part type="single">viceversa</part>
+    </orth>
+    <syn type="cco">
+      <sem>
+        <coh-relation>COMPARISON:Concession:Arg2-as-denier</coh-relation>
+        <example></example>
+		<coh-relation>COMPARISON:Contrast</coh-relation>
+		<example></example>
+      </sem>
+    </syn>
+  </entry>
+</conanolex>

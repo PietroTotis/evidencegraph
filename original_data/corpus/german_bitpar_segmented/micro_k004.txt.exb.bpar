@@ -1,0 +1,144 @@
+
+(TOP
+  (S-TOP
+    (CNP-SB
+      (NP-SB\/chain\/Pl
+        (NN-HD-Nom.Pl Supermärkte))
+      (KON-CD und)
+      (NP-SB\/chain\/Pl
+        (NN-HD-Nom.Pl.Neut Einkaufszentren)))
+    (VMFIN-HD-Pl sollten)
+    (PP-MO\/V
+      (APPR-AC\/Dat an)
+      (ADJA-HD-Pos.Dat.Pl beliebigen)
+      (CNP-HD\/Dat
+        (TRUNCCap-HD Sonn-)
+        (KON-CD und)
+        (NN-HD-Dat.Pl.Masc Feiertagen)))
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl geöffnet))
+    (VP-OC\/inf
+      (VAINF-HD werden)))
+  (XY-TOP dürfen)
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-OA
+      (PDS-HD-Acc.Sg.Neut Das))
+    (VMFIN-HD-Sg mag)
+    (PN-SB-Nom.Sg
+      (NE-HD-Nom.Sg für))
+    (VP-OC\/inf
+      (NP-OA
+        (ART-HD-Acc.Pl die)
+        (NN-HD-Acc.Pl Angestellten))
+      (NP-MO
+        (ART-HD-Acc.Sg.Fem eine)
+        (NN-HD-Acc.Sg.Fem Umstellung))
+      (VAINF-HD sein))
+    (\$, ,)
+    (S-RC
+      (NP-SB\/Pl\/rel
+        (PRELS-HD-Nom.Pl.Masc die))
+      (PRF-OA-Acc.Pl sich)
+      (PTKNEG-NG nicht)
+      (PP-MO\/V
+        (APPR-AC\/Acc ohne)
+        (NN-HD-Acc.Sg.Neut Weiteres))
+      (VVFIN-HD-Pl realisieren)))
+  (XY-TOP lässt)
+  (\$. .))
+
+(TOP
+  (ADV-MO\/0 Besonders)
+  (XY-TOP für)
+  (XY-TOP berufstätige)
+  (NP-TOP
+    (NN-HD-Nom.Pl.Masc Kunden))
+  (XY-TOP würde)
+  (S-TOP
+    (CNP-SB
+      (NP-SB\/Sg
+        (PPER-HD-Nom.Sg.Neut es))
+      (KON-CD aber)
+      (NP-SB
+        (CNP-HD
+          (NP-HD
+            (XY-HD größere)
+            (CARD-HD Flexibilität))
+          (KON-CD und)
+          (NP-HD
+            (PIAT-HD weniger)
+            (ADJA-HD-Pos.Acc.Sg.Fem nervenaufreibende)
+            (NN-HD-Acc.Sg.Fem Stoßzeiten)))
+        (PP-MNR\/N
+          (APPR-AC\/Dat\/unter unter)
+          (ART-HD-Dat.Sg.Fem der)
+          (NN-HD-Dat.Sg.Fem Woche))))
+    (VVFIN-HD-Pl bedeuten))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PP-MO\/V
+      (APPR-AC\/Dat Mit)
+      (ART-HD-Dat.Sg.Fem der)
+      (ADJA-HD-Pos.Dat.Sg.Fem zunehmenden)
+      (NN-HD-Dat.Sg.Fem Digitalisierung)
+      (NP-AG
+        (ART-HD-Gen.Sg.Fem der)
+        (NN-HD-Gen.Sg.Fem Gesellschaft)))
+    (VAFIN-HD-Sg wird)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Neut das)
+      (NN-HD-Nom.Sg.Neut herkömmliche))
+    (VP-OC\/inf
+      (NP-PD
+        (NN-HD-Nom.Sg.Neut Modell)
+        (NP-AG
+          (ART-HD-Gen.Sg des)
+          (CH-HD
+            (FM-UC Wochenendes)
+            (FM-UC bald)
+            (FM-UC überholt))))
+      (VAINF-HD sein)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-SB\/Pl
+        (PIAT-HD-Nom.Pl Viele)
+        (CNP-HD
+          (PN-HD
+            (NE-PNC europäische)
+            (NE-PNC Länder))
+          (\$, ,)
+          (NP-HD
+            (ADV-MO\/N beispielsweise)
+            (ART-HD-Acc.Pl die)
+            (NE-HD-Acc.Pl Niederlande))
+          (\$, ,)
+          (NE-HD-Dat.Sg.Neut Schweden)
+          (KON-CD oder)
+          (NE-HD Großbritannien)))
+      (\$, ,)
+      (VAFIN-HD-Pl haben)
+      (VP-OC\/pp
+        (NP-OA
+          (PDS-HD-Acc.Sg.Neut das))
+        (ADV-MO\/V bereits)
+        (VVPP-HD erkannt)))
+    (KON-CD und)
+    (S-TOP\/nohead
+      (NP-SB\/Pl
+        (ART-HD-Nom.Pl die)
+        (NN-HD-Nom.Pl Öffnungszeiten))
+      (VP-OC\/pp
+        (NP-DA
+          (ART-HD-Dat.Sg.Fem der)
+          (NN-HD-Dat.Sg.Fem Geschäfte))
+        (ADJD-MO-Pos\/V erfolgreich)
+        (VVPP-HD angepasst))))
+  (\$. .))

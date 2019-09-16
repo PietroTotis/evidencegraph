@@ -6,7 +6,7 @@
     <orth type="cont">
       <part type="single">aber</part>
     </orth>
-    <syn><kat>konnadv</kat><konn><integr><konnadv><vorfeld>0</vorfeld><mittelfeld>1</mittelfeld><nacherst>1</nacherst><nachfeld>0</nachfeld><nullstelle>1</nullstelle><nachnachfeld>0</nachnachfeld><satzklammer>0</satzklammer></konnadv></integr></konn><abfolge><ante>0</ante><post>1</post><insert>0</insert></abfolge><sem><grfunktion><adversativ/></grfunktion><hbfunktion><adversativ/></hbfunktion><relation>contrast</relation><beispiel>Er ist gross, *aber* seine Frau ist klein.</beispiel><beispiel>Peter ist (zwar) klug, *aber* faul.</beispiel></sem><sem><grfunktion><adversativ/></grfunktion><hbfunktion><adversativ/></hbfunktion><relation>concession</relation><beispiel>Er ist gross, aber er kann nicht Basketball spielen.</beispiel><beispiel>Die Kollegin ist krank, *aber* sie arbeitet.</beispiel></sem>      
+    <syn><kat>konnadv</kat><konn><integr><konnadv><vorfeld>0</vorfeld><mittelfeld>1</mittelfeld><nacherst>1</nacherst><nachfeld>0</nachfeld><nullstelle>1</nullstelle><nachnachfeld>0</nachnachfeld><satzklammer>0</satzklammer></konnadv></integr></konn><abfolge><ante>0</ante><post>1</post><insert>0</insert></abfolge><sem><grfunktion><adversativ/></grfunktion><hbfunktion><adversativ/></hbfunktion><relation>contrast</relation><beispiel>Er ist gross, *aber* seine Frau ist klein.</beispiel><beispiel>Peter ist (zwar) klug, *aber* faul.</beispiel></sem><sem><grfunktion><adversativ/></grfunktion><hbfunktion><adversativ/></hbfunktion><relation>concession</relation><beispiel>Er ist gross, aber er kann nicht Basketball spielen.</beispiel><beispiel>Die Kollegin ist krank, *aber* sie arbeitet.</beispiel></sem>
       </syn>
   </eintrag>
   <eintrag id="2">

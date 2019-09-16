@@ -1,0 +1,104 @@
+
+(TOP
+  (S-TOP\/nohead
+    (NP-SB\/Sg
+      (NN-HD-Nom.Sg.Neut Antivirenprogramme)
+      (XY-HD schützen))
+    (NP-OA
+      (ART-HD-Acc.Sg.Masc den)
+      (NN-HD-Acc.Sg.Masc Benutzer)
+      (NP-AG
+        (ART-HD-Gen.Sg.Masc eines)
+        (NN-HD-Gen.Sg.Masc Computers))
+      (PP-MNR\/N
+        (APPR-AC\/Dat vor)
+        (NN-HD-Dat.Pl.Fem Gefahren)
+        (PP-MNR\/N
+          (APPR-AC\/Dat aus)
+          (ART-HD-Dat.Sg.Neut dem)
+          (NN-HD-Dat.Sg.Neut Internet)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PROAV-MO Deswegen)
+    (VMFIN-HD-Sg sollte)
+    (NP-SB\/Sg
+      (PIS-HD-Nom.Sg.Masc jeder))
+    (VP-OC\/inf
+      (NP-PD
+        (ART-HD-Nom.Sg.Neut ein)
+        (NN-HD-Nom.Sg.Neut Antivirenprogramm)
+        (PP-MNR\/N
+          (APPR-AC\/Dat\/auf auf)
+          (PPOSAT-HD-Dat.Sg.Masc seinem)
+          (NN-HD-Dat.Sg.Masc Windows-Computer)))
+      (VAINF-HD haben)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Zwar)
+    (VVFIN-HD-Pl verhindern)
+    (NP-SB\/Pl
+      (PPER-HD-Nom.Pl sie))
+    (PTKNEG-NG nicht)
+    (AP-MO\/pred
+      (ADJD-HD-Pos\/0 generell)
+      (\$, ,)
+      (S-OC
+        (KOUS-CP\/oc dass)
+        (NP-SB\/Sg
+          (PIS-HD-Nom.Sg man))
+        (PRF-DA-Dat.Sg sich)
+        (NP-OA
+          (ART-HD-Acc.Sg.Masc einen)
+          (NN-HD-Acc.Sg.Masc Virus)
+          (XY-HD einfängt))))
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo da)
+      (NP-SB\/Pl
+        (PPER-HD-Nom.Pl sie))
+      (ADV-MO\/V nur)
+      (PP-OP\/V
+        (APPR-AC\/Acc\/auf auf)
+        (AP-HD-Pos.Acc.Pl.Fem
+          (ADJD-PD-Pos\/0 bekannt)
+          (ADJA-HD-Pos.Acc.Pl.Fem gewordene))
+        (NN-HD-Acc.Pl.Fem Bedrohungen))
+      (VVFIN-HD-Pl reagieren)))
+  (XY-TOP können)
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (S-OC
+      (ADV-MO\/V Aber)
+      (VAFIN-HD-Sg ist)
+      (PN-SB-Nom.Sg
+        (NE-HD-Nom.Sg für))
+      (NP-OA
+        (ART-HD-Acc.Sg.Masc einen)
+        (ADJA-HD-Pos.Acc.Sg.Masc neuen)
+        (NN-HD-Acc.Sg.Masc Virus))
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Masc ein)
+        (NN-HD-Nom.Sg.Masc Schutz))
+      (VP-OC\/pp
+        (VVPP-HD gefunden)))
+    (\$, ,)
+    (VVFIN-HD-Pl erhalten)
+    (NP-OA
+      (PPER-HD-Acc.Sg.Masc ihn))
+    (NP-SB\/Pl
+      (PIS-HD-Nom.Pl alle))
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in in)
+      (NN-HD-Dat.Sg.Fem Windeseile))
+    (PP-MO\/V
+      (APPR-AC\/Dat mit)
+      (ART-HD-Dat.Sg.Neut dem)
+      (ADJA-HD-Pos.Dat.Sg.Neut automatischen)
+      (NN-HD-Dat.Sg.Neut Update)))
+  (\$. .))

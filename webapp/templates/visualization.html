@@ -1,0 +1,26 @@
+<html>
+
+<head>
+    <title> Clustering</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+
+</head>
+
+<body>
+
+		<h1> Select number of clusters! Only for PRO! </h1>
+		
+        <p>This was the text given as inuput</p>
+		
+        <p></p>
+        <strong>{{text}}</strong>
+        <p></p>
+        
+        
+        <form action ="{{ url_for('visualize') }}" id = "select_clusters", method="post">
+        Now select the number of clusters: <input type="text" id="clusters" name="clusters">
+        <form>
+        <input type="submit" id="submit" text="clusters", value="Let's go">            
+
+</body>
+</html>

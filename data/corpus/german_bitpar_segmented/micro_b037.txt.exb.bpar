@@ -1,0 +1,111 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Die)
+      (CH-HD
+        (FM-UC \")
+        (FM-UC Pille)
+        (FM-UC danach)
+        (FM-UC \")))
+    (VMFIN-HD-Sg sollte)
+    (VP-OC\/inf
+      (AP-PD\/pred
+        (ADJD-HD-Pos\/0 rezeptfrei)
+        (PP-MO\/0
+          (APPR-AC\/Nom\/in in)
+          (ART-HD-Dat.Sg.Fem der)
+          (NN-HD-Dat.Sg.Fem Apotheke)
+          (NE-HD-Nom.Sg erhältlich)))
+      (VAINF-HD sein)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (PP-MO\/V
+        (ADV-MO\/N Auch)
+        (APPR-AC\/Dat mit)
+        (ADJA-HD-Pos.Dat.Sg.Fem modernsten)
+        (NN-HD-Dat.Sg.Fem Verhütungsmethoden))
+      (VMFIN-HD-Sg kann)
+      (NP-SB\/Sg
+        (PPER-HD-Nom.Sg.Neut es))
+      (VP-OC\/inf
+        (PP-MO\/V
+          (APPR-AC\/Dat zu)
+          (CNP-HD\/Dat
+            (NN-HD-Dat.Pl.Masc Fehlern)
+            (KON-CD und)
+            (NN-HD-Dat.Pl.Neut Problemen)))
+        (VVINF-HD kommen)))
+    (KON-CD und)
+    (S-TOP
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Fem eine)
+        (ADJA-HD-Pos.Nom.Sg.Fem ungewollte)
+        (NN-HD-Nom.Sg.Fem Schwangerschaft))
+      (VMFIN-HD-Sg kann)
+      (CNP-SB
+        (KON-CD\/sowohl sowohl)
+        (NP-SB\/Sg
+          (NN-HD-Nom.Sg.Masc für)
+          (NP-HD
+            (ART-HD-Acc.Pl die)
+            (NN-HD-Acc.Pl Eltern)))
+        (KON-CD\/als als)
+        (NP-SB\/Sg
+          (ADV-MO\/N auch)
+          (ART-HD-Nom.Sg.Neut das)
+          (NN-HD-Nom.Sg.Neut Kind)))
+      (VP-OC\/inf
+        (NP-DA
+          (NP-HD
+            (ART-HD-Acc.Sg.Fem eine)
+            (ADJA-HD-Pos.Acc.Sg.Fem schwere)
+            (NN-HD-Acc.Sg.Fem Belastung))
+          (NN-HD-Dat.Pl für))
+        (NP-OA
+          (ART-HD-Acc.Sg.Masc den)
+          (NN-HD-Acc.Sg.Masc Rest)
+          (NP-AG
+            (ART-HD-Gen.Sg.Neut des)
+            (NN-HD-Gen.Sg.Neut Lebens)))
+        (VVINF-HD darstellen))))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-SB\/Pl
+        (PIAT-HD-Nom.Pl Manche)
+        (NN-HD-Nom.Pl befürchten))
+      (VVFIN-HD-Pl einen)
+      (PP-MO\/V
+        (APPR-AC\/Dat zu)
+        (ADJA-HD-Pos.Dat.Sg.Masc sorglosen)
+        (NN-HD-Dat.Sg.Masc Umgang))
+      (PP-MO\/V
+        (APPR-AC\/Dat mit)
+        (PIAT-HD-Dat.Pl.Neut solchen)
+        (NN-HD-Dat.Pl.Neut Mitteln)))
+    (\$, ,)
+    (KON-CD doch)
+    (S-TOP\/nosubj
+      (VMFIN-HD-Sg sollte)
+      (NP-DA
+        (PDAT-HD-Dat.Sg.Neut diesem)
+        (NN-HD-Dat.Sg.Neut Problem))
+      (ADV-MO\/V lieber)
+      (VP-OC\/inf
+        (VP-OC\/pp
+          (PP-MO\/V
+            (APPR-AC\/Dat mit)
+            (CAP-HD-Pos.Dat.Sg.Fem
+              (ADJA-HD-Pos.Dat.Sg.Fem ausführlicher)
+              (\$, ,)
+              (ADJA-HD-Pos.Dat.Sg.Fem vorheriger))
+            (NN-HD-Dat.Sg.Fem Aufklärung))
+          (VVPP-HD begegnet))
+        (VAINF-HD werden))))
+  (\$. .))

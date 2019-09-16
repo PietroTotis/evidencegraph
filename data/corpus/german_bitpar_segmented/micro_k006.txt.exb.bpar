@@ -1,0 +1,102 @@
+
+(TOP
+  (S-TOP
+    (KOUS-CP Wenn)
+    (PN-SB-Nom.Sg.Neut
+      (NE-HD-Nom.Sg.Neut Deutschland))
+    (CVP-OC\/inf
+      (VP-OC\/inf
+        (VP-OC\/pp
+          (NP-OA
+            (ART-HD-Acc.Sg.Fem die)
+            (CH-HD
+              (FM-UC Todesstrafe)
+              (FM-UC einführen)
+              (FM-UC würde)
+              (\$, ,)
+              (FM-UC könnten)
+              (PN-UC-Nom.Sg.Masc
+                (NE-PNC-Nom.Sg.Masc verurteilte)
+                (NE-PNC-Nom.Sg.Masc Verbrecher))))
+          (PTKNEG-NG nicht)
+          (ADJD-MO-Pos\/V vorzeitig)
+          (VVPP-HD entlassen))
+        (VAINF-HD werden))
+      (KON-CD oder)
+      (CVP-OC\/inf
+        (VVINF-OC ausbrechen)
+        (KON-CD und)
+        (VP-OC\/inf
+          (NP-OA
+            (ADJA-HD-Pos.Acc.Pl.Fem neue)
+            (NN-HD-Acc.Pl.Fem Straftaten))
+          (VVINF-HD begehen)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Allerdings)
+    (VVFIN-HD-Sg bringt)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc der)
+      (NN-HD-Nom.Sg.Masc Tod))
+    (NP-DA
+      (ART-HD-Dat.Pl den)
+      (CNP-HD
+        (NN-HD-Nom.Pl Betroffenen)
+        (KON-CD und)
+        (NN-HD-Nom.Pl Angehörigen)))
+    (PTKNEG-NG nicht)
+    (NP-OA
+      (AP-HD
+        (PIAT-HD mehr)
+        (S-CC
+          (KOKOM-CM als)
+          (KOUS-CP wenn)
+          (NP-SB\/Pl
+            (ART-HD-Nom.Pl.Masc die)
+            (NN-HD-Nom.Pl.Masc Verbrecher))
+          (NP-OA
+            (ART-HD-Acc.Sg.Fem eine)
+            (NN-HD-Acc.Sg.Fem Haftstrafe)
+            (NE-HD langjährige))
+          (VVFIN-HD-Pl bekommen)))
+      (NN-HD-Fem würden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PN-OA-Acc.Sg
+      (NE-HD-Acc.Sg Außerdem))
+    (VVFIN-HD-Pl leben)
+    (NP-SB\/Pl
+      (PPER-HD-Nom.Pl wir))
+    (AVP-MO\/V
+      (PTKNEG-NG nicht)
+      (ADV-HD\/V mehr))
+    (PP-MO\/V
+      (APPRART-AC-Dat.Sg.Neut\/in im)
+      (NN-HD-Dat.Sg.Neut Mittelalter)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Die)
+      (NN-HD-Nom.Sg.Fem Todesstrafe)
+      (PP-MNR\/N
+        (APPR-AC\/Dat zu)
+        (NE-HD-Dat.Sg verhängen)))
+    (VAFIN-HD-Sg ist)
+    (ADJD-PD-Pos\/V unethisch))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (PPER-HD-Nom.Pl Wir))
+    (VVFIN-HD-Pl brauchen)
+    (NP-OA
+      (PPER-HD-Acc.Sg.Fem sie))
+    (PTKNEG-NG nicht))
+  (\$. .))

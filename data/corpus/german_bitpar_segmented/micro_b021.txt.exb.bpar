@@ -1,0 +1,55 @@
+
+(TOP
+  (S-TOP
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in In)
+      (NE-HD-Dat.Sg.Neut Deutschland))
+    (VMFIN-HD-Pl sollten)
+    (NP-SB\/Pl
+      (PIAT-HD-Nom.Pl keine)
+      (NN-HD-Nom.Pl Studiengebühren))
+    (VP-OC\/inf
+      (VVPP-OC verlangt)
+      (VAINF-HD werden)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP\/nosubj
+      (VVFIN-HD-Pl Studieren))
+    (KON-CD und)
+    (S-TOP
+      (NP-SB\/Sg
+        (ADJA-HD-Pos.Nom.Sg.Neut weiterbildendes)
+        (NN-HD-Nom.Sg.Neut Studium))
+      (VVFIN-HD-Sg muss)
+      (VP-OC\/inf
+        (NP-PD
+          (ART-HD-Nom.Sg.Neut ein)
+          (NN-HD-Nom.Sg.Neut Grundrecht)
+          (NP-AG
+            (ART-HD-Gen.Sg.Masc eines)
+            (PIAT-HD-Gen.Sg.Masc jeden)
+            (NN-HD-Gen.Sg.Masc Menschen)))
+        (VAINF-HD sein))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl Studiengebühren))
+    (VVFIN-HD-Pl bedingen)
+    (NP-OA
+      (ART-HD-Acc.Sg.Fem eine)
+      (NN-HD-Acc.Sg.Fem Verlängerung)
+      (NP-AG
+        (ART-HD-Gen.Pl.Fem der)
+        (NN-HD-Gen.Pl.Fem Studienzeiten))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (PDS-HD-Nom.Sg.Neut Das))
+    (VVFIN-HD-Sg kostet))
+  (\$. !))

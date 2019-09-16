@@ -1,0 +1,113 @@
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-SB\/Pl
+        (NN-HD-Nom.Pl Großveranstaltungen)
+        (\$, ,)
+        (S-RC
+          (NP-SB\/Pl\/rel
+            (PRELS-HD-Nom.Pl.Masc die))
+          (CAVP-MO
+            (ADJD-MO-Pos\/0 national)
+            (KON-CD oder)
+            (AP-MO\/pred
+              (ADV-MO\/0 gar)
+              (ADJD-HD-Pos\/0 international)))
+          (NP-OA
+            (NN-HD-Acc.Sg.Fem Aufmerksamkeit))
+          (VVFIN-HD-Pl erregen)))
+      (\$, ,)
+      (VVFIN-HD-Pl ziehen)
+      (NP-SB\/Pl
+        (PIAT-HD-Nom.Pl.Masc viele)
+        (NN-HD-Nom.Pl.Masc Besucher))
+      (PTKVZ-SVP an))
+    (\$, ,)
+    (KON-CD und)
+    (S-TOP
+      (NP-OA
+        (PIS-HD-Neut nichts))
+      (VVFIN-HD-Sg hilft)
+      (PN-SB-Nom.Sg.Neut
+        (NE-HD-Nom.Sg.Neut Berlin))
+      (ADV-MO\/V eher)
+      (PP-MO\/V
+        (APPR-AC\/Dat aus)
+        (ART-HD-Dat.Sg.Fem der)
+        (ADJA-HD-Pos.Dat.Sg.Fem finanziellen)
+        (NN-HD-Dat.Sg.Fem Patsche)
+        (PP-MNR\/N
+          (APPR-AC\/Acc als)
+          (PIAT-HD-Acc.Pl.Masc viele)
+          (ADJA-HD-Pos.Acc.Pl.Masc zahlungsfreudige)
+          (NN-HD-Acc.Pl.Masc Besucher)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PROAV-MO Deswegen)
+    (VMFIN-HD-Sg sollte)
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Masc der)
+      (ADJA-HD-Pos.Nom.Sg.Masc regierende)
+      (NN-HD-Nom.Sg.Masc Bürgermeister)
+      (NP-HD
+        (ART-HD-Acc.Sg.Fem die)
+        (PN-HD
+          (NE-PNC Hürden)
+          (NE-PNC für))))
+    (VP-OC\/inf
+      (NP-OA
+        (ART-HD-Acc.Sg.Fem die)
+        (NN-HD-Acc.Sg.Fem Austragung)
+        (NP-AG
+          (PIAT-HD-Gen.Pl.Fem solcher)
+          (NN-HD-Gen.Pl.Fem Veranstaltungen)))
+      (AP-MO\/pred
+        (AVP-MO\/0
+          (ADV-HD\/0 so))
+        (ADJD-HD-Pos\/0 niedrig)
+        (NP-CC
+          (KOKOM-CM wie)
+          (NE-HD-Nom.Sg möglich)))
+      (VVINF-HD halten)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-SB\/Sg
+        (ADV-MO\/N Zwar)
+        (NE-HD-Nom.Sg wäre))
+      (VVFIN-HD-Sg ein)
+      (NP-SB\/Pl
+        (AP-HD
+          (ADJD-MO-Pos\/card deutlich)
+          (CARD-HD höherer))
+        (NN-HD-Nom.Pl.Masc Zuschuss)
+        (PP-PG\/N
+          (APPRART-AC-Dat\/von vom)
+          (NN-HD-Dat.Sg.Masc Bund)
+          (XY-HD für)))
+      (NP-DA
+        (NP-HD
+          (ART-HD-Nom.Pl.Fem die)
+          (ADJA-HD-Pos Berliner)
+          (NN-HD-Nom.Pl.Fem Kassen))
+        (NN-HD-Dat.Pl natürlich))
+      (ADV-MO\/V noch)
+      (ADJD-MO-Comp\/V besser))
+    (\$, ,)
+    (KON-CD aber)
+    (S-TOP
+      (PROAV-MO darauf)
+      (VVFIN-HD-Sg braucht)
+      (NP-SB\/Sg
+        (PIS-HD-Nom.Sg man))
+      (VP-OC\/zu
+        (PTKNEG-NG nicht)
+        (VZ-HD
+          (PTKZU-PM zu)
+          (VVINF-HD hoffen)))))
+  (\$. .))

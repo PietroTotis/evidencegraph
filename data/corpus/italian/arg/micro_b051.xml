@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_b051" topic_id="allow_shops_to_open_on_holidays_and_sundays" stance="con">
+  <edu id="e1"><![CDATA[A causa dell'aumento delle aperture domenicali e nei giorni festivi, c'è un aumento dell'occupazione.]]></edu>
+  <edu id="e2"><![CDATA[Tuttavia, vengono impiegati solo lavoratori temporanei (ovvero principalmente studenti e alunni),]]></edu>
+  <edu id="e3"><![CDATA[il che non ha quasi nessun effetto sull'occupazione a tempo pieno o sul numero dei disoccupati.]]></edu>
+  <edu id="e4"><![CDATA[Inoltre, la vita familiare e privata risente pesantemente di questo accorciamento e rinvio dei periodi di riposo fissi.]]></edu>
+  <edu id="e5"><![CDATA[Inoltre, solo le grandi imprese possono permettersi i costi aggiuntivi per il personale.]]></edu>
+  <edu id="e6"><![CDATA[Per questi motivi, i supermercati e i centri commerciali non devono essere aperti la domenica o nei giorni festivi.]]></edu>
+  <adu id="a1" type="opp"/>
+  <adu id="a2" type="pro"/>
+  <adu id="a3" type="pro"/>
+  <adu id="a4" type="pro"/>
+  <adu id="a5" type="pro"/>
+  <adu id="a6" type="pro"/>
+  <edge id="c7" src="e1" trg="a1" type="seg"/>
+  <edge id="c8" src="e2" trg="a2" type="seg"/>
+  <edge id="c9" src="e3" trg="a3" type="seg"/>
+  <edge id="c10" src="e4" trg="a4" type="seg"/>
+  <edge id="c11" src="e5" trg="a5" type="seg"/>
+  <edge id="c12" src="e6" trg="a6" type="seg"/>
+  <edge id="c1" src="a1" trg="a6" type="reb"/>
+  <edge id="c2" src="a2" trg="a3" type="sup"/>
+  <edge id="c3" src="a3" trg="c1" type="und"/>
+  <edge id="c4" src="a4" trg="a6" type="sup"/>
+  <edge id="c5" src="a5" trg="a6" type="sup"/>
+</arggraph>

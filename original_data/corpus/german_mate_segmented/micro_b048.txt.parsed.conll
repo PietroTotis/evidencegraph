@@ -1,0 +1,53 @@
+1	Jeder	_	jeder	_	PIAT	_	nom|sg|masc	-1	3	_	NK	_	_
+2	deutsche	_	deutsch	_	ADJA	_	nom|sg|masc|pos	-1	3	_	NK	_	_
+3	Bürger	_	Bürger	_	NN	_	nom|sg|masc	-1	4	_	SB	_	_
+4	hat	_	haben	_	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	ein	_	ein	_	ART	_	acc|sg|neut	-1	6	_	NK	_	_
+6	Recht	_	Recht	_	NN	_	acc|sg|neut	-1	4	_	OA	_	_
+7	auf	_	auf	_	APPR	_	_	-1	6	_	MNR	_	_
+8	Bildung	_	Bildung	_	NN	_	acc|sg|fem	-1	7	_	NK	_	_
+9	.	_	--	_	$.	_	_	-1	8	_	--	_	_
+
+1	Qualität	_	Qualität	_	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+2	an	_	an	_	APPR	_	_	-1	1	_	MNR	_	_
+3	Universitäten	_	Universität	_	NN	_	dat|pl|fem	-1	2	_	NK	_	_
+4	hat	_	haben	_	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	ihren	_	ihr	_	PPOSAT	_	acc|sg|masc	-1	6	_	NK	_	_
+6	Preis	_	Preis	_	NN	_	acc|sg|masc	-1	4	_	OA	_	_
+7	,	_	--	_	$,	_	_	-1	6	_	--	_	_
+8	weshalb	_	weshalb	_	PWAV	_	_	-1	17	_	MO	_	_
+9	auch	_	auch	_	ADV	_	_	-1	11	_	MO	_	_
+10	die	_	der	_	ART	_	nom|pl|masc	-1	11	_	NK	_	_
+11	Studenten	_	Student	_	NN	_	nom|pl|masc	-1	17	_	SB	_	_
+12	an	_	an	_	APPR	_	_	-1	15	_	OP	_	_
+13	diesem	_	dieser	_	PDAT	_	dat|sg|masc	-1	14	_	NK	_	_
+14	Kostenfaktor	_	Kostenfaktor	_	NN	_	dat|sg|masc	-1	12	_	NK	_	_
+15	beteiligt	_	beteiligen	_	VVPP	_	_	-1	16	_	OC	_	_
+16	werden	_	werden	_	VAINF	_	_	-1	17	_	OC	_	_
+17	sollten	_	sollen	_	VMFIN	_	pl|3|past|subj	-1	6	_	RC	_	_
+18	.	_	--	_	$.	_	_	-1	17	_	--	_	_
+
+1	Aber	_	aber	_	KON	_	_	-1	3	_	JU	_	_
+2	Bildung	_	Bildung	_	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	darf	_	dürfen	_	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	in	_	in	_	APPR	_	_	-1	12	_	MO	_	_
+5	Wohlstandsgesellschaften	_	Wohlstandsgesellschaft	_	NN	_	dat|pl|fem	-1	4	_	NK	_	_
+6	wie	_	wie	_	KOKOM	_	_	-1	7	_	CM	_	_
+7	Deutschland	_	Deutschland	_	NE	_	dat|sg|neut	-1	5	_	CC	_	_
+8	keine	_	kein	_	PIAT	_	nom|sg|fem	-1	9	_	NK	_	_
+9	Frage	_	Frage	_	NN	_	nom|sg|fem	-1	12	_	PD	_	_
+10	des	_	der	_	ART	_	gen|sg|neut	-1	11	_	NK	_	_
+11	Geldes	_	Geld	_	NN	_	gen|sg|neut	-1	9	_	AG	_	_
+12	sein	_	sein	_	VAINF	_	_	-1	3	_	OC	_	_
+13	.	_	--	_	$.	_	_	-1	12	_	--	_	_
+
+1	Daher	_	daher	_	PROAV	_	_	-1	2	_	MO	_	_
+2	sollten	_	sollen	_	VMFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+3	Universitäten	_	Universität	_	NN	_	nom|pl|fem	-1	2	_	SB	_	_
+4	in	_	in	_	APPR	_	_	-1	8	_	MO	_	_
+5	Deutschland	_	Deutschland	_	NE	_	dat|sg|neut	-1	4	_	NK	_	_
+6	keine	_	kein	_	PIAT	_	acc|pl|fem	-1	7	_	NK	_	_
+7	Studiengebühren	_	Studiengebühr	_	NN	_	acc|pl|fem	-1	8	_	OA	_	_
+8	verlangen	_	verlangen	_	VVINF	_	_	-1	2	_	OC	_	_
+9	.	_	--	_	$.	_	_	-1	8	_	--	_	_
+

@@ -1,0 +1,4 @@
+Das Tool verbessert nicht nur Rechtschreibfehler, sondern prüft auch Fehler anderer Art. Beispielsweise wies das Programm mich darauf hin, dass „depending“ die Präposition „(up)on“ benötigt, aber zeigt hingegen nicht fehlende Prädikatsargumente auf beziehungsweise „Depending on.“ oder sogar einfach nur „on“ als ganzer Satz würde nicht angemerkt werden.
+Hingegen kennt das Tool wie andere geläufige Korrekturprogramme auch das Genus deutscher Nomen und kann falsche Artikel anmerken, jedoch nur im Nominativ und nicht in anderen Kasus. Was überraschend ist, ist die Tatsache, dass das Programm ein falsches Datum erkennt wie „30. Februar“. Im Englischen erkennt dieser auch ungrammatische Sätze wie *„He hits herself.“ als richtig an.
+Meine Begeisterung hält sich also in Grenzen, bis auf das Datumsfeature.
+

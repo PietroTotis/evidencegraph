@@ -1,0 +1,170 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Die)
+      (NE-HD-Nom.Sg.Fem EU))
+    (VMFIN-HD-Sg sollte)
+    (VP-OC\/inf
+      (PP-MO\/V
+        (APPR-AC\/Acc\/auf auf)
+        (ART-HD-Acc.Sg.Neut das)
+        (ADJA-HD-Pos.Acc.Sg.Neut politische)
+        (NN-HD-Acc.Sg.Neut Geschehen))
+      (PP-MO\/V
+        (APPR-AC\/Dat\/in in)
+        (ART-HD-Dat.Sg.Fem der)
+        (NE-HD-Dat.Sg.Fem Ukraine))
+      (NP-OA
+        (NN-HD-Acc.Pl.Masc Einfluss))
+      (VVINF-HD nehmen)))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (NP-SB\/Pl
+        (ART-HD-Nom.Pl.Fem Die)
+        (NN-HD-Nom.Pl.Fem Entwicklungen)
+        (PP-MNR\/N
+          (APPR-AC\/Dat\/in in)
+          (PDAT-HD-Dat.Sg.Masc diesem)
+          (NN-HD-Dat.Sg.Masc Konflikt)))
+      (VMFIN-HD-Pl sollten)
+      (VP-OC\/inf
+        (NP-OA
+          (AVP-NG\/N
+            (PTKNEG-HD nicht)
+            (ADV-MO\/N allein))
+          (ART-HD-Acc.Sg.Masc den)
+          (ADJA-HD-Pos.Acc.Sg.Masc ehemaligen)
+          (NN-HD-Acc.Sg.Masc Kalter-Kriegs-Opponenten)
+          (XY-HD überlassen))
+        (VAINF-HD werden)))
+    (\$, ,)
+    (KON-CD denn)
+    (S-TOP\/nohead
+      (S-RE
+        (NP-SB\/Sg
+          (PDAT-HD-Nom.Sg.Masc dieser)
+          (NN-HD-Nom.Sg.Masc Kurs))
+        (VMFIN-HD-Sg kann)
+        (ADV-MO\/V nur)
+        (PP-MO\/V
+          (APPR-AC\/Dat\/in in)
+          (PIAT-HD-Dat.Sg.Fem irgendeiner)
+          (NN-HD-Dat.Sg.Fem Weise)))
+      (PP-MO\/V
+        (APPRART-AC-Dat.Sg.Fem zur)
+        (NN-HD-Dat.Sg.Fem Eskalation))
+      (XY-MO führen)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-OA
+      (ART-HD-Acc.Sg.Fem Die)
+      (NN-HD-Acc.Sg.Fem Ukraine))
+    (VVFIN-HD-Sg liegt)
+    (NP-SB\/Sg
+      (NP-AG
+        (ART-HD-Gen.Sg.Fem der)
+        (NE-HD-Gen.Sg.Fem EU))
+      (NN-HD-Nom.Sg.Fem außerdem))
+    (CAP-MO
+      (KON-CD\/sowohl sowohl)
+      (ADJD-MO-Pos\/0 kulturell)
+      (KON-CD\/als als)
+      (AP-MO\/pred
+        (ADV-MO\/0 auch)
+        (ADJD-HD-Pos\/0 geographisch)))
+    (NP-OA
+      (PIAT-HD viel)
+      (NN-HD näher)
+      (PP-MNR\/N
+        (APPR-AC\/Nom als)
+        (ADJA-HD-Pos.Nom.Sg.Fem andere)
+        (NN-HD-Nom.Sg.Fem Länder)
+        (\$, ,)
+        (S-RC
+          (PP-MO\/V\/rel
+            (APPR-AC\/Dat\/in in)
+            (PRELS-HD-Dat.Pl.Fem denen))
+          (PRF-OA-Acc.Sg sich)
+          (NP-SB\/Sg
+            (ART-HD-Nom.Sg.Fem die)
+            (NE-HD-Nom.Sg.Fem EU))
+          (VP-OC\/pp
+            (VVPP-HD engagiert)
+            (\$Par \())
+          (VAFIN-HD-Sg hat)
+          (\$Par \))))))
+  (\$. .))
+
+(TOP
+  (CS-TOP
+    (S-TOP
+      (ADV-MO\/V Zwar)
+      (VMFIN-HD-Sg mag)
+      (NP-SB\/Sg
+        (PIS-HD-Nom.Sg man))
+      (VP-OC\/inf
+        (VVINF-HD meinen)
+        (\$, ,)
+        (S-OC
+          (KOUS-CP\/oc dass)
+          (NP-SB\/Sg
+            (ART-HD-Nom.Sg.Neut ein)
+            (NN-HD-Nom.Sg.Neut Land))
+          (VP-OC\/inf
+            (PP-MO\/V
+              (APPR-AC\/Dat mit)
+              (ART-HD-Dat.Sg.Masc den)
+              (ADJA-HD-Pos.Dat.Sg.Masc internen)
+              (ADJA-HD-Pos.Dat.Sg.Masc politischen)
+              (NN-HD-Dat.Sg.Masc Umwälzungen)
+              (ADV-MNR\/N selbst))
+            (ADJD-PD-Pos\/V fertig)
+            (VAINF-HD werden))
+          (VVFIN-HD-Sg muss))))
+    (\$, ,)
+    (S-TOP
+      (ADV-MO\/V doch)
+      (VVFIN-HD-Sg bringt)
+      (NP-SB\/Sg
+        (ADJA-HD-Pos.Nom.Sg.Fem politische)
+        (NN-HD-Nom.Sg.Fem Macht))
+      (ADV-MO\/V auch)
+      (NP-OA
+        (ADJA-HD-Pos.Acc.Sg.Fem politische)
+        (NN-HD-Acc.Sg.Fem Verantwortung)))
+    (\$, ,)
+    (S-TOP\/nohead
+      (PP-MO\/V
+        (APPR-AC\/Dat\/in in)
+        (PDAT-HD-Dat.Sg.Masc diesem)
+        (NN-HD-Dat.Sg.Masc Fall))
+      (NP-OA
+        (ART-HD-Acc.Sg.Fem die)
+        (NN-HD-Acc.Sg.Fem Verantwortung)))
+    (\$, ,)
+    (S-TOP\/nohead
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Neut das)
+        (ADJA-HD-Pos.Nom.Sg.Neut ukrainische)
+        (NN-HD-Nom.Sg.Neut Volk)
+        (PP-MNR\/N
+          (APPR-AC\/Dat vor)
+          (ART-HD-Dat.Sg.Fem der)
+          (AP-HD-Pos.Dat.Sg.Fem
+            (PTKZU-MO zu)
+            (ADJA-HD-Pos.Dat.Sg.Fem starken))
+          (NN-HD-Dat.Sg.Fem Einflussnahme)
+          (NP-AG
+            (ART-HD-Gen.Pl der)
+            (PIS-HD-Gen.Pl beiden))
+          (NN-HD-Dat.Sg.Fem Großmächte)))
+      (PP-MO\/V
+        (APPR-AC\/Dat zu)
+        (NE-HD-Dat.Sg schützen))))
+  (\$. .))

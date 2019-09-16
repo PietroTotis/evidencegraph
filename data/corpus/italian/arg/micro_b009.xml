@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_b009" topic_id="cap_rent_increases" stance="pro">
+  <edu id="e1"><![CDATA[Il fatto che i nuovi inquilini debbano pagare un prezzo molto più alto di quello degli inquilini precedenti è ingiusto e ingiustificabile.]]></edu>
+  <edu id="e2"><![CDATA[Sicuramente il proprietario deve pagare alcune riparazioni prima del nuovo trasloco.]]></edu>
+  <edu id="e3"><![CDATA[Ma sicuramente queste spese potrebbero anche essere coperte da aumenti minimi del canone per l'intero periodo di affitto.]]></edu>
+  <edu id="e4"><![CDATA[Soprattutto perché il canone d'affitto non dovrebbe essere aumentato rispetto al canone base per garantire un profitto adeguato  ogni volta che si stipula un nuovo contratto.]]></edu>
+  <adu id="a1" type="pro"/>
+  <adu id="a2" type="opp"/>
+  <adu id="a3" type="pro"/>
+  <adu id="a4" type="pro"/>
+  <edge id="c5" src="e1" trg="a1" type="seg"/>
+  <edge id="c6" src="e2" trg="a2" type="seg"/>
+  <edge id="c7" src="e3" trg="a3" type="seg"/>
+  <edge id="c8" src="e4" trg="a4" type="seg"/>
+  <edge id="c2" src="a2" trg="a1" type="reb"/>
+  <edge id="c3" src="a3" trg="c2" type="und"/>
+  <edge id="c4" src="a4" trg="a1" type="sup"/>
+</arggraph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_k019" topic_id="public_broadcasting_fees_on_demand" stance="con">
+  <edu id="e1"><![CDATA[Il pensiero di un paesaggio televisivo composto unicamente da canali privati mi fa paura.]]></edu>
+  <edu id="e2"><![CDATA[I programmi spazzatura e le risse televisive sono esattamente ciò che la maggioranza della gente vuole vedere.]]></edu>
+  <edu id="e3"><![CDATA[Ecco perché sarebbe pericoloso offrire la televisione solo sulla base degli indici di ascolto.]]></edu>
+  <edu id="e4"><![CDATA[Solo nei programmi televisivi pubblici gli spettatori possono ricevere informazioni non orientate al profitto.]]></edu>
+  <edu id="e5"><![CDATA[Inoltre, poiché è compito della società finanziare congiuntamente alcuni settori che non possono esistere in un'economia di mercato,]]></edu>
+  <edu id="e6"><![CDATA[ognuno dovrebbe dare il proprio contributo.]]></edu>
+  <adu id="a1" type="pro"/>
+  <adu id="a2" type="opp"/>
+  <adu id="a3" type="pro"/>
+  <adu id="a4" type="pro"/>
+  <adu id="a5" type="pro"/>
+  <adu id="a6" type="pro"/>
+  <edge id="c7" src="e1" trg="a1" type="seg"/>
+  <edge id="c8" src="e2" trg="a2" type="seg"/>
+  <edge id="c9" src="e3" trg="a3" type="seg"/>
+  <edge id="c10" src="e4" trg="a4" type="seg"/>
+  <edge id="c11" src="e5" trg="a5" type="seg"/>
+  <edge id="c12" src="e6" trg="a6" type="seg"/>
+  <edge id="c1" src="a1" trg="a6" type="sup"/>
+  <edge id="c2" src="a2" trg="a6" type="reb"/>
+  <edge id="c3" src="a3" trg="c2" type="und"/>
+  <edge id="c4" src="a4" trg="a6" type="sup"/>
+  <edge id="c5" src="a5" trg="c4" type="add"/>
+</arggraph>
+     

@@ -1,0 +1,146 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl.Fem Schuluniformen))
+    (VMFIN-HD-Pl sollten)
+    (VP-OC\/inf
+      (PP-MO\/V
+        (APPR-AC\/Dat an)
+        (PPOSAT-HD-Dat.Pl.Fem unseren)
+        (NN-HD-Dat.Pl.Fem Schulen))
+      (ADV-MO\/V wieder)
+      (NP-PD
+        (NN-HD-Nom.Sg.Fem eingeführt))
+      (VAINF-HD werden)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (PDS-HD-Nom.Sg.Neut Dies))
+    (VVFIN-HD-Sg sorgt)
+    (PP-MO\/V
+      (APPR-AC\/Dat\/in in)
+      (PPOSAT-HD-Dat.Sg.Fem unserer)
+      (AP-HD-Pos.Dat.Sg.Fem
+        (ADJD-MO-Pos\/0 stark)
+        (PP-MO\/0
+          (APPR-AC\/Dat\/auf auf)
+          (ADJA-HD-Pos.Dat.Sg.Masc wirtschaftlichen)
+          (NN-HD-Dat.Sg.Masc Erfolg))
+        (ADJA-HD-Pos.Dat.Sg.Fem ausgerichteten))
+      (NN-HD-Dat.Sg.Fem Gesellschaft)
+      (NP-HD
+        (XY-HD für)
+        (CARD-HD eine)))
+    (NP-OA
+      (AP-HD
+        (ADV-MO\/card zumindest)
+        (CARD-HD oberflächliche))
+      (NN-HD-Acc.Sg.Fem Gleichmachung)
+      (\$, ,)
+      (S-RC
+        (NP-SB\/Sg\/rel
+          (PRELS-HD-Nom.Sg.Neut was))
+        (VP-OC\/inf
+          (NP-OA
+            (NN-HD-Acc.Sg.Fem Diskriminierung))
+          (ADJD-MO-Pos\/V finanziell)
+          (NP-MO
+            (NN-HD-Sg.Fem und\/oder)
+            (NP-AG
+              (AP-HD-Pos.Gen.Pl.Neut
+                (ADJD-MO-Pos\/0 sozial)
+                (ADJA-HD-Pos.Gen.Pl.Neut schlechter))
+              (ADJA-HD-Pos.Gen.Pl.Neut gestellter)
+              (NN-HD-Gen.Pl.Neut Kinder)))
+          (VVINF-HD reduzieren))
+        (VMFIN-HD-Sg kann))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-OA
+      (NN-HD-Acc.Sg.Fem Außerdem))
+    (VVFIN-HD-Sg erleichtert)
+    (NP-EP
+      (PPER-HD-Nom.Sg.Neut\/ep es))
+    (NP-OA
+      (ART-HD-Acc.Sg.Neut das)
+      (NN-HD-Dat.Pl.Fem Finden)
+      (PP-PG\/N
+        (APPR-AC\/Dat\/von von)
+        (NE-HD-Dat.Sg Schulschwänzern))
+      (\$, ,)
+      (S-RC
+        (NP-SB\/Pl\/rel
+          (PRELS-HD-Nom.Pl.Masc die))
+        (PRF-DA-Dat.Pl sich)
+        (ADV-MO\/V vielleicht)
+        (VP-OC\/inf
+          (NP-OA
+            (NP-HD
+              (ART-HD ein)
+              (PIAT-HD paar))
+            (ADJA-HD-Pos.Acc.Pl.Neut letzte)
+            (NN-HD-Dat.Pl.Neut Schulstunden))
+          (VVINF-HD sparen))
+        (VMFIN-HD-Pl wollen))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-OA
+      (NN-HD-Acc.Pl.Fem Uniformen))
+    (VVFIN-HD-Pl rufen)
+    (ADV-MO\/V immer)
+    (ADV-MO\/V sogleich)
+    (NP-OA
+      (ART-HD-Acc.Sg.Fem die)
+      (NN-HD-Acc.Sg.Fem Angst))
+    (PP-MO\/V
+      (APPR-AC\/Dat vor)
+      (NN-HD-Dat.Sg.Masc Verlust)
+      (NP-AG
+        (ART-HD der)
+        (NN-HD Individualität)))
+    (PTKVZ-SVP hervor)
+    (\$, ,)
+    (S-OC
+      (ADV-MO\/V doch)
+      (VAFIN-HD-Sg ist)
+      (CNP-PD
+        (NP-PD
+          (PDS-HD-Nom.Sg.Neut das)
+          (\$, ,)
+          (S-RC
+            (NP-SB\/Sg\/rel
+              (PRELS-HD-Nom.Sg.Neut was))
+            (PP-MO\/V
+              (APPR-AC\/Dat an)
+              (ADJA-HD-Pos.Dat.Pl.Fem heutigen)
+              (NN-HD-Dat.Pl.Fem Schulen))
+            (VVFIN-HD-Sg fehlt)))
+        (\$, ,)
+        (NP-PD
+          (ADV-MO\/N eher)
+          (ART-HD-Nom.Sg.Masc der)
+          (ADJA-HD-Pos.Nom.Sg.Masc echte)
+          (NN-HD-Nom.Sg.Masc Gemeinschaftssinn)
+          (\$, ,)
+          (S-RC
+            (NP-SB\/Sg\/rel
+              (PRELS-HD-Nom.Sg.Masc der))
+            (PP-MO\/V
+              (APPR-AC\/Acc\/durch durch)
+              (ART-HD-Acc.Sg.Neut ein)
+              (ADJA-HD-Pos.Acc.Sg.Neut gleiches)
+              (ADJA-HD-Pos.Acc.Sg.Neut gemeinsames)
+              (NN-HD-Acc.Sg.Neut Auftreten))
+            (PP-MO\/V
+              (APPR-AC\/Dat\/unter unter)
+              (NN-HD-Dat.Sg.Fem Umständen)
+              (XY-HD gestärkt))
+            (VAFIN-HD-Sg wird))))))
+  (\$. .))

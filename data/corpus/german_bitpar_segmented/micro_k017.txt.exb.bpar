@@ -1,0 +1,85 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (ART-HD-Nom.Sg.Fem Die)
+      (NN-HD-Nom.Sg.Fem Umsetzung)
+      (NP-AG
+        (ART-HD-Gen.Sg.Fem einer)
+        (NN-HD-Gen.Sg.Fem Rente))
+      (PP-MNR\/N
+        (APPR-AC\/Dat ab)
+        (CARD-HD 63)
+        (NN-HD-Dat.Pl.Neut Jahren)))
+    (VAFIN-HD-Sg ist)
+    (ADJD-MO-Pos\/V gesellschaftlich)
+    (PTKNEG-NG nicht)
+    (NP-PD
+      (PIAT-HD mehr)
+      (NN-HD tragfähig))
+    (\$, ,)
+    (S-MO
+      (KOUS-CP\/mo da)
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Fem die)
+        (NN-HD-Nom.Sg.Fem Bevölkerung))
+      (VP-OC\/zu
+        (PP-MO\/V
+          (APPR-AC\/Dat\/in in)
+          (NE-HD-Dat.Sg.Neut Deutschland))
+        (AP-MO\/pred
+          (ADJD-MO-Pos\/0 demographisch)
+          (CNP-OA
+            (CH-OA
+              (FM-UC betrachtet)
+              (FM-UC überaltert))
+            (KON-CD und)
+            (NP-OA
+              (PPER-HD-Acc.Sg.Neut es)))
+          (ADJD-HD-Pos\/0 stetig))
+        (NP-OA
+          (ADJA-HD-Pos.Acc.Pl.Masc sinkende)
+          (NN-HD-Acc.Pl.Masc Geburtenraten))
+        (VZ-HD
+          (PTKZU-PM zu)
+          (VVINF-HD verzeichnen)))
+      (VVFIN-HD-Sg gibt)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Zwar)
+    (VVFIN-HD-Sg steigt)
+    (NP-SB\/Sg
+      (ADJD-MO-Pos\/N zunehmend)
+      (ART-HD-Nom.Sg.Fem die)
+      (NN-HD-Nom.Sg.Fem Anzahl)
+      (CPP-OP\/N
+        (PP-OP\/N
+          (APPR-AC\/Dat an)
+          (NN-HD-Dat.Pl.Fem Zuwanderungen)
+          (PP-MNR\/N
+            (APPR-AC\/Dat nach)
+            (NE-HD-Dat.Sg.Neut Deutschland)))
+        (\$, ,)
+        (KON-CD doch)
+        (PP-OP\/N
+          (APPR-AC\/Acc ohne)
+          (NE-HD-Acc.Sg genügend))))
+    (NP-OA
+      (AP-HD-Pos.Acc.Sg.Fem
+        (ADJD-MO-Pos\/0 gut)
+        (ADJA-HD-Pos.Acc.Sg.Fem ausgebildete))
+      (NN-HD-Acc.Sg.Fem Nachwuchsarbeitskräfte))
+    (VVFIN-HD-Sg gibt)
+    (NP-EP
+      (PPER-HD-Nom.Sg.Neut\/ep es))
+    (ADV-MO\/V kaum)
+    (NP-OA
+      (ART-HD-Acc.Sg.Fem eine)
+      (NN-HD-Acc.Sg.Fem Möglichkeit)
+      (PP-MNR\/N
+        (APPRART-AC-Dat.Sg.Fem zur)
+        (ADJA-HD-Pos.Dat.Sg.Fem ausreichenden)
+        (NN-HD-Dat.Sg.Fem Rentenfinanzierung))))
+  (\$. .))

@@ -1,0 +1,19 @@
+Das Programm erkannte in meinem ursprünglichen Text keine Fehler (mit Ausnahme des Eigennamens Golm). 
+Ich veränderte den Text, um zu prüfen, welche Fehler es bemerkt und welche nicht. 
+Die Subjekt-Verb-Kongruenz erkennt das Programm ("Das Essen ist günstig" ist richtig, "Das Essen sind günstig" wird als Fehler angezeigt).
+Nicht jedoch wenn das Verb mit einem "und" abgetrennt ist. So ist "Das Essen ist günstig und schmecken gut" nach dem Programm noch immer richtig, da es vermutlich nicht erkennt, dass "schmecken" sich hier auf "das Essen" bezieht. 
+
+Versucht man Fehler in den Text einzubauen, wird vieles vom Programm erkannt. So konnte ich zum Beispiel in der Phrase "eine gute Auswahl" keine Fehler einbauen, ohne dass das Programm erkennt, wenn der Artikel nicht zum Genus des Adjektivs oder Nomen passt. 
+Einen unerkannten Fehler kann man nur einbauen, wenn man den Kasus der Phrase ändert und sie so nicht mehr in den Kontext passt.
+
+Wenn ein Satz ein Modalverb enthält und dieses nicht in der vom Subjekt erforderten Form steht, dann wird korrekterweise ein Fehler angezeigt. 
+Interessant ist jedoch, dass diese Fehlermeldung die grammatische Übereinstimmung zwischen dem Subjekt und dem Vollverb beanstandet. 
+(Beispiel: Gibt man "Kann du empfehlen?" ein, kritisiert das Programm die grammatische Übereinstimmung zwischen dem Subjekt "Du" und dem Verb "empfehlen". Sätze wie "Kannst du empfehlen?" erkennt er jedoch als richtig.
+
+Das Programm erkennt nicht, ob alle Argumente eines Prädikats vorhanden sind. Sätze wie "Kannst du empfehlen?" oder "Ich kenne." sind korrekt, obwohl es transitive Verben sind, die in den Sätzen jedoch nur ein Argument aufweisen.
+
+
+Meinen ursprünglichen Text konnte ich zu folgendem verändern, ohne dass dabei von dem Programm Fehler angezeigt wurden sind:
+Der Besuch der Golmer Mensa kann ich empfehlen. Das Essen ist günstig und schmecken gut. 
+Zudem muss keiner nach dem Essen abwaschen und kann entspannt sich zwischen den Vorlesungen mit anderes Student zusammen Essen. 
+Die Menüs sind abwechslungsreich und es gibt jedes Tag eine gute Auswahl an verschiedenen Gericht. 

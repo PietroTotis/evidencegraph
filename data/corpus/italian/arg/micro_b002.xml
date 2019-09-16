@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arggraph id="micro_b002" topic_id="higher_dog_poo_fines" stance="pro">
+  <edu id="e1"><![CDATA[A Friedrichshain o Neukölln non è più possibile muoversi a piedi senza controllare costantemente se a terra ci sia cacca di cane.]]></edu>
+  <edu id="e2"><![CDATA[E le volte che si ha sfortuna e si pesta una delle tante "mine", bisogna grattare minuziosamente via dalle proprie suole i puzzolenti lasciti.]]></edu>
+  <edu id="e3"><![CDATA[Multe più alte sono il mezzo giusto contro i proprietari di cani negligenti, pigri o semplicemente sconsiderati.]]></edu>
+  <edu id="e4"><![CDATA[Certo, prima devono essere colti sul fatto dai pochi agenti delle forze dell'ordine,]]></edu>
+  <edu id="e5"><![CDATA[ma quando dovranno mettere mano al portafoglio, perderanno la loro pigrizia!]]></edu>
+  <adu id="a1" type="pro"/>
+  <adu id="a2" type="pro"/>
+  <adu id="a3" type="pro"/>
+  <adu id="a4" type="opp"/>
+  <adu id="a5" type="pro"/>
+  <edge id="c6" src="e1" trg="a1" type="seg"/>
+  <edge id="c7" src="e2" trg="a2" type="seg"/>
+  <edge id="c8" src="e3" trg="a3" type="seg"/>
+  <edge id="c9" src="e4" trg="a4" type="seg"/>
+  <edge id="c10" src="e5" trg="a5" type="seg"/>
+  <edge id="c1" src="a1" trg="a3" type="sup"/>
+  <edge id="c2" src="a2" trg="a3" type="sup"/>
+  <edge id="c4" src="a4" trg="a3" type="reb"/>
+  <edge id="c5" src="a5" trg="c4" type="und"/>
+</arggraph>

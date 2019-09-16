@@ -1,0 +1,2 @@
+Die Installation in Google Docs war einfach und die Benutzeroberfläche auf der Website ist auch freundlich. Da es mit meinen Texten auf Deutsch und Englisch anscheinend keine Probleme gab, außer dass das Programm ‘Golm’ und ‘Golmer’ nicht kannte, kann ich nicht viel Feedback geben. Wie man diese Wörter dem Lexikon des Programms hinzufügen kann, ist sehr intuitiv dargestellt.
+Ich habe also versucht ein paar Fehler in den Text einzubauen. Rechtschreibfehler wurden restlos erkannt, die falsche Verwendung des Wortes ‘dass’ anstelle von ‘das’ erkannte das Programm nicht.

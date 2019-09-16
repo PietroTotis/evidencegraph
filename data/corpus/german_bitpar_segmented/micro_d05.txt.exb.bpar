@@ -1,0 +1,111 @@
+
+(TOP
+  (S-TOP
+    (ADV-MO\/V Heute)
+    (VAFIN-HD-Sg werde)
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg ich))
+    (NP-PD
+      (PPOSAT-HD-Nom.Sg.Neut mein)
+      (NN-HD-Nom.Sg.Neut Facebook-Konto)))
+  (XY-TOP löschen)
+  (\$. .))
+
+(TOP
+  (S-TOP\/nohead
+    (AVP-MO\/V
+      (PTKNEG-NG Nicht)
+      (ADV-HD\/V nur))
+    (NP-SB\/Sg
+      (S-RE
+        (KOUS-CP\/re weil)
+        (NP-SB\/Sg
+          (PPER-HD-Nom.Sg ich))
+        (PRF-OA-Acc.Sg mich)
+        (PN-DA-Dat.Sg
+          (NE-HD-Dat.Sg regelmäßig))
+        (VVFIN-HD-Sg wundere))
+      (\$, ,)
+      (S-RE
+        (PWS-SB-Nom.Sg.Masc wer)
+        (ADV-MO\/V da)
+        (NP-PD
+          (PIS-HD-Nom.Sg.Neut alles))))
+    (PP-MO\/V
+      (APPR-AC\/Dat zu)
+      (PPOSAT-HD-Dat.Pl.Masc meinen)
+      (NN-HD-Dat.Pl.Masc Freunden)
+      (NP-HD
+        (FM-HD gehören)
+        (FM-HD will))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg Ich))
+    (VAFIN-HD-Sg habe)
+    (NP-OA
+      (ADV-MO\/N auch)
+      (PIAT-HD-Acc.Sg.Fem keine)
+      (NN-HD-Acc.Sg.Fem Lust)
+      (ADV-MO\/N mehr)
+      (\$, ,)
+      (VP-OC\/zu
+        (PP-MO\/V
+          (APPR-AC\/Dat mit)
+          (PPOSAT-HD-Dat.Pl.Neut meinen)
+          (NN-HD-Dat.Pl.Neut Daten))
+        (CNP-DA
+          (NP-DA
+            (ART-HD-Dat.Pl den)
+            (NN-HD-Dat.Pl Börsenwert)
+            (NP-AG
+              (PDAT-HD-Gen.Sg.Neut dieses)
+              (NN-HD-Gen.Sg.Neut Unternehmens))))
+        (VZ-HD
+          (PTKZU-PM zu)
+          (VVINF-HD steigern)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PN-SB-Nom.Sg
+      (NE-HD-Nom.Sg Facebook))
+    (VVFIN-HD-Sg warnt)
+    (ADJD-MO-Pos\/V eindringlich)
+    (\$, ,)
+    (S-MO
+      (VVFIN-HD-Sg ich)
+      (PN-SB-Nom.Sg
+        (NE-HD-Nom.Sg könnte))
+      (VP-OC\/inf
+        (NP-OA
+          (ART-HD-Acc.Sg.Masc den)
+          (NN-HD-Acc.Sg.Masc Kontakt)
+          (PP-MNR\/N
+            (APPR-AC\/Dat zu)
+            (PPOSAT-HD-Dat.Pl.Masc meinen)
+            (NN-HD-Dat.Pl.Masc Freunden)))
+        (VVINF-HD verlieren))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (PROAV-MO Dabei)
+    (VAFIN-HD-Sg werde)
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg ich))
+    (ADV-MO\/V jetzt)
+    (AP-MO\/pred
+      (ADV-MO\/0 erst)
+      (ADJD-HD-Pos\/0 recht))
+    (NP-SB\/Sg
+      (NN-HD-Nom.Sg.Fem Zeit)
+      (NE-HD-Nom.Sg.Fem für))
+    (VP-OC\/inf
+      (NP-OA
+        (PPOSAT-HD-Acc.Pl.Masc meine)
+        (NN-HD-Acc.Pl.Masc Freunde))
+      (VAINF-HD haben)))
+  (\$. .))

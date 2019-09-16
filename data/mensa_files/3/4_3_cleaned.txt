@@ -1,0 +1,20 @@
+Bei der Anwendung des Language Tools auf die beiden Texte ergab sich für mich der Schluss, dass das Programm für das simple Arbeiten mit Texten zwar in einigen Fällen eine praktische Ergänzung sein kann, jedoch alles in allem noch einige Problembereiche aufweist.
+Trotz eigener gründlicher Durchsicht der Texte, findet das Tool in meinem deutschen Text zwei Fehler, die mir selbst entgangen waren und scheint auf einem recht neuen Stand der Rechtschreibung zu sein.
+Erstmals tritt ein Problem auf, da die deutsche Sprache sehr frei ist, wenn es darum geht, Worte miteinander zu kombinieren und zusammenzuschreiben.
+Wörter wie Universitätsmensen werden herausgefiltert und nicht erkannt, wobei positiv zu erwähnen bleibt, dass nach Klärung der Grammatikalität solcher Worte (u.a. mithilfe anderer Quellen) die Möglichkeit besteht, Begriffe dieser Art in das persönliche Wörterbuch aufzunehmen.
+Ebenfalls zu erwähnen ist, dass das Tool keinen Alleingültigkeitsanspruch erhebt und auffällige Ausdrücke als „mögliche Rechtschreibfehler“ angibt.
+So wird mir beispielsweise der Begriff Preis-Leistungsverhältnis markiert, darunter jedoch u.a. mit derselben Schreibweise wieder vorgeschlagen.
+Wieder sollte eine weitere Quelle hinzugezogen werden.
+Auch die Namen von Orten, die das Tool nicht kennt, werden als Fehler markiert (so wird für Golm u.a. Golf vorgeschlagen).
+Dies ist allerdings ein Punkt, der nicht unbedingt negativ erwähnt werden muss, da das Tool beim Austausch des unbekannten Ortes durch eine größere Stadt diese sofort erkennt.
+Ähnliches gilt für den englischen Text.
+Schusselfehler wie vergessene Buchstaben o.Ä. werden sofort aufgespürt und können behoben werden.
+Es tritt erneut ein Problem auf, wenn zwei Schreibweisen eines Wortes möglich sind (in meinem Fall labelled und labeled) und die Unsicherheit muss anderweitig betrachtet werden.
+Des Weiteren gibt das Tool zum Teil Hinweise auf Satzzeichen.
+In meinen englischen Text habe ich einen Gedankenstrich eingefügt und den Hinweis erhalten, dieser müsse länger sein, da der kurze Strich eher zum Verbinden von Worten genutzt werden.
+Es wird hier sogar ein Link vorgeschlagen, auf dem man sich weiter darüber informieren kann.
+Bei dem Versuch, durch Verschlimmbesserungen der Texte weitere Problempunkte zu finden, fällt auf, dass das Tool leider doch noch einige Schwachstellen hat, denn solange ein Wort richtig geschrieben ist, ist es egal, in welchem Kontext es verwendet wird.
+So lassen sich beispielsweise falsche Verneinungen bilden, wahllos Verben im Infinitiv einfügen oder Pronomina in Kombination verwenden, die nicht zusammenpassen.
+Allgemein lässt sich sagen, dass das Tool offensichtlich eng zusammenhängende Einheiten im Satz erkennt und Tempusfehler, falsch verwendete Präpositionen etc. im Kontext erkennt.
+Es ist geeignet, um einfache Fehler in einem sonst bereits gut durchgesehenen Text zu finden, die bisher doch unbemerkt geblieben sind oder kleinere Unsicherheiten in der Rechtschreibung zu beheben.
+Bestehen jedoch große Sprachschwierigkeiten und kein gutes Gefühl für Grammatik und Stil (z.B. in einer nicht-Muttersprache), kann das Programm von sich aus keinen grammatikalisch und stilistisch richtigen Text produzieren.

@@ -1,0 +1,165 @@
+
+(TOP
+  (S-TOP
+    (NP-SB\/Sg
+      (PPER-HD-Nom.Sg.Neut Es))
+    (VMFIN-HD-Sg sollte)
+    (NP-DA
+      (PIAT-HD viel)
+      (NN-HD höhere))
+    (NP-SB\/Sg
+      (NN-HD-Nom.Sg.Neut Geldstrafen)
+      (XY-HD für))
+    (VP-OC\/inf
+      (PP-MO\/V
+        (APPR-AC\/Dat\/auf auf)
+        (NN-HD-Dat.Pl.Masc Gehwegen))
+      (NP-OA
+        (ADJA-HD-Pos.Acc.Sg.Neut hinterlassene)
+        (NN-HD-Acc.Sg.Neut Hundehaufen))
+      (VVINF-HD geben)))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (VP-OC\/zu
+      (PP-MO\/V
+        (APPR-AC\/Acc\/in In)
+        (ART-HD-Acc.Sg.Masc einen)
+        (NN-HD-Acc.Sg.Masc Hundehaufen))
+      (VZ-HD
+        (PTKZU-PM zu)
+        (VVINF-HD treten)))
+    (VAFIN-HD-Sg ist)
+    (CNP-OA
+      (NP-OA
+        (ART-HD-Acc.Sg.Fem eine)
+        (CAP-HD-Pos.Acc.Sg.Fem
+          (ADJA-HD-Pos.Acc.Sg.Fem widerliche)
+          (KON-CD und)
+          (AP-HD-Pos.Acc.Sg.Fem
+            (NP-OA
+              (ART-HD-Acc.Sg.Masc den)
+              (NN-HD-Acc.Sg.Masc Tag))
+            (ADV-MO\/0 ungemein)
+            (ADJA-HD-Pos.Acc.Sg.Fem verderbende)))
+        (NN-HD-Acc.Sg.Fem Sache)))
+    (\$, ,)
+    (VP-MO
+      (VVPP-HD verursacht)
+      (PP-MO\/V
+        (APPR-AC\/durch durch)
+        (CNP-HD
+          (NP-HD
+            (ART-HD-Acc.Sg.Masc den)
+            (NN-HD-Acc.Sg.Masc Dreck))
+          (\$, ,)
+          (NP-HD
+            (ART-HD-Acc.Sg.Masc den)
+            (NN-HD-Acc.Sg.Masc Gestank))
+          (KON-CD und)
+          (NP-HD
+            (ART-HD-Dat.Sg.Masc den)
+            (AP-HD-Pos.Dat.Sg.Masc
+              (ADV-MO\/0 teilweise)
+              (ADV-MO\/0 sehr)
+              (ADJA-HD-Pos.Dat.Sg.Masc großen))
+            (NN-HD-Dat.Sg.Masc Aufwand)
+            (NP-AG
+              (ART-HD-Gen.Sg.Masc des)
+              (NN-HD-Gen.Sg.Masc Entfernens)))))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-TOP
+      (NN-HD Außerdem))
+    (VAFIN-HD-Pl sind)
+    (NP-SB\/Pl
+      (ART-HD-Nom.Pl.Fem die)
+      (NN-HD-Nom.Pl.Fem Strafen))
+    (NP-DA
+      (CARD-HD für)
+      (NN-HD öffentliches))
+    (NP-SB\/Pl
+      (NN-HD-Nom.Pl.Fem Urinieren)
+      (NP-AG
+        (ART-HD-Gen.Sg.Masc eines)
+        (NN-HD-Gen.Sg.Masc Menschen)))
+    (CH-MO
+      (FM-UC höher)
+      (FM-UC als)
+      (FM-UC für))
+    (NP-PD
+      (ART-HD-Nom.Sg.Neut das)
+      (NN-HD-Nom.Sg.Neut Liegenlassen)
+      (NP-AG
+        (ART-HD-Gen.Sg.Neut eines)
+        (NN-HD-Gen.Sg.Neut Hundehaufens)
+        (PP-MNR\/N
+          (APPR-AC\/Dat\/auf auf)
+          (ART-HD-Dat.Sg.Masc dem)
+          (NN-HD-Dat.Sg.Masc Gehsteig))
+        (\$, ,)
+        (S-RC
+          (NP-SB\/Sg\/rel
+            (PRELS-HD-Nom.Sg.Neut was))
+          (ADJD-PD-Pos\/V unangemessen)
+          (VAFIN-HD-Sg ist)))))
+  (\$. .))
+
+(TOP
+  (S-TOP
+    (NP-SB\/Pl
+      (PIAT-HD-Nom.Pl.Masc Manche)
+      (NN-HD-Nom.Pl.Masc Hundebesitzer))
+    (VVFIN-HD-Pl meinen)
+    (\$, ,)
+    (S-OC
+      (NP-SB\/Sg
+        (ART-HD-Nom.Sg.Neut das)
+        (NN-HD-Nom.Sg.Neut Zahlen)
+        (PP-PG\/N
+          (APPR-AC\/Dat\/von von)
+          (NE-HD-Dat.Sg Hundesteuer)))
+      (VVFIN-HD-Sg bezahle)
+      (NP-OA
+        (ADV-MO\/N auch)
+        (ART-HD-Acc.Sg.Fem die)
+        (NN-HD-Acc.Sg.Fem Beseitigung)
+        (NP-AG
+          (ADJA-HD-Pos.Gen.Pl.Fem derartiger)
+          (NN-HD-Gen.Pl.Fem Verschmutzungen))
+        (\$, ,)
+        (CH-MNR
+          (FM-UC doch)
+          (FM-UC würde)
+          (FM-UC man)))
+      (VP-OC\/inf
+        (NP-DA
+          (PDAT-HD-Dat.Sg.Fem dieser)
+          (NN-HD-Dat.Sg.Fem Logik))
+        (VVINF-HD folgen)
+        (\$, ,)
+        (VP-PAR
+          (ADV-MO\/V so)
+          (NP-DA
+            (NP-HD
+              (NE-HD-Dat.Sg wäre)
+              (NP-PAR
+                (ART-HD-Nom.Sg.Masc der)
+                (ADJA-HD-Pos.Nom.Sg.Masc steuerzahlende)
+                (NN-HD-Nom.Sg.Masc Bürger)))
+            (NN-HD-Dat.Pl für))
+          (ADV-MO\/V kaum)
+          (NP-OA
+            (ADV-MO\/N mehr)
+            (ART-HD-Acc.Sg.Neut ein)
+            (NN-HD-Acc.Sg.Neut Delikt))
+          (PP-CVC\/V
+            (APPRART-AC-Dat.Sg.Fem zur)
+            (NN-HD-Dat.Sg.Fem Verantwortung))
+          (VZ-HD
+            (PTKZU-PM zu)
+            (VVINF-HD ziehen))))))
+  (\$. .))
